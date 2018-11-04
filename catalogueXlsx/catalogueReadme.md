@@ -4,7 +4,7 @@ Raw data given by CGV data entry operator.
 
 # v001
 
-Corrected the entries running in multiple lines in a cell to a single line. (Done till 300 in catalogue1)
+Corrected the entries running in multiple lines in a cell to a single line. (Done in catalogue1)
 
 # v002
 

@@ -17,6 +17,10 @@ The same as v001.xls but converted to tsv.
 After these corrections, the SLP1 transliteration is allowed to be printed on screen.
 2. Column F changed to from Sanskrit to English 'Paper'.
 
+# v003.tsv
+
+1. Correction in the marking of x for folio sizes. There is no possibility of a manuscript running in feet. So all ' have to be changed to ".
+
 
 Column N changed from Sanskrit to English.
 Column D, E and M - Removed unnecessary ':' and '?'.

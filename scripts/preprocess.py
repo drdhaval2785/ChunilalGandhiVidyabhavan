@@ -21,6 +21,14 @@ def removeAbnormalOrthography(data):
 	return data
 
 
+def correctFolioSize(data):
+	data = data.replace('´', 'x')
+	data = re.sub("[']+", '"', data)
+	data = re.sub('["]+', '"', data)
+	data = re.sub('[ ]*x[ ]*', 'x', data)
+	data = data.lstrip('"')
+	return data
+	
 if __name__=="__main__":
 	#convertToTsv('../catalogueXlsx/catalogue1v001.xlsx', '../derivedFiles/catalogue1v000.tsv')
 	print('Step 1. Converting from xlsx to tsv.')
@@ -46,6 +54,17 @@ if __name__=="__main__":
 		outfile.write(data)
 	
 	
-	with codecs.open('../derivedFiles/cataloguev002.tsv', 'r', 'utf-8') as infile:
-		for line in infile:
-			print(transliterate(line, 'devanagari', 'slp1'))
+	print('Step 4. Correct the folio size issue.')
+	outfile = codecs.open('../derivedFiles/cataloguev003.tsv', 'w', 'utf-8')
+	for line in codecs.open('../derivedFiles/cataloguev002.tsv', 'r', 'utf-8'):
+		row = line.rstrip().split('\t')
+		row1 = row[:7]
+		item1 = correctFolioSize(transliterate(row[7], 'devanagari', 'slp1'))
+		item2 = correctFolioSize(transliterate(row[8], 'devanagari', 'slp1'))
+		row1.append(item1)
+		row1.append(item2)
+		row1 = row1 + row[9:]
+		line = '\t'.join(row1)
+		outfile.write(line + '\n')
+	outfile.close()
+		

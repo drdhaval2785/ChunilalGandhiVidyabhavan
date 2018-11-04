@@ -1,12 +1,14 @@
+#encoding: utf-8
 import codecs
 import re
 import os.path
 from indic_transliteration import sanscript
-from indic_transliteration.sanscript import SchemeMap, SCHEMES, transliterate, itrans_to_optitrans
+from indic_transliteration.sanscript import SchemeMap, SCHEMES, transliterate
 from vernacular import vernacular
 from internetarchive import get_item, upload, modify_metadata
 import datetime
 import time
+import json
 
 	
 # Convert the text into various transliteration schemes.
@@ -26,7 +28,7 @@ def trans(text, inputScheme=sanscript.DEVANAGARI):
 	oriya = transliterate(text, inputScheme, sanscript.ORIYA)
 	tamil = transliterate(text, inputScheme, sanscript.TAMIL)
 	telugu = transliterate(text, inputScheme, sanscript.TELUGU)
-	optitrans = itrans_to_optitrans(itrans)
+	optitrans = transliterate(text, inputScheme, sanscript.OPTITRANS)
 	keyword = vernacular(optitrans)
 	
 	return {'devanagari':devanagari, 'hk':hk, 'slp1':slp1, 'itrans':itrans, 'iast':iast, 'kolkata':kolkata, 'velthuis':velthuis, 'optitrans':optitrans,
@@ -78,29 +80,41 @@ def find_metadata(line):
 	metadata['language'] = 'san'
 	return metadata
 
-fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
-counter = 1
-flog = codecs.open('../logs/log.txt', 'a', 'utf-8')
-ferror = codecs.open('../logs/error.txt', 'a', 'utf-8')
-for line in fin:
-	md = find_metadata(line)
-	identifier = md['identifier']
-	accession = md['Accession_No']
-	sr = md['Sr_No']
-	if not os.path.isfile('../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'):
-		ferror.write('File Not Found:'+accession+'\n')
-		print('File not Found:'+accession+'\n')
-	else:
+
+def uploadToArchive(metadata):
+		identifier = md['identifier']
+		accession = md['Accession_No']
+		sr = md['Sr_No']
 		startMessage = sr+'#'+accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
 		print(startMessage)
-		"""
 		r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=md)
 		endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
 		print(endMessage)
-		"""
 		flog.write('File uploaded:'+sr+'#'+accession+'#'+identifier+'\n')
-	#time.sleep(3) # Sleep for three seconds.
+	
+def createMetadataJson():
+	fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
+	counter = 1
+	flog = codecs.open('../logs/log.txt', 'a', 'utf-8')
+	ferror = codecs.open('../logs/error.txt', 'a', 'utf-8')
+	for line in fin:
+		metadata = find_metadata(line)
+		identifier = metadata['identifier']
+		accession = metadata['Accession_No']
+		sr = metadata['Sr_No']
+		if not os.path.isfile('../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'):
+			ferror.write('File Not Found:'+accession+'\n')
+			print('File not Found:'+accession+'\n')
+		else:
+			#uploadToArchive(metadata)
+			with codecs.open('../metadataJson/'+accession+'.json', 'w', 'utf-8') as fjson:
+				json.dump(metadata, fjson)
+				print('Metadata generated for:'+accession+'\n')
+			#flog.write('File uploaded:'+sr+'#'+accession+'#'+identifier+'\n')
 
-fin.close()
-flog.close()
-ferror.close()
+	fin.close()
+	flog.close()
+	ferror.close()
+
+	
+createMetadataJson()

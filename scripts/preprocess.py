@@ -8,6 +8,7 @@ from vernacular import vernacular
 import datetime
 import time
 import pandas as pd
+import json
 
 def stringify(text):
 	return str(text)
@@ -27,6 +28,29 @@ def correctFolioSize(data):
 	data = re.sub('["]+', '"', data)
 	data = re.sub('[ ]*x[ ]*', 'x', data)
 	data = data.lstrip('"')
+	return data
+
+def correctCondition(data):
+	data = data.replace('उत्तमस्तरीय:', 'Good')
+	data = data.replace('उत्तमस्तरीयः', 'Good')
+	data = data.replace('उत्तम स्तरीय:', 'Good')
+	data = data.replace('उत्तम स्तरीयः', 'Good')
+	data = data.replace('मध्यमस्तरीय:', 'Fair')
+	data = data.replace('मध्यम स्तरीय:', 'Fair')
+	data = data.replace('मध्यमस्तरीयः', 'Fair')
+	data = data.replace('मध्यम स्तरीयः', 'Fair')
+	data = data.replace('सामान्यस्तरीय:', 'Poor')
+	data = data.replace('सामान्य स्तरीय:', 'Poor')
+	data = data.replace('सामान्यस्तरीयः', 'Poor')
+	data = data.replace('सामान्य स्तरीयः', 'Poor')
+	data = data.replace('सामन्यस्तरीयः', 'Poor')
+	data = data.replace('अतिPoor', 'Very poor')
+	data = data.replace('अति Poor', 'Very poor')
+	data = data.replace('अनुचित', 'Not good')
+	data = data.replace('Poor क्षतिग्रस्त:', 'Poor, damaged')
+	data = data.replace('क्षति ग्रस्त:', 'Good') # There is only one such occurrence 1326, and it is wrongly shown as kshatigrasta.
+	data = data.replace('माध्यमस्तरीय:', 'Fair')
+	
 	return data
 	
 if __name__=="__main__":
@@ -67,4 +91,14 @@ if __name__=="__main__":
 		line = '\t'.join(row1)
 		outfile.write(line + '\n')
 	outfile.close()
-		
+	
+	print('Step 4. Change manuscript condition data to English.')
+	data = codecs.open('../derivedFiles/cataloguev003.tsv', 'r', 'utf-8').read()
+	data = correctCondition(data)
+	with codecs.open('../derivedFiles/cataloguev004.tsv', 'w', 'utf-8') as outfile:
+		outfile.write(data)
+	conditionSet = set()
+	for line in codecs.open('../derivedFiles/cataloguev004.tsv', 'r', 'utf-8'):
+		row = line.split('\t')
+		conditionSet.add(transliterate(row[13], 'devanagari', 'slp1'))
+	print(conditionSet)

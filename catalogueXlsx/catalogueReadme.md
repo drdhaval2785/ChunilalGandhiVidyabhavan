@@ -13,9 +13,10 @@ The same as v001.xls but converted to tsv.
 
 # v002.tsv
 
-1. Remove nuktas. e.g. दीक्षादिग्रहणे मासादिफ़लम् -> दीक्षादिग्रहणे मासादिफलम्
+1. Remove nuktas and abnormal orthography. e.g. फ़ -> फ, ड़ -> ड, देवष्यॉचार्यतर्पण -> देवर्ष्याचार्यतर्पण, निझॅरणव्रतकथा -> निर्झरणव्रतकथा,  पञ्चाशद्वणॅसंचय -> पञ्चाशद्वर्णसंचय.
+After these corrections, the SLP1 transliteration is allowed to be printed on screen.
+2. Column F changed to from Sanskrit to English 'Paper'.
 
 
 Column N changed from Sanskrit to English.
-Column F changed to from Sanskrit to English 'Paper'.
 Column D, E and M - Removed unnecessary ':' and '?'.

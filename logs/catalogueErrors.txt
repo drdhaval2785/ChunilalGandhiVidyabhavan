@@ -1,3 +1,5 @@
+0006A:Only item to have A and B in Sr. No.
+0006B:Only item to have A and B in Sr. No.
 287:No categorization in condition.
 390:No categorization in condition.
 594:No categorization in condition.

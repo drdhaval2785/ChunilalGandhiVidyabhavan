@@ -12,6 +12,14 @@ import pandas as pd
 def stringify(text):
 	return str(text)
 
+def removeAbnormalOrthography(data):
+	data = data.replace('फ़', 'फ')
+	data = data.replace('ड़', 'ड')
+	data = data.replace('देवष्यॉचार्यतर्पण', 'देवर्ष्याचार्यतर्पण') # Sr No 0425
+	data = data.replace('निझॅरणव्रतकथा', 'निर्झरणव्रतकथा') # 785
+	data = data.replace('पञ्चाशद्वणॅसंचय', 'पञ्चाशद्वर्णसंचय') # 788
+	return data
+
 
 if __name__=="__main__":
 	#convertToTsv('../catalogueXlsx/catalogue1v001.xlsx', '../derivedFiles/catalogue1v000.tsv')
@@ -30,3 +38,14 @@ if __name__=="__main__":
 				for line in infile:
 					outfile.write(line)
 	
+	print('Step 3. Remove Abnormal Orthography.')
+	data = codecs.open('../derivedFiles/cataloguev001.tsv', 'r', 'utf-8').read()
+	data = removeAbnormalOrthography(data)
+	data = data.replace('पेपर', 'Paper')
+	with codecs.open('../derivedFiles/cataloguev002.tsv', 'w', 'utf-8') as outfile:
+		outfile.write(data)
+	
+	
+	with codecs.open('../derivedFiles/cataloguev002.tsv', 'r', 'utf-8') as infile:
+		for line in infile:
+			print(transliterate(line, 'devanagari', 'slp1'))

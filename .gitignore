@@ -2,3 +2,4 @@ compressedPdfFiles/*
 pdfBooks/*
 scannedBooks/*
 scripts/__pycache__/*
+letters/*

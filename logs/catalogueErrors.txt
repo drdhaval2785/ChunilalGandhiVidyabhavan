@@ -1,0 +1,4 @@
+287:No categorization in condition.
+390:No categorization in condition.
+594:No categorization in condition.
+916:Samvaht 1738 written in Condition column instead of Age of Ms. column. So we are not sure about the condition of manuscript.

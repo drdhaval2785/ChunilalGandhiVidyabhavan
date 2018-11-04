@@ -1,0 +1,262 @@
+1. Names which have been written till 32 are absolutely abnormal. Need to remove them.
+
+2. Long books are not converted well with error 'Argument list too long'.
+	BOOK_NO.0015
+	BOOK_NO.0351
+	PANDAV_PRATAP_GRANTH
+	VALMIKI_RAMAYAN
+
+3. Individual errors
+	
+	BOOK_NO.0302
+	magick.exe: Premature end of JPEG file `./BOOK_NO.0302/page00043.jpg' @ warning/jpeg.c/JPEGWarningHandler/365.
+	magick.exe: Corrupt JPEG data: premature end of data segment `./BOOK_NO.0302/page00043.jpg' @ warning/jpeg.c/JPEGWarningHandler/365.
+
+	BOOK_NO.0703-B
+	magick.exe: Not a JPEG file: starts with 0x00 0x00 `./BOOK_NO.0703-A/page00007.jpg' @ error/jpeg.c/JPEGErrorHandler/332.
+
+	BOOK_NO.0863
+	magick.exe: unable to open image './BOOK_NO.0862/BOOK NO.0863/*.jpg': Invalid argument @ error/blob.c/OpenBlob/3489.
+
+	S.D.P.B._NO.0259
+	magick.exe: unable to open image './*.jpg': Invalid argument @ error/blob.c/Open                                                                                                                Blob/3489.
+
+	./S.D.P.B._NO.0729
+	magick.exe: unable to open image './*.jpg': Invalid argument @ error/blob.c/OpenBlob/3489.
+
+4. Abnormal file names.
+
+	BOOK_NO.0862/BOOK NO.0863
+
+	S.D.P.B._NO.0001/BOOK NO.tadpatri
+
+	S.D.P.B._NO.0638_BAKI
+	
+	BOOK_NO.242G
+	
+	BOOK_NO.853-B
+	
+	BOOK_NO.972
+
+	./V_-03 (Should be V_-0003, as is the case of rest of files.)
+	
+5. Missing files in digitization.
+
+	BOOK_NO.0003
+	BOOK_NO.0007
+	BOOK_NO.0014
+	BOOK_NO.0024
+	BOOK_NO.0035
+	BOOK_NO.0079
+	BOOK_NO.0082
+	BOOK_NO.0087
+	BOOK_NO.0141 (0141-A is present)
+	BOOK_NO.0157
+	BOOK_NO.0159
+	BOOK_NO.0206
+	BOOK_NO.0263
+	BOOK_NO.0278
+	BOOK_NO.0159
+	BOOK_NO.0242-B (0242-A and 0242-C are present)
+	BOOK_NO.0309
+	BOOK_NO.0310
+	BOOK_NO.0320 (0320_A,_B is present)
+	BOOK_NO.0331
+	BOOK_NO.0350
+	BOOK_NO.0355
+	BOOK_NO.0376
+	BOOK_NO.0459
+	BOOK_NO.0460
+	BOOK_NO.0482
+	BOOK_NO.0490
+	BOOK_NO.0525
+	BOOK_NO.0527
+	BOOK_NO.0550
+	BOOK_NO.0567 (0567-A and 0567-B are present)
+	BOOK_NO.0581 (0581-A and 0581-B are present)
+	BOOK_NO.0583
+	BOOK_NO.0586 (0586-A and 0586-B are present)
+	BOOK_NO.0599 (0599-A, 0599-B and 0599-C are present)
+	BOOK_NO.0602 (0602-A, 0602-B and 0602-C are present)
+	BOOK_NO.0610
+	BOOK_NO.0612
+	BOOK_NO.0613 (0613-A and 0613-B are present)
+	BOOK_NO.0640 (0640-A, 0640-B and 0640-C are present)
+	BOOK_NO.0703 (0703-A, 0703-B and 0703-C are present)
+	BOOK_NO.0748 (0748-A and 0748-B are present)
+	BOOK_NO.0753
+	BOOK_NO.0784 (Features as a conjoint book with 1555)
+	BOOK_NO.0795
+	BOOK_NO.0800
+	BOOK_NO.0809 (0809-A and 0809-B are present)
+	BOOK_NO.0833
+	BOOK_NO.0835
+	BOOK_NO.0843
+	BOOK_NO.0845
+	BOOK_NO.0847 (0847-A and 0847-B are present)
+	BOOK_NO.0851
+	BOOK_NO.0853 (0853-A, 0853-C and 0853-D are present)
+	BOOK_NO.0853-B (Same as above. BOOK_NO.853-B is present. Note missing 0.)
+	BOOK_NO.0867 (0867-A and 0867-B are present)
+	BOOK_NO.0880-A (0880 and 0880-B are present)
+	BOOK_NO.0903 (0903-B is present)
+	BOOK_NO.0903-A (Same as above)
+	BOOK_NO.0972
+	BOOK_NO.1000
+	BOOK_NO.1017
+	BOOK_NO.1028-A (1028 and 1028-B are present)
+	BOOK_NO.1074
+	BOOK_NO.1081 (1081-A, 1081-B and 1081-C are present)
+	BOOK_NO.1082
+	BOOK_NO.1126 (1126-A and 1126-B are present)
+	BOOK_NO.1133-A (1133 and 1133-B are present)
+	BOOK_NO.1177-A (1177 and 1177-B are present)
+	BOOK_NO.1265 (1265-a+1265-b is present)
+	BOOK_NO.1288 (1288-A and 1288-B are present)
+	BOOK_NO.1337 (1337-A+B are present)
+	BOOK_NO.1339
+	BOOK_NO.1342 (1342-B is present)
+	BOOK_NO.1342-A (1342-B is present)
+	BOOK_NO.1367
+	BOOK_NO.1483
+	BOOK_NO.1565
+	BOOK_NO.1000
+	BOOK_NO.1000
+	BOOK_NO.1000
+	BOOK_NO.1000
+	S.D.P.B._NO.0365 (0365-A and 0365-B are preasent)
+	S.D.P.B._NO.0572
+	S.D.P.B._NO.0651
+	S.D.P.B._NO.0671
+	S.D.P.B._NO.0788
+	S.D.P.B._NO.0840
+	S.D.P.B._NO.0867
+	S.D.P.B._NO.0881
+	S.D.P.B._NO.0906
+	S.D.P.B._NO.0929
+	S.D.P.B._NO.0960
+	S.D.P.B._NO.0962
+	S.D.P.B._NO.0963
+	S.D.P.B._NO.0964
+	S.D.P.B._NO.0965
+	S.D.P.B._NO.0966
+	S.D.P.B._NO.0967
+	S.D.P.B._NO.0968
+	S.D.P.B._NO.0969
+	S.D.P.B._NO.0970
+	S.D.P.B._NO.0971
+	S.D.P.B._NO.0972
+	S.D.P.B._NO.0973
+	S.D.P.B._NO.0974
+	S.D.P.B._NO.0975
+	S.D.P.B._NO.0976
+	S.D.P.B._NO.0977
+	S.D.P.B._NO.0978
+	S.D.P.B._NO.0979
+	S.D.P.B._NO.0980
+	S.D.P.B._NO.0981
+	S.D.P.B._NO.0982
+	S.D.P.B._NO.0983
+	S.D.P.B._NO.0984
+	S.D.P.B._NO.0985
+	S.D.P.B._NO.0986
+	S.D.P.B._NO.0987
+	V_-0003 (V_-3 is present)
+	
+6. Irregular Appendages like -A, _A, A etc.
+
+	BOOK_NO.0059-A
+	BOOK_NO.0061-A
+	BOOK_NO.0064-A
+	BOOK_NO.0066a
+	BOOK_NO.0109A
+	BOOK_NO.0110A
+	BOOK_NO.0141-A
+	BOOK_NO.0187-A
+	BOOK_NO.0224A
+	BOOK_NO.0242-A
+	BOOK_NO.0242-C
+	BOOK_NO.0290+0290-A
+	BOOK_NO.0313-A
+	BOOK_NO.0320_A,_B
+	BOOK_NO.0424-A
+	BOOK_NO.0553-A
+	BOOK_NO.0553-B
+	BOOK_NO.0567-A
+	BOOK_NO.0567-B
+	BOOK_NO.0581-A
+	BOOK_NO.0581-B
+	BOOK_NO.0586-A
+	BOOK_NO.0586-B
+	BOOK_NO.0599-A
+	BOOK_NO.0599-B
+	BOOK_NO.0599-C
+	BOOK_NO.0602-A
+	BOOK_NO.0602-B
+	BOOK_NO.0602-C
+	BOOK_NO.0613-A
+	BOOK_NO.0613-B
+	BOOK_NO.0640-A
+	BOOK_NO.0640-B
+	BOOK_NO.0640-C
+	BOOK_NO.0703-A
+	BOOK_NO.0703-B
+	BOOK_NO.0703-C
+	BOOK_NO.0751-A
+	BOOK_NO.0809-A
+	BOOK_NO.0809-B
+	BOOK_NO.0867-A
+	BOOK_NO.0867-B
+	BOOK_NO.0880-B
+	BOOK_NO.0903-B
+	BOOK_NO.1081-A
+	BOOK_NO.1081-B
+	BOOK_NO.1081-C
+	BOOK_NO.1133-B
+	BOOK_NO.1177-B
+	BOOK_NO.1265-a+1265-b	
+	BOOK_NO.1288-A
+	BOOK_NO.1288-B
+	BOOK_NO.1334-A
+	S.D.P.B._NO.0357-A
+	S.D.P.B._NO.0358-A
+	S.D.P.B._NO.0359-A
+	S.D.P.B._NO.0360-A
+	S.D.P.B._NO.0361-A
+	S.D.P.B._NO.0362-A
+	S.D.P.B._NO.0363-A
+	S.D.P.B._NO.0364-A
+	S.D.P.B._NO.0365-A
+	S.D.P.B._NO.0365-B
+	S.D.P.B._NO.0366-A
+	S.D.P.B._NO.0367-A
+	S.D.P.B._NO.0368-A
+	S.D.P.B._NO.0369-A
+	S.D.P.B._NO.0370-A
+	S.D.P.B._NO.0550-A
+	
+	
+7. Joint books
+
+	BOOK_NO.0290+0290-A
+	BOOK_NO.0320_A,_B
+	BOOK_NO.0427-434
+	BOOK_NO.1265-a+1265-b	
+	BOOK_NO.1308+1309
+	BOOK_NO.1369-70
+	BOOK_NO.1378+79
+	BOOK_NO.1409+10
+	BOOK_NO.1437+1448 (1448 is also present separately)
+	BOOK_NO.1555+0784
+	BOOK_NO.1557+58
+	
+	
+8. Unexplained items
+
+	BOOK_NO.0862/BOOK NO.0863 (The books 0862 and 0863 are separately available. Not sure why this conjoint appeared.)
+	BOOK_NO.1437+1448 (1448 is also present separately)
+
+
+9. Books in other languages
+	./Prakrit_-01
+	./Prakrit_-02

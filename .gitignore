@@ -1,0 +1,4 @@
+compressedPdfFiles/*
+pdfBooks/*
+scannedBooks/*
+scripts/__pycache__/*

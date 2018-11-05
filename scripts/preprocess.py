@@ -111,6 +111,7 @@ if __name__=="__main__":
 	print('Step 5. Remove unnecessary H and : from Title, Author, Commentator, Scribe columns')
 	print('Step 6. Convert Sr. No. and Accession No. to Roman alphanumeric')
 	print('Step 7. Convert Vikrama Samvat and Shaka samvat.')
+	print('Step 8. Convert _ to --')
 	outfile = codecs.open('../derivedFiles/cataloguev005.tsv', 'w', 'utf-8')
 	for line in codecs.open('../derivedFiles/cataloguev004.tsv', 'r', 'utf-8'):
 		row = line.rstrip().split('\t')
@@ -126,5 +127,6 @@ if __name__=="__main__":
 		row2.append(changeSamvat(row[14]))
 		row2 = row2 + row[15:]
 		line = '\t'.join(row2)
+		line = line.replace('_', '--')
 		outfile.write(line + '\n')
 	outfile.close()

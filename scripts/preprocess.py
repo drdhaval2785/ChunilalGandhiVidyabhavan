@@ -124,7 +124,7 @@ if __name__=="__main__":
 		row2.append(removeH(row[12]))
 		row2.append(row[13])
 		row2.append(changeSamvat(row[14]))
-		row2 = row2 + row2[14:]
+		row2 = row2 + row[15:]
 		line = '\t'.join(row2)
 		outfile.write(line + '\n')
 	outfile.close()

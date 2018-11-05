@@ -1,0 +1,12 @@
+;0001	1246	अष्टौविकृति विवरण	मधुसूदन	--	Paper	DN	8.3"x4"	6.7"x2.5"	9	31	5	--.1	Good	--.2	Incomplete.Begins abruptly.	Phonetics
+0001	1246	अष्टौविकृति विवरण	मधुसूदन	--	Paper	DN	8.3"x4"	6.7"x2.5"	9	31	5	--	Good	--	Incomplete. Begins abruptly.	Phonetics
+;0002	134	शिक्षाचतुष्टय	पाणिनी पिगंल	--	Paper	DN	8.3"x3"	6.5"x1.6"	9	43	11	--	Fair	shaka 1654	F.7 in Duplicate Ms. Contains छंद,शिक्षा च ज्योतिष	Phonetics
+0002	134	शिक्षाचतुष्टय	पाणिनि पिंगल	--	Paper	DN	8.3"x3"	6.5"x1.6"	9	43	11	--	Fair	shaka 1654	F.7 in Duplicate. Ms. Contains छंद, शिक्षा च ज्योतिष	Phonetics
+;0003	436	शिक्षाचतुष्टय	--	--	Paper	DN	8.1"x3.9"	6.3"x2.4"	10	27	27	जनार्दन हर्डिकर	Good	shaka 1747	शिक्षा,ज्योतिष,छंद च निघण्टु	Phonetics
+0003	436	शिक्षाचतुष्टय	--	--	Paper	DN	8.1"x3.9"	6.3"x2.4"	10	27	27	जनार्दन हर्डिकर	Good	shaka 1747	शिक्षा, ज्योतिष, छंदस् च निघण्टु	Phonetics
+;0005	1520	स्वरनिर्णय - स्वरांकुश	जयंत स्वामिन	--	Paper	DN	8.3"x4.1"	6.5"x2.8"	18	54	3	--	Good	--	Incomplete	Phonetics
+0005	1520	स्वरनिर्णय - स्वरांकुश	जयंत स्वामिन्	--	Paper	DN	8.3"x4.1"	6.5"x2.8"	18	54	3	--	Good	--	Incomplete	Phonetics
+;0006a	1202	वर्णक्रमलक्षण	जगन्नाथ	--	Paper	DN	8.3"x4"	6.7"x2.6"	12	42	1	--	Fair	--	Complete	Phonetics
+0006A	1202	वर्णक्रमलक्षण	जगन्नाथ	--	Paper	DN	8.3"x4"	6.7"x2.6"	12	42	1	--	Fair	--	Complete	Phonetics
+;0006ba	1547	वर्णसमाम्नायविवेचना	आशाधर भट्ट	--	Paper	DN	9.5"x4.7"	7.3"x2.7"	10	31	8	--	Fair	--	Incomplete	Phonetics
+0006B	1547	वर्णसमाम्नायविवेचना	आशाधर भट्ट	--	Paper	DN	9.5"x4.7"	7.3"x2.7"	10	31	8	--	Fair	--	Incomplete	Phonetics

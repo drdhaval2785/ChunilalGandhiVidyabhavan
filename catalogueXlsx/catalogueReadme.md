@@ -21,6 +21,9 @@ After these corrections, the SLP1 transliteration is allowed to be printed on sc
 
 1. Correction in the marking of x for folio sizes. There is no possibility of a manuscript running in feet. So all ' have to be changed to ". Columns H and I are affected.
 
+# v004.tsv
 
-Column N changed from Sanskrit to English.
-Column D, E and M - Removed unnecessary ':' and '?'.
+1. Conditions of MSS converted back to English. Column N.
+
+
+Pending work - Column D, E and M - Removed unnecessary ':' and '?'.

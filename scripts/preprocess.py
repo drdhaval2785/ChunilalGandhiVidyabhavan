@@ -52,6 +52,16 @@ def correctCondition(data):
 	data = data.replace('माध्यमस्तरीय:', 'Fair')
 	
 	return data
+
+def removeH(data):
+	data = data.replace(':', '')
+	data = data.replace('ः', '')
+	return data
+
+def changeSamvat(data):
+	data = transliterate(data, 'devanagari', 'itrans')
+	data = data.replace('vi.saM.', 'V.S.')
+	return data
 	
 if __name__=="__main__":
 	#convertToTsv('../catalogueXlsx/catalogue1v001.xlsx', '../derivedFiles/catalogue1v000.tsv')
@@ -83,10 +93,8 @@ if __name__=="__main__":
 	for line in codecs.open('../derivedFiles/cataloguev002.tsv', 'r', 'utf-8'):
 		row = line.rstrip().split('\t')
 		row1 = row[:7]
-		item1 = correctFolioSize(transliterate(row[7], 'devanagari', 'slp1'))
-		item2 = correctFolioSize(transliterate(row[8], 'devanagari', 'slp1'))
-		row1.append(item1)
-		row1.append(item2)
+		row1.append(correctFolioSize(transliterate(row[7], 'devanagari', 'slp1')))
+		row1.append(correctFolioSize(transliterate(row[8], 'devanagari', 'slp1')))
 		row1 = row1 + row[9:]
 		line = '\t'.join(row1)
 		outfile.write(line + '\n')
@@ -97,8 +105,26 @@ if __name__=="__main__":
 	data = correctCondition(data)
 	with codecs.open('../derivedFiles/cataloguev004.tsv', 'w', 'utf-8') as outfile:
 		outfile.write(data)
-	conditionSet = set()
 	for line in codecs.open('../derivedFiles/cataloguev004.tsv', 'r', 'utf-8'):
 		row = line.split('\t')
-		conditionSet.add(transliterate(row[13], 'devanagari', 'slp1'))
-	print(conditionSet)
+
+	print('Step 5. Remove unnecessary H and : from Title, Author, Commentator, Scribe columns')
+	print('Step 6. Convert Sr. No. and Accession No. to Roman alphanumeric')
+	print('Step 7. Convert Vikrama Samvat and Shaka samvat.')
+	outfile = codecs.open('../derivedFiles/cataloguev005.tsv', 'w', 'utf-8')
+	for line in codecs.open('../derivedFiles/cataloguev004.tsv', 'r', 'utf-8'):
+		row = line.rstrip().split('\t')
+		row2 = []
+		row2.append(transliterate(row[0], 'devanagari', 'slp1'))
+		row2.append(transliterate(row[1], 'devanagari', 'slp1'))
+		row2.append(row[2])
+		row2.append(removeH(row[3]))
+		row2.append(removeH(row[4]))
+		row2 = row2 + row[5:12]
+		row2.append(removeH(row[12]))
+		row2.append(row[13])
+		row2.append(changeSamvat(row[14]))
+		row2 = row2 + row2[14:]
+		line = '\t'.join(row2)
+		outfile.write(line + '\n')
+	outfile.close()

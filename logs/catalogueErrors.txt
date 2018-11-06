@@ -1,5 +1,7 @@
 0006A:Only item to have A and B in Sr. No.
 0006B:Only item to have A and B in Sr. No.
+0068:Commentator missing. All other columns shifted to left by one.
+0077:B size is reversed 3.7"x8.5" instead of 8.5"x3.7".
 287:No categorization in condition.
 390:No categorization in condition.
 594:No categorization in condition.

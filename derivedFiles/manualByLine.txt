@@ -160,14 +160,10 @@
 0088	449	वैयाकरणभूषणकारिका व्याख्यासहित	भट्टोजी दीक्षित	आशाधर भट्ट	Paper	DN	9.5"x4.5"	7.8"x3"	12	40	46	--	Good	V.S. 1855	Edges torn on 1,2,45,46.	Grammar
 ;0089	1569	वैयाकरणभूषण	कोण्ड भट्ट	--	Paper	DN	9.4"x4.6"	7.7"x3.5"	15	37	18	--	Poor	--	Foll 1-5 missing. All folios moth eaten;text damaged	Grammar
 0089	1569	वैयाकरणभूषण	कोण्ड भट्ट	--	Paper	DN	9.4"x4.6"	7.7"x3.5"	15	37	18	--	Poor	--	Foll 1-5 missing. All folios moth eaten, text damaged.	Grammar
-;0090	1212	विभक्तिशब्द	--	--	Paper	DN	12"x5.4"	9"x3.3"	12	33	15	--	Good	--	--	Grammar
-0090	1212	विभक्तिशब्द	--	--	Paper	DN	12"x5.4"	9"x3.3"	12	33	15	--	Good	--	--	Grammar
 ;0091	451	छन्दोमज्जरी	--	--	Paper	DN	9"x4.2"	7"x2.8"	9	27	4	--	Good	--	Folios moth-eaten;but text not damaged.	Prosody
 0091	451	छन्दोमञ्जरी	--	--	Paper	DN	9"x4.2"	7"x2.8"	9	27	4	--	Good	--	Folios moth-eaten; but text not damaged.	Prosody
 ;0092	47	श्रुतबोध सटीक	कालिदास	--	Paper	DN	10"x5.7"	8.5"x4.5"	16	32	3	--	Fair	--	Text damaged at places. Com. Up to verse 28. Marginal notes on 1a,2b	Prosody
 0092	47	श्रुतबोध सटीक	कालिदास	--	Paper	DN	10"x5.7"	8.5"x4.5"	16	32	3	--	Fair	--	Text damaged at places. Com. Up to verse 28. Marginal notes on 1a,2b.	Prosody
-;0093	548	श्रुतबोध	कालिदास	--	Paper	DN	8.4"x4.1"	6.8"x2.5"	10	35	3	--	Good	--	--	Prosody
-0093	548	श्रुतबोध	कालिदास	--	Paper	DN	8.4"x4.1"	6.8"x2.5"	10	35	3	--	Good	--	--	Prosody
 ;0094	1223	वृत्तरत्नाकर	केदार भट्ट		Paper	DN	8.4"x4"	6.4"x3"	12	34	9	--	Good	--	Edges torn	Prosody
 0094	1223	वृत्तरत्नाकर	केदार भट्ट		Paper	DN	8.4"x4"	6.4"x3"	12	34	9	--	Good	--	Edges torn.	Prosody
 ;0095	1566	वृत्तरत्नाकर सटीक	केदार भट्ट	हृदयराम	Paper	DN	See Remark	7.2"x3.5"	15	32	32	व्यास किका	Poor	--	Foll 1,3 missing no.24 is repeated 10-11,31-32  moth eaten & text damaged. Folios have 3 sizes 8.1 x4.4 F.2,7.2x4 F 4-8,10-12,22-25,8.5x4.6 -f-9,13-21,24*,26-32 (*second)	Prosody

@@ -240,7 +240,31 @@
 0132	1274	चन्द्रार्की	दिनकर	--	Paper	DN	9.2"x4.2"	8.2"x3"	10	38	3	केशवजी	Fair	V.S. 1718	F.1 missing-Begins abruptly. Folios torn, text damaged. Some tables given at the end.	Jyotisha
 ;0133	585	दैवज्ञवल्लभ	श्रीपति	--	Paper	DN	8.5"x4"	7"x2.9"	8	32	81	--	Poor	--	Foll 1,30,39,41,42 missing. margin torn, text damaged on 2, 23-48,66-68. Begins, ends abruptly.	Jyotisha
 0133	585	दैवज्ञवल्लभ	श्रीपति	--	Paper	DN	8.5"x4"	7"x2.9"	8	32	81	--	Poor	--	Foll 1,30,39,41,42 missing. margins torn, text damaged on 2,23-48,66-68. Begins, ends abruptly.	Jyotisha
-;0134	1295	दीक्षादिग्रहणे मासादिफलम्	--	--	Paper	DN	8"x4"	7"x2.8"	12	40	2	--	Good	--	Ends abruptly.	Jyotisha
-0134	1295	दीक्षादिग्रहणे मासादिफलम्	--	--	Paper	DN	8"x4"	7"x2.8"	12	40	2	--	Good	--	Ends abruptly.	Jyotisha
 ;0135	243	द्वादशभावानां फलानि	--	--	Paper	DN	9.2"x5.5"	8.2"x4.2"	16	30	12	घनश्याम	Fair	--	F.2 missing;last folio damaged Ends abruptly.	Jyotisha
 0135	243	द्वादशभावानां फलानि	--	--	Paper	DN	9.2"x5.5"	8.2"x4.2"	16	30	12	घनश्याम	Fair	--	F.2 missing; last folio damaged. Ends abruptly.	Jyotisha
+;0137	1033	गृहकौमुदी	--	--	Paper	DN	5.6"x3.6"	4.7"x3.9"	13	20	2	--	Good	shaka1653	F.2b has a chart at the end.	Jyotisha
+0137	1033	ग्रहकौमुदी	--	--	Paper	DN	5.6"x3.6"	4.7"x3.9"	13	20	2	--	Good	shaka 1653	F.2b has a chart at the end.	Jyotisha
+;0138	661	ग्रहणग्रन्थ	विश्राम s/o पुरुषोत्तम	--	Paper	DN	10.6"x4.4"	9.2"x3.7"	10	36	1	--	Fair	--	Borders torn,text slightly damaged	Jyotisha
+0138	661	ग्रहणग्रन्थ	विश्राम s/o पुरुषोत्तम	--	Paper	DN	10.6"x4.4"	9.2"x3.7"	10	36	1	--	Fair	--	Borders torn, text slightly damaged.	Jyotisha
+;0139	1321	होरावृत्ति	भट्टोत्पल	--	Paper	DN	10.5"x4.8"	8.8"x3"	11	50	17	--	Good	--	F 1-9 missing begins abruptly	Jyotisha
+0139	1321	होरावृत्ति	भट्टोत्पल	--	Paper	DN	10.5"x4.8"	8.8"x3"	11	50	17	--	Good	--	F. 1-9 missing begins abruptly.	Jyotisha
+;0141	240	ज्योतिषग्रन्थ	--	--	Paper	DN	10.5"x5.7"	8.2"x5"	20	Kostaks only	47	--	Fair	V.S. 1734	Foll in the beginning torn & text slightly damaged. The ms contains only tables. Patron घनश्याम:	Jyotisha
+0141	240	ज्योतिषग्रन्थ	--	--	Paper	DN	10.5"x5.7"	8.2"x5"	20	कोष्टकs only	47	--	Fair	V.S. 1734	Foll. in the beginning torn & text slightly damaged. The ms. contains only tables. Patron: घनश्याम	Jyotisha
+;0142	867ba	ज्योतिषग्रन्थ	नारायण	--	Paper	DN	10.9"x5.2"	8.5"x3.5"	12	40	2	--	Good	--	Ends abruptly	Jyotisha
+0142	867B	ज्योतिषग्रन्थ	नारायण	--	Paper	DN	10.9"x5.2"	8.5"x3.5"	12	40	2	--	Good	--	Ends abruptly.	Jyotisha
+;0143	1300	ज्योतिषग्रन्थ	--	--	Paper	DN	8.3"x4"	6.5"x2.5"	9	27	14	--	Good	--	Foll 1-6 missing. Begins & Ends abruptly	Jyotisha
+0143	1300	ज्योतिषग्रन्थ	--	--	Paper	DN	8.3"x4"	6.5"x2.5"	9	27	14	--	Good	--	Foll. 1-6 missing. Begins & Ends abruptly.	Jyotisha
+;0144	238	ज्योतिषवृत्तशत	महेश्वर	--	Paper	DN	8.5"x4"	6.8"x2.5"	10	38	24	--	Fair	--	Foll at the end moth-eatan.	Jyotisha
+0144	238	ज्योतिषवृत्तशत	महेश्वर	--	Paper	DN	8.5"x4"	6.8"x2.5"	10	38	24	--	Fair	--	Foll. at the end moth-eatan.	Jyotisha
+;0145	869	कालनिर्णयदीपिका टीकासहित	रामचन्द्र	नरसिंह	Paper	DN	10.5"x4.2"	8.5"x3"	12	44	97	--	Poor	--	Many Foll.torn,moth eaten; text damaged. Ends abruptly	Jyotisha
+0145	869	कालनिर्णयदीपिका टीकासहित	रामचन्द्र	नृसिंह	Paper	DN	10.5"x4.2"	8.5"x3"	12	44	97	--	Poor	--	Many Foll. torn, moth eaten; text damaged. Ends abruptly.	Jyotisha
+;0146	1332	कलिविडम्बन	--	--	Paper	DN	6.3"x4.3"	4.5"x2.6"	8	20	4	--	Good	--	Foll bear consemtive numbers but are not interconnected. Ends abruptly	Jyotisha
+0146	1332	कलिविडम्बन	--	--	Paper	DN	6.3"x4.3"	4.5"x2.6"	8	20	4	--	Good	--	Foll. bear consecutive numbers but are not interconnected. Ends abruptly.	Jyotisha
+;0147	815	लघुजातक	वराहमिहिर	--	Paper	DN	9.9"x4.4"	8.5"x2.9"	14	46	5	--	Good	--	--	Jyotisha
+0147	815	लघुजातक	वराहमिहिर	--	Paper	DN	9.9"x4.4"	8.5"x2.9"	14	46	5	--	Good	--	--	Jyotisha
+;0148	1068	लग्नपत्रिका	--	--	Paper	DN	8.1"x4.1"	7.6"x3.1"	10	36	1	--	Good	shaka 1725	--	Jyotisha
+0148	1068	लग्नपत्रिका	--	--	Paper	DN	8.1"x4.1"	7.6"x3.1"	10	36	1	--	Good	shaka 1725	--	Jyotisha
+;0149	1081a	मंगलमन्त्रविधि	--	--	Paper	DN	5.5"x3.7"	4.2"x2.3"	9	16	1	--	Good	--	--	Jyotisha
+0149	1081A	मङ्गलमन्त्रविधि	--	--	Paper	DN	5.5"x3.7"	4.2"x2.3"	9	16	1	--	Good	--	--	Jyotisha
+;0150	1376	मुहूर्तचिन्तामणि	रामदैवज्ञ s/o  अनन्त दैवज्ञ 	--	Paper	DN	8.1x3.9"	6.4"x3"	11	34	4	--	Good	--	Foll 1-2 missing. Begins abruptly	Jyotisha
+0150	1376	मुहूर्तचिन्तामणि	रामदैवज्ञ s/o अनन्त दैवज्ञ 	--	Paper	DN	8.1x3.9"	6.4"x3"	11	34	4	--	Good	--	Foll. 1-2 missing. Begins abruptly.	Jyotisha

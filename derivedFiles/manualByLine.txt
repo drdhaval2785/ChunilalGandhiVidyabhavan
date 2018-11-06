@@ -106,3 +106,27 @@
 0059	640C	समासचक्र	--	--	Paper	DN	8.3"x4"	7"x3"	9	34	5	--	Good	--	--	Grammar
 ;0061	315	समासवाद	भट्टाचार्य सार्वभौम रामचन्द्र	--	Paper	DN	12.5"x4.9" "	9.7"x3.2"	9	52	9	--	Good	--	Edges torn.	Grammar
 0061	315	समासवाद	भट्टाचार्य सार्वभौम रामचन्द्र	--	Paper	DN	12.5"x4.9"	9.7"x3.2"	9	52	9	--	Good	--	Edges torn.	Grammar
+;0062	658	व्याकरण ग्रन्थ	--	--	Paper	DN	8.5"x4"	6.8"x2.7"	11	36	४२+३७+१४+४३+१५+५+३६+५४+४८+३०+९+३७+२+८७=४७०	--	Fair	--	lb warks on grammar; seprate pagination;different hand writing at different places.	Grammar
+0062	658	व्याकरणग्रन्थ	--	--	Paper	DN	8.5"x4"	6.8"x2.7"	11	36	42+37+14+43+15+5+36+54+48+30+9+37+2+87=470	--	Fair	--	1b works on grammar; separate pagination; different handwriting at different places.	Grammar
+;0064	1151	शतृशानजादेशविचार	आशाधर s/oरामजी भट्ट	--	Paper	DN	9.5"x4.5"	7.5"x2.8"	10	32	8	--	Good	--	Edges Torn	Grammar
+0064	1151	शतृशानजादेशविचार	आशाधर s/o रामजी भट्ट	--	Paper	DN	9.5"x4.5"	7.5"x2.8"	10	32	8	--	Good	--	Edges Torn.	Grammar
+;0065	318	सिद्धान्तकौमुदी पूर्वार्ध	भट्टोजी दीक्षित	--	Paper	DN	11.9"x4.2"	9.5"x2.2"	10	55	51	--	Good	--	Ends abruptly	Grammar
+0065	318	सिद्धान्तकौमुदी पूर्वार्ध	भट्टोजी दीक्षित	--	Paper	DN	11.9"x4.2"	9.5"x2.2"	10	55	51	--	Good	--	Ends abruptly.	Grammar
+;0066	319	सिद्धान्तकौमुदी उत्तरार्ध	भट्टोजी दीक्षित	--	Paper	DN	11.9"x4.2"	9.5"x2.2"	10	55	128	--	Good	--	Tinanta to Krdanta Prakarana	Grammar
+0066	319	सिद्धान्तकौमुदी उत्तरार्ध	भट्टोजी दीक्षित	--	Paper	DN	11.9"x4.2"	9.5"x2.2"	10	55	128	--	Good	--	तिङन्त to कृदन्त प्रकरण.	Grammar
+;0067	320 a	सिद्धान्तकौमुदी	भट्टोजी दीक्षित	--	Paper	DN	12"x4.2"	9.5"x2.6"	10	50	1	--	Good	--	Only one fol	Grammar
+0067	320A	सिद्धान्तकौमुदी	भट्टोजी दीक्षित	--	Paper	DN	12"x4.2"	9.5"x2.6"	10	50	1	--	Good	--	Only one fol.	Grammar
+;0068	320 ba	सिद्धान्तकौमुदी (तिङन्त प्रकरण)	भट्टोजी दीक्षित	--	Paper	DN	12"x4.1"	10"x2.4"	9	41	119	--	Poor	--	Foll 49-59 missing 39-48,60-65 badly damaged, brittle and dark writing extremely uneven	Grammar
+0068	320B	सिद्धान्तकौमुदी (तिङन्तप्रकरण)	भट्टोजी दीक्षित	--	Paper	DN	12"x4.1"	10"x2.4"	9	41	119	--	Poor	--	Foll 49-59 missing; Foll. 39-48, 60-65 badly damaged, brittle and dark. Writing extremely uneven.	Grammar
+;0069	321	सिद्धान्तकौमुदी 	भट्टोजी दीक्षित	--	Paper	DN	12.2"x3.8"	10.5"x2.7"	9	37	44	--	Good	--	Ends abruptly in a way it even begins abruptly as it does not begin with the beginning of शक	Grammar
+0069	321	सिद्धान्तकौमुदी 	भट्टोजी दीक्षित	--	Paper	DN	12.2"x3.8"	10.5"x2.7"	9	37	44	--	Good	--	Ends abruptly in a way it even begins abruptly as it does not begin with the beginning of सिद्धान्तकौमुदी.	Grammar
+;0070	560	सिद्धान्तकौमुदी	भट्टोजी दीक्षित	--	Paper	DN	9.5"x4.4"	7.1"x2.5"	10	47	84	--	Good	--	Foll 1-52 missing. The ms. Runs upto द्विरूकप्रक्रिया. Begins abruptly.	Grammar
+0070	560	सिद्धान्तकौमुदी	भट्टोजी दीक्षित	--	Paper	DN	9.5"x4.4"	7.1"x2.5"	10	47	84	--	Good	--	Foll 1-52 missing. The ms. runs upto द्विरुक्तप्रक्रिया. Begins abruptly.	Grammar
+;0071	596	सिद्धान्तकौमुदी (पूर्वार्ध)	भट्टोजी दीक्षित	--	Paper	DN	11.8"x4"	8.3"x2.1"	10	49	152	--	Fair	--	Foll 1-51 missing. Begins abruptly Begins from a part of स्त्रीप्रत्ययङ & runs up to द्विरूक्तप्रक्रिया. Foll 52,138-a 143-147 motheaten, text slightly damaged.	Grammar
+0071	596	सिद्धान्तकौमुदी (पूर्वार्ध)	भट्टोजी दीक्षित	--	Paper	DN	11.8"x4"	8.3"x2.1"	10	49	152	--	Fair	--	Foll 1-51 missing. Begins abruptly. Begins from a part of स्त्रीप्रत्ययय & runs up to द्विरुक्तप्रक्रिया. Foll. 52, 138-a, 143-147 motheaten, text slightly damaged.	Grammar
+;0072	597	सिद्धान्तकौमुदी (उत्तरार्ध)	भट्टोजी दीक्षित	--	Paper	DN	11.8"x4"	8.4"x2.3"	10	47	170	--	Good	--	Foll 1-128 missing. begins & ends abruptly two foll. Numbered 131 after 129.	Grammar
+0072	597	सिद्धान्तकौमुदी (उत्तरार्ध)	भट्टोजी दीक्षित	--	Paper	DN	11.8"x4"	8.4"x2.3"	10	47	170	--	Good	--	Foll. 1-128 missing. Begins & ends abruptly two foll. Numbered 131 after 129.	Grammar
+;0073	703 a	सिद्धान्तकौमुदी (पूर्वार्ध)	भट्टोजी दीक्षित	--	Paper	DN	12.2"x4.2"	9.2"x2.2"	11	58	101	--	Fair	--	Text damaged on foll 1-30.	Grammar
+0073	703A	सिद्धान्तकौमुदी (पूर्वार्ध)	भट्टोजी दीक्षित	--	Paper	DN	12.2"x4.2"	9.2"x2.2"	11	58	101	--	Fair	--	Text damaged on foll. 1-30.	Grammar
+;0074	703 ba	सिद्धान्तकौमुदी (पूर्वार्ध)	भट्टोजी दीक्षित	--	Paper	DN	11.8"x4.1"	9.4"x2.2"	10	52	48	--	Fair	--	Moth-eaten margins on all foll but text damaged on 39-47. begins & ends abruptly.	Grammar
+0074	703B	सिद्धान्तकौमुदी (पूर्वार्ध)	भट्टोजी दीक्षित	--	Paper	DN	11.8"x4.1"	9.4"x2.2"	10	52	48	--	Fair	--	Moth-eaten margins on all foll. but text damaged on 39-47. begins & ends abruptly.	Grammar

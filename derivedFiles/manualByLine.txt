@@ -260,10 +260,6 @@
 0145	869	कालनिर्णयदीपिका टीकासहित	रामचन्द्र	नृसिंह	Paper	DN	10.5"x4.2"	8.5"x3"	12	44	97	--	Poor	--	Many Foll. torn, moth eaten; text damaged. Ends abruptly.	Jyotisha
 ;0146	1332	कलिविडम्बन	--	--	Paper	DN	6.3"x4.3"	4.5"x2.6"	8	20	4	--	Good	--	Foll bear consemtive numbers but are not interconnected. Ends abruptly	Jyotisha
 0146	1332	कलिविडम्बन	--	--	Paper	DN	6.3"x4.3"	4.5"x2.6"	8	20	4	--	Good	--	Foll. bear consecutive numbers but are not interconnected. Ends abruptly.	Jyotisha
-;0147	815	लघुजातक	वराहमिहिर	--	Paper	DN	9.9"x4.4"	8.5"x2.9"	14	46	5	--	Good	--	--	Jyotisha
-0147	815	लघुजातक	वराहमिहिर	--	Paper	DN	9.9"x4.4"	8.5"x2.9"	14	46	5	--	Good	--	--	Jyotisha
-;0148	1068	लग्नपत्रिका	--	--	Paper	DN	8.1"x4.1"	7.6"x3.1"	10	36	1	--	Good	shaka 1725	--	Jyotisha
-0148	1068	लग्नपत्रिका	--	--	Paper	DN	8.1"x4.1"	7.6"x3.1"	10	36	1	--	Good	shaka 1725	--	Jyotisha
 ;0149	1081a	मंगलमन्त्रविधि	--	--	Paper	DN	5.5"x3.7"	4.2"x2.3"	9	16	1	--	Good	--	--	Jyotisha
 0149	1081A	मङ्गलमन्त्रविधि	--	--	Paper	DN	5.5"x3.7"	4.2"x2.3"	9	16	1	--	Good	--	--	Jyotisha
 ;0150	1376	मुहूर्तचिन्तामणि	रामदैवज्ञ s/o  अनन्त दैवज्ञ 	--	Paper	DN	8.1x3.9"	6.4"x3"	11	34	4	--	Good	--	Foll 1-2 missing. Begins abruptly	Jyotisha

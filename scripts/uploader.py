@@ -38,8 +38,8 @@ def trans(text, inputScheme=sanscript.DEVANAGARI):
 def find_metadata(line):
 	details = line.rstrip('\r\n').split('\t')
 	metadata = {}
-	if not len(details) == 16:
-		print(details[0] + ' does not have 16 fields. Please check.')
+	if not len(details) == 17:
+		print(details[0] + ' does not have 17 fields. Please check.')
 	# Get metadata from CSV
 	metadata['Sr_No'] = details[0]
 	# Exercise to prepare a pad around the accession number e.g. 24 -> 0024. Also convert a,b etc to -A,-B etc e.g. 424a -> 0424-A
@@ -71,6 +71,7 @@ def find_metadata(line):
 	metadata['Condition'] = details[13]
 	metadata['Age_of_MS'] = details[14]
 	metadata['Additional_remarks'] = details[15]
+	metadata['Subject'] = details[16]
 	# Prepare mandatory metadata for Archive.org.
 	metadata['identifier'] = str(metadata['Title_keyword']).replace(' ','_')+'~CGV~SSP~'+metadata['Accession_No']
 	metadata['mediatype'] = 'texts'
@@ -94,8 +95,6 @@ def uploadToArchive(metadata):
 	
 def createMetadataJson():
 	fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
-	counter = 1
-	flog = codecs.open('../logs/log.txt', 'a', 'utf-8')
 	ferror = codecs.open('../logs/error.txt', 'a', 'utf-8')
 	for line in fin:
 		metadata = find_metadata(line)
@@ -104,17 +103,16 @@ def createMetadataJson():
 		sr = metadata['Sr_No']
 		if not os.path.isfile('../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'):
 			ferror.write('File Not Found:'+accession+'\n')
-			print('File not Found:'+accession+'\n')
+			print('File not Found:'+accession)
 		else:
 			#uploadToArchive(metadata)
 			with codecs.open('../metadataJson/'+accession+'.json', 'w', 'utf-8') as fjson:
 				json.dump(metadata, fjson)
-				print('Metadata generated for:'+accession+'\n')
-			#flog.write('File uploaded:'+sr+'#'+accession+'#'+identifier+'\n')
+				print('Metadata generated for:'+accession)
 
 	fin.close()
-	flog.close()
 	ferror.close()
 
-	
-createMetadataJson()
+
+if __name__=="__main__":
+	createMetadataJson()

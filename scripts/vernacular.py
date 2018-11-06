@@ -8,6 +8,7 @@ def vernacular(text):
 	text = text.replace('~N','n')
 	text = text.replace('j~n','gy')
 	text = text.replace('~n','n')
+	text = text.replace('x', 'ksh')
 	text = text.lower()
 	return text
 

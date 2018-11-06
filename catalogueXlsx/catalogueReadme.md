@@ -35,3 +35,4 @@ After these corrections, the SLP1 transliteration is allowed to be printed on sc
 # v006.tsv
 1. This is done by a separate script `python manualCorrection.py`.
 2. Change the Sanskrit words from Additional Remarks column to Devanagari for uniformity.
+3. 5th letter of each varga used instead of M.

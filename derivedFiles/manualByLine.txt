@@ -62,3 +62,25 @@
 0035	1335	कारकाद्यर्थनिर्णय	भवानन्द सिद्धान्तवागीश	--	Paper	DN	10.9"x3.8"	9.3"x2.4"	12	52	2	--	Good	--	Ends abruptly; Edges torn.	Grammar
 ;0036	32	कारकवाद	जयराम पञ्चानन	--	Paper	DN	11.2"x5.2"	9.7"x3.8"	18	49	10	घनश्याम जडिय	Good	shaka 1717	Edges torn	Grammar
 0036	32	कारकवाद	जयराम पञ्चानन	--	Paper	DN	11.2"x5.2"	9.7"x3.8"	18	49	10	घनश्याम जडिय	Good	shaka 1717	Edges torn.	Grammar
+;0037	24+1339	काशिकावृत्ति	जयादित्य & वामन	--	Paper	DN	a.11"x5", ba.10"x4.5"	a.8.5"x3.5", ba.8"á3"	अ.१२, ब.१०	अ.४५, ब.३८	६७+४५+१०३+१०७+१११+१५८+६५+५५=७११	--	Fair	--	All Adhyayas separately paginated, folios of adyayas I,II,VII,VIII have larger size (a), other have smaller size (b). Foll. In the beginning of I,II torn and text damaged. Foll. In II are ruled by double red lines for margins.	Grammar
+0037	24+1339	काशिकावृत्ति	जयादित्य & वामन	--	Paper	DN	a. 11"x5", b. 10"x4.5"	a. 8.5"x3.5", b. 8"x3"	a. 12, b. 10	a. 45, b. 38	67+45+103+107+111+158+65+55=711	--	Fair	--	All अध्यायs separately paginated, folios of अध्यायs I, II, VII, VIII have larger size (a), other have smaller size (b). Foll. in the beginning of I, II torn and text damaged. Foll. in II are ruled by double red lines for margins.	Grammar
+;0038	1058	क्त्वाप्रत्ययविचार	--	--	Paper	DN	10.3"x5.5"	9"x4.4"	22	50	1	--	Good	--	Edges torn	Grammar
+0038	1058	क्त्वाप्रत्ययविचार	--	--	Paper	DN	10.3"x5.5"	9"x4.4"	22	50	1	--	Good	--	Edges torn.	Grammar
+;0039	633	लघुकौमुदी	वरदराज	--	Paper	DN	8"x4"	6.5"x2.5"	7	28	5	--	Good	--	Ends Abruptly	Grammar
+0039	633	लघुकौमुदी	वरदराज	--	Paper	DN	8"x4"	6.5"x2.5"	7	28	5	--	Good	--	Ends Abruptly.	Grammar
+;0040	447 a	लिंगानुशासन वृत्तिसहित	पाणिनी	--	Paper	DN	8.2"x3.7"	6.7"x3"	9	27	६+१५=२१	केशवजी s/o गोविंद	Good	V.S. 1713	Foll 1-6 have text & 1-15 have vritti both separatly paginated. vritti ends abruptly.	Grammar
+0040	447A	लिङ्गानुशासन वृत्तिसहित	पाणिनि	--	Paper	DN	8.2"x3.7"	6.7"x3"	9	27	6+15=21	केशवजी s/o गोविन्द	Good	V.S. 1713	Foll 1-6 have text & 1-15 have वृत्ति - both separatly paginated. वृत्ति ends abruptly.	Grammar
+;0041	494	मध्यमनोरमा (सुप्तिङन्तव्याख्यान)	--	राम शर्मा	Paper	DN	9.7"x4.3"	7.6"x2.5"	9	33	६८+१०७= १७५	--	Good	--	The Ms. Has two parts with separate pagination 1-68,1-107, F.76 is numbered twice. Section on sup & tiri from Madhyamanorama of Ramsarama on the Madhyasiddhantakaumudi of Varadaraja.	Grammar
+0041	494	मध्यमनोरमा (सुप्तिङन्तव्याख्यान)	--	राम शर्मा	Paper	DN	9.7"x4.3"	7.6"x2.5"	9	33	68+107=175	--	Good	--	The Ms. has two parts with separate pagination 1-68, 1-107, F.76 is numbered twice. Section on सुप् & तिङ् from मध्यमनोरमा of रामशर्मा on the मध्यसिद्धान्तकौमुदी of वरदराज.	Grammar
+;0042	485	मध्यसिद्धांतकौमुदी (उतरार्धकृत्प्रक्रिया)	वरदराज	--	Paper	DN	8.3"x3.8"	6"x2.5"	13	30	19	सिताराम	Good	shaka 1693	--	Grammar
+0042	485	मध्यसिद्धान्तकौमुदी (उतरार्धकृत्प्रक्रिया)	वरदराज	--	Paper	DN	8.3"x3.8"	6"x2.5"	13	30	19	सिताराम	Good	shaka 1693	--	Grammar
+;0043	767	मध्यसिद्धान्तकौमुदी (स्वरप्रक्रिया)	वरदराज	--	Paper	DN	8.2"x4"	6.5"x2.6"	12	32	40	राम जडिय	Good	V.S. 1694	F-1-6,26-35 missing begins abruptly	Grammar
+0043	767	मध्यसिद्धान्तकौमुदी (स्वरप्रक्रिया)	वरदराज	--	Paper	DN	8.2"x4"	6.5"x2.6"	12	32	40	राम जडिय	Good	V.S. 1694	F-1-6, 26-35 missing, begins abruptly	Grammar
+;0044	1358	मध्यसिद्धान्तकौमुदी 	वरदराज	--	Paper	DN	8.3"x4"	6.3"x2"	9	28	9	--	Fair	--	F-4-18 missing ends abruptly	Grammar
+0044	1358	मध्यसिद्धान्तकौमुदी 	वरदराज	--	Paper	DN	8.3"x4"	6.3"x2"	9	28	9	--	Fair	--	F. 4-18 missing; ends abruptly.	Grammar
+;0045	1492	मध्यसिद्धान्तकौमुदी 	वरदराज	--	Paper	DN	8.3"x4.2"	6"x2.2"	9	28	18	--	Good	--	F.1-3, 5, 15, missing begins and ends abruptly	Grammar
+0045	1492	मध्यसिद्धान्तकौमुदी 	वरदराज	--	Paper	DN	8.3"x4.2"	6"x2.2"	9	28	18	--	Good	--	F. 1-3, 5, 15, missing; begins and ends abruptly.	Grammar
+;0046	314	महाभाष्य (१.१.१) प्रदीपसहित	पतंजलि	कैयट	Paper	DN	12"x8.2"	10"x6.2"	24	43	10	--	Fair	--	Commentary ends abruptly	Grammar
+0046	314	महाभाष्य (१.१.१) प्रदीपसहित	पतंजलि	कैयट	Paper	DN	12"x8.2"	10"x6.2"	24	43	10	--	Fair	--	Commentary ends abruptly.	Grammar
+;0047	80	महाभाष्य (१.१) प्रदीपसहित	पतंजलि	कैयट	Paper	DN	12"x5.7"	10.6"x4"	अ.१८, ब.१६	55	११+१३०= १४१	--	Good	--	Text, F.1-11, Commentary F.1-30 seperately paginated.	Grammar
+0047	80	महाभाष्य (१.१) प्रदीपसहित	पतंजलि	कैयट	Paper	DN	12"x5.7"	10.6"x4"	(1) 18, (2) 16	55	11+130=141	--	Good	--	Text, F. 1-11; Commentary F. 1-30 seperately paginated.	Grammar

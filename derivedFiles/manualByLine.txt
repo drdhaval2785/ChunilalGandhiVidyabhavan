@@ -756,8 +756,6 @@
 0463	1537	गयाश्राद्ध	--	--	Paper	DN	8"x3"	7.7"x2.6"	10	38	2	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
 ;0464	111	गोमुखप्रसव	--	--	Paper	DN	8.2"x4"	8"x3"	13	42	2	--	Poor	--	Text damaged at margins	Dharmshastra Lit & Ritual
 0464	111	गोमुखप्रसव	--	--	Paper	DN	8.2"x4"	8"x3"	13	42	2	--	Poor	--	Text damaged at margins.	Dharmshastra Lit & Ritual
-;0465	1025	गोमुखप्रसवशान्ति	--	--	Paper	DN	7.7"x4"	6.2"x2.6"	7	21	5	--	Good	--	--	Dharmshastra Lit & Ritual
-0465	1025	गोमुखप्रसवशान्ति	--	--	Paper	DN	7.7"x4"	6.2"x2.6"	7	21	5	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0466	237	ग्रहदानप्रयोग	--	--	Paper	DN	8.4"x4.1"	7"x3.1"	14	35	2	--	Good	--	The title given in the Ms is ग्रहदान	Dharmshastra Lit & Ritual
 0466	237	ग्रहदानप्रयोग	--	--	Paper	DN	8.4"x4.1"	7"x3.1"	14	35	2	--	Good	--	The title given in the Ms is ग्रहदान.	Dharmshastra Lit & Ritual
 ;0467	294	ग्रहदानप्रयोग	--	--	Paper	DN	8.4"x4.4"	6.4"x2.7"	11	27	9	--	Good	shaka 1733	Owner: जडिय:	Dharmshastra Lit & Ritual
@@ -766,8 +764,6 @@
 0468	165	ग्रहमख	--	--	Paper	DN	8.2"x4"	6.3"x2.5"	8	27	12	--	Fair	--	Foll. 1-3 moth-eaten.	Dharmshastra Lit & Ritual
 ;0469	213	ग्रहमख	--	--	Paper	DN	9"x4.8"	6.6"x2.8"	10	32	15	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
 0469	213	ग्रहमख	--	--	Paper	DN	9"x4.8"	6.6"x2.8"	10	32	15	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
-;0470	739	ग्रहमख	--	--	Paper	DN	8.1"x4"	7"x2.8"	13	30	8	--	Good	shaka 1712	--	Dharmshastra Lit & Ritual
-0470	739	ग्रहमख	--	--	Paper	DN	8.1"x4"	7"x2.8"	13	30	8	--	Good	shaka 1712	--	Dharmshastra Lit & Ritual
 ;0471	1456	ग्रहणशान्ति	--	--	Paper	DN	7.9"x3.9"	6.9"x3"	14	40	12	--	Poor	--	Foll 1-10 missing abruptly. F.12 torn,text damaged	Dharmshastra Lit & Ritual
 0471	1456	ग्रहणशान्ति	--	--	Paper	DN	7.9"x3.9"	6.9"x3"	14	40	12	--	Poor	--	Foll. 1-10 missing. Begins abruptly. F. 12 torn, text damaged.	Dharmshastra Lit & Ritual
 ;0472	215	ग्रहशान्तिविधि	--	--	Paper	DN	10.2"x4.8"	8"x3"	9	35	7	--	Good	--	F.1 missing Begins abruptly marginal notes on F.Y.7	Dharmshastra Lit & Ritual
@@ -776,3 +772,31 @@
 0473	760	गृहप्रवेशविधि	--	--	Paper	DN	11.9"x4"	9.8"x2.2"	11	56	2	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0474	302	गृह्यसंस्कारमन्त्राः	--	--	Paper	DN	8.2"x4.4"	6.5"x2.8"	10	25	128	--	Good	--	Foll 1-18,20 missing, begins ends abruptly.	Dharmshastra Lit & Ritual
 0474	302	गृह्यसंस्कारमन्त्राः	--	--	Paper	DN	8.2"x4.4"	6.5"x2.8"	10	25	128	--	Good	--	Foll. 1-18,20 missing. Begins, ends abruptly.	Dharmshastra Lit & Ritual
+;0475	92	गृह्याग्निसार	नारायण भट्ट	--	Paper	DN	12"x4.2"	9.3"x2.5"	10	48	39	--	Good	--	End does not appear regular	Dharmshastra Lit & Ritual
+0475	92	गृह्याग्निसार	नारायण भट्ट	--	Paper	DN	12"x4.2"	9.3"x2.5"	10	48	39	--	Good	--	End does not appear regular.	Dharmshastra Lit & Ritual
+;0476	199	हिमाद्रिप्रयोग	--	--	Paper	DN	10"x6"	7.6"x4"	11	32	4	--	Good	--	--	Dharmshastra Lit & Ritual
+0476	199	हिमाद्रिप्रयोग	--	--	Paper	DN	10"x6"	7.6"x4"	11	32	4	--	Good	--	--	Dharmshastra Lit & Ritual
+;0477	163	जलशान्ति-प्रतिसरबन्ध	--	--	Paper	DN	8.5"x4"	6.8"x2.5"	9	25	26	--	Good	--	According to बोधायनः	Dharmshastra Lit & Ritual
+0477	163	जलशान्ति-प्रतिसरबन्ध	--	--	Paper	DN	8.5"x4"	6.8"x2.5"	9	25	26	--	Good	--	According to बोधायन.	Dharmshastra Lit & Ritual
+;0478	204a	जलाशयाद्युत्सर्गविधि सटीक	--	--	Paper	DN	11.2"x4"	9.4"x2.2"	9	40	5	--	Good	--	According to बोधायनः	Dharmshastra Lit & Ritual
+0478	204A	जलाशयाद्युत्सर्गविधि सटीक	--	--	Paper	DN	11.2"x4"	9.4"x2.2"	9	40	5	--	Good	--	According to बोधायन.	Dharmshastra Lit & Ritual
+;0479	178a	जलाशयप्रतिष्ठा-जलोत्सर्गविधि	--	--	Paper	DN	8.2"x4"	7"x3"	12	28	1	--	Fair	shaka 1682 (?)	Last line on 1b not readable	Dharmshastra Lit & Ritual
+0479	178A	जलाशयप्रतिष्ठा-जलोत्सर्गविधि	--	--	Paper	DN	8.2"x4"	7"x3"	12	28	1	--	Fair	shaka 1682 (?)	Last line on 1b not readable.	Dharmshastra Lit & Ritual
+;0480	59	जन्माष्टमीनिर्णय	विठ्ठल दीक्षित	--	Paper	DN	8.7"x3.2"	7.7"x2.2"	10	42	4	चिंतामणि	Good	--	--	Dharmshastra Lit & Ritual
+0480	59	जन्माष्टमीनिर्णय	विठ्ठल दीक्षित	--	Paper	DN	8.7"x3.2"	7.7"x2.2"	10	42	4	चिन्तामणि	Good	--	--	Dharmshastra Lit & Ritual
+;0481	1325	जन्माष्टमीनिर्णय	--	--	Paper	DN	8.1"x3.8"	8.1"x3.8"	14	40	1	--	Poor	--	F.torn;text damaged. Margins least	Dharmshastra Lit & Ritual
+0481	1325	जन्माष्टमीनिर्णय	--	--	Paper	DN	8.1"x3.8"	8.1"x3.8"	14	40	1	--	Poor	--	F. torn, text damaged. Margins lost.	Dharmshastra Lit & Ritual
+;0482	1048	जातिविवेकपद्धति	रघुनाथ देवस्थली	--	Paper	DN	13"x12.2"	10.8"x11.2"	44	64	1	--	Fair	shaka 1654	F.folded two places, torn; text damaged.	Dharmshastra Lit & Ritual
+0482	1048	जातिविवेकपद्धति	रघुनाथ देवस्थली	--	Paper	DN	13"x12.2"	10.8"x11.2"	44	64	1	--	Fair	shaka 1654	F. folded at two places, torn; text damaged.	Dharmshastra Lit & Ritual
+;0483	193	ज्वरशान्ति	--	--	Paper	DN	8.2"x4"	7"x3"	9	25	4	कर्बेलकर	Good	--	--	Dharmshastra Lit & Ritual
+0483	193	ज्वरशान्ति	--	--	Paper	DN	8.2"x4"	7"x3"	9	25	4	कर्बेलकर	Good	--	--	Dharmshastra Lit & Ritual
+;0484	18	कालनिर्णय	आदित्य भट्ट	--	Paper	DN	9.9"x3.9"	8"x2.6"	9	30	202	--	Poor	--	Foll.186,194,197,198 missing. Foll torn,text damaged, attempts at restoration made by sticking pieces of paper. F.202 seem to have no connection with preceding foll.	Dharmshastra Lit & Ritual
+0484	18	कालनिर्णय	आदित्य भट्ट	--	Paper	DN	9.9"x3.9"	8"x2.6"	9	30	202	--	Poor	--	Foll. 186,194,197,198 missing. Foll. torn, text damaged, attempts at restoration made by sticking pieces of paper. F. 202 seem to have no connection with preceding foll.	Dharmshastra Lit & Ritual
+;0485	1330	कालनिर्णयसटीक	--	--	Paper	DN	11.8"x4.2"	10"x2.6"	10	Text:४६, Com:६०	4	--	Fair	--	Foll torn, text damaged on F.2	Dharmshastra Lit & Ritual
+0485	1330	कालनिर्णय सटीक	--	--	Paper	DN	11.8"x4.2"	10"x2.6"	10	Text:46, Com:60	4	--	Fair	--	Foll. torn, text damaged on F. 2.	Dharmshastra Lit & Ritual
+;0486	219	कालनिर्णयदीपिका	रामचन्द्र	--	Paper	DN	8.2"x4"	7.2"x3.2"	11	36	13	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
+0486	219	कालनिर्णयदीपिका	रामचन्द्र	--	Paper	DN	8.2"x4"	7.2"x3.2"	11	36	13	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0487	369	कालनिर्णयदीपिका	रामचन्द्र	--	Paper	DN	9"x4.7"	7"x3"	8	29	48	राहियाक अध्यापक	Good	V.S. 1753	--	Dharmshastra Lit & Ritual
+0487	369	कालनिर्णयदीपिका	रामचन्द्र	--	Paper	DN	9"x4.7"	7"x3"	8	29	48	राहियाक अध्यापक	Good	V.S. 1753	--	Dharmshastra Lit & Ritual
+;0488	17	कालनिर्णयसिद्धान्त सटीक	महादेव	रघुराम	Paper	DN	10.2"x4.5"	7.5"x3"	10	35	124	--	Good	--	--	Dharmshastra Lit & Ritual
+0488	17	कालनिर्णयसिद्धान्त सटीक	महादेव	रघुराम	Paper	DN	10.2"x4.5"	7.5"x3"	10	35	124	--	Good	--	--	Dharmshastra Lit & Ritual

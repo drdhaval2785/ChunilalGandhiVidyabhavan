@@ -882,14 +882,10 @@
 0545	1286	a. पुत्रस्वीकारग्रहण, b. दत्तकविचार	--	--	Paper	DN	8.2"x4"	7"x3.2"	17	44	4	--	Good	--	F. 1 missing. (a) begins and (b) ends abruptly.	Dharmshastra Lit & Ritual
 ;0546	205	रामकल्पद्रुम (श्राद्धकाण्ड)	अनन्त भट्ट	--	Paper	DN	12"x4.2"	9.8"x2.8"	12	55	77	बालकृष्ण जडिय	Good	--	F.77b has index.	Dharmshastra Lit & Ritual
 0546	205	रामकल्पद्रुम (श्राद्धकाण्ड)	अनन्त भट्ट	--	Paper	DN	12"x4.2"	9.8"x2.8"	12	55	77	बालकृष्ण जडिय	Good	--	F. 77b has index.	Dharmshastra Lit & Ritual
-;0547	1438	रामकल्पद्रुम	अनन्त भट्ट	--	Paper	DN	12"x4"	9.7"x2.4"	10	50	4	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
-0547	1438	रामकल्पद्रुम	अनन्त भट्ट	--	Paper	DN	12"x4"	9.7"x2.4"	10	50	4	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
 ;0548	220	रुद्रपद्धति	अनंत देव	--	Paper	DN	10.5"x4.2"	8.5"x2.8"	10	33	40	परशुराम	Fair	shaka 1667	Margins moth-eaten.	Dharmshastra Lit & Ritual
-0548	220	रुद्रपद्धति	अनंत देव	--	Paper	DN	10.5"x4.2"	8.5"x2.8"	10	33	40	परशुराम	Fair	shaka 1667	Margins moth-eaten.	Dharmshastra Lit & Ritual
+0548	220	रुद्रपद्धति	अनन्त देव	--	Paper	DN	10.5"x4.2"	8.5"x2.8"	10	33	40	परशुराम	Fair	shaka 1667	Margins moth-eaten.	Dharmshastra Lit & Ritual
 ;0549	797	रुद्रार्चनमञ्जरी	मालाजी भट्ट	--	Paper	DN	7.2"x4.4"	5.7"x3.2"	10	24	33	--	Fair	--	Ends abruptly	Dharmshastra Lit & Ritual
 0549	797	रुद्रार्चनमञ्जरी	मालाजी भट्ट	--	Paper	DN	7.2"x4.4"	5.7"x3.2"	10	24	33	--	Fair	--	Ends abruptly.	Dharmshastra Lit & Ritual
-;0550	382	सभाकौमुदी	--	--	Paper	DN	8.2"x4"	6"x2.4"	10	30	23	--	Good	shaka 1690	--	Dharmshastra Lit & Ritual
-0550	382	सभाकौमुदी	--	--	Paper	DN	8.2"x4"	6"x2.4"	10	30	23	--	Good	shaka 1690	--	Dharmshastra Lit & Ritual
 ;0551	1143	सभाष्यसन्ध्या	--	--	Paper	DN	10.2"x3.3"	8.2"x2.2"	5	36	16	शुक्ल भीमाजी	Poor	shaka 1686	Foll, torn, text damaged. Owner: भट्ट: कृष्णचन्द्रः	Dharmshastra Lit & Ritual
 0551	1143	सभाष्यसन्ध्या	--	--	Paper	DN	10.2"x3.3"	8.2"x2.2"	5	36	16	शुक्ल भीमजी	Poor	V.S. 1686	Foll. torn, text damaged. Owner: भट्ट कृष्णचन्द्र.	Dharmshastra Lit & Ritual
 ;0552	770	संन्यासविधि	--	--	Paper	DN	8.3"x4"	6.8"x2.5"	10	30	8	--	Fair	--	F.1 moth-eaten, text damaged. Ends abruptly.	Dharmshastra Lit & Ritual
@@ -898,9 +894,35 @@
 0553	773	संन्यासविधि	--	--	Paper	DN	8.2"x4"	6.8"x2.8"	11	32	14	--	Poor	--	Foll. 1-8 missing. 9,14 have holes, text damaged. Begins abruptly.	Dharmshastra Lit & Ritual
 ;0554	893	संन्यासविधि	शंकराचार्य	--	Paper	DN	6.8"x3.6"	5.5"x2.4"	8	28	3	--	Good	--	Ends abruptly. Same as no 520 above.	Dharmshastra Lit & Ritual
 0554	893	संन्यासविधि	शङ्कराचार्य	--	Paper	DN	6.8"x3.6"	5.5"x2.4"	8	28	3	--	Good	--	Ends abruptly. Same as no. 520 above.	Dharmshastra Lit & Ritual
-;0555	419	संस्कारकमलाकर	कमलाकर भट्ट	--	Paper	DN	12"x4.1"	10"x2.5"	11	50	27	अनन्त भट्ट	Good	shaka 1697	--	Dharmshastra Lit & Ritual
-0555	419	संस्कारकमलाकर	कमलाकर भट्ट	--	Paper	DN	12"x4.1"	10"x2.5"	11	50	27	अनन्त भट्ट	Good	shaka 1697	--	Dharmshastra Lit & Ritual
 ;0556	781	संस्कारकौस्तुभः	जीव देव	--	Paper	DN	11.5"x3.7"	9.5"x2"	9	34	60	 	Good	--	Ends abruptly. Also called Asaucanirnaya	Dharmshastra Lit & Ritual
 0556	781	संस्कारकौस्तुभ	जीव देव	--	Paper	DN	11.5"x3.7"	9.5"x2"	9	34	60	 	Good	--	Ends abruptly. Also called आशौचनिर्णय.	Dharmshastra Lit & Ritual
 ;0557	1046	संस्कारकौस्तुभः (आनुपूर्वी)	अनन्त देव	--	Paper	DN	11"x5.2"	10"x4.8"	14	38	2	--	Good	--	Each page has 4 columns; page 1 has 5 columns.	Dharmshastra Lit & Ritual
 0557	1046	संस्कारकौस्तुभ (आनुपूर्वी)	अनन्त देव	--	Paper	DN	11"x5.2"	10"x4.8"	14	38	2	--	Good	--	Each page has 4 columns; page 1 has 5 columns.	Dharmshastra Lit & Ritual
+;0558	1472	संस्कारकौस्तुभः	अंनत देव	--	Paper	DN	8.5"x4.1"	7.2"x3.1"	15	38	5	--	Good	--	Owner: केशवः	Dharmshastra Lit & Ritual
+0558	1472	संस्कारकौस्तुभ	अनन्त देव	--	Paper	DN	8.5"x4.1"	7.2"x3.1"	15	38	5	--	Good	--	Owner: केशव.	Dharmshastra Lit & Ritual
+;0559	1139	संस्कारप्रकरण	--	--	Paper	DN	8.2"x4"	6.8"x3.2"	12	32	3	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
+0559	1139	संस्कारप्रकरण	--	--	Paper	DN	8.2"x4"	6.8"x3.2"	12	32	3	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0560	266	सन्ध्याविधि	--	--	Paper	DN	8.5"x4"	6.4"x2.5"	7	22	3	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
+0560	266	सन्ध्याविधि	--	--	Paper	DN	8.5"x4"	6.4"x2.5"	7	22	3	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0561	702	सन्ध्याविधि	--	--	Paper	DN	6.7"x4.1"	5.2"x2.6"	9	22	10	--	Good	--	--	Dharmshastra Lit & Ritual
+0561	702	सन्ध्याविधि	--	--	Paper	DN	6.7"x4.1"	5.2"x2.6"	9	22	10	--	Good	--	--	Dharmshastra Lit & Ritual
+;0562	1144	सन्ध्याविधि	--	--	Paper	DN	8.2"x4.2"	6.5"x3"	9	20	3	--	Good	--	--	Dharmshastra Lit & Ritual
+0562	1144	सन्ध्याविधि	--	--	Paper	DN	8.2"x4.2"	6.5"x3"	9	20	3	--	Good	--	--	Dharmshastra Lit & Ritual
+;0563	1140	संक्षेपशालाविधि	--	--	Paper	DN	8.3"x4"	6.8"x2.9"	15	38	2	 	Good	--	Owner: भास्करः जडिय:	Dharmshastra Lit & Ritual
+0563	1140	सङ्क्षेपशालाविधि	--	--	Paper	DN	8.3"x4"	6.8"x2.9"	15	38	2	 	Good	--	Owner: भास्कर जडिय.	Dharmshastra Lit & Ritual
+;0564	271	संक्षिप्तचलार्चाविधि	अन्नत देव	--	Paper	DN	8.3"x4"	6.3"x2.8" "	11	33	3	--	Good	--	--	Dharmshastra Lit & Ritual
+0564	271	सङ्क्षिप्तचलार्चाविधि	अनन्त देव	--	Paper	DN	8.3"x4"	6.3"x2.8" "	11	33	3	--	Good	--	--	Dharmshastra Lit & Ritual
+;0565	256	शान्तिकविधि	--	--	Paper	DN	10.2"x6.2"	8.2"x4.4"	14	40	21	हरि गोविंद	Fair	V.S. 1768	Foll.20,21 torn;text damaged	Dharmshastra Lit & Ritual
+0565	256	शान्तिकविधि	--	--	Paper	DN	10.2"x6.2"	8.2"x4.4"	14	40	21	हरि गोविन्द	Fair	V.S. 1768	Foll. 20,21 torn; text damaged.	Dharmshastra Lit & Ritual
+;0566	1147	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.4"x4.1"	6.6"x2.9"	13	40	2	--	Good	--	--	Dharmshastra Lit & Ritual
+0566	1147	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.4"x4.1"	6.6"x2.9"	13	40	2	--	Good	--	--	Dharmshastra Lit & Ritual
+;0567	1474	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.3"x4.1"	6.6"x3"	14	46	2	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
+0567	1474	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.3"x4.1"	6.6"x3"	14	46	2	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0568	806	शातातपस्मृति (कर्मविपाक)	--	--	Paper	DN	12"x4.2"	10"x2.8"	13	50	2	केशव पट्टक	Good	shaka 1725	--	Dharmshastra Lit & Ritual
+0568	806	शातातपस्मृति (कर्मविपाक)	--	--	Paper	DN	12"x4.2"	10"x2.8"	13	50	2	केशव पट्टक	Good	shaka 1725	--	Dharmshastra Lit & Ritual
+;0569	1013	स्मार्तकर्माणि	--	--	Paper	DN	9.1"x3.8"	8.8"x2.8"	11	44	1	--	Fair	--	Margins torn, text damaged, begins ends abruptly	Dharmshastra Lit & Ritual
+0569	1013	स्मार्तकर्माणि	--	--	Paper	DN	9.1"x3.8"	8.8"x2.8"	11	44	1	--	Fair	--	Margins torn, text damaged, begins, ends abruptly.	Dharmshastra Lit & Ritual
+;0570	1348	स्मार्तकर्म	--	--	Paper	DN	8.2"x3.9"	6.7"x2.5"	12	40	34	--	Good	--	F.1 missing. Begins,ends abruptly.	Dharmshastra Lit & Ritual
+0570	1348	स्मार्तकर्म	--	--	Paper	DN	8.2"x3.9"	6.7"x2.5"	12	40	34	--	Good	--	F. 1 missing. Begins, ends abruptly.	Dharmshastra Lit & Ritual
+;0571	1510	स्मृतिपद्यानि	--	--	Paper	DN	9"x4.4"	7"x3"	11	37	7	--	Good	--	--	Dharmshastra Lit & Ritual
+0571	1510	स्मृतिपद्यानि	--	--	Paper	DN	9"x4.4"	7"x3"	11	37	7	--	Good	--	--	Dharmshastra Lit & Ritual

@@ -1282,15 +1282,31 @@
 0805	1455	a. रामभद्रध्यान, b. सन्ध्याविधि	--	--	Paper	DN	4.9"x3.9"	3.4"x2"	6	14	16	--	Good	--	Foll. 1-5 missing. (a) begins abruptly.	The Purana L. & R.
 ;0806	1439	रामार्चनचन्द्रिका	--	--	Paper	DN	10.5"x4.6"	8.7"x3.5"	10	32	20	--	Good	--	Foll.1-9 missing. Begins; ends abruptly	The Purana L. & R.
 0806	1439	रामार्चनचन्द्रिका	--	--	Paper	DN	10.5"x4.6"	8.7"x3.5"	10	32	20	--	Good	--	Foll. 1-9 missing. Begins, ends abruptly.	The Purana L. & R.
-;0807	1442	रामषडक्षरीमन्त्रजपविधि	--	--	Paper	DN	6.3"x4.9"	4.4"x3.9"	11	18	1	--	Good	--	--	The Purana L. & R.
-0807	1442	रामषडक्षरीमन्त्रजपविधि	--	--	Paper	DN	6.3"x4.9"	4.4"x3.9"	11	18	1	--	Good	--	--	The Purana L. & R.
 ;0808	139	रामायणसार	अग्निवेश	--	Paper	DN	9.2"x4.8"	7"x3"	9	25	18	पूर्णानन्द	Good	V.S. 1857	Owner: घनश्यामः	The Purana L. & R.
 0808	139	रामायणसार	अग्निवेश	--	Paper	DN	9.2"x4.8"	7"x3"	9	25	18	पूर्णानन्द	Good	V.S. 1857	Owner: घनश्याम.	The Purana L. & R.
 ;0809	355	रामायणसार	अग्निवेश	--	Paper	DN	10"x3.8"	8.8"x2.7"	11	45	9	राम	Fair	shaka 1564	Margins left & right moth-eaten; text damaged.	The Purana L. & R.
 0809	355	रामायणसार	अग्निवेश	--	Paper	DN	10"x3.8"	8.8"x2.7"	11	45	9	राम	Fair	shaka 1564	Margins on left & right moth-eaten; text damaged.	The Purana L. & R.
-;0810	1441	रम्भातृतीयाव्रत	--	--	Paper	DN	7.4"x4.2"	7.1"x3.9"	19	40	2	श्रीकृष्ण	Poor	V.S. 1687	F.1 missing. Begins abruptly. F.2 torn; text damaged.	The Purana L. & R.
-0810	1441	रम्भातृतीयाव्रत	--	--	Paper	DN	7.4"x4.2"	7.1"x3.9"	19	40	2	श्रीकृष्ण	Poor	V.S. 1687	F.1 missing. Begins abruptly. F.2 torn; text damaged.	The Purana L. & R.
 ;0811	21	रव्यादिदेवप्रियपुष्पाणि	--	--	Paper	DN	11.5"x5"	10"x4"	15	48	8	--	Poor	--	Foll. Moth-eaten, torn, text damaged.	The Purana L. & R.
 0811	21	रव्यादिदेवप्रियपुष्पाणि	--	--	Paper	DN	11.5"x5"	10"x4"	15	48	8	--	Poor	--	Foll. moth-eaten, torn; text damaged.	The Purana L. & R.
 ;0812	1499	रेणुकामाहात्म्य	--	--	Paper	DN	11"x5"	9"x3.2"	13	40	3	--	Poor	--	Margins, torn,text damaged. Ends abruptly.	The Purana L. & R.
 0812	1499	रेणुकामाहात्म्य	--	--	Paper	DN	11"x5"	9"x3.2"	13	40	3	--	Poor	--	Margins torn, text damaged. Ends abruptly.	The Purana L. & R.
+;0815	1428	अ रुद्राक्षधारण, ब मूर्तिलक्षण	--	--	Paper	DN	8.4"x4"	7"x3"	18	52	6	--	Good	--	(b) ends abruptly	The Purana L. & R.
+0815	1428	a. रुद्राक्षधारण, b. मूर्तिलक्षण	--	--	Paper	DN	8.4"x4"	7"x3"	18	52	6	--	Good	--	(b) ends abruptly.	The Purana L. & R.
+;0816	1450	रुद्राक्षफल	--	--	Paper	DN	9.4"x4.3"	7.5"x2.5"	7	27	1	--	Good	--	Ends abruptly	The Purana L. & R.
+0816	1450	रुद्राक्षफल	--	--	Paper	DN	9.4"x4.3"	7.5"x2.5"	7	27	1	--	Good	--	Ends abruptly.	The Purana L. & R.
+;0817	84	साधनदीपिका	नारायण भट्ट	--	Paper	DN	11.5"x4.5"	9.5"x2.8"	9	42	171	--	Fair	--	Foll.1-16,18-23.170 missing. Begins abruptly. Left margins torn, text damaged.	The Purana L. & R.
+0817	84	साधनदीपिका	नारायण भट्ट	--	Paper	DN	11.5"x4.5"	9.5"x2.8"	9	42	171	--	Fair	--	Foll. 1-16,18-23,170 missing. Begins abruptly. Left margins torn, text damaged.	The Purana L. & R.
+;0818	1138	सामान्यपूजाविधि	--	--	Paper	DN	8.2"x3.9"	6.5"x2.7"	10	32	1	--	Good	--	--	The Purana L. & R.
+0818	1138	सामान्यपूजाविधि	--	--	Paper	DN	8.2"x3.9"	6.5"x2.7"	10	32	1	--	Good	--	--	The Purana L. & R.
+;0819	592	सामान्यार्चनपद्धति	केशव वाडव	--	Paper	DN	8.3"x4.1"	6.5"x3"	14	32	12	केशव वाडव	Good	shaka 1684	Owner:केशवः वाडव:	The Purana L. & R.
+0819	592	सामान्यार्चनपद्धति	केशव वाडव	--	Paper	DN	8.3"x4.1"	6.5"x3"	14	32	12	केशव वाडव	Good	shaka 1684	Owner:केशव वाडव.	The Purana L. & R.
+;0820	1142	संवित्प्रयोग	--	--	Paper	DN	6.9"x5"	5.2"x3.9"	12	20	14	--	Good	--	--	The Purana L. & R.
+0820	1142	संवित्प्रयोग	--	--	Paper	DN	6.9"x5"	5.2"x3.9"	12	20	14	--	Good	--	--	The Purana L. & R.
+;0821	91	संकष्टचतुर्थीव्रत	--	--	Paper	DN	8.7"x3.7"	6.3"x2"	8	28	12	हर भट्ट शण्ड्य	Fair	shaka 1723	F.12 moth-eaten;text damaged	The Purana L. & R.
+0821	91	सङ्कष्टचतुर्थीव्रत	--	--	Paper	DN	8.7"x3.7"	6.3"x2"	8	28	12	हर भट्ट शण्ड्य	Fair	shaka 1723	F. 12 moth-eaten; text damaged.	The Purana L. & R.
+;0822	1469	सन्तानव्रतकथा	--	--	Paper	DN	9.5"x3.8"	8"x2.5"	8	35	5	--	Good	--	Foll,1-2 mssing. Begins abruptly from भविष्योत्तरपुराणम्	The Purana L. & R.
+0822	1469	सन्तानव्रतकथा	--	--	Paper	DN	9.5"x3.8"	8"x2.5"	8	35	5	--	Good	--	Foll. 1-2 mssing. Begins abruptly. From भविष्योत्तरपुराण.	The Purana L. & R.
+;0823	894	सप्तर्षिदेवतापूजा	--	--	Paper	DN	9.5"x5"	7.5"x4"	9	26	3	--	Poor	--	Right margins torn; text damaged.	The Purana L. & R.
+0823	894	सप्तर्षिदेवतापूजा	--	--	Paper	DN	9.5"x5"	7.5"x4"	9	26	3	--	Poor	--	Right margins torn; text damaged.	The Purana L. & R.
+;0824	136	सप्तशती	--	--	Paper	DN	(Foll 1-7) 5.8"x3" (Foll 9-41) 7"x3.8"	4.4"x2", 5.4"x2"	(Foll 1-7) १०, (Foll 9-41) ९	26	41	--	Poor	--	Begins, ends abruptly. Foll 1,8,11,13,14,15,17,18,23,25-40 missing. Foll 1-7 torn; text damaged. Ms.copied by two scribes.	The Purana L. & R.
+0824	136	सप्तशती	--	--	Paper	DN	(Foll 1-7) 5.8"x3", (Foll 9-41) 7"x3.8"	4.4"x2", 5.4"x2"	(Foll 1-7) 10, (Foll 9-41) 9	26	41	--	Poor	--	Begins, ends abruptly. Foll. 1,8,11,13,14,15,17,18,23,25-40 missing. Foll. 1-7 torn; text damaged. Ms. copied by two scribes.	The Purana L. & R.

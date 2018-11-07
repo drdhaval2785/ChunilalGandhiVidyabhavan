@@ -520,16 +520,12 @@
 0310	191	पुण्याहवाचन, मातृकापूजन, नन्दिश्राद्ध	--	--	Paper	DN	8.2"x4"	7"x2.8"	11	33	7	--	Poor	--	F.1 damaged. Text not readable. Owner: नारायण भट्ट जडिय.	Vedic & Ritual
 ;0312	693	पुण्याहवाचन इत्यादि	--	--	Paper	DN	7.5"x4"	6.5"x3"	10	26	176	--	Fair	--	Foll.111-114, 116-130 missing. Text damaged on foll. 1-2. Ends abruptly.	Vedic & Ritual
 0312	693	पुण्याहवाचन इत्यादि	--	--	Paper	DN	7.5"x4"	6.5"x3"	10	26	176	--	Fair	--	Foll. 111-114, 116-130 missing. Text damaged on foll. 1-2. Ends abruptly.	Vedic & Ritual
-;0313	745	पुण्याहवाचन	--	--	Paper	DN	8.3"x3.9"	6.2"x2.6"	11	31	10	--	Good	shaka 1712	--	Vedic & Ritual
-0313	745	पुण्याहवाचन	--	--	Paper	DN	8.3"x3.9"	6.2"x2.6"	11	31	10	--	Good	shaka 1712	--	Vedic & Ritual
 ;0314	1467	पुण्याहवाचनविधि	--	--	Paper	DN	8.6"x4.2"	7"x2.9"	9	31	3	--	Good	--	F.1 missing. Begins & ends abruptly	Vedic & Ritual
 0314	1467	पुण्याहवाचनविधि	--	--	Paper	DN	8.6"x4.2"	7"x2.9"	9	31	3	--	Good	--	F.1 missing. Begins & ends abruptly.	Vedic & Ritual
 ;0315	158	पुरूषसूक्त	--	--	Paper	DN	8"x4.2"	6"x3.3"	5	12	3	--	Good	--	F.2 missing	Vedic & Ritual
 0315	158	पुरुषसूक्त	--	--	Paper	DN	8"x4.2"	6"x3.3"	5	12	3	--	Good	--	F.2 missing.	Vedic & Ritual
 ;0316	158a	पुरूषसूक्त	--	--	Paper	DN	8.5"x4.2"	6.5"x2.8"	8	27	2	--	Good	--	Ends abruptly	Vedic & Ritual
 0316	158A	पुरुषसूक्त	--	--	Paper	DN	8.5"x4.2"	6.5"x2.8"	8	27	2	--	Good	--	Ends abruptly.	Vedic & Ritual
-;0317	154	ऋक्प्रातिशाख्य	शौनक	--	Paper	DN	8.2"x4"	6.7"x2.10"	19	50	12	--	Good	--	--	Vedic & Ritual
-0317	154	ऋक्प्रातिशाख्य	शौनक	--	Paper	DN	8.2"x4"	6.7"x2.10"	19	50	12	--	Good	--	--	Vedic & Ritual
 ;0318	392k	ऋक्प्रातिशाख्य	शौनक	--	Paper	DN	12"x4.2"	9.5"x2.4"	11	55	14	--	Good	shaka 1641	Owner: भट्ट: दामोदर: हर्डिकर:	Vedic & Ritual
 0318	392C	ऋक्प्रातिशाख्य	शौनक	--	Paper	DN	12"x4.2"	9.5"x2.4"	11	55	14	--	Good	shaka 1641	Owner: भट्ट दामोदर हर्डिकर.	Vedic & Ritual
 ;0319	507	ऋग्वेदसंहिता प्रथमाष्टक	--	--	Paper	DN	8.1"x3.7"	5.8"x2.2"	9	29	108	--	Fair	shaka 1713	Last two foll. Torn, text damaged. Owner: कुण्ड: भट्ट: कळंकर:	Vedic & Ritual
@@ -538,8 +534,6 @@
 0320	508	ऋग्वेदसंहिता तृतीयाष्टक	--	--	Paper	DN	8.3"x3.8"	6.2"x2.3"	8	27	108	--	Good	shaka 1713	Owner: कोण्ड भट्ट कळंकर.	Vedic & Ritual
 ;0321	509	ऋग्वेदसंहिता सप्तमाष्टक	--	--	Paper	DN	8.3"x3.8"	6.2"x2.7"	9	22	112	वैजनाथ नवाथ्ये	Good	shaka 1739	Foll. 1-17 missing begins abruptly	Vedic & Ritual
 0321	509	ऋग्वेदसंहिता सप्तमाष्टक	--	--	Paper	DN	8.3"x3.8"	6.2"x2.7"	9	22	112	वैजनाथ नवाथ्ये	Good	shaka 1739	Foll. 1-17 missing. Begins abruptly.	Vedic & Ritual
-;0322	510	ऋग्वेदसंहिता अष्टमाष्टक	--	--	Paper	DN	8.1"x3.9"	6.2"x2"	8	25	113	S/o महादेव नाटेकर	Fair	shaka 1723	Text damaged on foll 1,113	Vedic & Ritual
-0322	510	ऋग्वेदसंहिता अष्टमाष्टक	--	--	Paper	DN	8.1"x3.9"	6.2"x2"	8	25	113	S/o महादेव नाटेकर	Fair	shaka 1723	Text damaged on foll 1,113	Vedic & Ritual
 ;0323	1446	ऋग्वेद (१.२४.१२-१.२५.१७६)	--	--	Paper	DN	8.4"x3.6"	6.6"x2.4"	9	32	14	--	Good	--	Foll 1-13 missing. Begins & ends abruptly.	Vedic & Ritual
 0323	1446	ऋग्वेद (१.२४.१२-१.२५.१७६)	--	--	Paper	DN	8.4"x3.6"	6.6"x2.4"	9	32	14	--	Good	--	Foll. 1-13 missing. Begins & ends abruptly.	Vedic & Ritual
 ;0324	1447	ऋग्वेदसंहिता चतुर्थाष्टक	--	--	Paper	DN	8.3"x4"	6.2"x2.1"	8	32	56	--	Good	--	Foll 1-6 missing. Begins & ends abruptly.	Vedic & Ritual
@@ -548,3 +542,33 @@
 0325	1448	ऋग्वेदसंहिता अष्टमाष्टक	--	--	Paper	DN	7.8"x3.8"	5.9"x2"	8	28	43	--	Good	--	Foll. 1-28 missing. Begins & ends abruptly.	Vedic & Ritual
 ;0326	1502	ऋग्वेदसंहिता १०.१२७, १०.१२५	--	--	Paper	DN	8"x4.2"	6"x2.6"	9	27	1	--	Good	--	--	Vedic & Ritual
 0326	1502	ऋग्वेदसंहिता १०.१२७, १०.१२५	--	--	Paper	DN	8"x4.2"	6"x2.6"	9	27	1	--	Good	--	--	Vedic & Ritual
+;0327	464	ऋग्वेद पदपाठ प्रथमाष्टक	शाकल्य	--	Paper	DN	12.2"x4.2"	10"x2.5"	12	60	24	--	Good	--	Ends abruptly	Vedic & Ritual
+0327	464	ऋग्वेद पदपाठ प्रथमाष्टक	शाकल्य	--	Paper	DN	12.2"x4.2"	10"x2.5"	12	60	24	--	Good	--	Ends abruptly.	Vedic & Ritual
+;0328	465	ऋग्वेद पदपाठ द्वितीयाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	9.5"x2.4"	11	46	22	--	Good	--	Ends abruptly	Vedic & Ritual
+0328	465	ऋग्वेद पदपाठ द्वितीयाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	9.5"x2.4"	11	46	22	--	Good	--	Ends abruptly.	Vedic & Ritual
+;0329	466	ऋग्वेद पदपाठ तृतीयाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	10	66	45	--	Good	shaka(?) 1655	Owner: विश्वनाथ:	Vedic & Ritual
+0329	466	ऋग्वेद पदपाठ तृतीयाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	10	66	45	--	Good	shaka(?) 1655	Owner: विश्वनाथ.	Vedic & Ritual
+;0330	467	ऋग्वेद पदपाठ चतुर्थाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	11	66	44	विश्वनाथ जडिय	Good	shaka 1655	--	Vedic & Ritual
+0330	467	ऋग्वेद पदपाठ चतुर्थाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	11	66	44	विश्वनाथ जडिय	Good	shaka 1655	--	Vedic & Ritual
+;0331	468	ऋग्वेद पदपाठ पञ्चमाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	9	50	51	--	Good	shaka 1658	Owner: विश्वनाथ: भट्ट:	Vedic & Ritual
+0331	468	ऋग्वेद पदपाठ पञ्चमाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	9	50	51	--	Good	shaka 1658	Owner: विश्वनाथ भट्ट.	Vedic & Ritual
+;0332	469	ऋग्वेद पदपाठ सप्तमाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	10	60	46	विश्वनाथ जडिय	Good	shaka 1655	--	Vedic & Ritual
+0332	469	ऋग्वेद पदपाठ सप्तमाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	10	60	46	विश्वनाथ जडिय	Good	shaka 1655	--	Vedic & Ritual
+;0333	470	ऋग्वेद पदपाठ अष्टमाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	11	52	41	विश्वनाथ जडिय	Good	shaka 1656	--	Vedic & Ritual
+0333	470	ऋग्वेद पदपाठ अष्टमाष्टक	शाकल्य	--	Paper	DN	12"x4.2"	10.2"x2.4"	11	52	41	विश्वनाथ जडिय	Good	shaka 1656	--	Vedic & Ritual
+;0334	475	ऋग्वेद पदपाठ i»तीयाष्टक	शाकल्य	--	Paper	DN	10.8"x4.5"	8.8"x2.8"	11	40	63	विश्वनाथ जडिय	Fair	V.S. 1730	Foll 1-19  missing. Begins & ends abruptly. Last folio not cleraly readable	Vedic & Ritual
+0334	475	ऋग्वेद पदपाठ द्वितीयाष्टक	शाकल्य	--	Paper	DN	10.8"x4.5"	8.8"x2.8"	11	40	63	विश्वनाथ	Fair	V.S. 1730	Foll. 1-19  missing. Begins & ends abruptly. Last folio not cleraly readable.	Vedic & Ritual
+;0335	476	ऋग्वेद पदपाठ प्रथमाष्टक	शाकल्य	--	Paper	DN	10.8"x4.5"	8"x3"	10	34	71	विश्वनाथ देवस्थली	Good	V.S. 1737	Foll.1-53 missing. Begins abruptly	Vedic & Ritual
+0335	476	ऋग्वेद पदपाठ प्रथमाष्टक	शाकल्य	--	Paper	DN	10.8"x4.5"	8"x3"	10	34	71	विश्वनाथ देवस्थली	Good	V.S. 1737	Foll. 1-53 missing. Begins abruptly.	Vedic & Ritual
+;0336	145	ऋग्विधान (ज्येष्ठ)	शौनक	--	Paper	DN	8.5"x4"	6"x2.7"	11	28	23	--	Good	shaka 1612	--	Vedic & Ritual
+0336	145	ऋग्विधान (ज्येष्ठ)	शौनक	--	Paper	DN	8.5"x4"	6"x2.7"	11	28	23	--	Good	shaka 1612	--	Vedic & Ritual
+;0337	401	ऋग्विधान	शौनक	--	Paper	DN	10"x4.5"	7.6"x2.5"	10	36	41	सदाशिव जानी	Fair	--	Foll; torn; text not damaged	Vedic & Ritual
+0337	401	ऋग्विधान	शौनक	--	Paper	DN	10"x4.5"	7.6"x2.5"	10	36	41	सदाशिव जानी	Fair	--	Foll. torn; text not damaged.	Vedic & Ritual
+;0338	146	रुद्राध्याय	--	--	Paper	DN	8.5"x3.7"	6.5"x2.3"	9	31	13	दादोपन्त गौण्ड	Good	shaka 1694	Foll 1-10 missing. Begins abruptly	Vedic & Ritual
+0338	146	रुद्राध्याय	--	--	Paper	DN	8.5"x3.7"	6.5"x2.3"	9	31	13	दादोपन्त गौण्ड	Good	shaka 1694	Foll. 1-10 missing. Begins abruptly.	Vedic & Ritual
+;0339	147	रुद्राध्याय	--	--	Paper	DN	6"x4"	5"x2.8"	9	20	19	विठ्ठल भट्ट	Good	shaka 1702	--	Vedic & Ritual
+0339	147	रुद्राध्याय	--	--	Paper	DN	6"x4"	5"x2.8"	9	20	19	विठ्ठल भट्ट	Good	shaka 1702	--	Vedic & Ritual
+;0340	244	सामानि	--	--	Paper	DN	10.4"x4.7"	8.2"x3"	6	30	२+२०=२२	--	Fair	--	Begins & ends abruptly. Foll moth-eaten	Vedic & Ritual
+0340	244	सामानि	--	--	Paper	DN	10.4"x4.7"	8.2"x3"	6	30	2+20=22	--	Fair	--	Begins & ends abruptly. Foll. moth-eaten.	Vedic & Ritual
+;0341	1367	सामोपासना	--	--	Paper	DN	8.2"x3.6"	6.2"x2.2"	9	35	7	name given but not readable	Poor	V.S. 1571	F.1  missing,Begins abruptly. Foll moth-eaten; text damaged	Vedic & Ritual
+0341	1367	सामोपासना	--	--	Paper	DN	8.2"x3.6"	6.2"x2.2"	9	35	7	name given but not readable	Poor	V.S. 1571	F. 1 missing, Begins abruptly. Foll. moth-eaten; text damaged.	Vedic & Ritual

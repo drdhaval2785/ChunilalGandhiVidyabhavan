@@ -12,6 +12,18 @@ def prepareDuplicate(filein, fileout):
 	fin.close()
 	fout.close()
 
+def findNoChangeLines(filein):
+	fin = codecs.open(filein, 'r', 'utf-8')
+	inpt = ''
+	outpt = ''
+	for line in fin:
+		if line.startswith(';'):
+			inpt = line.lstrip(';')
+		else:
+			outpt = line
+			if inpt == outpt:
+				print(inpt.split('\t')[0])
+	fin.close()
 
 if __name__=="__main__":
 	input = []
@@ -33,4 +45,5 @@ if __name__=="__main__":
 		fout.write(wholedata)
 
 	# prepareDuplicate('../derivedFiles/cataloguev005.tsv','../derivedFiles/manua.txt')
+	findNoChangeLines('../derivedFiles/manualByLine.txt')
 	

@@ -904,25 +904,45 @@
 0559	1139	संस्कारप्रकरण	--	--	Paper	DN	8.2"x4"	6.8"x3.2"	12	32	3	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
 ;0560	266	सन्ध्याविधि	--	--	Paper	DN	8.5"x4"	6.4"x2.5"	7	22	3	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
 0560	266	सन्ध्याविधि	--	--	Paper	DN	8.5"x4"	6.4"x2.5"	7	22	3	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
-;0561	702	सन्ध्याविधि	--	--	Paper	DN	6.7"x4.1"	5.2"x2.6"	9	22	10	--	Good	--	--	Dharmshastra Lit & Ritual
-0561	702	सन्ध्याविधि	--	--	Paper	DN	6.7"x4.1"	5.2"x2.6"	9	22	10	--	Good	--	--	Dharmshastra Lit & Ritual
-;0562	1144	सन्ध्याविधि	--	--	Paper	DN	8.2"x4.2"	6.5"x3"	9	20	3	--	Good	--	--	Dharmshastra Lit & Ritual
-0562	1144	सन्ध्याविधि	--	--	Paper	DN	8.2"x4.2"	6.5"x3"	9	20	3	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0563	1140	संक्षेपशालाविधि	--	--	Paper	DN	8.3"x4"	6.8"x2.9"	15	38	2	 	Good	--	Owner: भास्करः जडिय:	Dharmshastra Lit & Ritual
 0563	1140	सङ्क्षेपशालाविधि	--	--	Paper	DN	8.3"x4"	6.8"x2.9"	15	38	2	 	Good	--	Owner: भास्कर जडिय.	Dharmshastra Lit & Ritual
 ;0564	271	संक्षिप्तचलार्चाविधि	अन्नत देव	--	Paper	DN	8.3"x4"	6.3"x2.8" "	11	33	3	--	Good	--	--	Dharmshastra Lit & Ritual
 0564	271	सङ्क्षिप्तचलार्चाविधि	अनन्त देव	--	Paper	DN	8.3"x4"	6.3"x2.8" "	11	33	3	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0565	256	शान्तिकविधि	--	--	Paper	DN	10.2"x6.2"	8.2"x4.4"	14	40	21	हरि गोविंद	Fair	V.S. 1768	Foll.20,21 torn;text damaged	Dharmshastra Lit & Ritual
 0565	256	शान्तिकविधि	--	--	Paper	DN	10.2"x6.2"	8.2"x4.4"	14	40	21	हरि गोविन्द	Fair	V.S. 1768	Foll. 20,21 torn; text damaged.	Dharmshastra Lit & Ritual
-;0566	1147	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.4"x4.1"	6.6"x2.9"	13	40	2	--	Good	--	--	Dharmshastra Lit & Ritual
-0566	1147	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.4"x4.1"	6.6"x2.9"	13	40	2	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0567	1474	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.3"x4.1"	6.6"x3"	14	46	2	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
 0567	1474	सपिण्डीकरणनिर्णय	--	--	Paper	DN	8.3"x4.1"	6.6"x3"	14	46	2	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
-;0568	806	शातातपस्मृति (कर्मविपाक)	--	--	Paper	DN	12"x4.2"	10"x2.8"	13	50	2	केशव पट्टक	Good	shaka 1725	--	Dharmshastra Lit & Ritual
-0568	806	शातातपस्मृति (कर्मविपाक)	--	--	Paper	DN	12"x4.2"	10"x2.8"	13	50	2	केशव पट्टक	Good	shaka 1725	--	Dharmshastra Lit & Ritual
 ;0569	1013	स्मार्तकर्माणि	--	--	Paper	DN	9.1"x3.8"	8.8"x2.8"	11	44	1	--	Fair	--	Margins torn, text damaged, begins ends abruptly	Dharmshastra Lit & Ritual
 0569	1013	स्मार्तकर्माणि	--	--	Paper	DN	9.1"x3.8"	8.8"x2.8"	11	44	1	--	Fair	--	Margins torn, text damaged, begins, ends abruptly.	Dharmshastra Lit & Ritual
 ;0570	1348	स्मार्तकर्म	--	--	Paper	DN	8.2"x3.9"	6.7"x2.5"	12	40	34	--	Good	--	F.1 missing. Begins,ends abruptly.	Dharmshastra Lit & Ritual
 0570	1348	स्मार्तकर्म	--	--	Paper	DN	8.2"x3.9"	6.7"x2.5"	12	40	34	--	Good	--	F. 1 missing. Begins, ends abruptly.	Dharmshastra Lit & Ritual
 ;0571	1510	स्मृतिपद्यानि	--	--	Paper	DN	9"x4.4"	7"x3"	11	37	7	--	Good	--	--	Dharmshastra Lit & Ritual
 0571	1510	स्मृतिपद्यानि	--	--	Paper	DN	9"x4.4"	7"x3"	11	37	7	--	Good	--	--	Dharmshastra Lit & Ritual
+;0572	51	स्मृतिकौस्तुभ (वापीकूपतडागखातोद्यापनविधि)	अनन्त देव	--	Paper	DN	10"x4.7"	7.8"x3.2"	11	35	6	--	Good	--	--	Dharmshastra Lit & Ritual
+0572	51	स्मृतिकौस्तुभ (वापीकूपतडागखातोद्यापनविधि)	अनन्त देव	--	Paper	DN	10"x4.7"	7.8"x3.2"	11	35	6	--	Good	--	--	Dharmshastra Lit & Ritual
+;0573	618	स्मृतिरत्नाकर	--	--	Paper	DN	12"x5.6"	9.9"x3.6"	17	53	75	हरि भट्ट सन्द्य	Fair	shaka 1721	F.2 moth-eaten,text damaged.	Dharmshastra Lit & Ritual
+0573	618	स्मृतिरत्नाकर	--	--	Paper	DN	12"x5.6"	9.9"x3.6"	17	53	75	हरि भट्ट सन्द्य	Fair	shaka 1721	F. 2 moth-eaten, text damaged.	Dharmshastra Lit & Ritual
+;0574	1047	स्मृतिरत्नाकर - अनुक्रमणिका	--	--	Paper	DN	11.5"x5.4"	10.4"x4"	16	40	2	--	Fair	--	Each page divided into 5 columns, seperated by double red lines.	Dharmshastra Lit & Ritual
+0574	1047	स्मृतिरत्नाकर - अनुक्रमणिका	--	--	Paper	DN	11.5"x5.4"	10.4"x4"	16	40	2	--	Fair	--	Each page divided into 5 columns, seperated by double red lines.	Dharmshastra Lit & Ritual
+;0575	5	स्मृत्यर्थसार	श्रीधर	--	Paper	DN	8.3"x4.3"	6.4"x2.4"	10	27	131	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
+0575	5	स्मृत्यर्थसार	श्रीधर	--	Paper	DN	8.3"x4.3"	6.4"x2.4"	10	27	131	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0576	6	स्मृत्यर्थसार	श्रीधर	--	Paper	DN	9"x4.2"	6.8"x2.8"	13	38	104	--	Good	shaka 1674	--	Dharmshastra Lit & Ritual
+0576	6	स्मृत्यर्थसार	श्रीधर	--	Paper	DN	9"x4.2"	6.8"x2.8"	13	38	104	--	Good	shaka 1674	--	Dharmshastra Lit & Ritual
+;0577	787	श्राद्धकल्पभाष्य (गोभिलीय)	--	--	Paper	DN	11"x5.3"	8.5"x3.8"	13	38	36	 	Good	--	--	Dharmshastra Lit & Ritual
+0577	787	श्राद्धकल्पभाष्य (गोभिलीय)	--	--	Paper	DN	11"x5.3"	8.5"x3.8"	13	38	36	 	Good	--	--	Dharmshastra Lit & Ritual
+;0578	952	श्राद्धग्रन्थ	--	--	Paper	DN	9.8"x4.1"	8.6"x3.2"	14	50	4	--	Poor	--	Foll. Not numbered. Begins, Ends abruptly, foll. Moth-eaten,text damaged. Marginal additions	Dharmshastra Lit & Ritual
+0578	952	श्राद्धग्रन्थ	--	--	Paper	DN	9.8"x4.1"	8.6"x3.2"	14	50	4	--	Poor	--	Foll. not numbered. Begins, Ends abruptly, Foll. moth-eaten, text damaged. Marginal additions.	Dharmshastra Lit & Ritual
+;0579	13	श्राद्धपद्धति	रघुनाथ भट्ट	--	Paper	DN	12"x4.2"	9.5"x2.5"	10	44	27	बालकृष्ण	Good	shaka 1775	--	Dharmshastra Lit & Ritual
+0579	13	श्राद्धपद्धति	रघुनाथ भट्ट	--	Paper	DN	12"x4.2"	9.5"x2.5"	10	44	27	बालकृष्ण	Good	shaka 1775	--	Dharmshastra Lit & Ritual
+;0580	280	श्राद्धसंकल्प	--	--	Paper	DN	8.2"x4"	7.1"x3.2"	13	37	2	--	Good	--	Ends abruptly	Dharmshastra Lit & Ritual
+0580	280	श्राद्धसङ्कल्प	--	--	Paper	DN	8.2"x4"	7.1"x3.2"	13	37	2	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0581	1488	श्राद्धविधि	--	--	Paper	DN	8.2"x12"	7"x11.2"	१४ x ३	36	1	--	Good	--	F.folded, so as to make 3 parts. Begins, Ends abruptly.	Dharmshastra Lit & Ritual
+0581	1488	श्राद्धविधि	--	--	Paper	DN	8.2"x12"	7"x11.2"	14x3	36	1	--	Good	--	F. folded, so as to make 3 parts. Begins, ends abruptly.	Dharmshastra Lit & Ritual
+;0582	200	शूद्रकमलाकर (नान्दीश्राद्ध-पुण्याह)	कमलाकर भट्ट	--	Paper	DN	10"x6"	7.6"x4"	11	28	6	हरगोविन्द	Good	V.S. 1790	--	Dharmshastra Lit & Ritual
+0582	200	शूद्रकमलाकर (नान्दीश्राद्ध-पुण्याह)	कमलाकर भट्ट	--	Paper	DN	10"x6"	7.6"x4"	11	28	6	हरगोविन्द	Good	V.S. 1790	--	Dharmshastra Lit & Ritual
+;0583	1489	शूद्रकमलाकर 	कमलाकर भट्ट	--	Paper	DN	11.8"x4.2"	9.4"x2.2"	9	40	67	--	Good	--	Foll. 1-61 missing. Begins,ends abruptly	Dharmshastra Lit & Ritual
+0583	1489	शूद्रकमलाकर 	कमलाकर भट्ट	--	Paper	DN	11.8"x4.2"	9.4"x2.2"	9	40	67	--	Good	--	Foll. 1-61 missing. Begins, ends abruptly.	Dharmshastra Lit & Ritual
+;0584	208	सूत्रानुसारिदर्शश्राद्धप्रयोग	--	--	Paper	DN	8.2"x4.2"	6.2"x2.6"	8	24	9	--	Good	--	--	Dharmshastra Lit & Ritual
+0584	208	सूत्रानुसारिदर्शश्राद्धप्रयोग	--	--	Paper	DN	8.2"x4.2"	6.2"x2.6"	8	24	9	--	Good	--	--	Dharmshastra Lit & Ritual
+;0585	50	तडागादिप्रतिस्ठाप्रयोग	--	--	Paper	DN	10"x4.7"	7.5"x3.2"	11	35	7	--	Good	--	Owner: गोपालः भट्ट:	Dharmshastra Lit & Ritual
+0585	50	तडागादिप्रतिस्ठाप्रयोग	--	--	Paper	DN	10"x4.7"	7.5"x3.2"	11	35	7	--	Good	--	Owner: गोपाल भट्ट.	Dharmshastra Lit & Ritual

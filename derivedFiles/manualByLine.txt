@@ -802,18 +802,10 @@
 0490	18	कालतरङ्ग	चलारी नृसिंहाचार्य	--	Paper	DN	10.2"x4.7"	8.2"x3.2"	12	46	28	मनसुखराम मेवादा भट्ट	Fair	V.S. 1858	Foll. 20-28 moth-eaten. तिथिनिर्णय - 1 chapter only. Owner: घनश्यामजी.	Dharmshastra Lit & Ritual
 ;0491	214 a	कलशप्रतिष्ठा - ध्वजारोपणमहिमा	श्यामसुन्दर	--	Paper	DN	8"x5.2"	6.5"x4"	11	24	3	--	Good	--	foll 48-50	Dharmshastra Lit & Ritual
 0491	214A	कलशप्रतिष्ठा-ध्वजारोपणमहिमा	श्यामसुन्दर	--	Paper	DN	8"x5.2"	6.5"x4"	11	24	3	--	Good	--	foll 48-50.	Dharmshastra Lit & Ritual
-;0492	26	कर्मप्रदीप	कात्यायन	--	Paper	DN	10"x4.5"	8.5"x3"	10	34	25	--	Good	V.S. 1607	--	Dharmshastra Lit & Ritual
-0492	26	कर्मप्रदीप	कात्यायन	--	Paper	DN	10"x4.5"	8.5"x3"	10	34	25	--	Good	V.S. 1607	--	Dharmshastra Lit & Ritual
 ;0493	891	कर्मविपाक	--	--	Paper	DN	8.5"x5.2"	7"x4.2"	17	40	9	--	Fair	--	F.4 moth-eaten, text damaged. Ends abruptly	Dharmshastra Lit & Ritual
 0493	891	कर्मविपाक	--	--	Paper	DN	8.5"x5.2"	7"x4.2"	17	40	9	--	Fair	--	F. 4 moth-eaten, text damaged. Ends abruptly.	Dharmshastra Lit & Ritual
 ;0494	1060	कर्मविपाक	--	--	Paper	DN	8.2"x5.3"	5.5"x3.4"	15	24	30	--	Good	V.S. 1734	Foll 1-29 missing. Begins abruptly. Works follows गौतमः	Dharmshastra Lit & Ritual
 0494	1060	कर्मविपाक	--	--	Paper	DN	8.2"x5.3"	5.5"x3.4"	15	24	30	--	Good	V.S. 1734	Foll. 1-29 missing. Begins abruptly. Work follows गौतम.	Dharmshastra Lit & Ritual
-;0495	1065	कर्मविपाक	--	--	Paper	DN	8.3"x4.4"	7.2"x3.8"	18	42	6	--	Good	--	--	Dharmshastra Lit & Ritual
-0495	1065	कर्मविपाक	--	--	Paper	DN	8.3"x4.4"	7.2"x3.8"	18	42	6	--	Good	--	--	Dharmshastra Lit & Ritual
-;0496	380	कृत्यरत्नावली	रामचन्द्र भट्ट	--	Paper	DN	8"x4"	6.2"x2.5"	9	27	117	--	Good	--	--	Dharmshastra Lit & Ritual
-0496	380	कृत्यरत्नावली	रामचन्द्र भट्ट	--	Paper	DN	8"x4"	6.2"x2.5"	9	27	117	--	Good	--	--	Dharmshastra Lit & Ritual
-;0497	459	कुबेरमन्त्र	--	--	Paper	DN	5.5"x3.5"	4.8"x3.2"	11	22	2	--	Good	--	--	Dharmshastra Lit & Ritual
-0497	459	कुबेरमन्त्र	--	--	Paper	DN	5.5"x3.5"	4.8"x3.2"	11	22	2	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0498	248	कूपप्रतिष्ठाविधि	--	--	Paper	DN	10"x6.2"	7.6"x4.4"	14	38	12	हरिगोविंद	Good	V.S. 1771	--	Dharmshastra Lit & Ritual
 0498	248	कूपप्रतिष्ठाविधि	--	--	Paper	DN	10"x6.2"	7.6"x4.4"	14	38	12	हरिगोविन्द	Good	V.S. 1771	--	Dharmshastra Lit & Ritual
 ;0499	1265b	लिंगतोभद्र	--	--	Paper	DN	8.2"x4.1"	7"x3.1"	14	40	1	--	Good	--	F.numbered 3	Dharmshastra Lit & Ritual
@@ -824,3 +816,29 @@
 0501	28	मिताक्षरा (आशौचप्रकरण)	विज्ञानेश्वर	--	Paper	DN	10"x4.5"	8.2"x3.2"	10	40	40	--	Good	V.S. 1765	--	Dharmshastra Lit & Ritual
 ;0502	211	मृगारेष्टिप्रयोग	अनन्त	--	Paper	DN	10.2"x4.5"	8.2"x2.8"	8	37	16	--	Good	--	--	Dharmshastra Lit & Ritual
 0502	211	मृगारेष्टिप्रयोग	अनन्त	--	Paper	DN	10.2"x4.5"	8.2"x2.8"	8	37	16	--	Good	--	--	Dharmshastra Lit & Ritual
+;0503	1375	मृत्युंजयविधान	--	--	Paper	DN	8.2"x4"	6.5"x2.9"	11	24	2	--	Fair	--	Foll. Moth-eaten,text damaged on F-1. Ends abruptly. The work follows वसिष्ठ: कल्प	Dharmshastra Lit & Ritual
+0503	1375	मृत्युञ्जयविधान	--	--	Paper	DN	8.2"x4"	6.5"x2.9"	11	24	2	--	Fair	--	Foll. moth-eaten, text damaged on F.1. Ends abruptly. The work follows वसिष्ठ कल्प.	Dharmshastra Lit & Ritual
+;0504	1089	मूलजननशान्ति	--	--	Paper	DN	7.8"x4.1"	6.4"x2.6"	7	22	7	--	Good	--	--	Dharmshastra Lit & Ritual
+0504	1089	मूलजननशान्ति	--	--	Paper	DN	7.8"x4.1"	6.4"x2.6"	7	22	7	--	Good	--	--	Dharmshastra Lit & Ritual
+;0505	1374	मूलशान्तिप्रयोग	--	--	Paper	DN	8.3"x4.1"	7.1"x3"	13	38	1	--	Good	--	Ends abruptly. The work follows शौनकः	Dharmshastra Lit & Ritual
+0505	1374	मूलशान्तिप्रयोग	--	--	Paper	DN	8.3"x4.1"	7.1"x3"	13	38	1	--	Good	--	Ends abruptly. The work follows शौनक.	Dharmshastra Lit & Ritual
+;0506	405	नवग्रहशान्ति	गोथिल	--	Paper	DN	9.5"x4.2"	7"x3"	7	22	22	--	Good	--	--	Dharmshastra Lit & Ritual
+0506	405	नवग्रहशान्ति	गोथिल	--	Paper	DN	9.5"x4.2"	7"x3"	7	22	22	--	Good	--	--	Dharmshastra Lit & Ritual
+;0507	7	निर्णयामृत - आशौचप्रकरण	गोपीनारायण	--	Paper	DN	12"x4"	9.5"x2.5"	10	38	28	भास्करसप्त्य	Good	--	--	Dharmshastra Lit & Ritual
+0507	7	निर्णयामृत - आशौचप्रकरण	गोपीनारायण	--	Paper	DN	12"x4"	9.5"x2.5"	10	38	28	भास्करसप्त्य	Good	--	--	Dharmshastra Lit & Ritual
+;0508	443	निर्णयदीपक	अचल द्विवेदी	--	Paper	DN	11.1"x5.3"	8.8"x3.5"	10	34	364	--	Good	V.S. 1575	--	Dharmshastra Lit & Ritual
+0508	443	निर्णयदीपक	अचल द्विवेदी	--	Paper	DN	11.1"x5.3"	8.8"x3.5"	10	34	364	--	Good	V.S. 1575	--	Dharmshastra Lit & Ritual
+;0509	206	निर्णयसिन्धु	कमलाकर भट्ट	--	Paper	DN	11.2"x4.2"	8.2"x2.3"	9	44	५१७+२२+९=५४८	--	Good	shaka 1725 (F.55b) V.S. 1668 (F.513b)	Besider Foll 517, the ms. Has 22,29 foll. Seperately paginated.	Dharmshastra Lit & Ritual
+0509	206	निर्णयसिन्धु	कमलाकर भट्ट	--	Paper	DN	11.2"x4.2"	8.2"x2.3"	9	44	517+22+9=548	--	Good	shaka 1725 (F.55b) V.S. 1668 (F.513b)	Besides foll. 517, the ms. has 22,29 foll. seperately paginated.	Dharmshastra Lit & Ritual
+;0510	254	निर्णयसिन्धु-१	कमलाकर भट्ट	--	Paper	DN	9.2"x4.2"	7.5"x2.7"	11	35	50	--	Fair	--	F.1 torn; text slightly damaged.	Dharmshastra Lit & Ritual
+0510	254	निर्णयसिन्धु-१	कमलाकर भट्ट	--	Paper	DN	9.2"x4.2"	7.5"x2.7"	11	35	50	--	Fair	--	F. 1 torn; text slightly damaged.	Dharmshastra Lit & Ritual
+;0511	442	निर्णयसिन्धु	कमलाकर भट्ट	--	Paper	DN	11"x5.2"	8.5"x3.4"	10	30	512	--	Good	--	--	Dharmshastra Lit & Ritual
+0511	442	निर्णयसिन्धु	कमलाकर भट्ट	--	Paper	DN	11"x5.2"	8.5"x3.4"	10	30	512	--	Good	--	--	Dharmshastra Lit & Ritual
+;0512	602a	निर्णयसिन्धु-१	कमलाकर भट्ट	--	Paper	DN	12.1"x4"	10"x2.6"	10	45	37	बालकृष्ण	Poor	shaka 1700	F.7 bears no. 5,7,8,9. Five foll in addition total foll. 40 foll. Moth-eaten,text damaged.	Dharmshastra Lit & Ritual
+0512	602A	निर्णयसिन्धु-१	कमलाकर भट्ट	--	Paper	DN	12.1"x4"	10"x2.6"	10	45	37	बालकृष्ण	Poor	shaka 1700	F. 7 bears no. 5,7,8,9. Five foll. in addition total foll. 40 foll. Moth-eaten, text damaged.	Dharmshastra Lit & Ritual
+;0513	602ba	निर्णयसिन्धु-२	कमलाकर भट्ट	--	Paper	DN	12"x4.2"	9.2"x2.5"	10	42	95	बालकृष्ण	Poor	--	many foll moth-eaten; foll 44-45 torn;text damaged	Dharmshastra Lit & Ritual
+0513	602B	निर्णयसिन्धु-२	कमलाकर भट्ट	--	Paper	DN	12"x4.2"	9.2"x2.5"	10	42	95	बालकृष्ण	Poor	--	many foll. moth-eaten; foll. 44-45 torn; text damaged.	Dharmshastra Lit & Ritual
+;0514	602ka	निर्णयसिन्धु-३	कमलाकर भट्ट	--	Paper	DN	12.1"x4.2"	10.2"x2.5"	12	65	189	--	Poor	shaka 1693	Foll1-11 missing Begins abruptly many foll. Moth-eaten,text damaged, Owner: Jadiyas	Dharmshastra Lit & Ritual
+0514	602C	निर्णयसिन्धु-३	कमलाकर भट्ट	--	Paper	DN	12.1"x4.2"	10.2"x2.5"	12	65	189	--	Poor	shaka 1693	Foll. 1-11 missing. Begins abruptly. Many foll. moth-eaten, text damaged, Owner: जडियs.	Dharmshastra Lit & Ritual
+;0515	10	निर्णयसिन्धुटीका (एकादशीनिर्णय-प्रदोषनिर्णय)	--	--	Paper	DN	12"x4"	10"x2.5"	10	58	20	--	Poor	--	Foll 1-10 torn, text damaged.	Dharmshastra Lit & Ritual
+0515	10	निर्णयसिन्धुटीका (एकादशीनिर्णय-प्रदोषनिर्णय)	--	--	Paper	DN	12"x4"	10"x2.5"	10	58	20	--	Poor	--	Foll. 1-10 torn, text damaged.	Dharmshastra Lit & Ritual

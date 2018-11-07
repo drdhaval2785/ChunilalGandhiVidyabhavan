@@ -420,3 +420,23 @@
 0244	269	आश्वलायन श्रौतसूत्र सटीक	--	नारायण गार्ग्य	Paper	DN	8.2"x4"	6.5"x2.8"	12	37	21	--	Fair	--	Foll. 1-2 moth-eaten, text slightly damaged. Ends abruptly.	Vedic & Ritual
 ;0245	386	आश्वलायन श्रौतसूत्र सटीक	--	नारायण गार्ग्य	Paper	DN	8.2"x4"	6.5"x2.3"	11	36	35	--	Good	--	Ends abruptly	Vedic & Ritual
 0245	386	आश्वलायन श्रौतसूत्र सटीक	--	नारायण गार्ग्य	Paper	DN	8.2"x4"	6.5"x2.3"	11	36	35	--	Good	--	Ends abruptly.	Vedic & Ritual
+;0246	425	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	9.2"x4"	6.2"x2.2"	8	28	94	--	Good	shaka 1745	अध्याया: 1-6 prepared by Janardana Hardikar	Vedic & Ritual
+0246	425	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	9.2"x4"	6.2"x2.2"	8	28	94	--	Good	shaka 1745	अध्यायs 1-6. prepared by जनार्दन हर्डिकर.	Vedic & Ritual
+;0247	426	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	8"x4"	6"x2.3"	9	27	58	रामचन्द्र चिञ्चलीअकर	Good	shaka 1736	अध्याया: 7-12 F.no.20 is repeated	Vedic & Ritual
+0247	426	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	8"x4"	6"x2.3"	9	27	58	रामचन्द्र चिञ्चळकर	Good	shaka 1736	अध्यायs 7-12. F. no. 20 is repeated.	Vedic & Ritual
+;0248	471	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	12"x4.2"	9.6"x2.5"	10	62	22	विश्वनाथ	Good	shaka 1655	अध्याया: 7-12	Vedic & Ritual
+0248	471	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	12"x4.2"	9.6"x2.5"	10	62	22	विश्वनाथ	Good	shaka 1655	अध्यायs 7-12.	Vedic & Ritual
+;0249	506	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	8.3"x4"	6.5"x2.4"	9	29	12	--	Good	--	Uttar Satka Last F numbered 13 Ends abruptly	Vedic & Ritual
+0249	506	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	8.3"x4"	6.5"x2.4"	9	29	12	--	Good	--	उत्तर षट्क. Last f. numbered 13. Ends abruptly.	Vedic & Ritual
+;0250	1247	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	12"x4.2"	11"x3.4"	25	95	3	--	Poor	--	First & Last folios not numbered. Middle F. numbered 5; Foll Torn, text damaged Owner:भट्ट: दामोदर: हर्डिकरः	Vedic & Ritual
+0250	1247	आश्वलायन श्रौतसूत्र	--	--	Paper	DN	12"x4.2"	11"x3.4"	25	95	3	--	Poor	--	First & last folios not numbered. Middle f. numbered 5; Foll. torn, text damaged. Owner: भट्ट दामोदर हर्डिकर.	Vedic & Ritual
+;0251	1248	आश्वलायन श्रौतसूत्रवृत्ति	--	नारायण गार्ग्य	Paper	DN	8.3"x4"	6.3"x2.8" "	11	36	1	--	Fair	--	F.moth-eaten,text slightly damaged	Vedic & Ritual
+0251	1248	आश्वलायन श्रौतसूत्रवृत्ति	--	नारायण गार्ग्य	Paper	DN	8.3"x4"	6.3"x2.8" "	11	36	1	--	Fair	--	F. moth-eaten, text slightly damaged.	Vedic & Ritual
+;0252	287	औग्दात्तृत्वप्रयोग	--	--	Paper	DN	8.3"x4"	6.7"x2.5"	11	32	9	--	Good	--	Ends abruptly	Vedic & Ritual
+0252	287	औग्दात्तृत्वप्रयोग	--	--	Paper	DN	8.3"x4"	6.7"x2.5"	11	32	9	--	Good	--	Ends abruptly.	Vedic & Ritual
+;0254	1253	बौधायनीय पशुसूत्र	बौधायन	--	Paper	DN	8.4"x4"	7.2"x3"	15	46	7	--	Fair	--	F-7 torn,text slightly damaged	Vedic & Ritual
+0254	1253	बौधायनीय पशुसूत्र	बौधायन	--	Paper	DN	8.4"x4"	7.2"x3"	15	46	7	--	Fair	--	F. 7 torn, text slightly damaged.	Vedic & Ritual
+;0255	636	बौधायनसोमप्रयोग	--	--	Paper	DN	9.7"x3.5"	7.5"x2.1"	9	39	86	--	Poor	--	Foll 1-13 missing. All foll mot-eaten;margins;text slightly damaged. Begins & ends abruptly	Vedic & Ritual
+0255	636	बौधायनसोमप्रयोग	--	--	Paper	DN	9.7"x3.5"	7.5"x2.1"	9	39	86	--	Poor	--	Foll 1-13 missing. All foll. moth-eaten; margins; text slightly damaged. Begins & ends abruptly.	Vedic & Ritual
+;0256	1463	बौधायनसोमप्रयोग	--	--	Paper	DN	9.2"x3.5"	7.2"x2.3"	9	30	12	--	Fair	--	Foll,torn,text slightly damaged on f.1 Ends abruptly	Vedic & Ritual
+0256	1463	बौधायनसोमप्रयोग	--	--	Paper	DN	9.2"x3.5"	7.2"x2.3"	9	30	12	--	Fair	--	Foll. torn, text slightly damaged on f.1.- Ends abruptly.	Vedic & Ritual

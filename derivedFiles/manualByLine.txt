@@ -1040,3 +1040,15 @@
 0655	1258	भगवद्गीता	--	--	Paper	DN	6"x3.5"	4.5"x2"	7	20	38	--	Good	--	F. 1 missing. Begins, ends abruptly.	The Purana L. & R.
 ;0656	371	भगवद्गीता सुबोधिनीसहित	--	श्रीधर	Paper	DN	11"x5"	9"x3.3"	9	36	179	--	Good	--	Text in the middle, com. Above & below it.	The Purana L. & R.
 0656	371	भगवद्गीता सुबोधिनीसहित	--	श्रीधर	Paper	DN	11"x5"	9"x3.3"	9	36	179	--	Good	--	Text in the middle, com. above & below it.	The Purana L. & R.
+;0658	15	भागवतपुराण	--	--	Paper	DN	11"x5"	9"x3.5"	9	32	५४+२८+९४+९८+७४+५८+५२+६४+६३+१३७+१२६+८९+३७=९७४	--	Good	--	स्कन्धाः and two parts of X have separate pagination.	The Purana L. & R.
+0658	15	भागवतपुराण	--	--	Paper	DN	11"x5"	9"x3.5"	9	32	54+28+94+98+74+58+52+64+63+137+126+126+89+37=974	--	Good	--	स्कन्धs and two parts of X have separate pagination.	The Purana L. & R.
+;0659	114	भागवतपुराण ४,९	--	--	Paper	DN	8.2"x4"	6.2"x2.5"	9	27	3	--	Good	--	--	The Purana L. & R.
+0659	114	भागवतपुराण ४,९	--	--	Paper	DN	8.2"x4"	6.2"x2.5"	9	27	3	--	Good	--	--	The Purana L. & R.
+;0660	414	भागवतपुराण १-७.९	--	--	Paper	DN	11.2"x5"	8.7"x3.2"	9	29	64+45+115+89+132+125+51=632	--	Good	--	स्कन्धाः seperately  paginated Foll. 17-18 in I,124-125 in V and 115-116 in VI repeated. VII 19 is followed by a  passage in यक्षप्रश्न of m.bh owner: भट्ट: गोविंदराम: ईश्वर:	The Purana L. & R.
+0660	414	भागवतपुराण १-७.९	--	--	Paper	DN	11.2"x5"	8.7"x3.2"	9	29	64+45+115+89+132+125+51=632	--	Good	--	स्कन्धs seperately  paginated. Foll. 17-18 in I, 124-125 in V and 115-116 in VI repeated. VII 19 is followed by a  passage in यक्षप्रश्न of m.bh. owner: भट्ट गोविन्दराम ईश्वर.	The Purana L. & R.
+;0661	1260	भागवतपुराण १२.५ भावार्थदीपिकासहित	--	श्रीधर	Paper	DN	8.3"x4.1"	6.2"x2.8"	10	29	2	--	Good	--	Foll. 1-106,110,112-118 missing begins, ends abruptly.	The Purana L. & R.
+0661	1260	भागवतपुराण १२.५ भावार्थदीपिकासहित	--	श्रीधर	Paper	DN	8.3"x4.1"	6.2"x2.8"	10	29	2	--	Good	--	--	The Purana L. & R.
+;0662	1259	भागवतपुराणभावार्थदीपिकासहित	--	श्रीधर	Paper	DN	9.8"x4.5"	8.2"x3.4"	13	36	119	--	Good	--	--	The Purana L. & R.
+0662	1259	भागवतपुराण भावार्थदीपिकासहित	--	श्रीधर	Paper	DN	9.8"x4.5"	8.2"x3.4"	13	36	119	--	Good	--	Foll. 1-106,110,112-118 missing. Begins, ends abruptly.	The Purana L. & R.
+;0663	88	भागवतपुराण १-९ भावार्थदीपिकासहित	--	श्रीधर	Paper	DN	12.2"x5.5"	9.3"x3.5"	13	47	71+49+136+125+99+70+78+60+61=750	--	Good	--	स्कन्धाः have separate pagination foll. Numbers in III not regular.	The Purana L. & R.
+0663	88	भागवतपुराण १-९ भावार्थदीपिकासहित	--	श्रीधर	Paper	DN	12.2"x5.5"	9.3"x3.5"	13	47	71+49+136+125+99+70+78+60+61=750	--	Good	--	स्कन्धs have separate pagination. Foll. numbers in III not regular.	The Purana L. & R.

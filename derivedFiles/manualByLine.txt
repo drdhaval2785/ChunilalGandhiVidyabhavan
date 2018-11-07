@@ -1232,12 +1232,8 @@
 0776	124	मत्स्यपुराण	--	--	Paper	DN	11.2"x5.2"	9"x3"	10	33	235+179+159=573	--	Good	--	Foll. 110-143 missing in the last pagination. Ms. copied by 3 scribes, giving their separate pagination.	The Purana L. & R.
 ;0777	1380	नलोपाख्यान	--	--	Paper	DN	9.9"x6.2"	8.4"x4.5"	12	26	38	--	Fair	--	Ends abruptly f.38 has holes-text damaged.	The Purana L. & R.
 0777	1380	नलोपाख्यान	--	--	Paper	DN	9.9"x6.2"	8.4"x4.5"	12	26	38	--	Fair	--	Ends abruptly. F. 38 has holes, text damaged.	The Purana L. & R.
-;0778	1092	नानादानमन्त्राः	--	--	Paper	DN	8.3"x4.1"	7"x3"	10	28	4	--	Good	--	--	The Purana L. & R.
-0778	1092	नानादानमन्त्राः	--	--	Paper	DN	8.3"x4.1"	7"x3"	10	28	4	--	Good	--	--	The Purana L. & R.
 ;0779	326	नरसिंहपुराणम्	--	--	Paper	DN	11.5"x5.2"	8.7"x3.2"	10	35	163	--	Good	--	Owner: घनश्यामः जडिय:	The Purana L. & R.
 0779	326	नरसिंहपुराणम्	--	--	Paper	DN	11.5"x5.2"	8.7"x3.2"	10	35	163	--	Good	--	Owner: घनश्याम जडिय	The Purana L. & R.
-;0780	1292	नवचण्डी	--	--	Paper	DN	8"x4"	7"x2.6"	11	42	3	--	Good	--	--	The Purana L. & R.
-0780	1292	नवचण्डी	--	--	Paper	DN	8"x4"	7"x2.6"	11	42	3	--	Good	--	--	The Purana L. & R.
 ;0781	1386	नवग्रहक्रम	--	--	Paper	DN	7.8"x3.8"	6.7"x2.7"	9	31	2	--	Fair	--	F.2 torn;text damaged. Ends abruptly.	The Purana L. & R.
 0781	1386	नवग्रहक्रम	--	--	Paper	DN	7.8"x3.8"	6.7"x2.7"	9	31	2	--	Fair	--	F. 2 torn; text damaged. Ends abruptly.	The Purana L. & R.
 ;0782	1387	नवग्रहस्थापनक्रम	--	--	Paper	DN	7.9"x4"	6.7"x2.9"	11	31	2	--	Good	--	Ends abruptly. Diagram on 1 a	The Purana L. & R.
@@ -1248,3 +1244,33 @@
 0784	603	नीलोद्वाहविधि	--	--	Paper	DN	9.6"x4.5"	8.1"x3.2"	11	36	11	--	Good	--	From मत्स्यपुराण.	The Purana L. & R.
 ;0785	116	निर्झरणव्रतकथा	--	--	Paper	DN	9.5"x4.2"	7.5"x3.3"	12	32	3	--	Good	V.S. 1756	Ends abruptly	The Purana L. & R.
 0785	116	निर्झरणव्रतकथा	--	--	Paper	DN	9.5"x4.2"	7.5"x3.3"	12	32	3	--	Good	V.S. 1756	Ends abruptly.	The Purana L. & R.
+;0786	1406	पद्मपुराण-पद्यानि	--	--	Paper	DN	9.6"x3"	8.1"x2"	8	32	8	--	Good	--	--	The Purana L. & R.
+0786	1406	पद्मपुराण-पद्यानि	--	--	Paper	DN	9.6"x3"	8.1"x2"	8	32	8	--	Good	--	--	The Purana L. & R.
+;0787	1103	अ पलिशान्ति, ब संप्रोक्षणविधि	--	--	Paper	DN	8.3"x4.1"	6.8"x2.5"	13	42	3	--	Good	--	(a) According शौनकः	The Purana L. & R.
+0787	1103	a. पलिशान्ति, b. सम्प्रोक्षणविधि	--	--	Paper	DN	8.3"x4.1"	6.8"x2.5"	13	42	3	--	Good	--	(a) according शौनक.	The Purana L. & R.
+;0788	1412	पञ्चाशद्वर्णसंचय	--	--	Paper	DN	8"x4"	6.5"x2.8"	10	32	3	--	Good	--	Ends abruptly	The Purana L. & R.
+0788	1412	पञ्चाशद्वर्णसञ्चय	--	--	Paper	DN	8"x4"	6.5"x2.8"	10	32	3	--	Good	--	Ends abruptly.	The Purana L. & R.
+;0789	1194	अ पार्थिवलिंगपूजा, ब तुलसीविवाहधात्रीविधान	--	--	Paper	DN	6.9"x3.9"	5.6"x3.5"	14	10	5	आत्माराम जडिय	Good	shaka 1777	--	The Purana L. & R.
+0789	1194	a. पार्थिवलिङ्गपूजा, b. तुलसीविवाहधात्रीविधान	--	--	Paper	DN	6.9"x3.9"	5.6"x3.5"	14	10	5	आत्माराम जडिय	Good	shaka 1777	--	The Purana L. & R.
+;0790	828	पार्वत्यपराधक्षमापनव्रत	--	--	Paper	DN	9"x4.2"	8.5"x3.5"	13	30	10	--	Fair	V.S. 1560	Last four lines discoloured; text partly lost	The Purana L. & R.
+0790	828	पार्वत्यपराधक्षमापनव्रत	--	--	Paper	DN	9"x4.2"	8.5"x3.5"	13	30	10	--	Fair	V.S. 1560	Last four lines discoloured; text partly lost.	The Purana L. & R.
+;0791	1114	पिशाचोध्द्धारणविधि	--	--	Paper	DN	8.2"x4"	6.8"x2.8"	14	40	2	--	Good	--	Follows वायु & गरुड पुराणम्	The Purana L. & R.
+0791	1114	पिशाचोद्धारणविधि	--	--	Paper	DN	8.2"x4"	6.8"x2.8"	14	40	2	--	Good	--	Follows वायु & गरुड पुराण.	The Purana L. & R.
+;0792	714	पिठोरीव्रत	--	--	Paper	DN	8.4"x3.9"	7.3"x3.2"	15	44	2	घनश्याम	Good	--	From  भविष्योत्तरपुराणम्	The Purana L. & R.
+0792	714	पिठोरीव्रत	--	--	Paper	DN	8.4"x3.9"	7.3"x3.2"	15	44	2	घनश्याम	Good	--	From  भविष्योत्तरपुराण.	The Purana L. & R.
+;0793	1115	प्रबोधोत्सवपूजा	--	--	Paper	DN	8.3"x4.1"	7.5"x3.5"	11	24	1	--	Fair	--	Margins torn;text damaged.	The Purana L. & R.
+0793	1115	प्रबोधोत्सवपूजा	--	--	Paper	DN	8.3"x4.1"	7.5"x3.5"	11	24	1	--	Fair	--	Margins torn, text damaged.	The Purana L. & R.
+;0794	1118	प्रातः कृत्य	--	--	Paper	DN	6.8"x3.8"	5.4"x2.2"	5	18	2	--	Good	--	--	The Purana L. & R.
+0794	1118	प्रातःकृत्य	--	--	Paper	DN	6.8"x3.8"	5.4"x2.2"	5	18	2	--	Good	--	--	The Purana L. & R.
+;0795	1420	प्रतिमोद्धारण	--	--	Paper	DN	6.5"x4.3"	4.7"x3.3"	9	16	2	--	Good	--	--	The Purana L. & R.
+0795	1420	प्रतिमोद्धारण	--	--	Paper	DN	6.5"x4.3"	4.7"x3.3"	9	16	2	--	Good	--	--	The Purana L. & R.
+;0796	755	प्रयागमाहात्म्य	--	--	Paper	DN	11"x4"	10"x2.5"	11	44	23	--	Poor	--	Foll. Not numbered, torn; text damaged. From मत्स्यपुराणम्	The Purana L. & R.
+0796	755	प्रयागमाहात्म्य	--	--	Paper	DN	11"x4"	10"x2.5"	11	44	23	--	Poor	--	Foll. not numbered, torn; text damaged. From मत्स्यपुराण.	The Purana L. & R.
+;0797	1424	पूजाविधि	--	--	Paper	DN	8.4"x4.1"	7.4"x3"	9	24	2	--	Good	--	--	The Purana L. & R.
+0797	1424	पूजाविधि	--	--	Paper	DN	8.4"x4.1"	7.4"x3"	9	24	2	--	Good	--	--	The Purana L. & R.
+;0798	1425	पूजाविधि	--	--	Paper	DN	8.4"x4"	6.5"x2.8"	12	36	1	--	Good	--	Ends abruptly	The Purana L. & R.
+0798	1425	पूजाविधि	--	--	Paper	DN	8.4"x4"	6.5"x2.8"	12	36	1	--	Good	--	Ends abruptly.	The Purana L. & R.
+;0799	1426	पूजाविधि	--	--	Paper	DN	6"x4.1"	5"x3"	10	20	6	--	Good	--	Foll 1-4 missing. Begins, ends abruptly	The Purana L. & R.
+0799	1426	पूजाविधि	--	--	Paper	DN	6"x4.1"	5"x3"	10	20	6	--	Good	--	Foll. 1-4 missing. Begins, ends abruptly.	The Purana L. & R.
+;0800	1494	पुराणग्रन्थ	--	--	Paper	DN	11.2"x3.5"	9.5"x2.5"	13	58	3	--	Good	--	Ends abruptly	The Purana L. & R.
+0800	1494	पुराणग्रन्थ	--	--	Paper	DN	11.2"x3.5"	9.5"x2.5"	13	58	3	--	Good	--	Ends abruptly.	The Purana L. & R.

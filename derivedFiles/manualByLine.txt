@@ -936,8 +936,6 @@
 0587	927	तिथिनिर्णय	रघुनाथ भट्ट	--	Paper	DN	10.3"x4.7"	8.2"x2.8"	11	57	25	--	Fair	V.S. 1858	Foll. moth-eaten, text slightly damaged.	Dharmshastra Lit & Ritual
 ;0588	1531	तिथिनिर्णय	--	--	Paper	DN	8"x4.4"	6.7"x3"	11	32	11	--	Fair	--	F.1 missing Begins, ends abruptly. F.2,3 have torn margins; text damaged on 3.	Dharmshastra Lit & Ritual
 0588	1531	तिथिनिर्णय	--	--	Paper	DN	8"x4.4"	6.7"x3"	11	32	11	--	Fair	--	F. 1 missing. Begins, ends abruptly. F. 2,3 have torn margins; text damaged on 3.	Dharmshastra Lit & Ritual
-;0589	118	त्रिंशत् श्लोकी	बोपदेव	--	Paper	DN	9.7"x4.2"	8.3"x2.7"	10	32	4	चन्द्रशेखर गुर्जर	Good	shaka 1708	--	Dharmshastra Lit & Ritual
-0589	118	त्रिंशत् श्लोकी	बोपदेव	--	Paper	DN	9.7"x4.2"	8.3"x2.7"	10	32	4	चन्द्रशेखर गुर्जर	Good	shaka 1708	--	Dharmshastra Lit & Ritual
 ;0590	1192	त्रिंशत् श्लोकी	बोपदेव	--	Paper	DN	8.2"x4"	6.8"x3"	18	52	2	--	Fair	--	Foll moth-eaten, text damaged on 2a	Dharmshastra Lit & Ritual
 0590	1192	त्रिंशत् श्लोकी	बोपदेव	--	Paper	DN	8.2"x4"	6.8"x3"	18	52	2	--	Fair	--	Foll. moth-eaten, text damaged on 2a.	Dharmshastra Lit & Ritual
 ;0591	492	त्रिशत् श्लोकीटीका	--	भट्टाचार्य	Paper	DN	7.9"x4"	6.3"x2.6" "	11	32	27	--	Fair	--	F.1 missing. Begins abruptly. Foll 2-5 torn text slightly damaged.	Dharmshastra Lit & Ritual
@@ -950,9 +948,31 @@
 0594	417	त्रिपिण्डीश्राद्धप्रयोग	--	--	Paper	DN	12"x4.1"	9.2"x2.8"	10	36	4	--	--	--	according to दाल्भ्यस्मृति.	Dharmshastra Lit & Ritual
 ;0595	1188	त्रिपिण्डीश्राद्धप्रयोग	नारायणभट्ट	--	Paper	DN	8.5"x5.5"	7"x4.4"	18	42	2	--	Fair	--	Begins on 1a, continues on 2a,2b and ends on 1b. F.folded,torn at the fold, text slightly damaged. Work from त्रिस्थलीसेतु	Dharmshastra Lit & Ritual
 0595	1188	त्रिपिण्डीश्राद्धप्रयोग	नारायणभट्ट	--	Paper	DN	8.5"x5.5"	7"x4.4"	18	42	2	--	Fair	--	Begins on 1a, continues on 2a, 2b and ends on 1b. F. folded, torn at the fold, text slightly damaged. Work from त्रिस्थलीसेतु.	Dharmshastra Lit & Ritual
-;0596	207	त्रिपिण्डीश्राद्धविधि	--	--	Paper	DN	6"x4"	5"x3.3"	15	28	4	--	Good	--	--	Dharmshastra Lit & Ritual
-0596	207	त्रिपिण्डीश्राद्धविधि	--	--	Paper	DN	6"x4"	5"x3.3"	15	28	4	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0597	1190	त्रिपिण्डीविधानप्रयोग	--	--	Paper	DN	8.2"x4"	7"x2.8"	12	36	5	कृष्णकेलकर	Good	--	--	Dharmshastra Lit & Ritual
 0597	1190	त्रिपिण्डीविधानप्रयोग	--	--	Paper	DN	8.2"x4"	7"x2.8"	12	36	5	कृष्ण केलकर	Good	--	--	Dharmshastra Lit & Ritual
 ;0598	1538	त्रिस्थलीसेतु	नारायणभट्ट	--	Paper	DN	10.1"x4.1"	8.4"x2.8"	11	52	36	--	Poor	--	F.1 missing. Begins, ends abruptly. Text damaged on all foll which are torn.	Dharmshastra Lit & Ritual
 0598	1538	त्रिस्थलीसेतु	नारायणभट्ट	--	Paper	DN	10.1"x4.1"	8.4"x2.8"	11	52	36	--	Poor	--	F. 1 missing. Begins, ends abruptly. Text damaged on all foll. which are torn.	Dharmshastra Lit & Ritual
+;0599	216	त्रिस्थलीसेतुसार	--	--	Paper	DN	8"x11.6"	5.8"x9.4"	38	30	7	--	Fair	--	Foll. Not paginated. Ends abruptly	Dharmshastra Lit & Ritual
+0599	216	त्रिस्थलीसेतुसार	--	--	Paper	DN	8"x11.6"	5.8"x9.4"	38	30	7	--	Fair	--	Foll. not paginated. Ends abruptly.	Dharmshastra Lit & Ritual
+;0600	1051	तृतीयानिर्णय	महादेव	--	Paper	DN	12.2"x4.2"	10.4"x2.6"	11	58	2	--	Good	--	From कालमाधवः	Dharmshastra Lit & Ritual
+0600	1051	तृतीयानिर्णय	माधव	--	Paper	DN	12.2"x4.2"	10.4"x2.6"	11	58	2	--	Good	--	From कालमाधव.	Dharmshastra Lit & Ritual
+;0601	628	उदकशान्ति	--	--	Paper	DN	8.2"x3.8"	5.5"x2.3"	9	33	9	--	Good	--	Ends arbuptly	Dharmshastra Lit & Ritual
+0601	628	उदकशान्ति	--	--	Paper	DN	8.2"x3.8"	5.5"x2.3"	9	33	9	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0602	865	उदकशान्ति	--	--	Paper	DN	8.2"x4"	6.5"x2.6"	10	28	30	धनश्याम	Good	--	--	Dharmshastra Lit & Ritual
+0602	865	उदकशान्ति	--	--	Paper	DN	8.2"x4"	6.5"x2.6"	10	28	30	धनश्याम	Good	--	--	Dharmshastra Lit & Ritual
+;0603	854	उपनयनप्रयोग	नारायणभट्ट	--	Paper	DN	8.3"x4"	7.4"x3"	15	40	6	--	Good	--	From प्रयोगरत्न Owner: केशवः वाडर:	Dharmshastra Lit & Ritual
+0603	854	उपनयनप्रयोग	नारायणभट्ट	--	Paper	DN	8.3"x4"	7.4"x3"	15	40	6	--	Good	--	From प्रयोगरत्न. Owner: केशव वाडर.	Dharmshastra Lit & Ritual
+;0604	631	उत्सर्जनप्रयोग	--	--	Paper	DN	6.8"x4.4"	4.6"x2.8"	9	18	34	--	Good	--	--	Dharmshastra Lit & Ritual
+0604	631	उत्सर्जनप्रयोग	--	--	Paper	DN	6.8"x4.4"	4.6"x2.8"	9	18	34	--	Good	--	--	Dharmshastra Lit & Ritual
+;0605	164	उत्सर्जनकर्मप्रयोग-सभादीपप्रयोग	--	--	Paper	DN	8"x4"	7"x2.7"	10	27	17	--	Good	--	--	Dharmshastra Lit & Ritual
+0605	164	उत्सर्जनकर्मप्रयोग-सभादीपप्रयोग	--	--	Paper	DN	8"x4"	7"x2.7"	10	27	17	--	Good	--	--	Dharmshastra Lit & Ritual
+;0606	1464	अ उत्सर्जनप्रयोग, ब उपाकरणप्रयोग, क अध्ययनधर्म	--	--	Paper	DN	9"x4"	7"x2.5"	8	26	17	--	Good	--	F.1 missing (a) begins arbuptly © ends abruptly	Dharmshastra Lit & Ritual
+0606	1464	a. उत्सर्जनप्रयोग, b. उपाकरणप्रयोग, c. अध्ययनधर्म	--	--	Paper	DN	9"x4"	7"x2.5"	8	26	17	--	Good	--	F. 1 missing. (a) begins abruptly, (c) ends abruptly.	Dharmshastra Lit & Ritual
+;0607	1196	अ उत्सर्जनप्रयोग, ब उपाकरणविधि	--	--	Paper	DN	8.1"x4.1"	7.7"x3.5"	16	34	4	--	Good	--	Foll torn, moth-eaten; text damaged	Dharmshastra Lit & Ritual
+0607	1196	a. उत्सर्जनप्रयोग, b. उपाकरणविधि	--	--	Paper	DN	8.1"x4.1"	7.7"x3.5"	16	34	4	--	Good	--	Foll. torn, moth-eaten; text damaged.	Dharmshastra Lit & Ritual
+;0608	290	अ वैश्वदेवप्रयोग, ब वैश्वदेवबलिहरणविधि	--	--	Paper	DN	8"x4.2"	6.8"x2.5"	9	30	3	--	Good	--	Foll blaue	Dharmshastra Lit & Ritual
+0608	290	a. वैश्वदेवप्रयोग, b. वैश्वदेवबलिहरणविधि	--	--	Paper	DN	8"x4.2"	6.8"x2.5"	9	30	3	--	Good	--	Foll. blue.	Dharmshastra Lit & Ritual
+;0609	290a	वैश्वदेव	--	--	Paper	DN	8"x4.2"	6.5"x3"	9	27	3	--	Good	--	Foll blue	Dharmshastra Lit & Ritual
+0609	290A	वैश्वदेव	--	--	Paper	DN	8"x4.2"	6.5"x3"	9	27	3	--	Good	--	Foll. blue.	Dharmshastra Lit & Ritual
+;0610	1197	वैश्वदेव	--	--	Paper	DN	7.8"x4.3"	5.3"x2.7"	8	20	2	--	Good	--	Foll moth-eaten at margins	Dharmshastra Lit & Ritual
+0610	1197	वैश्वदेव	--	--	Paper	DN	7.8"x4.3"	5.3"x2.7"	8	20	2	--	Good	--	Foll. moth-eaten at margins.	Dharmshastra Lit & Ritual

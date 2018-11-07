@@ -612,21 +612,41 @@
 0372	1526	तैतिरीय-उपनिषद्	--	--	Paper	DN	10.9"x5.4"	9"x4"	16	40	2	--	Good	--	ब्रह्मानन्दवल्ली I-IX.	Vedic & Ritual
 ;0373	819	त्रिकाण्डमण्डल	भास्कर  मिश्र	--	Paper	DN	11"x5.1"	9"x3.5"	13	44	18	--	Good	--	--	Vedic & Ritual
 0373	819	त्रिकाण्डमण्डन	भास्कर  मिश्र	--	Paper	DN	11"x5.1"	9"x3.5"	13	44	18	--	Good	--	--	Vedic & Ritual
-;0374	1125	उत्तरशान्ति	--	--	Paper	DN	4.9"x3.5"	3.6"x2.5"	8	14	9	--	Good	--	--	Vedic & Ritual
-0374	1125	उत्तरशान्ति	--	--	Paper	DN	4.9"x3.5"	3.6"x2.5"	8	14	9	--	Good	--	--	Vedic & Ritual
 ;0375	653	वर्णक्रमलक्षण	जगन्नाथ	--	Paper	DN	11"x4.2"	9"x2.6"	10	42	1	--	Good	--	Owner: जडिय:	Vedic & Ritual
 0375	653	वर्णक्रमलक्षण	जगन्नाथ	--	Paper	DN	11"x4.2"	9"x2.6"	10	42	1	--	Good	--	Owner: जडियs	Vedic & Ritual
 ;0376	1276	वेदार्थप्रकाश	महव	--	Paper	DN	9.4"x4.6"	7.2"x3"	12	38	12	--	Good	--	Ends arbuptly	Vedic & Ritual
 0376	1276	वेदार्थप्रकाश	महव	--	Paper	DN	9.4"x4.6"	7.2"x3"	12	38	12	--	Good	--	Ends abruptly.	Vedic & Ritual
 ;0377	1552	वेदार्थप्रकाश	महव	--	Paper	DN	9.4"x4.5"	7"x2.8"	12	38	26	--	Good	--	Foll.1-12 missing. Begins abruptly	Vedic & Ritual
 0377	1552	वेदार्थप्रकाश	महव	--	Paper	DN	9.4"x4.5"	7"x2.8"	12	38	26	--	Good	--	Foll. 1-12 missing. Begins abruptly.	Vedic & Ritual
-;0378	832	वैदिकमन्त्र-टीका	--	--	Paper	DN	8.4"x4.2"	6.6"x2.5"	10	44	32	--	Good	--	--	Vedic & Ritual
-0378	832	वैदिकमन्त्र-टीका	--	--	Paper	DN	8.4"x4.2"	6.6"x2.5"	10	44	32	--	Good	--	--	Vedic & Ritual
-;0379	101	विधुराधानप्रयोग	गोविन्द	--	Paper	DN	11.5"x4.8"	9"x3.3"	15	47	2	महादेव जोगलेकर	Good	shaka 1749	--	Vedic & Ritual
-0379	101	विधुराधानप्रयोग	गोविन्द	--	Paper	DN	11.5"x4.8"	9"x3.3"	15	47	2	महादेव जोगलेकर	Good	shaka 1749	--	Vedic & Ritual
-;0380	1226	यजमानप्रयोग	--	--	Paper	DN	8.4"x4.1"	7.7"x3.5"	9	30	2	--	Good	--	--	Vedic & Ritual
-0380	1226	यजमानप्रयोग	--	--	Paper	DN	8.4"x4.1"	7.7"x3.5"	9	30	2	--	Good	--	--	Vedic & Ritual
 ;0381	180	यज्ञतंत्रसुधानिधि	सायण	--	Paper	DN	8.2"x4"	6.4"x2.5"	11	32	45	गंगाधर चिञ्चलीअकर	Good	shaka 1749	उद्गातृत्वप्रयोग from यज्ञतन्त्रसुधानिधि Owner: महेश्वर: शास्त्री	Vedic & Ritual
 0381	180	यज्ञतन्त्रसुधानिधि	सायण	--	Paper	DN	8.2"x4"	6.4"x2.5"	11	32	45	गङ्गाधर चिञ्चळकर	Good	shaka 1749	उद्गातृत्वप्रयोग from यज्ञतन्त्रसुधानिधि. Owner: महेश्वर शास्त्री	Vedic & Ritual
 ;0382	181	यज्ञतंत्रसुधानिधि	सायण	--	Paper	DN	8"x3.7"	6.2"x2.4"	10	36	35	व	Good	shaka 1697	Foll.12-15 missing  दर्शपूर्णमासप्रयोग from  यज्ञतन्त्रसुधानिधि 	Vedic & Ritual
 0382	181	यज्ञतन्त्रसुधानिधि	सायण	--	Paper	DN	8"x3.7"	6.2"x2.4"	10	36	35	चन्द्रेश्वर	Good	shaka 1697	Foll. 12-15 missing. दर्शपूर्णमासप्रयोग from यज्ञतन्त्रसुधानिधि. 	Vedic & Ritual
+;0383	383	यज्ञतंत्रसुधानिधि	सायण	--	Paper	DN	8.5"x4.2"	6.5"x2.6"	12	40	73	--	Good	--	Upto आग्रयणप्रयोग	Vedic & Ritual
+0383	383	यज्ञतन्त्रसुधानिधि	सायण	--	Paper	DN	8.5"x4.2"	6.5"x2.6"	12	40	73	--	Good	--	Upto आग्रयणप्रयोग.	Vedic & Ritual
+;0384	385	यज्ञतंत्रसुधानिधि	सायण	--	Paper	DN	8.5"x4.2"	6.5"x2.4"	10	34	49	--	Good	shaka 1703	दर्शपूर्णमासप्रयोग from  यज्ञतन्त्रसुधानिधि 	Vedic & Ritual
+0384	385	यज्ञतन्त्रसुधानिधि	सायण	--	Paper	DN	8.5"x4.2"	6.5"x2.4"	10	34	49	--	Good	shaka 1703	दर्शपूर्णमासप्रयोग from यज्ञतन्त्रसुधानिधि.	Vedic & Ritual
+;0385	86	आचारदीप	नागदेव	--	Paper	DN	9"x5"	7.5"x4"	16	42	40	--	Poor	--	Foll.1-2,13,16-19 missing. Text damaged on foll. 11-12. Begins & ends abruptly.	Dharmshastra Lit & Ritual
+0385	86	आचारदीप	नागदेव	--	Paper	DN	9"x5"	7.5"x4"	16	42	40	--	Poor	--	Foll. 1-2,13,16-19 missing. Text damaged on foll. 11-12. Begins & ends abruptly.	Dharmshastra Lit & Ritual
+;0386	190	आचारदीप	कमलाकर भट्ट	--	Paper	DN	8"x3.8"	6.6"x3"	13	27	32	--	Fair	--	Foll.16-18,20-23 missing. Foll moth-eaten. Text slightly damaged.	Dharmshastra Lit & Ritual
+0386	190	आचारदीप	कमलाकर भट्ट	--	Paper	DN	8"x3.8"	6.6"x3"	13	27	32	--	Fair	--	Foll. 16-18,20-23 missing. Foll. moth-eaten. Text slightly damaged.	Dharmshastra Lit & Ritual
+;0387	251	आचारदीप	नागदेव	--	Paper	DN	9.5"x6.2"	7.2"x4.7"	17	22	11	--	Good	--	F.1 missing. Begins & ends abruptly	Dharmshastra Lit & Ritual
+0387	251	आचारदीप	नागदेव	--	Paper	DN	9.5"x6.2"	7.2"x4.7"	17	22	11	--	Good	--	F. 1 missing. Begins & ends abruptly.	Dharmshastra Lit & Ritual
+;0388	932	आचारदीप	नागदेव	--	Paper	DN	8.7"x4"	7.3"x2.5"	10	34	1	रत्नाकरव्यास 	Poor	V.S. 1561	Only last F. having no number. F. torn,moth-eaten. Text damaged.	Dharmshastra Lit & Ritual
+0388	932	आचारदीप	नागदेव	--	Paper	DN	8.7"x4"	7.3"x2.5"	10	34	1	रत्नाकरव्यास 	Poor	V.S. 1561	Only last f. having no number. F. torn, moth-eaten. Text damaged.	Dharmshastra Lit & Ritual
+;0389	960	अद्भुतशान्तिप्रयोग	--	--	Paper	DN	8.5"x4.2"	7"x2.7"	12	32	3	केशव	Good	shaka 1706	The ritual is according to  शौनकः	Dharmshastra Lit & Ritual
+0389	960	अद्भुतशान्तिप्रयोग	--	--	Paper	DN	8.5"x4.2"	7"x2.7"	12	32	3	केशव	Good	shaka 1706	The ritual is according to  शौनक.	Dharmshastra Lit & Ritual
+;0390	217	अग्निष्टोमप्रयोग	गोविंद शेष	--	Paper	DN	10.5"x4.2"	8"x2.6"	8	30	63	--	--	--	--	Dharmshastra Lit & Ritual
+0390	217	अग्निष्टोमप्रयोग	गोविन्द शेष	--	Paper	DN	10.5"x4.2"	8"x2.6"	8	30	63	--	--	--	--	Dharmshastra Lit & Ritual
+;0391	182	अग्न्याधानप्रयोग	शेष	--	Paper	DN	8.5"x4"	6.8"x2.5"	11	37	27	--	Good	--	--	Dharmshastra Lit & Ritual
+0391	182	अग्न्याधानप्रयोग	शेष	--	Paper	DN	8.5"x4"	6.8"x2.5"	11	37	27	--	Good	--	--	Dharmshastra Lit & Ritual
+;0392	1236	अजपागायत्री	--	--	Paper	DN	8.3"x4.1"	7.2"x3.2"	11	28	5	--	Fair	--	F.5 torn, text damaged. Ends abruptly.	Dharmshastra Lit & Ritual
+0392	1236	अजपागायत्री	--	--	Paper	DN	8.3"x4.1"	7.2"x3.2"	11	28	5	--	Fair	--	F. 5 torn, text damaged. Ends abruptly.	Dharmshastra Lit & Ritual
+;0393	402	अमृतपञ्चरात्र	--	--	Paper	DN	9.8"x4.5"	8"x3.3"	10	35	12	--	Fair	--	Foll.1-2 moth-eaten, text damaged.	Dharmshastra Lit & Ritual
+0393	402	अमृतपञ्चरात्र	--	--	Paper	DN	9.8"x4.5"	8"x3.3"	10	35	12	--	Fair	--	Foll. 1-2 moth-eaten, text damaged.	Dharmshastra Lit & Ritual
+;0394	1240	अन्त्येष्टि	--	--	Paper	DN	11.2"x5.3"	8.2"x3.2"	8	30	28	--	Good	--	ends abruptly	Dharmshastra Lit & Ritual
+0394	1240	अन्त्येष्टि	--	--	Paper	DN	11.2"x5.3"	8.2"x3.2"	8	30	28	--	Good	--	Ends abruptly.	Dharmshastra Lit & Ritual
+;0395	41	अन्त्येष्टिपद्धति	--	--	Paper	DN	10.5"x5.5"	8"x4"	13	32	61	--	Good	shaka 1718	Owner: जडियः	Dharmshastra Lit & Ritual
+0395	41	अन्त्येष्टिपद्धति	--	--	Paper	DN	10.5"x5.5"	8"x4"	13	32	61	--	Good	shaka 1718	Owner: जडियs	Dharmshastra Lit & Ritual
+;0396	384	अन्त्येष्टिपद्धति	अनन्तदेव	--	Paper	DN	8.2"x4"	6.8"x3"	18	62	5	--	Good	--	--	Dharmshastra Lit & Ritual
+0396	384	अन्त्येष्टिपद्धति	अनन्तदेव	--	Paper	DN	8.2"x4"	6.8"x3"	18	62	5	--	Good	--	--	Dharmshastra Lit & Ritual

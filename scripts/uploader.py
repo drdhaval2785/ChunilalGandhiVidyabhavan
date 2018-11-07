@@ -44,7 +44,7 @@ def find_metadata(line):
 	metadata['Sr_No'] = details[0]
 	# Exercise to prepare a pad around the accession number e.g. 24 -> 0024. Also convert a,b etc to -A,-B etc e.g. 424a -> 0424-A
 	accession = str(details[1])
-	number = accession.rstrip('abcdefghijklmnopqrstuvwxyz')
+	number = re.sub('[a-zA-Z]*$', '', accession)
 	number1 = '0'*(4-len(number)) + number
 	accession = accession.replace(number, number1)
 	accession = accession.upper()
@@ -73,7 +73,7 @@ def find_metadata(line):
 	metadata['Additional_remarks'] = details[15]
 	metadata['Subject'] = details[16]
 	# Prepare mandatory metadata for Archive.org.
-	metadata['identifier'] = str(metadata['Title_keyword']).replace(' ','_')+'~CGV~SSP~'+metadata['Accession_No']
+	metadata['identifier'] = str(metadata['Title_keyword']).replace(' ','_')+'~CGV~PSS~'+metadata['Accession_No']
 	metadata['mediatype'] = 'texts'
 	metadata['collection'] = 'opensource'
 	metadata['creator'] = 'Chunilal Gandhi Vidyabhavan Surat'
@@ -96,6 +96,7 @@ def uploadToArchive(metadata):
 def createMetadataJson():
 	fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
 	ferror = codecs.open('../logs/error.txt', 'a', 'utf-8')
+	print('Files not found')
 	for line in fin:
 		metadata = find_metadata(line)
 		identifier = metadata['identifier']
@@ -103,12 +104,12 @@ def createMetadataJson():
 		sr = metadata['Sr_No']
 		if not os.path.isfile('../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'):
 			ferror.write('File Not Found:'+accession+'\n')
-			print('File not Found:'+accession)
+			print(accession)
 		else:
 			#uploadToArchive(metadata)
 			with codecs.open('../metadataJson/'+accession+'.json', 'w', 'utf-8') as fjson:
 				json.dump(metadata, fjson)
-				print('Metadata generated for:'+accession)
+				#print('Metadata generated for:'+accession)
 
 	fin.close()
 	ferror.close()

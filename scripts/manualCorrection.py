@@ -45,5 +45,7 @@ if __name__=="__main__":
 		fout.write(wholedata)
 
 	# prepareDuplicate('../derivedFiles/cataloguev005.tsv','../derivedFiles/manua.txt')
+	print('Duplicate lines in ../derivedFiles/manualByLine.txt')
 	findNoChangeLines('../derivedFiles/manualByLine.txt')
+	
 	

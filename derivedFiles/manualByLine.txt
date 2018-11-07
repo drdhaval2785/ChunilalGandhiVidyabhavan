@@ -440,3 +440,23 @@
 0255	636	बौधायनसोमप्रयोग	--	--	Paper	DN	9.7"x3.5"	7.5"x2.1"	9	39	86	--	Poor	--	Foll 1-13 missing. All foll. moth-eaten; margins; text slightly damaged. Begins & ends abruptly.	Vedic & Ritual
 ;0256	1463	बौधायनसोमप्रयोग	--	--	Paper	DN	9.2"x3.5"	7.2"x2.3"	9	30	12	--	Fair	--	Foll,torn,text slightly damaged on f.1 Ends abruptly	Vedic & Ritual
 0256	1463	बौधायनसोमप्रयोग	--	--	Paper	DN	9.2"x3.5"	7.2"x2.3"	9	30	12	--	Fair	--	Foll. torn, text slightly damaged on f.1.- Ends abruptly.	Vedic & Ritual
+;0257	228	बौधायनश्रौतसूत्र	--	--	Paper	DN	8.5"x4"	6.7"x2.6"	11	36	31	--	Good	--	Foll 1-12 missing. Begins & ends abruptly	Vedic & Ritual
+0257	228	बौधायनश्रौतसूत्र	--	--	Paper	DN	8.5"x4"	6.7"x2.6"	11	36	31	--	Good	--	Foll. 1-12 missing. Begins & ends abruptly.	Vedic & Ritual
+;0258	297	बौधायनश्रौतसूत्र	--	--	Paper	DN	8.4"x4"	6.9"x2.9"	10	34	22	--	Good	shaka 1634	Begins abruptly	Vedic & Ritual
+0258	297	बौधायनश्रौतसूत्र	--	--	Paper	DN	8.4"x4"	6.9"x2.9"	10	34	22	--	Good	shaka 1634	Begins abruptly.	Vedic & Ritual
+;0259	1254	बौधायनश्रौतसूत्र	--	--	Paper	DN	8.2"x4.1"	6.5"x2.5"	10	36	12	--	Good	--	Ends abruptly	Vedic & Ritual
+0259	1254	बौधायनश्रौतसूत्र	--	--	Paper	DN	8.2"x4.1"	6.5"x2.5"	10	36	12	--	Good	--	Ends abruptly.	Vedic & Ritual
+;0261	1458	ब्राह्मणग्रन्थ	--	--	Paper	DN	5.8"x3.3"	4"x1.6"	7	20	41	--	Good	--	Foll 1-6 missing. Begins & ends abruptly	Vedic & Ritual
+0261	1458	ब्राह्मणग्रन्थ	--	--	Paper	DN	5.8"x3.3"	4"x1.6"	7	20	41	--	Good	--	Foll. 1-6 missing. Begins & ends abruptly.	Vedic & Ritual
+;0262	981	ब्राह्मणग्रन्थ	--	--	Paper	DN	8"x4.3"	6.5"x2.5"	9	26	18	--	Good	--	Begis & ends abruptly	Vedic & Ritual
+0262	981	ब्राह्मणग्रन्थ	--	--	Paper	DN	8"x4.3"	6.5"x2.5"	9	26	18	--	Good	--	Begis & ends abruptly.	Vedic & Ritual
+;0263	48	चरणव्यूह	--	--	Paper	DN	9"x4.2"	6.5"x2.5"	7	22	7	चक्रपाणि	Good	V.S. 1574	F.1 torn on the left	Vedic & Ritual
+0263	48	चरणव्यूह	--	--	Paper	DN	9"x4.2"	6.5"x2.5"	7	22	7	चक्रपाणि	Good	V.S. 1574	F.1 torn on the left.	Vedic & Ritual
+;0265	267	चातुर्मास्यहौत्र	--	--	Paper	DN	8.2"x4"	6.4"x2.5"	10	27	10	--	Good	--	F1-4 missing. Begins & ends abruptly	Vedic & Ritual
+0265	267	चातुर्मास्यहौत्र	--	--	Paper	DN	8.2"x4"	6.4"x2.5"	10	27	10	--	Good	--	F. 1-4 missing. Begins & ends abruptly.	Vedic & Ritual
+;0267	344	चातुर्मास्यहौत्र	--	--	Paper	DN	8.2"x4"	6.5"x2.6"	8	28	15	--	Good	--	Foll 5-10 missing	Vedic & Ritual
+0267	344	चातुर्मास्यहौत्र	--	--	Paper	DN	8.2"x4"	6.5"x2.6"	8	28	15	--	Good	--	Foll. 5-10 missing.	Vedic & Ritual
+;0268	303	चातुर्मास्यपद्धति	धुण्ढिराय	--	Paper	DN	8.4"x4"	7.2"x3"	13	36	41	--	Good	V.S. 1637	Foll 1-26 missing. Begins abruptly	Vedic & Ritual
+0268	303	चातुर्मास्यपद्धति	ढुण्ढिराय	--	Paper	DN	8.4"x4"	7.2"x3"	13	36	41	--	Good	V.S. 1637	Foll. 1-26 missing. Begins abruptly.	Vedic & Ritual
+;0270	123	दर्शपूर्णमासहौत्र	--	--	Paper	DN	9.2"x4"	7.5"x2.7"	14	44	6	--	Poor	--	Text not readable places.	Vedic & Ritual
+0270	123	दर्शपूर्णमासहौत्र	--	--	Paper	DN	9.2"x4"	7.5"x2.7"	14	44	6	--	Poor	--	Text not readable at places.	Vedic & Ritual

@@ -4,6 +4,7 @@ import sys
 def vernacular(text):
 	text = text.replace('M','n')
 	text = text.replace('RRi','ri')
+	text = text.replace('Ri','ri')
 	text = text.replace('LLi','lri')
 	text = text.replace('~N','n')
 	text = text.replace('j~n','gy')

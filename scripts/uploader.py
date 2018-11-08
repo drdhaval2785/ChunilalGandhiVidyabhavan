@@ -30,7 +30,7 @@ def trans(text, inputScheme=sanscript.DEVANAGARI):
 	tamil = transliterate(text, inputScheme, sanscript.TAMIL)
 	telugu = transliterate(text, inputScheme, sanscript.TELUGU)
 	optitrans = transliterate(text, inputScheme, sanscript.OPTITRANS)
-	keyword = vernacular(optitrans)
+	keyword = vernacular(itrans)
 	
 	return {'devanagari':devanagari, 'hk':hk, 'slp1':slp1, 'itrans':itrans, 'iast':iast, 'kolkata':kolkata, 'velthuis':velthuis, 'optitrans':optitrans,
 	'bengali':bengali, 'gujarati':gujarati, 'kannada':kannada, 'malayalam':malayalam, 'oriya':oriya, 'tamil':tamil, 'telugu':telugu, 'keyword':keyword}

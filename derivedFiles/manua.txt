@@ -803,7 +803,7 @@
 ;0401	929	आशौचनिर्णय शुद्धचन्द्रिकासहित्त	कौषिकादित्य	--	Paper	DN	8.8"x5"	7"x4"	12	28	12	--	Good	--	--	Dharmshastra Lit & Ritual
 0401	929	आशौचनिर्णय शुद्धचन्द्रिकासहित्त	कौषिकादित्य	--	Paper	DN	8.8"x5"	7"x4"	12	28	12	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0402	963	आशौचविशेषनिर्णय	नंद पंडित	--	Paper	DN	6"x3.6"	5.4"x2.8"	7	26	1	--	Good	--	--	Dharmshastra Lit & Ritual
-0402	963	आशौचविशेषनिर्णय	नन्द पंडित	--	Paper	DN	6"x3.6"	5.4"x2.8"	7	26	1	--	Good	--	--	Dharmshastra Lit & Ritual
+0402	963	आशौचविशेषनिर्णय	नन्द पण्डित	--	Paper	DN	6"x3.6"	5.4"x2.8"	7	26	1	--	Good	--	--	Dharmshastra Lit & Ritual
 ;0403	665	आशौचेन्दुशेखर	नागोजी भट्ट	--	Paper	DN	11.9"x4.1"	10"x2.7"	14	56	16	घनश्याम	Fair	shaka 1734	Foll 15-16 torn; text damaged on F.16 Black ink on foll. 1-10 & red ink on foll.11-16	Dharmshastra Lit & Ritual
 0403	665	आशौचेन्दुशेखर	नागोजी भट्ट	--	Paper	DN	11.9"x4.1"	10"x2.7"	14	56	16	घनश्याम	Fair	shaka 1734	Foll 15-16 torn; text damaged on F.16 Black ink on foll. 1-10 & red ink on foll.11-16	Dharmshastra Lit & Ritual
 ;0404	292	अस्थिक्षेपप्रकार	--	--	Paper	DN	6"x4"	4"x2.4"	8	16	4	--	Good	--	--	Dharmshastra Lit & Ritual
@@ -1853,7 +1853,7 @@
 ;926	1153	भुमिमंत्र (कूर्मचक्र)	--	--	Paper	DN	8"x3.9"	6.3"x2.9"	11	32	1	--	Good	--	Complete. 	Stotras
 926	1153	भुमिमन्त्र (कूर्मचक्र)	--	--	Paper	DN	8"x3.9"	6.3"x2.9"	11	32	1	--	Good	--	Complete. 	Stotras
 ;927	332	भूतशक्तिस्तोत्र	पंड्या गणपतराम गोविन्दराम	--	Paper	DN	5.8"x3.7"	4.5"x2.6"	11	30	6	पंड्या गणपतराम गोविन्दराम	Good	--	Incomplete  F.1. missing. Begins abruptly.	Stotras
-927	332	भूतशक्तिस्तोत्र	पंड्या गणपतराम गोविन्दराम	--	Paper	DN	5.8"x3.7"	4.5"x2.6"	11	30	6	पंड्या गणपतराम गोविन्दराम	Good	--	Incomplete  F.1. missing. Begins abruptly.	Stotras
+927	332	भूतशक्तिस्तोत्र	पण्ड्या गणपतराम गोविन्दराम	--	Paper	DN	5.8"x3.7"	4.5"x2.6"	11	30	6	पण्ड्या गणपतराम गोविन्दराम	Good	--	Incomplete  F.1. missing. Begins abruptly.	Stotras
 ;928	750	भुवनेश्वरीस्तोत्र	प्रिथ्विधर	पद्मनाभ राम	Paper	DN	9.2"x4.1"	7.5"x2.6"	8	31	37	इच्छाराम	Good	saMvata 1782	Complete.	Stotras
 928	750	भुवनेश्वरीस्तोत्र	प्रिथ्विधर	पद्मनाभ राम	Paper	DN	9.2"x4.1"	7.5"x2.6"	8	31	37	इच्छाराम	Good	V.S. 1782	Complete.	Stotras
 ;929	1264	भुवनेश्वरीसहस्रनामस्तोत्र	--	--	Paper	DN	8.1"x3.1"	6.3"x2.2"	10	40	6	माधव द्विज	Good	shaka 1664	Incomplete. F.1-4 missing begins abruptly.	Stotras
@@ -1977,7 +1977,7 @@
 ;988	1039	हनुमानाष्टक	--	--	Paper	DN	6"x4.2"	4"x2.7"	7	16	4	--	Good	saMvata 1787	Complete.	Stotras
 988	1039	हनुमानाष्टक	--	--	Paper	DN	6"x4.2"	4"x2.7"	7	16	4	--	Good	V.S. 1787	Complete.	Stotras
 ;989	889	हनुमत् कवच	--	--	Paper	DN	7.6"x4.2"	6"x2.8"	10	28	7	अम्बाराम पंड्या	Fair	shaka 1672	Complete. The text is almost unreadable.	Stotras
-989	889	हनुमत् कवच	--	--	Paper	DN	7.6"x4.2"	6"x2.8"	10	28	7	अम्बाराम पंड्या	Fair	shaka 1672	Complete. The text is almost unreadable.	Stotras
+989	889	हनुमत् कवच	--	--	Paper	DN	7.6"x4.2"	6"x2.8"	10	28	7	अम्बाराम पण्ड्या	Fair	shaka 1672	Complete. The text is almost unreadable.	Stotras
 ;990	1037	हनुमत् कवच	--	--	Paper	DN	6.5"x4.5"	4.8"x3"	10	18	6	--	Good	--	Incomplete F.3-5 missing.	Stotras
 990	1037	हनुमत् कवच	--	--	Paper	DN	6.5"x4.5"	4.8"x3"	10	18	6	--	Good	--	Incomplete F.3-5 missing.	Stotras
 ;991	1038	हनुमत्-रक्षाकवच 	--	--	Paper	DN	4.2"x9.3"	3.1"x8.6"	28	13	2	--	Good	--	Complete. An old Gujarati Bhajan an 2b	Stotras
@@ -2211,7 +2211,7 @@
 ;1105	137	स्वर्णाकर्षणस्तोत्र	--	--	Paper	DN	8.7"x5.2"	6"x4.5"	11	22	6	--	Good	--	Incomplete. F3-4 missing.	Stotras
 1105	137	स्वर्णाकर्षणस्तोत्र	--	--	Paper	DN	8.7"x5.2"	6"x4.5"	11	22	6	--	Good	--	Incomplete. F3-4 missing.	Stotras
 ;1106	367	त्रिपुराकवचम्	लघु पंडित	--	Paper	DN	6.8"x3.5"	4.5"x1.8"	5	17	11	--	Good	--	Complete. Edges torn on F.11.	Stotras
-1106	367	त्रिपुराकवचम्	लघु पंडित	--	Paper	DN	6.8"x3.5"	4.5"x1.8"	5	17	11	--	Good	--	Complete. Edges torn on F.11.	Stotras
+1106	367	त्रिपुराकवचम्	लघु पण्डित	--	Paper	DN	6.8"x3.5"	4.5"x1.8"	5	17	11	--	Good	--	Complete. Edges torn on F.11.	Stotras
 ;1107	1534	त्रिपुरासुन्दरीकवच	--	--	Paper	DN	7.1"x4"	5.4"x2.8"	9	23	2	--	Poor	--	Incomplete. Ends abruptly.	Stotras
 1107	1534	त्रिपुरासुन्दरीकवच	--	--	Paper	DN	7.1"x4"	5.4"x2.8"	9	23	2	--	Poor	--	Incomplete. Ends abruptly.	Stotras
 ;1108	1191	त्रिपुरासुन्दरीस्तोत्र	शंकराचार्य	--	Paper	DN	5.4"x2.9"	4"x1.7"	5	16	6	--	Good	--	Complete.	Stotras
@@ -3047,7 +3047,7 @@
 ;1523	544	अन्योक्तिस्तबक	वंशिधरमिर	--	Paper	DN	8"x4.7"	6.5"x3.5"	12	26	10	बुद्धिशर्मा मिश्र	Good	saMvata 1727	………..	Kavya
 1523	544	अन्योक्तिस्तबक	वंशिधरमिर	--	Paper	DN	8"x4.7"	6.5"x3.5"	12	26	10	बुद्धिशर्मा मिश्र	Good	V.S. 1727	………..	Kavya
 ;1524	286	अश्वधाटिकाव्य [with com शिशुहितकरी]	जगन्नाथ पंडित	योगेश्वर	Paper	DN	6.5"x4.8"	5.7"x4.2"	13	30	2	--	Good	--	Incomplete. Edges are torn. Ends abruptly.	Kavya
-1524	286	अश्वधाटिकाव्य [with com शिशुहितकरी]	जगन्नाथ पंडित	योगेश्वर	Paper	DN	6.5"x4.8"	5.7"x4.2"	13	30	2	--	Good	--	Incomplete. Edges are torn. Ends abruptly.	Kavya
+1524	286	अश्वधाटिकाव्य [with com शिशुहितकरी]	जगन्नाथ पण्डित	योगेश्वर	Paper	DN	6.5"x4.8"	5.7"x4.2"	13	30	2	--	Good	--	Incomplete. Edges are torn. Ends abruptly.	Kavya
 ;1525	1261	भामिनीविलास [१-५४-१०१]	जगन्नाथ	--	Paper	DN	8.2"x4"	7.8"x3"	13	38	3	--	Good	--	Incomplete.Begins abruptly.	Kavya
 1525	1261	भामिनीविलास [१-५४-१०१]	जगन्नाथ	--	Paper	DN	8.2"x4"	7.8"x3"	13	38	3	--	Good	--	Incomplete.Begins abruptly.	Kavya
 ;1526	637	भावशत	रजा नागराज	--	Paper	DN	9.5"x3.5"	7.7"x2.6"	8	39	15	--	Good	--	F.1 and 15 are torn on border.	Kavya
@@ -3089,7 +3089,7 @@
 ;1544	232	नैषधीय [II] Sarga	 श्री हर्ष	--	Paper	DN	8"x3.7"	6"x2.2"	5	23	9	--	Good	--	Incomplete. Ends abruptly. (II-1 to 86)	Kavya
 1544	232	नैषधीय [II] Sarga	 श्री हर्ष	--	Paper	DN	8"x3.7"	6"x2.2"	5	23	9	--	Good	--	Incomplete. Ends abruptly. (II-1 to 86)	Kavya
 ;1545	438	नैषधीयप्रकाश	 श्री हर्ष	नारायण पंडित	Paper	DN	11.2"x5.5"	9.3"x4.3"	13	55	64	हंसराज	Good	--	Incomplete. F.1-3 & 29-30 torn. And the text is slightly damaged.	Kavya
-1545	438	नैषधीयप्रकाश	 श्री हर्ष	नारायण पंडित	Paper	DN	11.2"x5.5"	9.3"x4.3"	13	55	64	हंसराज	Good	--	Incomplete. F.1-3 & 29-30 torn. And the text is slightly damaged.	Kavya
+1545	438	नैषधीयप्रकाश	 श्री हर्ष	नारायण पण्डित	Paper	DN	11.2"x5.5"	9.3"x4.3"	13	55	64	हंसराज	Good	--	Incomplete. F.1-3 & 29-30 torn. And the text is slightly damaged.	Kavya
 ;1546	502	नैषधकाव्य	 श्री हर्ष	--	Paper	DN	8.6"x3.3"	6.8"x2.2"	10	36	28	--	Good	--	Incomplete. The first fou folios are torn in the middle and writing is damaged. Begins, ends abruptly.	Kavya
 1546	502	नैषधकाव्य	 श्री हर्ष	--	Paper	DN	8.6"x3.3"	6.8"x2.2"	10	36	28	--	Good	--	Incomplete. The first fou folios are torn in the middle and writing is damaged. Begins, ends abruptly.	Kavya
 ;1547	876	नैषधटीका	 श्री हर्ष	नारायण	Paper	DN	12.2"x4.2"	9.5"x2.7"	८/११	५०/५५	18	--	Good	--	Incomplete. Edges are torn. Different hand-writing on differernt folios Ends abruptly.	Kavya
@@ -3189,7 +3189,7 @@
 ;1594	635	नल-चम्पू	त्रिविक्रम भट्ट	--	Paper	DN	8.7"x4.6"	6.6"x3"	9	25	123	--	Good	--	Incomplete. Ends abruptly. F.108 is missing F.109 bears No. 107 again.	Prose and Champu
 1594	635	नल-चम्पू	त्रिविक्रम भट्ट	--	Paper	DN	8.7"x4.6"	6.6"x3"	9	25	123	--	Good	--	Incomplete. Ends abruptly. F.108 is missing F.109 bears No. 107 again.	Prose and Champu
 ;1595	811	नृसिंहचम्पूकाव्य	केशव पंडित भट्ट	--	Paper	DN	8.9"x4"	6.5"x2.5"	10	32	19	--	Good	--	Incomlete.Ends abruptly.	Prose and Champu
-1595	811	नृसिंहचम्पूकाव्य	केशव पंडित भट्ट	--	Paper	DN	8.9"x4"	6.5"x2.5"	10	32	19	--	Good	--	Incomlete.Ends abruptly.	Prose and Champu
+1595	811	नृसिंहचम्पूकाव्य	केशव पण्डित भट्ट	--	Paper	DN	8.9"x4"	6.5"x2.5"	10	32	19	--	Good	--	Incomlete.Ends abruptly.	Prose and Champu
 ;1596	1544	वेतालपंचविंशति	--	--	Paper	DN	8.1"x3.5"	6.6"x2.5"	11	40	28	--	Poor	--	f.1-3 missing. Edges are torn. Begins Ends abruptly.	Prose and Champu
 1596	1544	वेतालपञ्चविंशति	--	--	Paper	DN	8.1"x3.5"	6.6"x2.5"	11	40	28	--	Poor	--	f.1-3 missing. Edges are torn. Begins Ends abruptly.	Prose and Champu
 ;1597	1417	प्रश्नोत्तराणि	--	--	Paper	DN	9"x401"	7.7"x2.6"	9	18	4	--	Good	--	Incomplete. F.3 missing Edges are torn. Ends abruptly.	Prose and Champu

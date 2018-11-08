@@ -1904,8 +1904,6 @@
 1284	611	कारकविवेचन	भवानन्द सिद्धान्तवागीश	--	Paper	DN	10"x4.3"	8"x3"	13	40	14	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 ;1286	892	किरणावली	उदयनाचार्य	--	Paper	DN	10.2"x3.2"	6.4"x1.9"	8	36	20	--	Poor	--	Incomplete.F.3 is moth-eaten and the text is damaged. Ends abruptly.	Nyaya-Vaisheshika
 1286	892	किरणावली	उदयनाचार्य	--	Paper	DN	10.2"x3.2"	6.4"x1.9"	8	36	20	--	Readable	--	Incomplete. F. 3 is moth-eaten and the text is damaged. Ends abruptly.	Nyaya-Vaisheshika
-;1286	892	किरणावली	उदयनाचार्य	--	Paper	DN	10.2"x3.2"	6.4"x1.9"	8	36	20	--	Poor	--	Incomplete.F.3 is moth-eaten and the text is damaged. Ends abruptly.	Nyaya-Vaisheshika
-1286	892	किरणावली	उदयनाचार्य	--	Paper	DN	10.2"x3.2"	6.4"x1.9"	8	36	20	--	Poor	--	Incomplete.F.3 is moth-eaten and the text is damaged. Ends abruptly.	Nyaya-Vaisheshika
 ;1287	685	किरणावली प्रकाश	वर्धमान	--	Paper	DN	9.9"x3"	8.4"x2"	10	50	81	--	Good	saMvata 1657 shaka 1522	Incomplete. F.77-79 misssing.	Nyaya-Vaisheshika
 1287	685	किरणावली प्रकाश	वर्धमान	--	Paper	DN	9.9"x3"	8.4"x2"	10	50	81	--	Good	V.S. 1657 shaka 1522	Incomplete. F. 77-79 misssing.	Nyaya-Vaisheshika
 ;1288	677	लिंगोपहितलैंगिकभावविचार 	--	--	Paper	DN	10.1"x4.4"	8"x2.5"	9	40	38	बालकृष्ण मिश्र	Good	saMvata 1845	Complete.	Nyaya-Vaisheshika

@@ -1764,3 +1764,33 @@
 1177	1074	कल्पलतामहामन्त्रसूक्त	--	--	Paper	DN	10"x4.5"	8"x3.6"	12	36	1	--	Good	--	Complete. Edges torn.	Tantrik Lit. And Ritual
 ;1180	796	कात्यायनीतंत्र	--	--	Paper	DN	5.7"x4"	4.2"x3"	11	24	7	--	Good	(shaka)1649	Incomplete.F.1-3 missing. Begins abruptly.	Tantrik Lit. And Ritual
 1180	796	कात्यायनीतन्त्र	--	--	Paper	DN	5.7"x4"	4.2"x3"	11	24	7	--	Good	(shaka)1649	Incomplete. F. 1-3 missing. Begins abruptly.	Tantrik Lit. And Ritual
+;1181	1073	लिंगोद्यापन	--	--	Paper	DN	5.8"x4"	4"x2.5"	9	16	5	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1181	1073	लिङ्गोद्यापन	--	--	Paper	DN	5.8"x4"	4"x2.5"	9	16	5	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1182	1361	महागणपतिनित्यकृत्य	--	--	Paper	DN	8.2"x4.4"	6.4"x3.1"	11	35	1	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
+1182	1361	महागणपतिनित्यकृत्य	--	--	Paper	DN	8.2"x4.4"	6.4"x3.1"	11	35	1	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
+;1183	885	महाविद्यामूलमंत्रपूजाविधि	माधव	--	Paper	DN	7.8"x3.6"	5.8"x2.6"	11	30	11	--	Fair	--	Complete. Folios moth-eaten. The work is explained in old Gujarati.	Tantrik Lit. And Ritual
+1183	885	महाविद्यामूलमन्त्रपूजाविधि	माधव	--	Paper	DN	7.8"x3.6"	5.8"x2.6"	11	30	11	--	Fair	--	Complete. Folios moth-eaten. The work is explained in old Gujarati.	Tantrik Lit. And Ritual
+;1184	1367	मातृकाध्यानादिविधि	केशव भट्ट	--	Paper	DN	8"x4"	6.6"x2.6"	10	33	5	--	Good	--	Incomplete. F.1-3 missing. Begins abruptly.	Tantrik Lit. And Ritual
+1184	1367	मातृकाध्यानादिविधि	केशव भट्ट	--	Paper	DN	8"x4"	6.6"x2.6"	10	33	5	--	Good	--	Incomplete. F. 1-3 missing. Begins abruptly.	Tantrik Lit. And Ritual
+;1185	487	मृत्युंजयमंत्रानुष्ठानविधि	--	--	Paper	DN	8.5"x4.1"	7"x3"	10	26	7	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1185	487	मृत्युञ्जयमन्त्रानुष्ठानविधि	--	--	Paper	DN	8.5"x4.1"	7"x3"	10	26	7	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1186	940	मन्युसूक्तविधि (from the प्रयोगार्णव)	--	--	Paper	DN	8.3"x4"	7.5"x3"	11	30	4	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1186	940	मन्युसूक्तविधि (प्रयोगार्णव)	--	--	Paper	DN	8.3"x4"	7.5"x3"	11	30	4	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1187	239	नकुलीविधान	--	--	Paper	DN	7.7"x3.5"	6"x2.5"	8	24	3	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1187	239	नकुलीविधान	--	--	Paper	DN	7.7"x3.5"	6"x2.5"	8	24	3	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1188	1096	नरसिंहार्चनविधि	--	--	Paper	DN	9.1"x4.1"	7.5"x2.5"	7	26	10	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1188	1096	नरसिंहार्चनविधि	--	--	Paper	DN	9.1"x4.1"	7.5"x2.5"	7	26	10	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1189	227	नवग्रहस्तुति	--	--	Paper	DN	8.2"x4"	6.7"x2.5"	11	34	4	नारायण रामचंद्र	Good	--	Complete.	Tantrik Lit. And Ritual
+1189	227	नवग्रहस्तुति	--	--	Paper	DN	8.2"x4"	6.7"x2.5"	11	34	4	नारायण रामचन्द्र	Good	--	Complete.	Tantrik Lit. And Ritual
+;1190	1388	नवग्रहयंत्र	--	--	Paper	DN	9.2"x4.1"	8.9"x2.7"	12	50	2	--	Good	--	Complete. Margins are torn and the text is damged.	Tantrik Lit. And Ritual
+1190	1388	नवग्रहयन्त्र	--	--	Paper	DN	9.2"x4.1"	8.9"x2.7"	12	50	2	--	Good	--	Complete. Margins are torn and the text is damged.	Tantrik Lit. And Ritual
+;1191	1099	(अ) नवार्णवपल्लवविधि + (ब) नवार्णवमंत्रोत्किलनम्	--	--	Paper	DN	6"x4.1"	4.6"x3"	10	20	4	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1191	1099	a. नवार्णवपल्लवविधि + b. नवार्णवमन्त्रोत्कीलनम्	--	--	Paper	DN	6"x4.1"	4.6"x3"	10	20	4	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1192	1100	नित्यपद्धति	--	--	Paper	DN	8.3"x4"	6.2"x2.5"	9	28	7	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1192	1100	नित्यपद्धति	--	--	Paper	DN	8.3"x4"	6.2"x2.5"	9	28	7	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1193	1105	पंचचक्रनिर्णय	--	--	Paper	DN	8"x4.1"	7.2"x3.3"	12	28	2	--	Good	--	Complete.	Tantrik Lit. And Ritual
+1193	1105	पञ्चचक्रनिर्णय	--	--	Paper	DN	8"x4.1"	7.2"x3.3"	12	28	2	--	Good	--	Complete.	Tantrik Lit. And Ritual
+;1194	1106	पंचाक्षरशिवपटल	--	--	Paper	DN	7.8"x4.4"	6"x2.5"	7	24	6	पुरुषोत्तम	Good	saMvata 1760	Complete. Edges torn.	Tantrik Lit. And Ritual
+1194	1106	पञ्चाक्षरशिवपटल	--	--	Paper	DN	7.8"x4.4"	6"x2.5"	7	24	6	पुरुषोत्तम	Good	V.S. 1760	Complete. Edges torn.	Tantrik Lit. And Ritual
+;1195	1107	पारायणानि	--	--	Paper	DN	8"x3.9"	7"x3.2"	14	34	2	--	Good	--	Incomplete.The folio 1 is torn slightly and the text is damaged.	Tantrik Lit. And Ritual
+1195	1107	पारायणानि	--	--	Paper	DN	8"x3.9"	7"x3.2"	14	34	2	--	Good	--	Incomplete. The folio 1 is torn slightly and the text is damaged.	Tantrik Lit. And Ritual

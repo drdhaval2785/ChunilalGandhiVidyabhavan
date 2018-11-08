@@ -60,13 +60,29 @@ def findAnusvara(filein):
 	fin.close()
 
 def find_abnormal_accession_no(filein):
-	base = [str(item) for item in range(0,1600)]
 	accessionList = []
 	fin = codecs.open(filein, 'r', 'utf-8')
 	for line in fin:
 		accessionList.append(line.split('\t')[1])
-	print(Counter(accessionList).most_common(50))
+	print('Error 1. Multiple Serial numbers having the same accession number.')
+	print([(item, count) for (item, count) in Counter(accessionList).most_common(10) if count > 1])
+	
+	baseSet = set([str(item) for item in range(1,1600)])
+	accessionSet = set(accessionList)
+	
+	print('Error 2. Missing accession numbers i.e. accession numbers not associated with any Serial number.')
+	diff1 = list(baseSet - accessionSet)
+	print(sorted([int(item) for item in diff1]))
+	
+	print('Error 3. Accession numbers not following the proper numbering system. They are not necessarily errors. They require examination. That is all.')
+	diff2 = list(accessionSet - baseSet)
+	print(sorted(diff2))
 	fin.close()
+	
+	print('Reconciliation between 2 and 3.')
+	diff2stripped = set([re.sub('[^0-9]$', '', item) for item in diff2])
+	diff1recouciled = set(diff1) - diff2stripped
+	print(sorted([int(item) for item in diff1recouciled]))
 	
 if __name__=="__main__":
 	input = []

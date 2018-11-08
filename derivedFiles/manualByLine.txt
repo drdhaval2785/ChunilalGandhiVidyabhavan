@@ -2394,8 +2394,6 @@
 1568	1434	रघुवंश [X]	कालिदास	मल्लिनाथ	Paper	DN	11"x5.1"	8.6"x3"	8	34	22	--	Poor	--	Incomplete. F. 1-20 missing. Begins abruptly. Edges torn.	Kavya
 ;1570	645	रामकृष्णकाव्य	सूर्य दैवज्ञ	--	Paper	DN	8.4"x4.1"	6.6"x2.5"	9	34	13	रामकृष्ण	Good	shaka 1654	Incomplete. F.2-7 missing.	Kavya
 1570	645	रामकृष्णकाव्य	सूर्य दैवज्ञ	--	Paper	DN	8.4"x4.1"	6.6"x2.5"	9	34	13	रामकृष्ण	Good	shaka 1654	Incomplete. F. 2-7 missing.	Kavya
-;1571	852	रामकृष्णकाव्य	सूर्य दैवज्ञ	--	Paper	DN	11.8"x5.5"	9.7"x4"	12	40	20	रामकृष्ण	Good	shaka 1682	Complete. Edges torn. The  text is damaged.	Kavya
-1571	852	रामकृष्णकाव्य	सूर्य दैवज्ञ	--	Paper	DN	11.8"x5.5"	9.7"x4"	12	40	20	रामकृष्ण	Good	shaka 1682	Complete. Edges torn. The  text is damaged.	Kavya
 ;1572	908	रामार्या	महा मौद्गल भट्ट	--	Paper	DN	6.5"x8.1"	5"x6.4"	19	20	4	--	Good	--	Incomplete. The text is damaged on F.1,4 Ends abruptly.	Kavya
 1572	908	रामार्या	महामौद्गल भट्ट	--	Paper	DN	6.5"x8.1"	5"x6.4"	19	20	4	--	Good	--	Incomplete. The text is damaged on F. 1,4. Ends abruptly.	Kavya
 ;1573	1440	रामायण (आराण्यकखण्ड)	वाल्मीकि	--	Paper	DN	10.2"x3.9"	8.7"x2.5"	15	48	65	--	Very poor	--	Incomplete. F.1 lost Many folios are moth-eaten and torn and the text is seriously damaged on 2-23,65. Begins, ends abruptly.	Kavya
@@ -2428,14 +2426,10 @@
 1586	646	विदग्धमुखमण्डन	धर्मदास	खुस्यालचन्द्रगणि	Paper	DN	9.10x5.1"	7.2"x3.8"	10	38	72	--	Good	saMvaMta 1741	Complete. The text is slightly damged on the last.	Kavya
 ;1587	1556	विदग्धमुखमण्डन	धर्मदास	खुस्यालचंद्र	Paper	DN	10.4"x4.7"	8.4"x3.2"	9	34	72	--	Good	--	Incomplete. F.1-70 missing. Begins abruptly. Edges torn.	Kavya
 1587	1556	विदग्धमुखमण्डन	धर्मदास	खुस्यालचन्द्र	Paper	DN	10.4"x4.7"	8.4"x3.2"	9	34	72	--	Good	--	Incomplete. F. 1-70 missing. Begins abruptly. Edges torn.	Kavya
-;1588	561	विदग्धमुखमण्डन	धर्मदास	--	Paper	DN	10.2"x4.4"	9.2"x2.8"	10	33	13	--	Poor	--	Folios ends are torn on right hand side.	Kavya
-1588	561	विदग्धमुखमण्डन	धर्मदास	--	Paper	DN	10.2"x4.4"	9.2"x2.8"	10	33	13	--	Poor	--	Folios ends are torn on right hand side.	Kavya
 ;1589	692	वृद्धलघुचाणक्य	--	--	Paper	DN	8.1"x5.2"	6.0"x3.2"	10	24	28	--	Poor	--	वृद्धचाणक्य Complete. लघुचाणक्य Incomplete. F.23-27 torn from the middle. The text is damaged. Ends abruptly.	Kavya
 1589	692	वृद्ध-लघुचाणक्य	--	--	Paper	DN	8.1"x5.2"	6.0"x3.2"	10	24	28	--	Readable	--	वृद्धचाणक्य Complete. लघुचाणक्य Incomplete. F. 23-27 torn from the middle. The text is damaged. Ends abruptly.	Kavya
 ;1590	352	प्रबोधचन्द्रोदय	कृष्ण मिश्र	--	Paper	DN	9"x4"	7"x2.8"	8	27	84	--	Good	vikrama savaMta 1748	………….	Nataka
 1590	352	प्रबोधचन्द्रोदय	कृष्ण मिश्र	--	Paper	DN	9"x4"	7"x2.8"	8	27	84	--	Good	V.S. 1748	--	Nataka
-;1591	877	प्रबोधचन्द्रोदय	कृष्ण मिश्र	रामदास	Paper	DN	12.1"x5.5"	9.5"x4"	16	52	11	--	Good	--	Incomplete. The text is damaged on the last folio which is worm-eaten.	Nataka
-1591	877	प्रबोधचन्द्रोदय	कृष्ण मिश्र	रामदास	Paper	DN	12.1"x5.5"	9.5"x4"	16	52	11	--	Good	--	Incomplete. The text is damaged on the last folio which is worm-eaten.	Nataka
 ;1592	1554	वेणीसंहारछाया	--	--	Paper	DN	13"x8"	10"x5.2"	18	54	30	--	Good	shaka 1752	F.1-28 missing. Folis are moth-eaten and the text is slightly damaged. Begins abruptly.	Nataka
 1592	1554	वेणीसंहारछाया	--	--	Paper	DN	13"x8"	10"x5.2"	18	54	30	--	Good	shaka 1752	F. 1-28 missing. Folios are moth-eaten and the text is slightly damaged. Begins abruptly.	Nataka
 ;1593	452	हितोपदेश	नारायण	--	Paper	DN	10"x5.2"	8"x3.5"	11	34	72	अनंत चक्रवर्ति	Good	--	Incomplete. F.1 missing in 1st chapter Begins abruptly.	Prose and Champu

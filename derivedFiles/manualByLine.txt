@@ -1934,3 +1934,33 @@
 1300	557	न्यायग्रन्थ	--	--	Paper	DN	10"x5.5"	8"x3.8"	13	32	13	--	Good	--	Incomplete. The end appears to be abrupt. [प्रत्यक्षदीधितिन्याय only].	Nyaya-Vaisheshika
 ;1301	581 a	न्याय a work on	--	--	Paper	DN	11.8"x4.1"	9"x2.5"	12	61	33	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 1301	581A	न्यायग्रन्थ	--	--	Paper	DN	11.8"x4.1"	9"x2.5"	12	61	33	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1302	581 ba	न्याय a work on	--	--	Paper	DN	11.8"x4.1"	9"x2.6"	12	55	56	--	Good	--	Begins, Ends abruptly.	Nyaya-Vaisheshika
+1302	581B	न्यायग्रन्थ	--	--	Paper	DN	11.8"x4.1"	9"x2.6"	12	55	56	--	Good	--	Begins, ends abruptly.	Nyaya-Vaisheshika
+;1303	599 a	न्याय a work on	--	--	Paper	DN	8"x3.6"	6.9"x2.3"	10	40	131	--	Good	--	Incomplete. F.1-2, 115 missing. Begins ends abruptly.	Nyaya-Vaisheshika
+1303	599A	न्यायग्रन्थ	--	--	Paper	DN	8"x3.6"	6.9"x2.3"	10	40	131	--	Good	--	Incomplete. F. 1-2, 115 missing. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1304	599 ba	न्याय a work on	--	--	Paper	DN	8"x3.6"	6.8"x2"	11	42	    ४३     (२०-६२)	--	Good	--	Incomplete. Begins, Ends abruptly.	Nyaya-Vaisheshika
+1304	599B	न्यायग्रन्थ	--	--	Paper	DN	8"x3.6"	6.8"x2"	11	42	    43 (20-62)	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1305	599 ka	न्याय a work on	--	--	Paper	DN	8"x3.6"	7.3"x2.6"	12	40	113	--	Fair	--	Incomplete. F.92 missing. Begins, ends abruptly.	Nyaya-Vaisheshika
+1305	599C	न्यायग्रन्थ	--	--	Paper	DN	8"x3.6"	7.3"x2.6"	12	40	113	--	Not good	--	Incomplete. F. 92 missing. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1306	914	"न्याय a work on [""मथुरानाथी?]"	मथुरानाथ तर्कवागीश	--	Paper	DN	10.5"x5.5"	8.5"x3.8"	20	44	13	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+1306	914	न्यायग्रन्थ [मथुरानाथी?]	मथुरानाथ तर्कवागीश	--	Paper	DN	10.5"x5.5"	8.5"x3.8"	20	44	13	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1307	915	न्याय a work on [गदाधरी?]	--	--	Paper	DN	12.7"x4.9"	10.2"x3.1"	12	54	5	--	Good	--	Incomplete.Begins, Ends abruptly.	Nyaya-Vaisheshika
+1307	915	न्यायग्रन्थ [गदाधरी?]	--	--	Paper	DN	12.7"x4.9"	10.2"x3.1"	12	54	5	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1308	917	न्याय a work on	--	--	Paper	DN	10.5"x5.5"	8.2"x3.7"	15	39	14	--	Good	--	Incomplete.Begins, Ends abruptly.	Nyaya-Vaisheshika
+1308	917	न्यायग्रन्थ	--	--	Paper	DN	10.5"x5.5"	8.2"x3.7"	15	39	14	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1309	1281	न्याय a work on [चिन्तामणिटीका]	--	--	Paper	DN	9.1"x4.1"	7.7"x2.8"	12	40	24	--	Good	--	Incomplete. F.45 torn, the text is damaged Edges torn. Begins, ends abruptly.	Nyaya-Vaisheshika
+1309	1281	न्यायग्रन्थ [चिन्तामणिटीका]	--	--	Paper	DN	9.1"x4.1"	7.7"x2.8"	12	40	24	--	Good	--	Incomplete. F. 45 torn, the text is damaged. Edges torn. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1310	1383	न्याय a work on	--	--	Paper	DN	8.8"x4"	6.5"x2"	7	36	43	--	Good	--	Incomplete.F.1 is torn and the text damaged. F.27,28 not readable. Begins ends abruptly.	Nyaya-Vaisheshika
+1310	1383	न्यायग्रन्थ	--	--	Paper	DN	8.8"x4"	6.5"x2"	7	36	43	--	Good	--	Incomplete. F. 1 is torn and the text damaged. F. 27,28 not readable. Begins ends abruptly.	Nyaya-Vaisheshika
+;1311	1393	न्याय a work on	--	--	Paper	DN	11.2"x4.1"	9.8"x3"	13	56	4	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+1311	1393	न्यायग्रन्थ	--	--	Paper	DN	11.2"x4.1"	9.8"x3"	13	56	4	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1312	1394	न्याय a work on	--	--	Paper	DN	10.6"x4.7"	8.9"x3.7"	14	42	23	--	Good	--	Incomplete. F.1 missing, Begins ends abruptly.	Nyaya-Vaisheshika
+1312	1394	न्यायग्रन्थ	--	--	Paper	DN	10.6"x4.7"	8.9"x3.7"	14	42	23	--	Good	--	Incomplete. F. 1 missing. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1313	1395	न्याय a work on	--	--	Paper	DN	10"x4.3"	7.3"x2.2"	9	40	6	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+1313	1395	न्यायग्रन्थ	--	--	Paper	DN	10"x4.3"	7.3"x2.2"	9	40	6	--	Good	--	Incomplete. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1314	1396	न्याय a work on	--	--	Paper	DN	9.2"x4.1"	7.4"x2.5"	12	32	21	--	Good	--	Incomplete. F.1 missing. The text on 29 not legible. Begins, ends abruptly.	Nyaya-Vaisheshika
+1314	1396	न्यायग्रन्थ	--	--	Paper	DN	9.2"x4.1"	7.4"x2.5"	12	32	21	--	Good	--	Incomplete. F. 1 missing. The text on 29 not legible. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1315	1397	न्याय a work on	--	--	Paper	DN	9.2"x4.2"	7"x2.5"	9	38	१२    (३१-३९, ५२-५५)	--	Good	--	Incomplete. Folios are torn and the text is damaged on 38,39,55. Edges torn. Begins, ends abruptly.	Nyaya-Vaisheshika
+1315	1397	न्यायग्रन्थ	--	--	Paper	DN	9.2"x4.2"	7"x2.5"	9	38	12 (31-39,52-55)	--	Good	--	Incomplete. Folios are torn and the text is damaged on 38,39,55. Edges torn. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1316	1398	न्याय a work on	--	--	Paper	DN	9"x4"	7.1"x2.4"	10	45	5	--	Poor	--	Incomplete. Margins are torn and pagination is last. The text is damaged on all. Begins, ends abruptly.	Nyaya-Vaisheshika
+1316	1398	न्यायग्रन्थ	--	--	Paper	DN	9"x4"	7.1"x2.4"	10	45	5	--	Poor	--	Incomplete. Margins are torn and pagination is lost. The text is damaged on all. Begins, ends abruptly.	Nyaya-Vaisheshika

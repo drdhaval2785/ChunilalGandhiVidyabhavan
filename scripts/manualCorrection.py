@@ -67,7 +67,7 @@ def find_abnormal_accession_no(filein):
 	print('Error 1. Multiple Serial numbers having the same accession number.')
 	print([(item, count) for (item, count) in Counter(accessionList).most_common(10) if count > 1])
 	
-	baseSet = set([str(item) for item in range(1,1600)])
+	baseSet = set([str(item) for item in range(1,1573)])
 	accessionSet = set(accessionList)
 	
 	print('Error 2. Missing accession numbers i.e. accession numbers not associated with any Serial number.')

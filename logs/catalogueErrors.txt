@@ -1,4 +1,8 @@
-﻿0006A:Only item to have A and B in Sr. No.
+﻿# Errors in entries. 
+
+Data is in SrNo:Error format
+
+0006A:Only item to have A and B in Sr. No.
 0006B:Only item to have A and B in Sr. No.
 0068:Commentator missing. All other columns shifted to left by one.
 0077:B size is reversed 3.7"x8.5" instead of 8.5"x3.7".
@@ -21,3 +25,33 @@
 1560:b size, c line, d letters not mentioned.
 1564:b size not mentioned.
 
+# Entries without Accession numbers
+
+Following serial number entries do not have any accession number mentioned against them.
+
+0275
+0311
+0909
+
+# Duplicate accession numbers.
+
+Total 9 entries were prima facie seen to be duplicate.
+
+AccessionNumber:SerialNumberCommaSeparated:CorrectSerialNumberFromMSSExamination
+248:0126,0498:0126
+1437+1548:0804,0159:Both. 0804 ends abruptly and 0159 starts abruptly. Both put together, it is complete work of Rajavallabha.
+926:0203,0521:0521
+432:0224,0226:0224 is correct. 0226 should have 434.
+1367:0341,1184:MSS 1367 has not been digitized. So, it is not possible to decide.
+18:0484,0490:0490 seems correct, as the scribe name etc is mentioned therein. Aditya bhatta of 0484 is nowhere to be seen.
+1089:0504,0772:0504
+1255:0650,0651:0650
+1533:0858,1585:0858
+
+# After corrections in accession numbers, the latest situation
+
+('--', 9), ('1437+1548', 2), ('1367', 2)
+
+1. total 9 entries without proper Accession number - 0275, 0311, 0909, 0498, 0203, 0484, 0772, 0651, 1585
+2. One entry which has two accession numbers clubbed. It figures at two places in catalogue i.e. 1437+1548 occurs on serial number 0804 and 0159, both correctly.
+3. One entry could not be verified, because the manuscript is not digitized. i.e. 1367.

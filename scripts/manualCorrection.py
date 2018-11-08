@@ -2,7 +2,7 @@
 import codecs
 import re
 from indic_transliteration.sanscript import transliterate
-
+from collections import Counter
 
 
 def repl(matchobject):
@@ -58,6 +58,15 @@ def findAnusvara(filein):
 		if re.search('ं[कखगघचछजझटठडढतथदधपफबभ]', line):
 			print(line.split('\t')[0])
 	fin.close()
+
+def find_abnormal_accession_no(filein):
+	base = [str(item) for item in range(0,1600)]
+	accessionList = []
+	fin = codecs.open(filein, 'r', 'utf-8')
+	for line in fin:
+		accessionList.append(line.split('\t')[1])
+	print(Counter(accessionList).most_common(50))
+	fin.close()
 	
 if __name__=="__main__":
 	input = []
@@ -81,6 +90,9 @@ if __name__=="__main__":
 	#prepareDuplicate('../derivedFiles/cataloguev005.tsv','../derivedFiles/manua.txt')
 	#print('Duplicate lines in ../derivedFiles/manualByLine.txt')
 	#findNoChangeLines('../derivedFiles/manualByLine.txt')
-	
+
+
+	# The next lines of code are for identifying potential errors in the dataset. Not directly releated to manual correction per se.
 	# Find out lines which still have anusvara instead of vargapanchama.
-	findAnusvara('../derivedFiles/cataloguev006.tsv')
+	# findAnusvara('../derivedFiles/cataloguev006.tsv')
+	find_abnormal_accession_no('../derivedFiles/cataloguev006.tsv')

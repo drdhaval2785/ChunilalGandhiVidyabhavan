@@ -35,6 +35,14 @@ def trans(text, inputScheme=sanscript.DEVANAGARI):
 	return {'devanagari':devanagari, 'hk':hk, 'slp1':slp1, 'itrans':itrans, 'iast':iast, 'kolkata':kolkata, 'velthuis':velthuis, 'optitrans':optitrans,
 	'bengali':bengali, 'gujarati':gujarati, 'kannada':kannada, 'malayalam':malayalam, 'oriya':oriya, 'tamil':tamil, 'telugu':telugu, 'keyword':keyword}
 
+def padAccessionNumber(accession):
+	number = re.sub('[a-zA-Z]*$', '', accession)
+	number1 = '0'*(4-len(number)) + number
+	accession = accession.replace(number, number1)
+	accession = accession.upper()
+	accession = re.sub('([A-Z])$', '-\g<1>', accession)
+	return accession
+
 # Createa a metadata dict from each line of Catalogue. Catalogue has total 16 fields. They are read into dict details, and further processed. 68 entries produced to upload to archive.org.
 def find_metadata(line):
 	details = line.rstrip('\r\n').split('\t')
@@ -45,11 +53,7 @@ def find_metadata(line):
 	metadata['Sr_No'] = details[0]
 	# Exercise to prepare a pad around the accession number e.g. 24 -> 0024. Also convert a,b etc to -A,-B etc e.g. 424a -> 0424-A
 	accession = str(details[1])
-	number = re.sub('[a-zA-Z]*$', '', accession)
-	number1 = '0'*(4-len(number)) + number
-	accession = accession.replace(number, number1)
-	accession = accession.upper()
-	accession = re.sub('([A-Z])$', '-\g<1>', accession)
+	accession = padAccessionNumber(accession)
 	metadata['Accession_No'] = accession
 	# Convert title to various transliterations
 	for (key, item) in trans(details[2]).items():
@@ -91,13 +95,10 @@ def uploadToArchive(metadatafile):
 	accession = md['Accession_No']
 	sr = md['Sr_No']
 	startMessage = sr+'#'+accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
-	"""
 	print(startMessage)
 	r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=md)
 	endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
 	print(endMessage)
-	flog.write('File uploaded:'+sr+'#'+accession+'#'+identifier+'\n')
-	"""
 	
 def createMetadataJson():
 	fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
@@ -121,9 +122,23 @@ def createMetadataJson():
 
 
 if __name__=="__main__":
+	"""
 	createMetadataJson()
 	metafiles = glob.glob('../metadataJson/*.json')
 	metafiles = sorted(metafiles)
 	for metafile in metafiles:
 		metadata = json.load(codecs.open(metafile, 'r', 'utf-8'))
 		print(metadata['identifier'])
+	"""
+	
+	accessionsToBeUploaded = '../derivedFiles/uploadstack.txt'
+	for line in codecs.open(accessionsToBeUploaded, 'r', 'utf-8'):
+		accession = line.rstrip()
+		accession = padAccessionNumber(accession)
+		if os.path.isfile('../metadataJson/'+accession+'.json'):
+			metadata = json.load(codecs.open('../metadataJson/'+accession+'.json', 'r', 'utf-8'))
+			print(metadata['identifier'])
+		else:
+			print('FILE NOT FOUND: '+accession)
+	
+		

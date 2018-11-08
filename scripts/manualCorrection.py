@@ -52,6 +52,13 @@ def findNoChangeLines(filein):
 				print(inpt.split('\t')[0])
 	fin.close()
 
+def findAnusvara(filein):
+	fin = codecs.open(filein, 'r', 'utf-8')
+	for line in fin:
+		if re.search('ं[कखगघचछजझटठडढतथदधपफबभ]', line):
+			print(line.split('\t')[0])
+	fin.close()
+	
 if __name__=="__main__":
 	input = []
 	output = []
@@ -71,7 +78,9 @@ if __name__=="__main__":
 	with codecs.open('../derivedFiles/cataloguev006.tsv', 'w', 'utf-8') as fout:
 		fout.write(wholedata)
 
-	prepareDuplicate('../derivedFiles/cataloguev005.tsv','../derivedFiles/manua.txt')
-	print('Duplicate lines in ../derivedFiles/manualByLine.txt')
-	findNoChangeLines('../derivedFiles/manualByLine.txt')
+	#prepareDuplicate('../derivedFiles/cataloguev005.tsv','../derivedFiles/manua.txt')
+	#print('Duplicate lines in ../derivedFiles/manualByLine.txt')
+	#findNoChangeLines('../derivedFiles/manualByLine.txt')
 	
+	# Find out lines which still have anusvara instead of vargapanchama.
+	findAnusvara('../derivedFiles/cataloguev006.tsv')

@@ -2254,3 +2254,33 @@
 1484	939	रामगीता सटीका	--	महीधर	Paper	DN	11.2"x4.9"	9"x3.5"	13	36	15	--	Good	--	Incomplete. Edges torn. F. 1-3 missing. Begins abruptly.	Vedanta
 ;1485	1479	शारीरकमीमांसाभाष्य	शंकर	--	Paper	DN	11.7"x4.7"	10"x3.8"	14	46	221	--	Good	--	Incomplete. F.1-216 missing. F.217 is torn and the text is damaged. Begins abruptly.	Vedanta
 1485	1479	शारीरकमीमांसाभाष्य	शङ्कर	--	Paper	DN	11.7"x4.7"	10"x3.8"	14	46	221	--	Good	--	Incomplete. F. 1-216 missing. F. 217 is torn and the text is damaged. Begins abruptly.	Vedanta
+;1486	1480	शारीरकन्यायनिर्णय	आनन्द ज्ञान	--	Paper	DN	10"x5.4"	8"x4"	15	36	68	--	Good	--	Incomplete. F.1-30 missing. Begins ends abruptly.	Vedanta
+1486	1480	शारीरकन्यायनिर्णय	आनन्द ज्ञान	--	Paper	DN	10"x5.4"	8"x4"	15	36	68	--	Good	--	Incomplete. F. 1-30 missing. Begins, ends abruptly.	Vedanta
+;1487	96	शास्त्रसिद्धान्तलेश	अप्पय्य दीक्षित	--	Paper	DN	11"x5.2"	9"x3.7"	14	42	33	--	Good	--	Incomplete. Edges torn. Begins, ends abruptly. 	Vedanta
+1487	96	शास्त्रसिद्धान्तलेश	अप्पय्य दीक्षित	--	Paper	DN	11"x5.2"	9"x3.7"	14	42	33	--	Good	--	Incomplete. Edges torn. Begins, ends abruptly. 	Vedanta
+;1488	377	शतश्लोकी [with Comm]	शंकर	--	Paper	DN	12"x4.2"	9"x2.5"	8	33	14	--	Good	--	Incomplete. The text is moth-eaten on the right side in the margins. Begins abruptly. The text is written in the red ink.	Vedanta
+1488	377	शतश्लोकी सटीका	शङ्कर	--	Paper	DN	12"x4.2"	9"x2.5"	8	33	14	--	Good	--	Incomplete. The text is moth-eaten on the right side in the margins. Begins abruptly. The text is written in the red ink.	Vedanta
+;1489	728	षट्पदीविवरणम्	रामभद्र मिश्र	--	Paper	DN	9.3"x4.1"	8.2"x3"	8	33	8	--	Good	--	Complete.Edges torn.The text is damaged.	Vedanta
+1489	728	षट्पदीविवरणम्	रामभद्र मिश्र	--	Paper	DN	9.3"x4.1"	8.2"x3"	8	33	8	--	Good	--	Complete. Edges torn. The text is damaged.	Vedanta
+;1490	225	सिद्धान्तचन्द्रिका [with उद्गार]	रामभद्र संयमी	गंगाधर	Paper	DN	12.2"x4.2"	10.6"x3.2"	13	82	12	--	Good	--	Incomplete.Edges torn. First folios are damaged, ends abruptly.	Vedanta
+1490	225	सिद्धान्तचन्द्रिका [उद्गारसहिता]	रामभद्र संयमी	गङ्गाधर	Paper	DN	12.2"x4.2"	10.6"x3.2"	13	82	12	--	Good	--	Incomplete. Edges torn. First folios are damaged, ends abruptly.	Vedanta
+;1491	95	सिद्धान्तलेशसंग्रह	अप्पय्य दीक्षित	--	Paper	DN	11"x5.2"	8.8"x3.5"	14	38	20	--	Good	--	Incomplete. F.17 missing. The text is slightly damaged and F. no. 20 torn on the right side above. Ends abruptly.	Vedanta
+1491	95	सिद्धान्तलेशसङ्ग्रह	अप्पय्य दीक्षित	--	Paper	DN	11"x5.2"	8.8"x3.5"	14	38	20	--	Good	--	Incomplete. F. 17 missing. The text is slightly damaged and F. no. 20 torn on the right side above. Ends abruptly.	Vedanta
+;1492	1491	सिद्धांतलेशसंग्रह	अप्पय्य दीक्षित	--	Paper	DN	10.7"x5.2"	8.3"x3.6"	14	38	37	--	Good	--	Incomplete. F.1-16, 18-20 missing. Begins abruptly.	Vedanta
+1492	1491	सिद्धान्तलेशसङ्ग्रह	अप्पय्य दीक्षित	--	Paper	DN	10.7"x5.2"	8.3"x3.6"	14	38	37	--	Good	--	Incomplete. F. 1-16, 18-20 missing. Begins abruptly.	Vedanta
+;1493	1166	सिद्धान्तमुक्तावली	वल्लभाचार्य	--	Paper	DN	9.7"x4.1"	8.2"x3"	11	32	1	--	Good	--	Complete. Edges torn.	Vedanta
+1493	1166	सिद्धान्तमुक्तावली	वल्लभाचार्य	--	Paper	DN	9.7"x4.1"	8.2"x3"	11	32	1	--	Good	--	Complete. Edges torn.	Vedanta
+;1494	708	सुबोधिनीटीका [on वेदान्तसार]	नृसिंह सरस्वती	--	Paper	DN	8.4"x4.1"	6.4"x2.7"	9	34	59	--	Good	--	Complete.	Vedanta
+1494	708	सुबोधिनीटीका [वेदान्तसारोपरि]	नृसिंह सरस्वती	--	Paper	DN	8.4"x4.1"	6.4"x2.7"	9	34	59	--	Good	--	Complete.	Vedanta
+;1495	716	सुबोधिनीटीका [on वेदान्तसार]	नृसिंह सरस्वती	--	Paper	DN	8.3"x4"	6.7"x2.6"	10	31	38	--	Good	--	Incomplete.Ends abruptly.	Vedanta
+1495	716	सुबोधिनीटीका [वेदान्तसारोपरि]	नृसिंह सरस्वती	--	Paper	DN	8.3"x4"	6.7"x2.6"	10	31	38	--	Good	--	Incomplete. Ends abruptly.	Vedanta
+;1496	1523	तत्त्वबोध	शंकराचार्य	--	Paper	DN	8.3"x4"	6.7"x2.8"	९/११	34	8	--	Good	--	Incomplete. F.1-4 missing. Begins abruptly.	Vedanta
+1496	1523	तत्त्वबोध	शङ्कराचार्य	--	Paper	DN	8.3"x4"	6.7"x2.8"	9,11	34	8	--	Good	--	Incomplete. F. 1-4 missing. Begins abruptly.	Vedanta
+;1497	827	तत्त्वमुक्तावली	पूर्णानन्द चक्रवर्ती	--	Paper	DN	9.9"x4.3" "	8.3"x3"	11	40	8	--	Good	--	Complete.	Vedanta
+1497	827	तत्त्वमुक्तावली	पूर्णानन्द चक्रवर्ती	--	Paper	DN	9.9"x4.3"	8.3"x3"	11	40	8	--	Good	--	Complete.	Vedanta
+;1498	732	तत्त्वानुसन्धान	महादेव सरस्वती	--	Paper	DN	12.5"x4"	10.8"x2.5"	9	54	23	--	Good	--	Complete.	Vedanta
+1498	732	तत्त्वानुसन्धान	महादेव सरस्वती	--	Paper	DN	12.5"x4"	10.8"x2.5"	9	54	23	--	Good	--	Complete.	Vedanta
+;1499	1189	त्वङ्मनोयोगस्यजन्यज्ञान - हेतुत्त्वखंडनम्	--	--	Paper	DN	10.5x5.5"	9"x4.2"	19	48	1	--	Good	--	Complete. Borders are slightly torn and the text is damaged on 1-9.	Vedanta
+1499	1189	त्वङ्मनोयोगस्यजन्यज्ञानहेतुत्वखण्डनम्	--	--	Paper	DN	10.5x5.5"	9"x4.2"	19	48	1	--	Good	--	Complete. Borders are slightly torn and the text is damaged on 1-9.	Vedanta
+;1500	462	उपदेशसाहस्री [ with पदयोजनिका गद्यबंध]	शंकराचार्य	रामतीर्थ	Paper	DN	11.2"x5.2"	9"x3.2"	9	34	91	--	Good	--	Complete.	Vedanta
+1500	462	उपदेशसाहस्री [पदयोजनिकागद्यबन्धसहिता]	शङ्कराचार्य	रामतीर्थ	Paper	DN	11.2"x5.2"	9"x3.2"	9	34	91	--	Good	--	Complete.	Vedanta

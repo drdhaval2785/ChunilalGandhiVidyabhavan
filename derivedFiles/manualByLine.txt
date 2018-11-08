@@ -1740,8 +1740,6 @@
 1156	1180	a. भूतशुद्धिप्राणप्रतिष्ठाविधि + b. पञ्चोपचारपूजा	--	--	Paper	DN	8.9"x4.4"	7.4"x3.3"	13	40	3	वादव	Good	--	Complete.	Tantrik Lit. And Ritual
 ;1157	630	चण्डीपाठविधि	--	--	Paper	DN	6.8"x4.4"	5"x3"	8	20	15	दवे पुरषोत्तम	Good	saMvata 1750	Incomplete. F.1 missing. Edges torn. Begins abruptly.	Tantrik Lit. And Ritual
 1157	630	चण्डीपाठविधि	--	--	Paper	DN	6.8"x4.4"	5"x3"	8	20	15	दवे पुरषोत्तम	Good	V.S. 1750	Incomplete. F. 1 missing. Edges torn. Begins abruptly.	Tantrik Lit. And Ritual
-;1158	799	दक्षिणाकालिकापूजा 	--	--	Paper	DN	9.4"x4"	8"x3"	9	24	38	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
-1158	799	दक्षिणाकालिकापूजा 	--	--	Paper	DN	9.4"x4"	8"x3"	9	24	38	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
 ;1159	1565	(अ) दशविद्यातंत्रबोधिनी + (ब) कालचक्र	प्रेमानन्द	--	Paper	DN	9.2"x4.8"	7.3"x3.6"	9	22	24	--	Poor	--	Incomplete. F.1-8,16 missing. The text almost unreadable and damaged. (a) Begins abruptly.	Tantrik Lit. And Ritual
 1159	1565	a. दशविद्यातन्त्रबोधिनी + b. कालचक्र	प्रेमानन्द	--	Paper	DN	9.2"x4.8"	7.3"x3.6"	9	22	24	--	Poor	--	Incomplete. F. 1-8,16 missing. The text almost unreadable and damaged. (a) Begins abruptly.	Tantrik Lit. And Ritual
 ;1161	188	देवार्चनविधि	--	--	Paper	DN	8.2"x4"	6.4"x2.5"	9	31	6	--	Good	--	Incomplete.Edges torn. Ends abruptly.	Tantrik Lit. And Ritual
@@ -1756,27 +1754,13 @@
 1167	1031	गायत्रीध्यान	--	--	Paper	DN	6.8"x3.6"	5.6"x2.5"	7	20	1	--	Not good (old)	--	Complete. Margins are torn and the text is slightly damaged.	Tantrik Lit. And Ritual
 ;1168	1313	गायत्रीपटल	--	--	Paper	DN	6.9"x4"	4.9"x2.9"	10	22	9	--	Good	--	Incomplete. F.1-5 missing, Begins abruptly.	Tantrik Lit. And Ritual
 1168	1313	गायत्रीपटल	--	--	Paper	DN	6.9"x4"	4.9"x2.9"	10	22	9	--	Good	--	Incomplete. F. 1-5 missing. Begins abruptly.	Tantrik Lit. And Ritual
-;1169	359	गायत्रीपुरश्चरणन्यास	--	--	Paper	DN	8.2"x4.1"	7.2"x3.2"	11	26	6	--	Good	--	Complete. Edges torn.	Tantrik Lit. And Ritual
-1169	359	गायत्रीपुरश्चरणन्यास	--	--	Paper	DN	8.2"x4.1"	7.2"x3.2"	11	26	6	--	Good	--	Complete. Edges torn.	Tantrik Lit. And Ritual
 ;1170	400	गायत्रीपुरश्चरणविधि	अनंतदेव	--	Paper	DN	9"x4.5"	7"x2.8"	11	24	6	विठ्ठल  देगवेकर	Good	shaka 1718	Complete. Edges torn.	Tantrik Lit. And Ritual
 1170	400	गायत्रीपुरश्चरणविधि	अनन्तदेव	--	Paper	DN	9"x4.5"	7"x2.8"	11	24	6	विठ्ठल  देगवेकर	Good	shaka 1718	Complete. Edges torn.	Tantrik Lit. And Ritual
-;1171	802	हनुमत्पटल 	पूर्णानन्द सरस्वती	--	Paper	DN	8.7"x3.9"	7.3"x3.2"	9	25	19	--	Good	--	Complete. The text is damaged on 6-10 that have holes in the midst.	Tantrik Lit. And Ritual
-1171	802	हनुमत्पटल 	पूर्णानन्द सरस्वती	--	Paper	DN	8.7"x3.9"	7.3"x3.2"	9	25	19	--	Good	--	Complete. The text is damaged on 6-10 that have holes in the midst.	Tantrik Lit. And Ritual
 ;1172	1327	जपविधि	--	--	Paper	DN	9.5"x4.1" "	8"x2.7"	8	26	6	--	Very poor	--	Incomplete. Begins abruptly. F.1-2 missing The text is damged.	Tantrik Lit. And Ritual
 1172	1327	जपविधि	--	--	Paper	DN	9.5"x4.1" "	8"x2.7"	8	26	6	--	Very poor	--	Incomplete. Begins abruptly. F. 1-2 missing. The text is damged.	Tantrik Lit. And Ritual
-;1173	1050	ज्वरमोचनविधि	--	--	Paper	DN	8.3"x4"	7.4"x3"	11	36	1	--	Good	--	Complete. Borders torn and the text is slightly damaged.	Tantrik Lit. And Ritual
-1173	1050	ज्वरमोचनविधि	--	--	Paper	DN	8.3"x4"	7.4"x3"	11	36	1	--	Good	--	Complete. Borders torn and the text is slightly damaged.	Tantrik Lit. And Ritual
-;1174	1049	ज्वरशान्तिप्रयोग	--	--	Paper	DN	8.1"x4"	6.5"x3"	14	34	1	--	Good	--	Complete.	Tantrik Lit. And Ritual
-1174	1049	ज्वरशान्तिप्रयोग	--	--	Paper	DN	8.1"x4"	6.5"x3"	14	34	1	--	Good	--	Complete.	Tantrik Lit. And Ritual
-;1175	1333	कालिकानित्यार्चापद्धति	राम भट्ट	--	Paper	DN	7.9"x4.8"	6.3"x3.3"	10	24	26	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
-1175	1333	कालिकानित्यार्चापद्धति	राम भट्ट	--	Paper	DN	7.9"x4.8"	6.3"x3.3"	10	24	26	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
 ;1176	1331	कलिकोपासना	--	--	Paper	DN	10.5"x4.8"	8.5"x3.3"	11	44	32	--	Good	--	Incomplete. F.17-26 missing. Edges torn. Ends abruptly.	Tantrik Lit. And Ritual
 1176	1331	कलिकोपासना	--	--	Paper	DN	10.5"x4.8"	8.5"x3.3"	11	44	32	--	Good	--	Incomplete. F. 17-26 missing. Edges torn. Ends abruptly.	Tantrik Lit. And Ritual
 ;1177	1074	कल्पलतामहामंत्रसूक्त	--	--	Paper	DN	10"x4.5"	8"x3.6"	12	36	1	--	Good	--	Complete. Edges torn.	Tantrik Lit. And Ritual
 1177	1074	कल्पलतामहामन्त्रसूक्त	--	--	Paper	DN	10"x4.5"	8"x3.6"	12	36	1	--	Good	--	Complete. Edges torn.	Tantrik Lit. And Ritual
-;1178	588	कार्तवीर्यार्जुनदीपदानप्रयोग	कमलाकर	--	Paper	DN	8.4"x4.1"	6.4"x2.4"	9	30	11	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
-1178	588	कार्तवीर्यार्जुनदीपदानप्रयोग	कमलाकर	--	Paper	DN	8.4"x4.1"	6.4"x2.4"	9	30	11	--	Good	--	Incomplete. Ends abruptly.	Tantrik Lit. And Ritual
-;1179	747	कार्तवीर्यदीपदानविधि	कमलाकर	--	Paper	DN	8"x3.8"	6.2"x2.2"	10	37	11	विठ्ठल	Good	shaka 1634	Complete.	Tantrik Lit. And Ritual
-1179	747	कार्तवीर्यदीपदानविधि	कमलाकर	--	Paper	DN	8"x3.8"	6.2"x2.2"	10	37	11	विठ्ठल	Good	shaka 1634	Complete.	Tantrik Lit. And Ritual
 ;1180	796	कात्यायनीतंत्र	--	--	Paper	DN	5.7"x4"	4.2"x3"	11	24	7	--	Good	(shaka)1649	Incomplete.F.1-3 missing. Begins abruptly.	Tantrik Lit. And Ritual
 1180	796	कात्यायनीतन्त्र	--	--	Paper	DN	5.7"x4"	4.2"x3"	11	24	7	--	Good	(shaka)1649	Incomplete. F. 1-3 missing. Begins abruptly.	Tantrik Lit. And Ritual

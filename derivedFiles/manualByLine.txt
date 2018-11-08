@@ -1864,32 +1864,16 @@
 1249	1391	भवानन्दी	भवानन्द	--	Paper	DN	11"x4.9"	8.8"x2.9"	10	48	11	--	Good	--	Incomplete. F. 20-30; in all 11 folios. Begins, ends abruptly.	Nyaya-Vaisheshika
 ;1251	543	भवानन्दीप्रकाश	महादेव पुतम्बेकर	--	Paper	DN	12.2"x4.6"	9"x2.8"	11	50	870	--	Good	--	Incomplete. F.394-400 missing. The borders are torn and the text is slightlly damaged.	Nyaya-Vaisheshika
 1251	543	भवानन्दीप्रकाश	महादेव पुतम्बेकर	--	Paper	DN	12.2"x4.6"	9"x2.8"	11	50	870	--	Good	--	Incomplete. F. 394-400 missing. The borders are torn and the text is slightly damaged.	Nyaya-Vaisheshika
-;1252	669	भावप्रकाशिका	रूद्र न्यायवाचस्पति	--	Paper	DN	11.3"x5"	8.8"x2.6"	10	48	134	--	Good	--	Complete.	Nyaya-Vaisheshika
-1252	669	भावप्रकाशिका	रूद्र न्यायवाचस्पति	--	Paper	DN	11.3"x5"	8.8"x2.6"	10	48	134	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1253	566	चषक	गंगाराम	गंगाराम जडिय	Paper	DN	12.5"x5"	10"x3"	13	52	259	--	Good	--	Incomplete. F.36-224 missing.	Nyaya-Vaisheshika
 1253	566	चषक	गङ्गाराम	गङ्गाराम जडिय	Paper	DN	12.5"x5"	10"x3"	13	52	259	--	Good	--	Incomplete. F. 36-224 missing.	Nyaya-Vaisheshika
-;1256	688	दण्डकारणतावाद	--	--	Paper	DN	11.2"x4"	9.8"x2.6"	11	38	2	--	Good	--	Complete.	Nyaya-Vaisheshika
-1256	688	दण्डकारणतावाद	--	--	Paper	DN	11.2"x4"	9.8"x2.6"	11	38	2	--	Good	--	Complete.	Nyaya-Vaisheshika
-;1257	788	दिनकरी	दिनकर भट्ट	--	Paper	DN	11.2"x5.4"	9.5"x4.4"	13	38	46	--	Good	--	Incomplete. All the folios are slightly moth-eaten and the text is damaged very slightly on the folios at the end. Begins abruptly.	Nyaya-Vaisheshika
-1257	788	दिनकरी	दिनकर भट्ट	--	Paper	DN	11.2"x5.4"	9.5"x4.4"	13	38	46	--	Good	--	Incomplete. All the folios are slightly moth-eaten and the text is damaged very slightly on the folios at the end. Begins abruptly.	Nyaya-Vaisheshika
-;1258	841	द्रव्यनाशवादार्थ	--	--	Paper	DN	12"x4"	10"x2.4"	10	49	8	--	Good	--	Complete.	Nyaya-Vaisheshika
-1258	841	द्रव्यनाशवादार्थ	--	--	Paper	DN	12"x4"	10"x2.4"	10	49	8	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1259	257-258	गदाधरी	गदाधर	--	Paper	DN	10.2"x4.5"	8.3"x2.7"	9	44	242	--	Good	saMvata 1833	Incomplete. F.33-34 in section l is missing. There are three Sections.	Nyaya-Vaisheshika
 1259	257+258	गदाधरी	गदाधर	--	Paper	DN	10.2"x4.5"	8.3"x2.7"	9	44	242	--	Good	V.S. 1833	Incomplete. F. 33-34 in section 1 is missing. There are three Sections.	Nyaya-Vaisheshika
-;1260	259	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	8"x2.7"	9	44	138	--	Good	--	Complete.	Nyaya-Vaisheshika
-1260	259	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	8"x2.7"	9	44	138	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1261	260	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	8"x2.7"	9	44	96	--	Good	saMvata 1833	Complete.	Nyaya-Vaisheshika
 1261	260	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	8"x2.7"	9	44	96	--	Good	V.S. 1833	Complete.	Nyaya-Vaisheshika
-;1262	261	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	7.7"x2.5"	9	44	100	--	Good	--	Complete.	Nyaya-Vaisheshika
-1262	261	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	7.7"x2.5"	9	44	100	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1263	262	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	8"x2.5"	9	44	48	--	Good	--	Incomplete.Ends abruptly.	Nyaya-Vaisheshika
 1263	262	गदाधरी	गदाधर	--	Paper	DN	10"x4.5"	8"x2.5"	9	44	48	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 ;1264	477	गदाधरी	गदाधर	--	Paper	DN	10"x4.2"	8.2"x2.5"	9	43	119	--	Good	--	Incomplete.F.1 missing. F.114-119 torn. Begins abruptly.	Nyaya-Vaisheshika
 1264	477	गदाधरी	गदाधर	--	Paper	DN	10"x4.2"	8.2"x2.5"	9	43	119	--	Good	--	Incomplete. F. 1 missing. F. 114-119 torn. Begins abruptly.	Nyaya-Vaisheshika
-;1265	478	गदाधरी	गदाधर	--	Paper	DN	10"x4.3"	8.2"x2.3"	8	48	41	--	Good	--	Complete.	Nyaya-Vaisheshika
-1265	478	गदाधरी	गदाधर	--	Paper	DN	10"x4.3"	8.2"x2.3"	8	48	41	--	Good	--	Complete.	Nyaya-Vaisheshika
-;1266	479	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	10"x4.2"	8"x2.5"	9	50	111	--	Good	--	Complete.	Nyaya-Vaisheshika
-1266	479	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	10"x4.2"	8"x2.5"	9	50	111	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1267	480	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	10"x4.3"	8"x2.4"	9	43	82	--	Good	saMvata 1831	Complete.	Nyaya-Vaisheshika
 1267	480	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	10"x4.3"	8"x2.4"	9	43	82	--	Good	V.S. 1831	Complete.	Nyaya-Vaisheshika
 ;1268	481	गदाधरी (पूर्वपक्षव्याख्या)	गदाधर भट्टाचार्य	--	Paper	DN	10"x4.2"	8"x2.5"	9	50	44	--	Good	saMvata 1831	Complete.	Nyaya-Vaisheshika
@@ -1900,3 +1884,33 @@
 1270	783	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	11.4"x5.3"	9"x3"	11	38	57	रघुराम  व्यास	Good	V.S. 1856	Patron- घनश्याम शास्त्री. Complete. Most of the folios are moth-eaten on the middle of the upside.	Nyaya-Vaisheshika
 ;1271	916	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	11.1"x4.6"	9"x3"	10	35	39	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 1271	916	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	11.1"x4.6"	9"x3"	10	35	39	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1272	918	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	12.7"x4.8"	10.5"x3"	11	55	20	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+1272	918	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	12.7"x4.8"	10.5"x3"	11	55	20	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1273	919	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	11"x4.6"	9"x3"	12	48	14	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+1273	919	गदाधरी	गदाधर भट्टाचार्य	--	Paper	DN	11"x4.6"	9"x3"	12	48	14	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1274	553a	गदाधरी	कृष्ण भट्ट	--	Paper	DN	9.9"x5.4"	8"x3.8"	11	35	2	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+1274	553a	गदाधरी	कृष्ण भट्ट	--	Paper	DN	9.9"x5.4"	8"x3.8"	11	35	2	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1275	553ba	गदाधरी ?	--	--	Paper	DN	9.9"x5.4"	8.2"x3.7"	16	35	34	--	Good	--	Incomplete. F.1-2 missing, Begins, ends abruptly.	Nyaya-Vaisheshika
+1275	553ba	गदाधरी ?	--	--	Paper	DN	9.9"x5.4"	8.2"x3.7"	16	35	34	--	Good	--	Incomplete. F.1-2 missing, Begins, ends abruptly.	Nyaya-Vaisheshika
+;1276	37	गुणभाष्य	प्रशस्तपाद	--	Paper	DN	10.6"x5"	9.2"x4"	21	52	10	--	Good	--	Complete.Edges torn.	Nyaya-Vaisheshika
+1276	37	गुणभाष्य	प्रशस्तपाद	--	Paper	DN	10.6"x5"	9.2"x4"	21	52	10	--	Good	--	Complete.Edges torn.	Nyaya-Vaisheshika
+;1277	668	गुणप्रकाशदिधिती	मथुरानाथ तर्कवागिश	--	Paper	DN	11.3"x4.8"	8.5"x3"	13	35	133	--	Good	--	Incomplete. F.17-26 missing. Some Folios in the beginnig and at the end are moth-eaten near the margin and the text is damaged.	Nyaya-Vaisheshika
+1277	668	गुणप्रकाशदिधिती	मथुरानाथ तर्कवागीश	--	Paper	DN	11.3"x4.8"	8.5"x3"	13	35	133	--	Good	--	Incomplete. F.17-26 missing. Some Folios in the beginnig and at the end are moth-eaten near the margin and the text is damaged.	Nyaya-Vaisheshika
+;1278	789	जागदीशी	जगदीश         तर्कालंकार	--	Paper	DN	11.8"x5.6"	9.8"x4"	13	50	91	--	Good	--	Complete.	Nyaya-Vaisheshika
+1278	789	जागदीशी	जगदीश         तर्कालंकार	--	Paper	DN	11.8"x5.6"	9.8"x4"	13	50	91	--	Good	--	Complete.	Nyaya-Vaisheshika
+;1279	790	जागदीशी ( पूर्वपक्षग्रंथ)	जगदीश         तर्कालंकार	--	Paper	DN	11.8"x5.5"	9.8"x4"	13	50	15	--	Good	--	Complete.	Nyaya-Vaisheshika
+1279	790	जागदीशी ( पूर्वपक्षग्रंथ)	जगदीश         तर्कालंकार	--	Paper	DN	11.8"x5.5"	9.8"x4"	13	50	15	--	Good	--	Complete.	Nyaya-Vaisheshika
+;1280	791	जागदीशी	जगदीश         तर्कालंकार	--	Paper	DN	11.8"x5.5"	9.8"x4"	13	50	12	--	Good	--	Complete. All folios are moth-eaten below the writing on the left side.	Nyaya-Vaisheshika
+1280	791	जागदीशी	जगदीश         तर्कालंकार	--	Paper	DN	11.8"x5.5"	9.8"x4"	13	50	12	--	Good	--	Complete. All folios are moth-eaten below the writing on the left side.	Nyaya-Vaisheshika
+;1281	842	जागदीशी (चिंतामणिटीका)	जगदीश	--	Paper	DN	12.3"x4.6"	10.3"x2.6"	11	56	10	--	Good	--	Incomplete. Ends abruptly. F.7 missing.	Nyaya-Vaisheshika
+1281	842	जागदीशी (चिंतामणिटीका)	जगदीश	--	Paper	DN	12.3"x4.6"	10.3"x2.6"	11	56	10	--	Good	--	Incomplete. Ends abruptly. F.7 missing.	Nyaya-Vaisheshika
+;1282	902	जागदीशी	जगदीश	--	Paper	DN	10"x3"	8.2"x1.7"	10	40	15	--	Poor	--	Incomplete. Edges torn. F.1 missing. The text is damaged. Begins abruptly.	Nyaya-Vaisheshika
+1282	902	जागदीशी	जगदीश	--	Paper	DN	10"x3"	8.2"x1.7"	10	40	15	--	Poor	--	Incomplete. Edges torn. F.1 missing. The text is damaged. Begins abruptly.	Nyaya-Vaisheshika
+;1283	679	जातिवाद	जगदीश	--	Paper	DN	9.7"x4.6"	7.7"x3.2"	12	40	43	--	Good	--	Complete.	Nyaya-Vaisheshika
+1283	679	जातिवाद	जगदीश	--	Paper	DN	9.7"x4.6"	7.7"x3.2"	12	40	43	--	Good	--	Complete.	Nyaya-Vaisheshika
+;1284	611	कारकविवेचन	भवानंद सिद्धांतवागिश	--	Paper	DN	10"x4.3"	8"x3"	13	40	14	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+1284	611	कारकविवेचन	भवानन्द सिद्धांतवागीश	--	Paper	DN	10"x4.3"	8"x3"	13	40	14	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
+;1285	674	कारणतावादार्थ	--	--	Paper	DN	11.9"x4.2"	11"x2.8"	13	50	5	--	Good	shaka 1713	Complete.	Nyaya-Vaisheshika
+1285	674	कारणतावादार्थ	--	--	Paper	DN	11.9"x4.2"	11"x2.8"	13	50	5	--	Good	shaka 1713	Complete.	Nyaya-Vaisheshika
+;1286	892	किरणावली	उदयनाचार्य	--	Paper	DN	10.2"x3.2"	6.4"x1.9"	8	36	20	--	Poor	--	Incomplete.F.3 is moth-eaten and the text is damaged. Ends abruptly.	Nyaya-Vaisheshika
+1286	892	किरणावली	उदयनाचार्य	--	Paper	DN	10.2"x3.2"	6.4"x1.9"	8	36	20	--	Poor	--	Incomplete.F.3 is moth-eaten and the text is damaged. Ends abruptly.	Nyaya-Vaisheshika

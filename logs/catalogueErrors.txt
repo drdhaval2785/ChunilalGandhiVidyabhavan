@@ -1,4 +1,4 @@
-0006A:Only item to have A and B in Sr. No.
+﻿0006A:Only item to have A and B in Sr. No.
 0006B:Only item to have A and B in Sr. No.
 0068:Commentator missing. All other columns shifted to left by one.
 0077:B size is reversed 3.7"x8.5" instead of 8.5"x3.7".
@@ -9,4 +9,15 @@
 0390:No categorization in condition.
 0594:No categorization in condition.
 0883:Sizes of a., b. c. are not mentioned.
-916:Samvat 1738 written in Condition column instead of Age of Ms. column. So we are not sure about the condition of manuscript.
+0916:Samvat 1738 written in Condition column instead of Age of Ms. column. So we are not sure about the condition of manuscript.
+1270:Patron name is mentioned in scribe column. Everywhere else, patron name is in Additional remarks column.
+1329:c line and d letters column is not filled up. It is quite possible because there is no uniformity in this book. It is mere collection of stray folios.
+1357:b size, c line, d letters not noted. अनुक्रमणिका only is written in b size column.
+1366:Patron name is mentioned in scribe column. Everywhere else, patron name is in Additional remarks column.
+1370:Patron name is mentioned in scribe column. Everywhere else, patron name is in Additional remarks column.
+1373:Folios are 52. Wrongly entered as 2 in catalogue. Additional remarks column itself mentions that follio 11 and 35 are missing.
+1501:Patron name is mentioned in scribe column. Everywhere else, patron name is in Additional remarks column. c line column left blank.
+1516:Owner name is mentioned in scribe column. Everywhere else, patron name is in Additional remarks column.
+1560:b size, c line, d letters not mentioned.
+1564:b size not mentioned.
+

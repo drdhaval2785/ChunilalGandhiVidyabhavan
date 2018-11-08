@@ -9,6 +9,7 @@ from internetarchive import get_item, upload, modify_metadata
 import datetime
 import time
 import json
+import glob
 
 	
 # Convert the text into various transliteration schemes.
@@ -73,25 +74,30 @@ def find_metadata(line):
 	metadata['Additional_remarks'] = details[15]
 	metadata['Subject'] = details[16]
 	# Prepare mandatory metadata for Archive.org.
-	metadata['identifier'] = str(metadata['Title_keyword']).replace(' ','_')+'~CGV~PSS~'+metadata['Accession_No']
+	metadata['identifier'] = str(metadata['Title_keyword']).replace(' ','_')+'~CGV~PSS~'+metadata['Sr_No']+'~'+metadata['Accession_No']
 	metadata['mediatype'] = 'texts'
 	metadata['collection'] = 'opensource'
 	metadata['creator'] = 'Chunilal Gandhi Vidyabhavan Surat'
 	metadata['description'] = 'Pandit Shivadatta Shukla collection of manuscripts of Chunilal Gandhi Vidyabhavan, Surat.'
 	metadata['language'] = 'san'
+	metadata['email'] = 'cgvidyabhavan@gmail.com'
 	return metadata
 
 
-def uploadToArchive(metadata):
-		identifier = md['identifier']
-		accession = md['Accession_No']
-		sr = md['Sr_No']
-		startMessage = sr+'#'+accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
-		print(startMessage)
-		r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=md)
-		endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
-		print(endMessage)
-		flog.write('File uploaded:'+sr+'#'+accession+'#'+identifier+'\n')
+def uploadToArchive(metadatafile):
+	mdfil = codecs.open(metadatafile, 'r', 'utf-8')
+	metadata = json.load(mdfil)
+	identifier = md['identifier']
+	accession = md['Accession_No']
+	sr = md['Sr_No']
+	startMessage = sr+'#'+accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
+	"""
+	print(startMessage)
+	r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=md)
+	endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
+	print(endMessage)
+	flog.write('File uploaded:'+sr+'#'+accession+'#'+identifier+'\n')
+	"""
 	
 def createMetadataJson():
 	fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
@@ -106,7 +112,6 @@ def createMetadataJson():
 			ferror.write('File Not Found:'+accession+'\n')
 			print(accession)
 		else:
-			#uploadToArchive(metadata)
 			with codecs.open('../metadataJson/'+accession+'.json', 'w', 'utf-8') as fjson:
 				json.dump(metadata, fjson)
 				#print('Metadata generated for:'+accession)
@@ -117,3 +122,8 @@ def createMetadataJson():
 
 if __name__=="__main__":
 	createMetadataJson()
+	metafiles = glob.glob('../metadataJson/*.json')
+	metafiles = sorted(metafiles)
+	for metafile in metafiles:
+		metadata = json.load(codecs.open(metafile, 'r', 'utf-8'))
+		print(metadata['identifier'])

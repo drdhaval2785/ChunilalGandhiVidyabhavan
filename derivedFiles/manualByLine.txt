@@ -2108,16 +2108,12 @@
 1391	322	तर्कसङ्ग्रहदीपिका	अन्नम्भट्ट	--	Paper	DN	12"x4.2"	10"x2.8"	9	38	9	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 ;1392	911	 तर्कसंग्रहदीपिका	हनुमत्	--	Paper	DN	10.4"x5.5"	8.2"x3.8"	18	54	9	--	Good	--	Incomplete. F.1-14 missing. Begins ends arbuptly.	Nyaya-Vaisheshika
 1392	911	 तर्कसङ्ग्रहदीपिका	हनुमत्	--	Paper	DN	10.4"x5.5"	8.2"x3.8"	18	54	9	--	Good	--	Incomplete. F. 1-14 missing. Begins, ends arbuptly.	Nyaya-Vaisheshika
-;1393	839	तर्कतत्त्व 	नाथ	--	Paper	DN	12.1"x4.2"	10.7"x3"	12	53	14	--	Good	--	Complete.	Nyaya-Vaisheshika
-1393	839	तर्कतत्त्व 	नाथ	--	Paper	DN	12.1"x4.2"	10.7"x3"	12	53	14	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1394	132	तार्किकरक्षा [1st परिच्छेद only] 	वरदराज	वरदराज	Paper	DN	9.5"x3.8"	7.3"x2.2"	7	36	71	--	Good	--	Complete.	Nyaya-Vaisheshika
 1394	132	तार्किकरक्षा [परिच्छेद-१] 	वरदराज	वरदराज	Paper	DN	9.5"x3.8"	7.3"x2.2"	7	36	71	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1395	30	 तत्त्वचिंतामणि [Chapter one only] 	गंगेश्वर उपाध्याय	--	Paper	DN	12"x5.5"	9.5"x4"	13	50	69	--	Good	--	Complete. Edges torn. The text is dagmaged and worm-eaten in the margins.	Nyaya-Vaisheshika
 1395	30	 तत्त्वचिन्तामणि [अध्याय-१] 	गङ्गेश्वर उपाध्याय	--	Paper	DN	12"x5.5"	9.5"x4"	13	50	69	--	Good	--	Complete. Edges torn. The text is dagmaged and worm-eaten in the margins.	Nyaya-Vaisheshika
 ;1396	523	तत्त्वचिन्तामणि (उत्तरार्ध)	गंगेश्वर उपाध्याय	--	Paper	DN	12.5"x5"	11"x3.8"	15	70	183	--	Good	--	Incomplete.	Nyaya-Vaisheshika
 1396	523	तत्त्वचिन्तामणि (उत्तरार्ध)	गङ्गेश्वर उपाध्याय	--	Paper	DN	12.5"x5"	11"x3.8"	15	70	183	--	Good	--	Incomplete.	Nyaya-Vaisheshika
-;1397	516	तत्त्वचिन्तामणि (दीधिति) 	रघुनाथ शिरोमणि	--	Paper	DN	11.1"x4.6"	9"x3"	11	45	5	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
-1397	516	तत्त्वचिन्तामणि (दीधिति) 	रघुनाथ शिरोमणि	--	Paper	DN	11.1"x4.6"	9"x3"	11	45	5	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 ;1398	941	तत्त्वचिन्तामणि (दीधिति)) 	रघुनाथ शिरोमणि	--	Paper	DN	12.5"x5"	10.2"x3"	11	60	21	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 1398	941	तत्त्वचिन्तामणि (दीधिति) 	रघुनाथ शिरोमणि	--	Paper	DN	12.5"x5"	10.2"x3"	11	60	21	--	Good	--	Incomplete. Ends abruptly.	Nyaya-Vaisheshika
 ;1399	1277	तत्त्वचिन्तामणि 	रघुनाथ	भवानंद	Paper	DN	11.8"x4.2"	9.5"x2.7"	11	52	6	--	Good	--	Complete. The text is in the mid Folios Numbers are not mentioned.	Nyaya-Vaisheshika
@@ -2126,3 +2122,29 @@
 1400	1278	तत्त्वचिन्तामणि 	रघुनाथ	भवानन्द	Paper	DN	11.7"x5.2"	9.3"x3.7"	11,13	42	3	--	Good	--	Incomplete. F. 1-4, 7 missing. The text is in the midst. Edges torn. Begins abruptly.	Nyaya-Vaisheshika
 ;1401	580	तत्त्वचिन्तामणि (दीधिति))	जगदीश         तर्कालंकार	--	Paper	DN	11"x4"	9.3"x2.6"	15	45	63	--	Good	--	Incomplete. Folios 23-26 are worm-eaten and the text is slightly damaged. Different handwriting found. Ends abruptly.	Nyaya-Vaisheshika
 1401	580	तत्त्वचिन्तामणि (दीधिति)	जगदीश तर्कालङ्कार	--	Paper	DN	11"x4"	9.3"x2.6"	15	45	63	--	Good	--	Incomplete. Folios 23-26 are worm-eaten and the text is slightly damaged. Different handwriting found. Ends abruptly.	Nyaya-Vaisheshika
+;1402	704	तत्त्वचिन्तामणिटीका 	भवानंद सिद्धांतवागिश	--	Paper	DN	9"x4.4"	7.3"x2.5"	12	42	24	--	Good	--	Incomplete. F.1-55 missing. Margins are some times torn and folios have stuck together making the text unreadable. The text is damaged on 64,68,74,76,77. Begins, ends abruptly.	Nyaya-Vaisheshika
+1402	704	तत्त्वचिन्तामणिटीका 	भवानन्द सिद्धान्तवागिश	--	Paper	DN	9"x4.4"	7.3"x2.5"	12	42	24	--	Good	--	Incomplete. F. 1-55 missing. Margins are some times torn and folios have stuck together making the text unreadable. The text is damaged on 64,68,74,76,77. Begins, ends abruptly.	Nyaya-Vaisheshika
+;1403	757	तत्त्वचिन्तामणिटीका 	भवानंद सिद्धांतवागिश	--	Paper	DN	10.2"x4.5"	8"x2.5"	11	46	27	--	Poor  on F.1 and F.2	--	Incomplete. F.6, 11-12, 26-34 missing, ends abruptly.	Nyaya-Vaisheshika
+1403	757	तत्त्वचिन्तामणिटीका 	भवानन्द सिद्धान्तवागीश	--	Paper	DN	10.2"x4.5"	8"x2.5"	11	46	27	--	Not readable on F.1 and F.2	--	Incomplete. F.6, 11-12, 26-34 missing, ends abruptly.	Nyaya-Vaisheshika
+;1404	856	त्रिवेणिका	आशाधर भट्ट	--	Paper	DN	8.8"x4.5"	7.8"x3.2"	11	37	13	घनश्याम जडिय	Good	--	Incomplete. F.1-6 missing. Begins abruptly.	Nyaya-Vaisheshika
+1404	856	त्रिवेणिका	आशाधर भट्ट	--	Paper	DN	8.8"x4.5"	7.8"x3.2"	11	37	13	घनश्याम जडिय	Good	--	Incomplete. F. 1-6 missing. Begins abruptly.	Nyaya-Vaisheshika
+;1405	46	वादार्थ	महादेव	--	Paper	DN	10.2"x5.5"	8.5"x3.7"	18	45	12	--	Good	--	Complete.	Nyaya-Vaisheshika
+1405	46	वादार्थ	महादेव	--	Paper	DN	10.2"x5.5"	8.5"x3.7"	18	45	12	--	Good	--	Complete.	Nyaya-Vaisheshika
+;1406	128	वादार्थ	गदाधर	--	Paper	DN	9.5"x3.2"	8"x2"	9	48	20	विजय	Good	saMvata 1772	Complete.	Nyaya-Vaisheshika
+1406	128	वादार्थ	गदाधर	--	Paper	DN	9.5"x3.2"	8"x2"	9	48	20	विजय	Good	V.S. 1772	Complete.	Nyaya-Vaisheshika
+; 1407	530	वैशेषिकसूत्र	कणाद	--	Paper	DN	8.8"x3.6"	6.8"x2.3"	9	38	9	--	Good	--	Complete.	Nyaya-Vaisheshika
+ 1407	530	वैशेषिकसूत्र	कणाद	--	Paper	DN	8.8"x3.6"	6.8"x2.3"	9	38	9	--	Good	--	Complete.	Nyaya-Vaisheshika
+;1408	519	विषयतावाद	रघुदेव	--	Paper	DN	10.7"x5"	8.5"x3.8"	13	33	10	--	Good	--	Complete. Edges torn. The mss is moth eaten on the left side below but the text is is not damaged.	Nyaya-Vaisheshika
+1408	519	विषयतावाद	रघुदेव	--	Paper	DN	10.7"x5"	8.5"x3.8"	13	33	10	--	Good	--	Complete. Edges torn. The mss is moth eaten on the left side below but the text is is not damaged.	Nyaya-Vaisheshika
+;1409	683	विषयतावाद	--	--	Paper	DN	8.3"x2.1"	7"x1.4"	7	50	18	--	Good	--	Incomplete. F.1-2 missing. Begins, abruptly.	Nyaya-Vaisheshika
+1409	683	विषयतावाद	--	--	Paper	DN	8.3"x2.1"	7"x1.4"	7	50	18	--	Good	--	Incomplete. F. 1-2 missing. Begins abruptly.	Nyaya-Vaisheshika
+;1410	1561	विशिष्टवैशिष्ट्यबोधविचार	--	--	Paper	DN	9.5"x4.1" "	7.8"x3.1"	14	46	13	--	Poor	--	Incomplete. F.2 missing. F.no-3 duplicated. Margins are torn and the text is damged on 3-9. Begins abruptly.	Nyaya-Vaisheshika
+1410	1561	विशिष्टवैशिष्ट्यबोधविचार	--	--	Paper	DN	9.5"x4.1"	7.8"x3.1"	14	46	13	--	Poor	--	Incomplete. F. 2 missing. F. no. 3 duplicated. Margins are torn and the text is damged on 3-9. Begins abruptly.	Nyaya-Vaisheshika
+;1411	1228	व्याधिकरणधर्मावाच्छिन्नाभावरहस्य	--	--	Paper	DN	9.5"x4.5" "	7.7"x3.7" "	14	26	11	--	Good	--	Incomplete. F.1-2,9,12-16 missing. Begins abruptly.	Nyaya-Vaisheshika
+1411	1228	व्याधिकरणधर्मावाच्छिन्नाभावरहस्य	--	--	Paper	DN	9.5"x4.5" "	7.7"x3.7"	14	26	11	--	Good	--	Incomplete. F. 1-2,9,12-16 missing. Begins abruptly.	Nyaya-Vaisheshika
+;1412	572	व्याप्यानुगमविचार 	--	--	Paper	DN	11"x3.8"	9.6"x2.8"	11	55	10	--	Good	--	Complete.	Nyaya-Vaisheshika
+1412	572	व्याप्यानुगमविचार 	--	--	Paper	DN	11"x3.8"	9.6"x2.8"	11	55	10	--	Good	--	Complete.	Nyaya-Vaisheshika
+;1413	83	व्याप्त्यनुगम 	गदाधर	--	Paper	DN	10.2"x4.5"	8"x2.5"	9	50	277	--	Good	saMvata 1832	Complete.	Nyaya-Vaisheshika
+1413	83	व्याप्त्यनुगम 	गदाधर	--	Paper	DN	10.2"x4.5"	8"x2.5"	9	50	277	--	Good	V.S. 1832	Complete.	Nyaya-Vaisheshika
+;1414	1368	मेघचक्र	--	--	Paper	DN	8.2"x4"	7.3"x3"	९/१०	32	1	--	Good	--	Complete.	Sankhya-Yoga
+1414	1368	मेघचक्र	--	--	Paper	DN	8.2"x4"	7.3"x3"	9,10	32	1	--	Good	--	Complete.	Sankhya-Yoga

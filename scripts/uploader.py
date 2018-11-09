@@ -78,7 +78,12 @@ def find_metadata(line):
 	metadata['Additional_remarks'] = details[15]
 	metadata['Subject'] = details[16]
 	# Prepare mandatory metadata for Archive.org.
-	metadata['identifier'] = str(metadata['Title_keyword']).replace(' ','_')+'~CGV~PSS~'+metadata['Sr_No']+'~'+metadata['Accession_No']
+	titlekey = str(metadata['Title_keyword'])
+	titlekey = re.sub('[^a-zA-Z0-9_. -]', ' ', titlekey) # See issue 12.
+	titlekey = re.sub('[ ]+', '_', titlekey)
+	titlekey = re.sub('^[_.-]+', '', titlekey) # See issue 13.
+	identifier = titlekey+'-CGV-PSS-'+metadata['Sr_No']+'-'+metadata['Accession_No']
+	metadata['identifier'] = identifier
 	metadata['mediatype'] = 'texts'
 	metadata['collection'] = 'opensource'
 	metadata['creator'] = 'Chunilal Gandhi Vidyabhavan Surat'
@@ -88,17 +93,19 @@ def find_metadata(line):
 	return metadata
 
 
-def uploadToArchive(metadatafile):
-	mdfil = codecs.open(metadatafile, 'r', 'utf-8')
-	metadata = json.load(mdfil)
-	identifier = md['identifier']
-	accession = md['Accession_No']
-	sr = md['Sr_No']
+def uploadToArchive(metadata):
+	identifier = metadata['identifier']
+	accession = metadata['Accession_No']
+	sr = metadata['Sr_No']
 	startMessage = sr+'#'+accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
 	print(startMessage)
-	r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=md)
+	flog = codecs.open('../logs/uploadLog.txt', 'a', 'utf-8')
+	flog.write(startMessage+'\n')
+	r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=metadata)
 	endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
 	print(endMessage)
+	flog.write(endMessage)
+	flog.close()
 	
 def createMetadataJson():
 	fin = codecs.open('../derivedFiles/new3.tsv', 'r', 'utf-8')
@@ -122,14 +129,7 @@ def createMetadataJson():
 
 
 if __name__=="__main__":
-	"""
 	createMetadataJson()
-	metafiles = glob.glob('../metadataJson/*.json')
-	metafiles = sorted(metafiles)
-	for metafile in metafiles:
-		metadata = json.load(codecs.open(metafile, 'r', 'utf-8'))
-		print(metadata['identifier'])
-	"""
 	
 	accessionsToBeUploaded = '../derivedFiles/uploadstack.txt'
 	for line in codecs.open(accessionsToBeUploaded, 'r', 'utf-8'):
@@ -137,8 +137,6 @@ if __name__=="__main__":
 		accession = padAccessionNumber(accession)
 		if os.path.isfile('../metadataJson/'+accession+'.json'):
 			metadata = json.load(codecs.open('../metadataJson/'+accession+'.json', 'r', 'utf-8'))
-			print(metadata['identifier'])
+			uploadToArchive(metadata)
 		else:
 			print('FILE NOT FOUND: '+accession)
-	
-		

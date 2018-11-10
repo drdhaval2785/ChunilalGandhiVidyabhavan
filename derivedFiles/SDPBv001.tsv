@@ -501,7 +501,7 @@ SDPB0478	Architecture	कुण्डप्रदीप		इच्छारा�
 SDPB0479	Tantra Ritual	कार्तवीर्यार्जुननित्यपूजा	हरिकवि	दवे इच्छाराम		V.S. 1799			8"x4.8"	24	Sanskrit	Devanagari		
 SDPB0480	Tantra Ritual	बटुकपूजाविधि							8.2"x4.8"	7	Sanskrit	Devanagari		
 SDPB0481	Vedic Literature	कर्मप्रदीपभाष्य	आशादित्य मिश्र			V.S. 1555			11.1"x4.8"	200	Sanskrit	Devanagari		
-SDPB0482	Philology	निरुक्तग्रन्थ (A work on philology)							11"x4.6"	20	Sanskrit	Devanagari	Incomplete. Follios 106 are missing.	Check the translation of philology as निरुक्त.
+SDPB0482	Philology	निघण्टुग्रन्थ (A work on philology)							11"x4.6"	20	Sanskrit	Devanagari	Incomplete. Follios 106 are missing.	Check the translation of philology as निघण्टु
 SDPB0483	Vedic Ritual	शाङ्खायनसूत्रपद्धति							10.8"x4.8"	32	Sanskrit	Devanagari	Incomplete. There are some folios missing, as the last folio has 42.	
 SDPB0484	Vedic Ritual	शाङ्खायनसूत्रपद्धति							11"x4.8"	39	Sanskrit	Devanagari		
 SDPB0485	Vedic Ritual	गृह्यकर्मग्रन्थ (सामवेदीय)							10.2"x4.6"	26	Sanskrit	Devanagari	Incomplete.	
@@ -621,3 +621,103 @@ SDPB0597	Grammar	व्याकरणग्रन्थ							10.1"x4.4"	7	Sans
 SDPB0598	Vedanta	वेदान्तसारे ब्रह्मकल्लोल	सदानन्द			V.S. 1772			10.4"x4.6"	6	Sanskrit	Devanagari		
 SDPB0599	Dharmashastra	निर्णयसिन्धु	कमलाकर						8.4"x4.9"	52	Sanskrit	Devanagari		
 SDPB0600	Nyaya	मुक्तावली	सिद्धान्तपञ्चानन भट्ट	शिवभद्र भट्ट		V.S. 1765			9.9"x3.3"	10	Sanskrit	Devanagari		
+SDPB0601	Vaisheshika	सिद्धान्तसार							9.9"x4"	20	Sanskrit	Devanagari	Incomplete.	
+SDPB0602	Nyaya	अवच्छेद							9.7"x4.2"	13	Sanskrit	Devanagari	Begins abruptly.	
+SDPB0603	Tantra Ritual	भुवनेश्वरीकवच							7"x3.7"	4	Sanskrit	Devanagari		
+SDPB0604	Nyaya	न्यायप्रकाश	आपदेव	रविधर		V.S. 1748			9.5"x3.9"	59	Sanskrit	Devanagari		
+SDPB0605	Nyaya	नव्यन्यायग्रन्थ							9.6"x4.2"	38	Sanskrit	Devanagari	Begins abruptly.	
+SDPB0606	Grammar	तत्त्वबोधिनी	ज्ञानेन्द्रसरस्वती	रघुनाथ भट्ट					10.5"x4.6"	66	Sanskrit	Devanagari		
+SDPB0607	Grammar	महाभाष्य	पतञ्जलि						10.5"x4.6"	11	Sanskrit	Devanagari		
+SDPB0608	Grammar	महाभाष्य	पतञ्जलि						10.5"x4.6"	9	Sanskrit	Devanagari	Follios 29-37 only.	
+SDPB0609	Grammar	महाभाष्य	पतञ्जलि						10.6"x4,8"	28	Sanskrit	Devanagari	Follios 1-28 only.	
+SDPB0610	Grammar	तत्त्वबोधिनी उणादिसूत्र	ज्ञानेन्द्रसरस्वती	हरिकृष्ण द्विवेदी		V.S. 1744		वाराणसी	10.9"x4.5"	6	Sanskrit	Devanagari	Begins abruptly.	
+SDPB0611	Grammar	व्याकरणग्रन्थ							10.1"x4.4"	11	Sanskrit	Devanagari	Begins abruptly. Follios 21-31 only.	
+SDPB0612														
+SDPB0613	Grammar	शब्दकौस्तुभ	भट्टोजी दीक्षित						10.8"x4.8"	6	Sanskrit	Devanagari	Begins and ends abruptly. Follios 46-50 only.	
+SDPB0614	Grammar	व्याकरणग्रन्थ							10.5"x4.8"	9	Sanskrit	Devanagari	Begins and ends abruptly.	
+SDPB0615	Grammar	व्याकरणग्रन्थ							10.5"x4.8"	35	Sanskrit	Devanagari	Ends abruptly.	
+SDPB0616	Purvamimamsa	मीमांसाप्रदीप	काण्व शङ्कर शुक्ल						11.1"x4.8"	15	Sanskrit	Devanagari		
+SDPB0617	Grammar	व्याकरणग्रन्थ							11"x5"	37	Sanskrit	Devanagari	Incomplete.	
+SDPB0618	Grammar	व्याकरणग्रन्थ							10.5"x4.8"	31	Sanskrit	Devanagari	Follios 56-86 only. Begins and ends abruptly.	
+SDPB0619	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						9.9"x4.4"	24	Sanskrit	Devanagari	Incomplete.	
+SDPB0620	Grammar	व्याकरणग्रन्थ							10.8"x4.8"	44	Sanskrit	Devanagari	Begins and ends abruptly.	
+SDPB0621	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						11.8"x4.6"	18	Sanskrit	Devanagari	Follios 47-64 only. Begins abruptly.	
+SDPB0622	Dharmashastra	मदनपारिजात	विश्वेश्वर भट्ट						10.5"x4.4"	92	Sanskrit	Devanagari	Ends abruptly.	
+SDPB0623	Philology	निघण्टुभाष्य	देवराजयज्वन्						10.9"x4.7"	122	Sanskrit	Devanagari	Ends abruptly.	
+SDPB0624	Vedic Literature	शिक्षा, ज्योतिष्, छन्दस्, निघण्टु		शङ्कर दवे					10.5"x4.8"	19	Sanskrit	Devanagari		
+SDPB0625	Philology	निरुक्तवृत्ति							10.9"x4.5"	34	Sanskrit	Devanagari	Follios 40-73 missing. Begins and ends abruptly.	
+SDPB0626	Vedic Literature	कौषीतकिब्राह्मणभाष्य	विनायक भट्ट			V.S. 1744			11"x4.8"	164	Sanskrit	Devanagari		
+SDPB0627	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						11"x4"	121	Sanskrit	Devanagari	Follios 326-446 only.	
+SDPB0628	Dharmashastra	कालनिर्णयसिन्धु	कमलाकर भट्ट						8.4"x4.8"	111	Sanskrit	Devanagari		
+SDPB0629	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						11"x4"	326	Sanskrit	Devanagari	पूर्वार्ध only.	
+SDPB0630	Vedic Literature	कौषीतकिब्राह्मणभाष्य	विनायक भट्ट						10.8"x4.8"	70	Sanskrit	Devanagari	Incomplete.	
+SDPB0631	Grammar	प्रौढमनोरमा	भट्टोजी दीक्षित						10.8"x3.9"	83	Sanskrit	Devanagari	Follios 264-337 only.	
+SDPB0632	Grammar	प्रौढमनोरमा	भट्टोजी दीक्षित						10.6"x4"	26	Sanskrit	Devanagari		
+SDPB0633	Grammar	प्रौढमनोरमा	भट्टोजी दीक्षित						10.6"x4"	263	Sanskrit	Devanagari		
+SDPB0634	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						11.1"x4.1"	74	Sanskrit	Devanagari	Follios 447-520 only.	
+SDPB0635	Grammar	शब्दकौस्तुभ	भट्टोजि भट्ट						10.6"x4.6"	15	Sanskrit	Devanagari	Begins and ends abruptly.	Nams should have been भट्टोजी दीक्षित.
+SDPB0636	Grammar	शब्दकौस्तुभ	भट्टोजि भट्ट						10.6"x4.6"	19	Sanskrit	Devanagari	Follios 55-73 only.	
+SDPB0637	Grammar	शब्दकौस्तुभ	भट्टोजि भट्ट						10.6"x4.6"	46	Sanskrit	Devanagari	Begins and ends abruptly.	
+SDPB0638	Vedanta	शारीरकमीमांसाभाष्य	शङ्कर						11.1"x4.9"	42	Sanskrit	Devanagari	Follios 99-140 only.	
+SDPB0639	Vedanta	सिद्धान्तमुक्तावली	भट्टाचार्य						11.1"x3.6"	20	Sanskrit	Devanagari	Follios 68-87 only. Begins abruptly.	
+SDPB0640	Kavya	सुभाषितानि							11.1"x4.1"	1	Sanskrit	Devanagari		
+SDPB0641	Vedanta	विषयानन्द	विद्यारण्य मुनि	मञ्छाराम भट्ट					11.5"x5"	5	Sanskrit	Devanagari		
+SDPB0642	Vedic Literature	कैवल्योपनिषद्दीपिका	शङ्कराचार्य						11"x5"	7	Sanskrit	Devanagari		
+SDPB0643	Nyaya	गादाधरी							10.5"x4.8"	6	Sanskrit	Devanagari	Follios 37-42 only. Begins and ends abruptly.	In slip, subject wrongly shown as Grammar.
+SDPB0644	Vedanta	मुक्तावलिटीका	दिनकर भट्ट						9.9"x4.4"	61	Sanskrit	Devanagari		
+SDPB0645	Nyaya	गादाधरी							10.5"x4.8"	100	Sanskrit	Devanagari	Begins and ends abruptly.	In slip, subject wrongly shown as Grammar.
+SDPB0646	Vaisheshika	आख्यातवादटीका	रघुदेव						10"x3.9"	28	Sanskrit	Devanagari		In slip, रघुदेव shown as scribe instead of author. Check whether the category is actually vaisheshika or nyaya. Raghudeva is a well known nyaya writer.
+SDPB0647	Nyaya	गादाधरी							4.6"x10.2"	118	Sanskrit	Devanagari	Follios 9-126 only. Begins and ends abruptly.	
+SDPB0648	Tantra Ritual	बालात्रिपुरापटल							8.2"x4.2"	9	Sanskrit	Devanagari		
+SDPB0649	Nyaya	चिन्तामणि	गङ्गेश						11"x3.9"	31	Sanskrit	Devanagari	Follios 22-53 only. Begins and ends abruptly.	
+SDPB0650	Nyaya	न्यायमुक्तावली		वामन पाठक					11.1"x3.5"	67	Sanskrit	Devanagari		
+SDPB0651											Sanskrit	Devanagari		Not scanned. Check with physical copy.
+SDPB0652	Nyaya	न्यायग्रन्थ							9.8"x4.3"	47	Sanskrit	Devanagari	Begins abruptly.	In slip, title is shown as हेरम्ब, but it is not at all proper. It seems at the max the name of owner of manuscript.
+SDPB0653	Nyaya	भवानन्दी							11.5"x4.3"	240	Sanskrit	Devanagari		
+SDPB0654	Nyaya	अनुमानचिन्तामणि							10"x4"	14	Sanskrit	Devanagari	Ends abruptly.	
+SDPB0655	Nyaya	गादाधरी	गदाधर						10.5"x4.8"	164	Sanskrit	Devanagari	Follios 9-23 are missing. Begins and ends abruptly.	
+SDPB0656	Nyaya	न्यायसिद्धान्तमञ्जरीदीपिका	श्रीकण्ठशर्मा दीक्षित						9.3"x5.3"	56	Sanskrit	Devanagari	Follio 1 is missing. Begins abruptly.	
+SDPB0657	Nyaya	शिरोमणि (मूल)		शिवभद्र दीक्षित					10.5"x4.5"	30	Sanskrit	Devanagari	Incomplete.	
+SDPB0658	Dharmashastra	चतुर्वर्गचिन्तामणि	हेमाद्रि						10.5"x5.5"	240	Sanskrit	Devanagari	Follios 1-2 are missing. Begins and ends abruptly.	
+SDPB0659	Purana	व्रतराज	दैवज्ञ शर्मा						11.7"x5.5"	395	Sanskrit	Devanagari		
+SDPB0660	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						12"x5"	225	Sanskrit	Devanagari	पूर्वार्ध only. Follios 1-5 are missing. Begins abruptly.	
+SDPB0661	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						12"x4.8"	177	Sanskrit	Devanagari	Begins and ends abruptly.	
+SDPB0662	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						11.8"x4.6"	90	Sanskrit	Devanagari		
+SDPB0663	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						12.3"x4.8"	122	Sanskrit	Devanagari	Ends abruptly.	
+SDPB0664	Purana	शिवरहस्य							9.9"x5.5"	524	Sanskrit	Devanagari		
+SDPB0665	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	19	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0666	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	38	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0667	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	17	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0668	Kavya	महाभारत भारतार्थप्रदीपिकासहित (विराटपर्व)	वेद व्यास, अर्जुन मिश्र						13.8"x5.5"	89	Sanskrit	Devanagari		
+SDPB0669	Kavya	महाभारत भारतार्थप्रदीपिकासहित (उद्योगपर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.5"x5.5"	309	Sanskrit	Devanagari		
+SDPB0670	Kavya	महाभारत भारतार्थप्रदीपिकासहित (आदिपर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.7"x5.5"	414	Sanskrit	Devanagari		
+SDPB0671											Sanskrit	Devanagari		Not scanned. Check physical manuscript.
+SDPB0672	Kavya	महाभारत भारतार्थप्रदीपिकासहित (सभापर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.7"x5.5"	115	Sanskrit	Devanagari		
+SDPB0673	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	17	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0674	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	12	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0675	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	34	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0676	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	18	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0677	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	18	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0678	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	26	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0679	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	21	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0680	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	14	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0681	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	34	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0682	Purana	गीतार्थबोधिनी	वामन			shaka 1774			9.3"x6.3"	50	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
+SDPB0683	Purana	ब्रह्मोत्तरखण्ड				shaka 1778			9.5"x6.3"	94	Sanskrit	Devanagari		
+SDPB0684		भक्तिहंस	विट्ठलेश्वर	व्रजभूषणजी महाराज					9"x5"	11	Sanskrit	Devanagari		In slip, subject is not specified.
+SDPB0685	Ayurveda	वीरसिंहावलोक	वीरसिंह			V.S. 1538			9.9"x4.4"	175	Sanskrit	Devanagari		
+SDPB0686	Vedanta	भक्तिहेतिविवृत्ति	रघुनाथ	व्रजरत्नजी					9.6"x4.5"	14	Sanskrit	Devanagari		
+SDPB0687	Tantra Ritual	कक्षपुट	सिद्ध नागार्जुन						9.8"x4.6"	54+51=105	Sanskrit	Devanagari	Follios 1-10 missing.	
+SDPB0688	Kavya	रसकदम्बकल्लोलिनी (गीतगोविन्दटीका)				V.S. 1801			10"x4.5"	250	Sanskrit	Devanagari		
+SDPB0689	Kavya	सूक्तितरङ्गिणी	हरिकवि			V.S. 1757			10.5"x4.8"	161	Sanskrit	Devanagari		
+SDPB0690	Kavya	मेघदूत सटीक	वल्लभ भट्ट						9.6"x4.2"	34	Sanskrit	Devanagari		
+SDPB0691	Kavya	मेघदूत	कालिदास	व्यास गोर		V.S. 1587			9.3"x5.1"	16	Sanskrit	Devanagari		
+SDPB0692	Purana Ritual	तुलापुरुषदानविधि							10.8"x4.8"x	18	Sanskrit	Devanagari		Subject changed from Purana to Purana Ritual.
+SDPB0693	Stotra	कल्पचिन्तामणिमन्त्र	चामुण्डराज			V.S. 1799			9.5"x5.5"	53	Sanskrit	Devanagari		
+SDPB0694	Purana	शिवताण्डव		जगदीश पण्ड्या		V.S. 1771			10.6"x4.7"	33	Sanskrit	Devanagari		
+SDPB0695	Ayurveda	रसरत्नाकर	नित्यनाथ	देवराम जोशी		V.S. 1850			9.9"x4.2"	52	Sanskrit	Devanagari		
+SDPB0696	Vedanta	 भक्तिहेतुनिर्णय	विट्ठलेश्वर						8.9"x4.9"	7	Sanskrit	Devanagari		
+SDPB0697	Dharmashastra	कालनिर्णयदीपिकाविवरण	नृसिंहाचार्य						11.1"x5.1"	157	Sanskrit	Devanagari	Follios 1-79 are missing. Begins abruptly.	
+SDPB0698	Architecture	कूपप्रतिष्ठा		शङ्कर दवे					7.2"x4"	6	Sanskrit	Devanagari		
+SDPB0699	Rhetorics	रसतरङ्गिणीक़्	भानुदत्त	यज्ञेश्वर					8.4"x4.8"	24	Sanskrit	Devanagari		
+SDPB0700	Grammar	लघुशब्देन्दुशेखर	नागोजी भट्ट						11.9"x5.1"	5	Sanskrit	Devanagari	Incomplete.	

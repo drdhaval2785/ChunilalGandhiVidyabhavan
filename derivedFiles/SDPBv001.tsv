@@ -311,7 +311,7 @@ SDPB0302	Purvamimamsa	भाट्टदीपिका	खण्डदेव			
 SDPB0303	Stotra	कनकधारास्तोत्र	शङ्कराचार्य						7.5"x4.2"	3	Sanskrit	Devanagari		
 SDPB0304	Vedic Literature	मुण्डकोपनिषद्							7.5"x3.4"	7	Sanskrit	Devanagari	Owner: मञ्छाराम.	In slip, the owner is wrongly identified as author.
 SDPB0305	Vedic Literature	कैवल्योपनिषद्							7.5"x3.3"	4	Sanskrit	Devanagari	Owner: माधवानन्द सरस्वती.	In slip, the owner is wrongly identified as author.
-SDPB0306	Purana	कार्तवीर्यार्जुनविधि	काशिभद्र			V.S. 1686			6.1"x3.7"	16	Sanskrit	Devanagari		Check the Subject. Seems to be a ritual book.
+SDPB0306	Purana Ritual 	कार्तवीर्यार्जुनविधि	काशिभद्र			V.S. 1686			6.1"x3.7"	16	Sanskrit	Devanagari		Subject changed from Purana literature to Purana ritual.
 SDPB0307	Purana	ब्रह्मप्रोक्तस्तव				V.S. 1740			7.5"x4.2"	3	Sanskrit	Devanagari		
 SDPB0308	Tantra Ritual	दीक्षाकाल							6.6"x4"	9	Sanskrit	Devanagari		
 SDPB0309	Vedic Literature	श्रीनारायणोपनिषद्							6.3"x4.1"	2	Sanskrit	Devanagari		
@@ -332,21 +332,21 @@ SDPB0323	Dharmashastra	आतुरसन्न्यासविधि							4.
 SDPB0324	Dharmashastra	व्यासपूजापद्धति							9.5"x5.3"	6	Sanskrit	Devanagari		
 SDPB0325	Vedanta	पञ्चीकरण	शङ्कराचार्य						5.5"x3.7"	42	Sanskrit	Devanagari	Owner: माधवानन्द.	
 SDPB0326	Purana	भगवद्गीता				V.S. 1650		सूरत	6.8"x4.1"	62	Sanskrit	Devanagari		
-SDPB0327	Purvamimamsa	भाट्टदीपिका	खण्डदेव			V.S. 1847			10.1"/x4.3"	125	Sanskrit	Devanagari		
+SDPB0327	Purvamimamsa	भाट्टदीपिका	खण्डदेव			V.S. 1847			10.1"x4.3"	125	Sanskrit	Devanagari		
 SDPB0328	Dharmashastra	आह्निककल्पित				V.S. 1728		काशी	6.7"x5.1"	21	Sanskrit	Devanagari		
 SDPB0329	Purana	वैतरणीमाहात्म्यव्रतोद्यापन				V.S. 1771			8"x4.6"	8	Sanskrit	Devanagari		
 SDPB0330	Purana	अपराधवटसावित्रीव्रत	रामदेव			V.S. 1757			10"x4.5"	3	Sanskrit	Devanagari		
 SDPB0331	Stotra	अर्घ्यदानविधि							9.5"x5.7"	5	Sanskrit	Devanagari		
 SDPB0332	Purana	रासक्रीडा							9"x4.8"	5	Sanskrit	Devanagari		
 SDPB0333	Stotra	अवर्ण अर्चन							8"x5.7"	14	Sanskrit	Devanagari		
-SDPB0334	Purana	एकादशीव्रत	गुरु ?			V.S. 1787			9.5"x5"		Sanskrit	Devanagari		
+SDPB0334	Purana	एकादशीव्रत				V.S. 1787			9.5"x5"		Sanskrit	Devanagari		
 SDPB0335	Vedic Literature	षोडशारचक्रकारिका	भद्रशङ्कर			V.S. 1867			9.6"x6.5"	7	Sanskrit	Devanagari		
 SDPB0336	Vedic Literature	वेदिपीठरचना							6.3"x5.3"	1	Sanskrit	Devanagari		
 SDPB0337	Purana	आदित्यहृदय				V.S. 1760			10.5"x6.2"	10	Sanskrit	Devanagari		Check the category. Usually this appears in Stotra category.
 SDPB0338	Purana	शालिग्रामपरीक्षा							9.5"x5.5"	2	Sanskrit	Devanagari		
 SDPB0339	Stotra	आदित्यहृदय							9.4"x5"	12	Sanskrit	Devanagari		
 SDPB0340	Purana	सावित्रीव्रत		रामदेव					10.5"x4.6"	3	Sanskrit	Devanagari		In slip, scribe wrongly identified as author.
-SDPB0341	Stotra	मन्युसूक्तविधान		भद्रशङ्कर		V.S. 1866		सूर्यपुर	9.5"x4.9"	6	Sanskrit	Devanagari		In slip, scribe wrongly identified as author. Also check the category. It seems Puranic ritual.
+SDPB0341	Vedic Ritual	मन्युसूक्तविधान		भद्रशङ्कर		V.S. 1866		सूर्यपुर	9.5"x4.9"	6	Sanskrit	Devanagari		In slip, scribe wrongly identified as author. Changed the category from Stotra to Vedic ritual.
 SDPB0342	Purana	सोमवारव्रत		रामदेव							Sanskrit	Devanagari		In slip, scribe wrongly identified as author.
 SDPB0343	Stotra	पञ्चायुध							8.8"x4.6"	4	Sanskrit	Devanagari		
 SDPB0344	Purana Ritual	तापीत्रिरात्रव्रत							22"x6.5"	1	Sanskrit	Devanagari		
@@ -371,8 +371,8 @@ SDPB0359A	Purana Ritual	गर्भसुभगाव्रत							9.1"x4.8"	
 SDPB0360	Stotra	गङ्गासहस्रनाम							8"x4.8"	28	Sanskrit	Devanagari		
 SDPB0360A	Grammar	व्याकरणग्रन्थ							6.1"x2.4"	6	Sanskrit	Devanagari	Ends abruptly.	
 SDPB0361	Tantra Ritual	मुहूर्तकल्पद्रुम							10.8"x4.8"	17	Sanskrit	Devanagari	Ends abruptly.	
-SDPB0361A	Stotra	विष्णोरपामार्जनस्तोत्र		दवे आनन्दराम शिवराम		V.S. 1799			8.3"x5"	10	Sanskrit	Devanagari		
-SDPB0362	Purana Ritual	माणेकठारीनी पूजा							9"x5"	8	Sanskrit	Devanagari		
+SDPB0361A	Stotra	विष्णोरपामार्जनस्तोत्र		आनन्दराम शिवराम दवे		V.S. 1799			8.3"x5"	10	Sanskrit	Devanagari		
+SDPB0362	Purana Ritual	माणेकठारीनी पूजा							9"x5"	8	Old Gujarati	Devanagari		
 SDPB0362A	Ayurveda	ज्वराङ्कुश							6.3"x3.6"	10	Sanskrit	Devanagari		
 SDPB0363	Ayurveda	नाडीपरीक्षा							10.4"x5"	11	Sanskrit	Devanagari		
 SDPB0363A	Purana Ritual	अनन्तव्रतपूजा		शिवकृष्ण दीक्षित					9.3"x5.3"	4	Sanskrit	Devanagari		
@@ -392,8 +392,8 @@ SDPB0370	Jyotisha	सूर्यव्रत							8.8"x4.8"	17	Sanskrit	Devana
 SDPB0370	Stotra	विष्णुनामसहस्र				V.S. 1783			7.1"x4.1"	10	Sanskrit	Devanagari	Begins abruptly.	
 SDPB0371	Stotra	श्रीमहागणपतिस्तोत्र							6.7"x4"	5	Sanskrit	Devanagari		
 SDPB0372	Vedic Literature	मन्युसूक्त							8.6"x4.4"	1	Sanskrit	Devanagari		
-SDPB0373	Jyotisha	बृहस्पतिपूजा		पाध्या शङ्कर अग्निदत्त					9"x5"	6	Sanskrit	Devanagari		
-SDPB0374	Purana Ritual	अनन्तव्रतपूजा		पाध्या शङ्कर अग्निदत्त					9"x5.1"	4	Sanskrit	Devanagari		
+SDPB0373	Jyotisha	बृहस्पतिपूजा		शङ्कर अग्निदत्त पाध्या					9"x5"	6	Sanskrit	Devanagari		
+SDPB0374	Purana Ritual	अनन्तव्रतपूजा		शङ्कर अग्निदत्त पाध्या					9"x5.1"	4	Sanskrit	Devanagari		
 SDPB0375	Purana Ritual	गणपतिस्तवराज							8.8"x5"	2	Sanskrit	Devanagari		
 SDPB0376	Stotra	मण्डलपूजा		दयाशङ्कर दीक्षित		V.S. 1801			8.6"x4.5"	4	Sanskrit	Devanagari		
 SDPB0377	Purana Ritual	अनन्तव्रतकथा		मकन्दजी दवे					8.3"x4.7"	8	Sanskrit	Devanagari		
@@ -408,13 +408,13 @@ SDPB0385	Stotra	विष्णुसहस्रदिव्यनाम		भ�
 SDPB0386	Dharmashastra	नीलोद्वाहपद्धति		देवशङ्कर					8.8"x4"	18	Sanskrit	Devanagari		In slip, title wrongly written as नीलोदाहपद्धति.
 SDPB0387	Purana Ritual	भौमपाठ							8.2"x4.8"	6	Sanskrit	Devanagari		
 SDPB0388	Purana Ritual	शालिग्राममहिमा		कृपाराम दीक्षित					9.3"x5.3"	27	Sanskrit	Devanagari		
-SDPB0389	Purana Ritual	अभयैकादशीव्रतोद्यापनविधि		पाध्या शङ्कर					8.2"x4.8"	11	Sanskrit	Devanagari		
+SDPB0389	Purana Ritual	अभयैकादशीव्रतोद्यापनविधि		शङ्कर पाध्या					8.2"x4.8"	11	Sanskrit	Devanagari		
 SDPB0390	Vedic Ritual	महावारुणपूजा							8.8"x4.8"	1	Sanskrit	Devanagari		
 SDPB0391	Purana Ritual	पौषीसफलैकादशीकथा							9.5"x5.3"	4	Sanskrit	Devanagari		
 SDPB0392	Dharmashastra	महालयश्राद्ध							5.1"x9.1"	13	Sanskrit	Devanagari		
 SDPB0393	Purana Ritual	भौमपूजा		आनन्द शिवराम		V.S. 1816			7.6"x4.5"	6	Sanskrit	Devanagari		
 SDPB0394	Purana Ritual	त्वरितरुद्रविधि		गिरिजानन्द					9.1"x5.1"	2	Sanskrit	Devanagari		
-SDPB0395	Purana Ritual	a. गोपूजाविधि, b. सङ्ग्रहणीरगदानविधि		नीलकण्ठ दवे		V.S. 1727			8.5"x4.6"	4	Sanskrit	Devanagari		Check the name of second work.
+SDPB0395	Purana Ritual	a. गोपूजाविधि, b. सङ्ग्रहणीरोगदानविधि		नीलकण्ठ दवे		V.S. 1727			8.5"x4.6"	4	Sanskrit	Devanagari		
 SDPB0396	Purana Ritual	a. एकवस्त्रस्नानविधि, b. वस्त्रदानमन्त्र							9"x5"	4	Sanskrit	Devanagari		
 SDPB0397	Jyotisha	नवग्रहन्यासविधि		विष्णुदेव द्विवेदी					8.1"x4.8"	11	Sanskrit	Devanagari		
 SDPB0398	Purana Ritual	वैतरणीव्रतमाहात्म्य		शिवराम		V.S. 1777			8.2"x4.6"	5	Sanskrit	Devanagari		
@@ -431,7 +431,7 @@ SDPB0408	Purana Ritual	सूर्यव्रत		शङ्घजीक		V.S. 
 SDPB0409	Vedic Literature	विष्णुसूक्त							7.1"x4.1"	5	Sanskrit	Devanagari		
 SDPB0410	Purana Ritual	अब्दपूजनविधि		शिवदेव		V.S. 1866			6.5"x4.1"	4	Sanskrit	Devanagari		
 SDPB0411	Vedic Ritual	मन्युसूक्तप्रयोग		शिवदेव		V.S. 1854			6.3"x4.3"	6	Sanskrit	Devanagari		
-SDPB0412	Dharmashastra	वैतरणीदानविधि		चिनोक ?		V.S. 1625			5.6"x3.8"	9	Sanskrit	Devanagari		
+SDPB0412	Dharmashastra	वैतरणीदानविधि		चीनाक		V.S. 1625			5.6"x3.8"	9	Sanskrit	Devanagari		
 SDPB0413	Purana Ritual	जलधेनुपूजा							4.9"x3"	9	Sanskrit	Devanagari	Folios  7-9 are not numbered.	
 SDPB0414	Stotra	तृचकल्प		शिवशङ्कर		V.S. 1768			8.7"x3.7"	7	Sanskrit	Devanagari		
 SDPB0415	Stotra	परशिवदिव्यसहस्रनामस्तोत्र				V.S. 1782			7.4"x4.2"	14	Sanskrit	Devanagari		
@@ -470,9 +470,9 @@ SDPB0447	Grammar	पाणिनि व्याकरण	पाणिनि				
 SDPB0448	Vedic Literature	कैवल्योपनिषद् दीपिका	शङ्कराचार्य भगवत्पाद						6.8"x3.8"	28	Sanskrit	Devanagari		
 SDPB0449	Vedic Literature	कैवल्योपनिषद्		माधवानन्द		V.S. 1868		अश्वनीकुमार	6.6"x3.8"	4	Sanskrit	Devanagari		
 SDPB0450	Vedanta	वैतथ्यभाष्य							6.6"x4.4"	18	Sanskrit	Devanagari	Incomplete. Folios 1-12 missing. Begins abruptly.	
-SDPB0451	Vedanta	वैतथ्यभाष्य							6.4"x4.2"	99	Sanskrit	Devanagari	Incomplete. Folios are 111-209. Ret missing.	
-SDPB0452	Vedanta	वैतथ्यभाष्य							6.4"x4.2"	41	Sanskrit	Devanagari	Incomplete. Folios are 209-231. See SDPB0451.	
-SDPB0453	Architecture	कुण्डप्रदीप				V.S. 1762			7.5"x4.5"	27	Sanskrit	Devanagari	Incomplete. First folio missing.	
+SDPB0451	Vedanta	वैतथ्यभाष्य							6.4"x4.2"	99	Sanskrit	Devanagari	Incomplete. Folios 111-209 only. Rest missing.	
+SDPB0452	Vedanta	वैतथ्यभाष्य							6.4"x4.2"	41	Sanskrit	Devanagari	Incomplete. Folios are 209-231 only. See manuscript 451.	
+SDPB0453	Architecture	कुण्डप्रदीप				V.S. 1762			7.5"x4.5"	27	Sanskrit	Devanagari	Incomplete. First folio is missing.	
 SDPB0454	Vedic Ritual	होमपद्धति							8.4"x4.8:	5	Sanskrit	Devanagari		
 SDPB0455	Stotra	श्रीकार्तवीर्यार्जुनस्तवराज							6.9"x4.6"	13	Sanskrit	Devanagari		
 SDPB0456	Purana	कार्तवीर्यार्जुनकथा							7.7"x4.4"	4	Sanskrit	Devanagari		
@@ -485,8 +485,8 @@ SDPB0462	Grammar	काशिकावृत्ति	वामनाचार�
 SDPB0463	Kamashastra	कामसूत्र	वात्स्यायन			fairly old			10.6"x4"	55	Sanskrit	Devanagari		
 SDPB0464	Vedic Literature	छान्दोग्यमन्त्रभाष्य	गुणविष्णु भट्ट	कृष्ण त्रिपाठी		V.S. 1480			10.6"x4"	42	Sanskrit	Devanagari		
 SDPB0465	Dharmashastra	कर्मविपाक				V.S. 1617			8.8"x4.2"	258	Sanskrit	Devanagari		
-SDPB0466	Dharmashastra	आचारदीप आचारमातृकाविधि	नामदेव भट्ट						11.4"x3.4"	48	Sanskrit	Devanagari	folios 1,2 missing. Begins abruptly.	
-SDPB0467	Grammar	तत्त्वबोधिनी		दीनमणिशङ्कर					10.8"x4.6"	20	Sanskrit	Devanagari	Incomplete.	
+SDPB0466	Dharmashastra	आचारदीप आचारमातृकाविधि	नामदेव भट्ट						11.4"x3.4"	48	Sanskrit	Devanagari	Folios 1 and 2 are missing. Begins abruptly.	
+SDPB0467	Grammar	तत्त्वबोधिनी		दिनमणिशङ्कर					10.8"x4.6"	20	Sanskrit	Devanagari	Incomplete.	
 SDPB0468	Grammar	तत्त्वबोधिनी	ज्ञानेन्द्रसरस्वती						9.4"x5.4"	122	Sanskrit	Devanagari	Incomplete. Folios 364-475 only. Begins abruptly.	In slips, author is wrongly shown as भट्टोजी दीक्षित.
 SDPB0469	Grammar	सुबोधिनी टीका		जयकृष्ण					a. 9.8"x5.6", b. 10.3"x4.6"	88	Sanskrit	Devanagari		
 SDPB0470	Grammar	तत्त्वबोधिनी	ज्ञानेन्द्रसरस्वती								Sanskrit	Devanagari		
@@ -501,20 +501,20 @@ SDPB0478	Architecture	कुण्डप्रदीप		इच्छारा�
 SDPB0479	Tantra Ritual	कार्तवीर्यार्जुननित्यपूजा	हरिकवि	दवे इच्छाराम		V.S. 1799			8"x4.8"	24	Sanskrit	Devanagari		
 SDPB0480	Tantra Ritual	बटुकपूजाविधि							8.2"x4.8"	7	Sanskrit	Devanagari		
 SDPB0481	Vedic Literature	कर्मप्रदीपभाष्य	आशादित्य मिश्र			V.S. 1555			11.1"x4.8"	200	Sanskrit	Devanagari		
-SDPB0482	Philology	निघण्टुग्रन्थ (A work on philology)							11"x4.6"	20	Sanskrit	Devanagari	Incomplete. Folios 106 are missing.	Check the translation of philology as निघण्टु
+SDPB0482	Philology	निघण्टुग्रन्थ							11"x4.6"	20	Sanskrit	Devanagari	Incomplete. Folios 106 are missing.	Check the translation of philology as निघण्टु
 SDPB0483	Vedic Ritual	शाङ्खायनसूत्रपद्धति							10.8"x4.8"	32	Sanskrit	Devanagari	Incomplete. There are some folios missing, as the last folio has 42.	
 SDPB0484	Vedic Ritual	शाङ्खायनसूत्रपद्धति							11"x4.8"	39	Sanskrit	Devanagari		
 SDPB0485	Vedic Ritual	गृह्यकर्मग्रन्थ (सामवेदीय)							10.2"x4.6"	26	Sanskrit	Devanagari	Incomplete.	
 SDPB0486	Vedic Ritual	शाङ्खायनसूत्रपद्धति (क्रतुरत्नमाला)	श्रीपतिपुत्र						11"x4.6"	36	Sanskrit	Devanagari		
 SDPB0487	Vedic Ritual	शाङ्खायनसूत्रपद्धति							11.1"x4.8"	30	Sanskrit	Devanagari	Begins and ends abruptly.	
-SDPB0488	Dharmashastra	धर्मशास्त्रग्रन्थ							10.5"x4.5"	8	Sanskrit	Devanagari	Incomplete. Folio 1 missing. Begins and ends abruptly.	
+SDPB0488	Dharmashastra	धर्मशास्त्रग्रन्थ							10.5"x4.5"	8	Sanskrit	Devanagari	Incomplete. Folio 1 is missing. Begins and ends abruptly.	
 SDPB0489	Dharmashastra	चातुर्मास्ययाजमानमन्त्राः		भट्टम्भट्ट होशिंग		V.S. 1686			6.5"x4.2"	9	Sanskrit	Devanagari		
 SDPB0490	Vedic Literature	दर्शपौर्णमास्ययाजमानग्रन्थ							6.4"x4"	22	Sanskrit	Devanagari		
 SDPB0491	Kamashastra	रतिरहस्य	विद्याधर						8.5"x4.5"	28	Sanskrit	Devanagari		
 SDPB0492	Vedic Literature	दर्शपौर्णमास्यग्रन्थ		भट्टम्भट्ट					8.5"x4"	22	Sanskrit	Devanagari		
 SDPB0493	Dharmashastra	होमविधि				V.S. 1815			6.7"x3.8"	29	Sanskrit	Devanagari		
-SDPB0494	Purana Ritual	विघ्नेश्वकल्पोक्तप्रयोग							7.6"x4.9"	4	Sanskrit	Devanagari	Incomplete.	
-SDPB0495	Vedanta	वेदान्तसार	सदानन्द	उमाशङ्कर		V.S. 1459			8.5"x4.8"	25	Sanskrit	Devanagari		Works seems to be of 1849, and not 1459.
+SDPB0494	Purana Ritual	विघ्नेशकल्पोक्तप्रयोग							7.6"x4.9"	4	Sanskrit	Devanagari	Incomplete.	
+SDPB0495	Vedanta	वेदान्तसार	सदानन्द	उमाशङ्कर		V.S. 1859			8.5"x4.8"	25	Sanskrit	Devanagari		In slip, the year is wrongly identified as of 1459. Confirmed with numbering style of scribe.
 SDPB0496	Vedanta	a. अपत्निकाधानाग्निहोत्रादिनिर्णय, b. नित्यहोमविधि		शङ्कर भट्ट					9.5"x5"	5	Sanskrit	Devanagari		
 SDPB0497	Dharmashastra	स्मृतिनिर्णय							10.4"x4.6"	116	Sanskrit	Devanagari	Incomplete. Folios 51-166 only.	
 SDPB0498	Nataka	कृष्णभक्तिचन्द्रिका	अनन्तदेव			V.S. 1724			11"x5"	24	Sanskrit	Devanagari		

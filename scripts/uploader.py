@@ -129,7 +129,7 @@ def createMetadataJson():
 
 
 if __name__=="__main__":
-	createMetadataJson()
+	#createMetadataJson()
 	
 	accessionsToBeUploaded = '../derivedFiles/uploadstack.txt'
 	for line in codecs.open(accessionsToBeUploaded, 'r', 'utf-8'):

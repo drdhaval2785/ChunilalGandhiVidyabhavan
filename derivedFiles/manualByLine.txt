@@ -2186,6 +2186,8 @@
 1404	856	त्रिवेणिका	आशाधर भट्ट	--	Paper	DN	8.8"x4.5"	7.8"x3.2"	11	37	13	घनश्याम जडिय	Good	--	Incomplete. F. 1-6 missing. Begins abruptly.	Nyaya-Vaisheshika
 ;1406	128	वादार्थ	गदाधर	--	Paper	DN	9.5"x3.2"	8"x2"	9	48	20	विजय	Good	saMvata 1772	Complete.	Nyaya-Vaisheshika
 1406	128	वादार्थ	गदाधर	--	Paper	DN	9.5"x3.2"	8"x2"	9	48	20	विजय	Good	V.S. 1772	Complete.	Nyaya-Vaisheshika
+; 1407	530	वैशेषिकसूत्र	कणाद	--	Paper	DN	8.8"x3.6"	6.8"x2.3"	9	38	9	--	Good	--	Complete.	Nyaya-Vaisheshika
+1407	530	वैशेषिकसूत्र	कणाद	--	Paper	DN	8.8"x3.6"	6.8"x2.3"	9	38	9	--	Good	--	Complete.	Nyaya-Vaisheshika
 ;1409	683	विषयतावाद	--	--	Paper	DN	8.3"x2.1"	7"x1.4"	7	50	18	--	Good	--	Incomplete. F.1-2 missing. Begins, abruptly.	Nyaya-Vaisheshika
 1409	683	विषयतावाद	--	--	Paper	DN	8.3"x2.1"	7"x1.4"	7	50	18	--	Good	--	Incomplete. F. 1-2 missing. Begins abruptly.	Nyaya-Vaisheshika
 ;1410	1561	विशिष्टवैशिष्ट्यबोधविचार	--	--	Paper	DN	9.5"x4.1" "	7.8"x3.1"	14	46	13	--	Poor	--	Incomplete. F.2 missing. F.no-3 duplicated. Margins are torn and the text is damged on 3-9. Begins abruptly.	Nyaya-Vaisheshika

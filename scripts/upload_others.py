@@ -110,7 +110,7 @@ def createMetadataJson1():
 		identifier = metadata['identifier']
 		accession = metadata['Accession_No']
 		fullaccession = accession.replace('SDPB','S.D.P.B._No.')
-		if not os.path.isfile('../compressedPdfFiles/'+fullaccession+'.pdf'):
+		if not os.path.isfile('../../ChunilalGandhiMSS/compressedPdfFiles/'+fullaccession+'.pdf'):
 			ferror.write('File Not Found:'+accession+'\n')
 			print(fullaccession)
 		else:

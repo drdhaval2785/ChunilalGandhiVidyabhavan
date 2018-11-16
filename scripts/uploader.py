@@ -107,7 +107,7 @@ def uploadToArchive(metadata):
 		startMessage = sr+'#'+accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
 		print(startMessage)
 		flog.write(startMessage+'\n')
-		r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=metadata)
+		r = upload(identifier, {identifier+'.pdf': '../../ChunilalGandhiMSS/compressedPdfFiles/BOOK_NO.'+accession+'.pdf'}, metadata=metadata)
 		endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
 		print(endMessage)
 		flog.write(endMessage)
@@ -122,7 +122,7 @@ def createMetadataJson():
 		identifier = metadata['identifier']
 		accession = metadata['Accession_No']
 		sr = metadata['Sr_No']
-		if not os.path.isfile('../compressedPdfFiles/BOOK_NO.'+accession+'.pdf'):
+		if not os.path.isfile('../../ChunilalGandhiMSS/BOOK_NO.'+accession+'.pdf'):
 			ferror.write('File Not Found:'+accession+'\n')
 			print(accession)
 		else:

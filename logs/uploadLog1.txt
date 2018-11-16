@@ -1,0 +1,3556 @@
+1173#shitalashtakastotra-CGV-PSS-1070-1173
+Started at 2018-11-12 23:10:25.557621
+SDPB0001#bhagavantabhaskara_samayamayukha_-CGV-SDPB-0001
+Started at 2018-11-12 23:11:58.318153
+200
+Ended at 2018-11-12 23:30:12.260932
+----------
+SDPB0002#bhagavantabhaskara_nitimayukha_-CGV-SDPB-0002
+Started at 2018-11-12 23:30:12.292155
+200
+Ended at 2018-11-12 23:42:18.206217
+----------
+SDPB0003#bhagavantabhaskara_danamayukha_-CGV-SDPB-0003
+Started at 2018-11-12 23:42:18.221838
+200
+Ended at 2018-11-13 00:09:10.209645
+----------
+SDPB0004#bhagavantabhaskara_shantimayukha_-CGV-SDPB-0004
+Started at 2018-11-13 00:09:10.287789
+200
+Ended at 2018-11-13 00:23:56.114248
+----------
+SDPB0005#bhagavantabhaskara_acharamayukha_-CGV-SDPB-0005
+Started at 2018-11-13 00:23:56.254867
+200
+Ended at 2018-11-13 00:38:24.182542
+----------
+SDPB0006#bhagavantabhaskara_prayashchittamayukha_-CGV-SDPB-0006
+Started at 2018-11-13 00:38:24.666923
+200
+Ended at 2018-11-13 01:02:54.929915
+----------
+SDPB0007#bhagavantabhaskara_utsargamayukha_-CGV-SDPB-0007
+Started at 2018-11-13 01:02:54.976738
+200
+Ended at 2018-11-13 01:05:55.378729
+----------
+SDPB0008#bhagavantabhaskara_shraddhamayukha_-CGV-SDPB-0008
+Started at 2018-11-13 01:05:55.394382
+200
+Ended at 2018-11-13 01:29:01.580995
+----------
+SDPB0009#sanskaramayukha-CGV-SDPB-0009
+Started at 2018-11-13 01:29:01.737193
+200
+Ended at 2018-11-13 01:51:26.325732
+----------
+SDPB0010#bhagavantabhaskara_shuddhimayukha_-CGV-SDPB-0010
+Started at 2018-11-13 01:51:26.419444
+200
+Ended at 2018-11-13 02:03:45.243005
+----------
+SDPB0011#bhagavantabhaskara_anukramanika_-CGV-SDPB-0011
+Started at 2018-11-13 02:03:45.352323
+200
+Ended at 2018-11-13 02:13:17.282836
+----------
+SDPB0012#krityaratnavali-CGV-SDPB-0012
+Started at 2018-11-13 02:13:17.360910
+200
+Ended at 2018-11-13 02:26:48.949921
+----------
+SDPB0014#shivahasasranama_rudrayamalatantra_-CGV-SDPB-0014
+Started at 2018-11-13 02:26:49.168619
+200
+Ended at 2018-11-13 02:32:08.708843
+----------
+SDPB0015#shrinagarakatha-CGV-SDPB-0015
+Started at 2018-11-13 02:32:08.724439
+200
+Ended at 2018-11-13 02:55:47.628329
+----------
+SDPB0016#dravyashodhana-CGV-SDPB-0016
+Started at 2018-11-13 02:55:47.722073
+200
+Ended at 2018-11-13 02:57:38.511303
+----------
+SDPB0017#navaricha_sundaritarpana_-CGV-SDPB-0017
+Started at 2018-11-13 02:57:38.542502
+200
+Ended at 2018-11-13 03:00:32.031978
+----------
+SDPB0018#vratarka-CGV-SDPB-0018
+Started at 2018-11-13 03:00:32.047618
+200
+Ended at 2018-11-13 03:25:57.123104
+----------
+SDPB0019#vratarka-CGV-SDPB-0019
+Started at 2018-11-13 03:25:57.701553
+200
+Ended at 2018-11-13 03:32:13.258218
+----------
+SDPB0020#vratarka-CGV-SDPB-0020
+Started at 2018-11-13 03:32:13.258218
+200
+Ended at 2018-11-13 03:37:07.188154
+----------
+SDPB0021#vratarka-CGV-SDPB-0021
+Started at 2018-11-13 03:37:08.016476
+200
+Ended at 2018-11-13 04:08:51.242373
+----------
+SDPB0022#jalashayotsarga-CGV-SDPB-0022
+Started at 2018-11-13 04:08:51.398570
+200
+Ended at 2018-11-13 04:11:35.723034
+----------
+SDPB0023#ghatadyudyapanaprayoga-CGV-SDPB-0023
+Started at 2018-11-13 04:11:35.769886
+200
+Ended at 2018-11-13 04:12:50.689150
+----------
+SDPB0024#ekadashi_udyapanam-CGV-SDPB-0024
+Started at 2018-11-13 04:12:50.767221
+200
+Ended at 2018-11-13 04:14:58.930754
+----------
+SDPB0025#vastuhavana-CGV-SDPB-0025
+Started at 2018-11-13 04:14:58.961948
+200
+Ended at 2018-11-13 04:17:04.734133
+----------
+SDPB0026#shudranan_vastushantih-CGV-SDPB-0026
+Started at 2018-11-13 04:17:04.780977
+200
+Ended at 2018-11-13 04:18:47.517550
+----------
+SDPB0027#dvadashabdottaran_suhridavalokanavidhi-CGV-SDPB-0027
+Started at 2018-11-13 04:18:47.564369
+200
+Ended at 2018-11-13 04:19:24.524946
+----------
+SDPB0028#acharyachandrikabhidhana_sarvadevapratishthapaddhati-CGV-SDPB-0028
+Started at 2018-11-13 04:19:24.556140
+200
+Ended at 2018-11-13 04:49:21.305587
+----------
+SDPB0029#dharmatattvakamalakara_purtakamalakara_-CGV-SDPB-0029
+Started at 2018-11-13 04:49:21.399284
+200
+Ended at 2018-11-13 05:10:22.108237
+----------
+SDPB0030#shudradharmatattva-CGV-SDPB-0030
+Started at 2018-11-13 05:10:22.201959
+200
+Ended at 2018-11-13 05:35:24.242715
+----------
+SDPB0031#prasadarivodyacharapratishthapaddhati_-CGV-SDPB-0031
+Started at 2018-11-13 05:35:24.336423
+200
+Ended at 2018-11-13 05:37:55.921587
+----------
+SDPB0032#shivalingavishnudurgasuryaganeshadimurtipratishthavidhi-CGV-SDPB-0032
+Started at 2018-11-13 05:37:55.952780
+200
+Ended at 2018-11-13 05:40:13.773087
+----------
+SDPB0033#mangalavratodyapana-CGV-SDPB-0033
+Started at 2018-11-13 05:40:13.835530
+200
+Ended at 2018-11-13 05:42:10.621672
+----------
+SDPB0034#kundakalpalata-CGV-SDPB-0034
+Started at 2018-11-13 05:42:10.918736
+200
+Ended at 2018-11-13 06:06:43.316619
+----------
+SDPB0035#tirthadharmaprakarana_tristhalisetu_samanyapraghattaka_-CGV-SDPB-0035
+Started at 2018-11-13 06:06:43.394742
+200
+Ended at 2018-11-13 06:22:50.621396
+----------
+SDPB0036#aturasannyasavidhi-CGV-SDPB-0036
+Started at 2018-11-13 06:22:50.715104
+200
+Ended at 2018-11-13 06:23:45.274286
+----------
+SDPB0037#vedinirmana-CGV-SDPB-0037
+Started at 2018-11-13 06:23:45.305482
+200
+Ended at 2018-11-13 06:25:02.804916
+----------
+SDPB0038#mangalayantra-CGV-SDPB-0038
+Started at 2018-11-13 06:25:02.851738
+200
+Ended at 2018-11-13 06:25:46.624437
+----------
+SDPB0040#navarnanyasavidhiprayoga-CGV-SDPB-0040
+Started at 2018-11-13 06:25:46.655681
+200
+Ended at 2018-11-13 06:27:00.512974
+----------
+SDPB0041#jyotishagrantha-CGV-SDPB-0041
+Started at 2018-11-13 06:27:00.559862
+200
+Ended at 2018-11-13 06:28:20.559354
+----------
+SDPB0042#dahadharmagrantha-CGV-SDPB-0042
+Started at 2018-11-13 06:28:20.637483
+200
+Ended at 2018-11-13 06:28:56.190727
+----------
+SDPB0043#mahaganapatistavaraja-CGV-SDPB-0043
+Started at 2018-11-13 06:28:56.238109
+200
+Ended at 2018-11-13 06:29:58.624230
+----------
+SDPB0044#kurmalakshana-CGV-SDPB-0044
+Started at 2018-11-13 06:29:58.655428
+200
+Ended at 2018-11-13 06:39:04.101183
+----------
+SDPB0045#arjunaparijata-CGV-SDPB-0045
+Started at 2018-11-13 06:39:04.210507
+200
+Ended at 2018-11-13 06:44:18.488282
+----------
+SDPB0046#kumarasambhava_vatsatikasahita-CGV-SDPB-0046
+Started at 2018-11-13 06:44:18.597636
+200
+Ended at 2018-11-13 07:07:21.401126
+----------
+SDPB0047#mahabhashya_pradipapradipodyotasahita_-CGV-SDPB-0047
+Started at 2018-11-13 07:07:21.463625
+200
+Ended at 2018-11-13 07:36:31.058578
+----------
+SDPB0048#tripurasundaripuja-CGV-SDPB-0048
+Started at 2018-11-13 07:36:31.199183
+200
+Ended at 2018-11-13 07:40:40.532632
+----------
+SDPB0049#devipuja-CGV-SDPB-0049
+Started at 2018-11-13 07:40:40.641989
+200
+Ended at 2018-11-13 07:42:45.263615
+----------
+SDPB0050#apaduddharamantra-CGV-SDPB-0050
+Started at 2018-11-13 07:42:45.326058
+200
+Ended at 2018-11-13 07:43:58.418585
+----------
+SDPB0051#batukabhairavakavacha-CGV-SDPB-0051
+Started at 2018-11-13 07:43:58.465403
+200
+Ended at 2018-11-13 07:44:55.716104
+----------
+SDPB0052#batukabhairavakavacha-CGV-SDPB-0052
+Started at 2018-11-13 07:44:55.747327
+200
+Ended at 2018-11-13 07:45:33.222948
+----------
+SDPB0053#purashcharanavidhi-CGV-SDPB-0053
+Started at 2018-11-13 07:45:33.269773
+200
+Ended at 2018-11-13 07:48:03.596690
+----------
+SDPB0054#sundaryupanishat-CGV-SDPB-0054
+Started at 2018-11-13 07:48:03.612340
+200
+Ended at 2018-11-13 07:51:32.068562
+----------
+SDPB0055#vanadurgopanishat-CGV-SDPB-0055
+Started at 2018-11-13 07:51:32.115387
+200
+Ended at 2018-11-13 07:55:23.507875
+----------
+SDPB0056#keshavadimatrikanyasa-CGV-SDPB-0056
+Started at 2018-11-13 07:55:23.523448
+200
+Ended at 2018-11-13 07:56:43.423406
+----------
+SDPB0057#gayatriyantrasthapana-CGV-SDPB-0057
+Started at 2018-11-13 07:56:43.454640
+200
+Ended at 2018-11-13 07:57:48.865648
+----------
+SDPB0058#chandikahridaya-CGV-SDPB-0058
+Started at 2018-11-13 07:57:48.881273
+200
+Ended at 2018-11-13 07:59:21.858642
+----------
+SDPB0059#mahamrityunjayajapa-CGV-SDPB-0059
+Started at 2018-11-13 07:59:21.889892
+200
+Ended at 2018-11-13 08:00:20.629784
+----------
+SDPB0060#atharvashirsha-CGV-SDPB-0060
+Started at 2018-11-13 08:00:20.676662
+200
+Ended at 2018-11-13 08:01:13.760372
+----------
+SDPB0061#saptashatimantra_navarnavamantra-CGV-SDPB-0061
+Started at 2018-11-13 08:01:13.807239
+200
+Ended at 2018-11-13 08:03:57.247473
+----------
+SDPB0062#sapindikaranavidhi-CGV-SDPB-0062
+Started at 2018-11-13 08:03:57.263095
+200
+Ended at 2018-11-13 08:15:54.769168
+----------
+SDPB0063#vishnupanjarastotra-CGV-SDPB-0063
+Started at 2018-11-13 08:15:54.847296
+200
+Ended at 2018-11-13 08:16:49.055709
+----------
+SDPB0064#ganapatistotra_japa-CGV-SDPB-0064
+Started at 2018-11-13 08:16:49.086925
+200
+Ended at 2018-11-13 08:17:28.199983
+----------
+SDPB0065#rajarajeshvaritripurasundaristotra-CGV-SDPB-0065
+Started at 2018-11-13 08:17:28.278109
+200
+Ended at 2018-11-13 08:19:38.244825
+----------
+SDPB0066#balatripurapaddhati-CGV-SDPB-0066
+Started at 2018-11-13 08:19:38.276063
+200
+Ended at 2018-11-13 08:21:20.365045
+----------
+SDPB0067#dkshinamurtimantravidhi_tantrasara_-CGV-SDPB-0067
+Started at 2018-11-13 08:21:20.396264
+200
+Ended at 2018-11-13 08:22:10.604769
+----------
+SDPB0068#vidyamalimantra-CGV-SDPB-0068
+Started at 2018-11-13 08:22:10.635991
+200
+Ended at 2018-11-13 08:22:47.467063
+----------
+SDPB0069#tripurasundarimahimnastotra-CGV-SDPB-0069
+Started at 2018-11-13 08:22:47.513930
+200
+Ended at 2018-11-13 08:23:59.239677
+----------
+SDPB0070#makarandastavaraja_rudrayamala_-CGV-SDPB-0070
+Started at 2018-11-13 08:23:59.270907
+200
+Ended at 2018-11-13 08:25:48.174294
+----------
+SDPB0071#bhairavashtaka_bhairavastotra_-CGV-SDPB-0071
+Started at 2018-11-13 08:25:48.205523
+200
+Ended at 2018-11-13 08:26:42.086624
+----------
+SDPB0072#namaparayana-CGV-SDPB-0072
+Started at 2018-11-13 08:26:42.117866
+200
+Ended at 2018-11-13 08:27:57.250859
+----------
+SDPB0073#mantraparayana-CGV-SDPB-0073
+Started at 2018-11-13 08:27:57.266479
+200
+Ended at 2018-11-13 08:28:53.615622
+----------
+SDPB0074#tripurasundaryah_pratahkrityavidhi-CGV-SDPB-0074
+Started at 2018-11-13 08:28:53.709355
+200
+Ended at 2018-11-13 08:30:50.987152
+----------
+SDPB0075#gopalasahasranamastotra-CGV-SDPB-0075
+Started at 2018-11-13 08:30:51.018374
+200
+Ended at 2018-11-13 08:32:55.594026
+----------
+SDPB0076#gurukavachastotramantra-CGV-SDPB-0076
+Started at 2018-11-13 08:32:55.625279
+200
+Ended at 2018-11-13 08:34:53.839646
+----------
+SDPB0077#hanumatpaddhati_hanumatstotra-CGV-SDPB-0077
+Started at 2018-11-13 08:34:53.886676
+200
+Ended at 2018-11-13 08:37:37.355440
+----------
+SDPB0078#matrikanighantu-CGV-SDPB-0078
+Started at 2018-11-13 08:37:37.402313
+200
+Ended at 2018-11-13 08:39:15.334854
+----------
+SDPB0079#mahatripurasundarimantra-CGV-SDPB-0079
+Started at 2018-11-13 08:39:15.350476
+200
+Ended at 2018-11-13 08:39:55.510434
+----------
+SDPB0080#panchamistavarajastotra-CGV-SDPB-0080
+Started at 2018-11-13 08:39:55.541677
+200
+Ended at 2018-11-13 08:44:50.696160
+----------
+SDPB0082#panchamistavaraja-CGV-SDPB-0082
+Started at 2018-11-13 08:44:50.727384
+200
+Ended at 2018-11-13 08:47:43.838111
+----------
+SDPB0083#parashivamahimnastotra-CGV-SDPB-0083
+Started at 2018-11-13 08:47:43.931829
+200
+Ended at 2018-11-13 08:55:22.198766
+----------
+SDPB0084#tripurasundarimahimnastava-CGV-SDPB-0084
+Started at 2018-11-13 08:55:22.245604
+200
+Ended at 2018-11-13 08:58:37.980218
+----------
+SDPB0085#tripurasundaridhyana-CGV-SDPB-0085
+Started at 2018-11-13 08:58:38.292662
+200
+Ended at 2018-11-13 08:59:59.430192
+----------
+SDPB0086#devishatatrayopadeshanam-CGV-SDPB-0086
+Started at 2018-11-13 08:59:59.477017
+200
+Ended at 2018-11-13 09:02:27.304980
+----------
+SDPB0087#devirahasyasahasranama-CGV-SDPB-0087
+Started at 2018-11-13 09:02:27.336178
+200
+Ended at 2018-11-13 09:06:52.681279
+----------
+SDPB0088#shabdakaustubha-CGV-SDPB-0088
+Started at 2018-11-13 09:06:52.728152
+200
+Ended at 2018-11-13 09:51:43.864927
+----------
+SDPB0089#bhavaprakashika-CGV-SDPB-0089
+Started at 2018-11-13 09:51:44.114870
+200
+Ended at 2018-11-13 10:29:02.055282
+----------
+SDPB0090#bhavaprakasha_bhavaprakashika_-CGV-SDPB-0090
+Started at 2018-11-13 10:29:02.414612
+200
+Ended at 2018-11-13 11:13:16.175773
+----------
+SDPB0091#bhavaprakasha_bhavaprakashika_-CGV-SDPB-0091
+Started at 2018-11-13 11:13:16.238253
+200
+Ended at 2018-11-13 11:28:27.463040
+----------
+SDPB0092#riksanhitasvastyayana-CGV-SDPB-0092
+Started at 2018-11-13 11:28:27.588035
+200
+Ended at 2018-11-13 11:31:43.357781
+----------
+SDPB0093#yagyavalkyasmriti_mitaksharasahita_acharadhyaya_-CGV-SDPB-0093
+Started at 2018-11-13 11:31:43.654671
+200
+Ended at 2018-11-13 11:50:28.245906
+----------
+SDPB0094#yagyavalkyasmriti_mitaksharasahita_vyavaharadhyaya_-CGV-SDPB-0094
+Started at 2018-11-13 11:50:28.339639
+200
+Ended at 2018-11-13 12:28:32.239845
+----------
+SDPB0095#yagyavalkyasmriti_mitaksharasahita_prayashchittadhyaya_-CGV-SDPB-0095
+Started at 2018-11-13 12:28:32.302345
+200
+Ended at 2018-11-13 13:12:57.161336
+----------
+SDPB0096#a._urdhvapundranirnayavada_b._tulasimaladharanavada_c._shankhachakradharanavada-CGV-SDPB-0096
+Started at 2018-11-13 13:12:57.270691
+200
+Ended at 2018-11-13 13:17:52.228173
+----------
+SDPB0097#nibandhasarvasva_2_adhyaya_vyavahara_-CGV-SDPB-0097
+Started at 2018-11-13 13:17:52.400050
+200
+Ended at 2018-11-13 13:22:08.178384
+----------
+SDPB0098#dharmashastragrantha-CGV-SDPB-0098
+Started at 2018-11-13 13:22:08.209604
+200
+Ended at 2018-11-13 13:26:25.234629
+----------
+SDPB0099#manusmriti-CGV-SDPB-0099
+Started at 2018-11-13 13:26:25.265907
+200
+Ended at 2018-11-13 13:59:17.697051
+----------
+SDPB0100#dttakamimansa-CGV-SDPB-0100
+Started at 2018-11-13 13:59:17.775147
+200
+Ended at 2018-11-13 14:11:17.595564
+----------
+SDPB0101#asapindasagotraputraparigrahapariksha-CGV-SDPB-0101
+Started at 2018-11-13 14:11:17.720510
+200
+Ended at 2018-11-13 14:14:47.646762
+----------
+SDPB0102#kuvalayananda-CGV-SDPB-0102
+Started at 2018-11-13 14:14:47.709206
+200
+Ended at 2018-11-13 14:28:22.622948
+----------
+SDPB0103#muhurtamartanda_martandavallabhasahita-CGV-SDPB-0103
+Started at 2018-11-13 14:28:22.919817
+200
+Ended at 2018-11-13 14:53:46.323396
+----------
+SDPB0104#champubharata-CGV-SDPB-0104
+Started at 2018-11-13 14:53:46.495272
+200
+Ended at 2018-11-13 15:15:06.912397
+----------
+SDPB0105#champuramayana-CGV-SDPB-0105
+Started at 2018-11-13 15:15:06.990527
+200
+Ended at 2018-11-13 15:26:28.472952
+----------
+SDPB0106#vishvagunadarsha-CGV-SDPB-0106
+Started at 2018-11-13 15:26:28.551023
+200
+Ended at 2018-11-13 15:37:08.823176
+----------
+SDPB0107#saptashatistotra_markandeyapurana_-CGV-SDPB-0107
+Started at 2018-11-13 15:37:09.495002
+200
+Ended at 2018-11-13 15:49:32.503677
+----------
+SDPB0108#prayogaratna-CGV-SDPB-0108
+Started at 2018-11-13 15:49:32.737998
+200
+Ended at 2018-11-13 16:13:38.162910
+----------
+SDPB0109#muhurchachintamani_pramitaksharasahita-CGV-SDPB-0109
+Started at 2018-11-13 16:13:38.287893
+200
+Ended at 2018-11-13 16:50:57.057423
+----------
+SDPB0110#alankarachandrika-CGV-SDPB-0110
+Started at 2018-11-13 16:50:57.479465
+200
+Ended at 2018-11-13 17:18:26.014780
+----------
+SDPB0111#yajurveda_chaturthashtaka-CGV-SDPB-0111
+Started at 2018-11-13 17:18:26.358480
+200
+Ended at 2018-11-13 17:21:53.771186
+----------
+SDPB0112#shighrabodha-CGV-SDPB-0112
+Started at 2018-11-13 17:21:53.802379
+200
+Ended at 2018-11-13 17:28:45.295608
+----------
+SDPB0113#vrittaratnakara-CGV-SDPB-0113
+Started at 2018-11-13 17:28:45.404931
+200
+Ended at 2018-11-13 17:30:54.215349
+----------
+SDPB0114#vrittaratnakaratika-CGV-SDPB-0114
+Started at 2018-11-13 17:30:54.262261
+200
+Ended at 2018-11-13 17:33:27.011382
+----------
+SDPB0115#maidharisamakhya_vyakhya-CGV-SDPB-0115
+Started at 2018-11-13 17:33:27.026978
+200
+Ended at 2018-11-13 17:39:57.184564
+----------
+SDPB0116#mahanataka-CGV-SDPB-0116
+Started at 2018-11-13 17:39:57.293881
+200
+Ended at 2018-11-13 17:53:26.452185
+----------
+SDPB0117#kuvalayananda-CGV-SDPB-0117
+Started at 2018-11-13 17:53:26.545892
+200
+Ended at 2018-11-13 18:08:52.302083
+----------
+SDPB0118#arthalankaralakshalakshanasangraha-CGV-SDPB-0118
+Started at 2018-11-13 18:08:52.567656
+200
+Ended at 2018-11-13 18:11:33.705558
+----------
+SDPB0119#kavyaprakashadarsha-CGV-SDPB-0119
+Started at 2018-11-13 18:11:33.783649
+200
+Ended at 2018-11-13 18:47:43.864730
+----------
+SDPB0120#meghaduta_satika-CGV-SDPB-0120
+Started at 2018-11-13 18:47:44.052224
+200
+Ended at 2018-11-13 19:05:23.709285
+----------
+SDPB0121#shrautavidhigrantha-CGV-SDPB-0121
+Started at 2018-11-13 19:05:23.912356
+200
+Ended at 2018-11-13 19:11:04.949476
+----------
+SDPB0122#vishvadeva-CGV-SDPB-0122
+Started at 2018-11-13 19:11:05.027547
+200
+Ended at 2018-11-13 19:11:50.801059
+----------
+SDPB0123#vastukarma-CGV-SDPB-0123
+Started at 2018-11-13 19:11:50.832308
+200
+Ended at 2018-11-13 19:13:28.160046
+----------
+SDPB0124#karmasamuchchaya-CGV-SDPB-0124
+Started at 2018-11-13 19:13:28.175642
+200
+Ended at 2018-11-13 19:23:42.358267
+----------
+SDPB0125#karmasamuchchaya-CGV-SDPB-0125
+Started at 2018-11-13 19:23:42.405141
+200
+Ended at 2018-11-13 19:34:54.597653
+----------
+SDPB0126#navagrahamakhaprayoga_vinayakashantipaddhati-CGV-SDPB-0126
+Started at 2018-11-13 19:34:54.691409
+200
+Ended at 2018-11-13 19:38:28.774133
+----------
+SDPB0127#suryapatha-CGV-SDPB-0127
+Started at 2018-11-13 19:38:28.805380
+200
+Ended at 2018-11-13 19:39:57.641940
+----------
+SDPB0128#garbhadhanadisimantonnayana-CGV-SDPB-0128
+Started at 2018-11-13 19:39:57.673165
+200
+Ended at 2018-11-13 19:42:37.017070
+----------
+SDPB0129#garbhadhanadisimantonnayana-CGV-SDPB-0129
+Started at 2018-11-13 19:42:37.063949
+200
+Ended at 2018-11-13 19:44:43.810597
+----------
+SDPB0130#garbhadhanadisimantonnayana-CGV-SDPB-0130
+Started at 2018-11-13 19:44:43.873070
+200
+Ended at 2018-11-13 19:46:13.132513
+----------
+SDPB0131#vivahapaddhati-CGV-SDPB-0131
+Started at 2018-11-13 19:46:13.179374
+200
+Ended at 2018-11-13 19:48:59.291799
+----------
+SDPB0132#svastivachana-CGV-SDPB-0132
+Started at 2018-11-13 19:48:59.323051
+200
+Ended at 2018-11-13 19:50:19.472897
+----------
+SDPB0133#nirukta_7_8_adhyaya_-CGV-SDPB-0133
+Started at 2018-11-13 19:50:19.504140
+200
+Ended at 2018-11-13 19:55:39.988338
+----------
+SDPB0134#a._bhutashuddhipranapratishtha_b1._asurimantra_b2._navarnavamantra_b3._saptashatikasevanamalamantra-CGV-SDPB-0134
+Started at 2018-11-13 19:55:40.035206
+File name too longa._bhutashuddhipranapratishtha_b1._asurimantra_b2._navarnavamantra_b3._saptashatikasevanamalamantra-CGV-SDPB-0134
+----------
+SDPB0135#dikpalapuja-CGV-SDPB-0135
+Started at 2018-11-13 22:51:48.999039
+200
+Ended at 2018-11-13 22:52:58.404808
+----------
+SDPB0136#dikpalapuja-CGV-SDPB-0136
+Started at 2018-11-13 22:52:58.451656
+200
+Ended at 2018-11-13 22:55:01.417716
+----------
+SDPB0137#kuprapratishtha-CGV-SDPB-0137
+Started at 2018-11-13 22:55:01.495796
+200
+Ended at 2018-11-13 22:56:39.115479
+----------
+SDPB0138#karmasamuchchayagrantha-CGV-SDPB-0138
+Started at 2018-11-13 22:56:39.193553
+200
+Ended at 2018-11-13 23:10:18.365889
+----------
+SDPB0139#vivahapaddhati_mandapamuhurta-CGV-SDPB-0139
+Started at 2018-11-13 23:10:18.428350
+200
+Ended at 2018-11-13 23:12:12.332271
+----------
+SDPB0140#vriddhishraddha-CGV-SDPB-0140
+Started at 2018-11-13 23:12:12.347899
+200
+Ended at 2018-11-13 23:15:06.302753
+----------
+SDPB0141#yagyopavita_upanayana_vidhi-CGV-SDPB-0141
+Started at 2018-11-13 23:15:06.333973
+200
+Ended at 2018-11-13 23:16:51.251199
+----------
+SDPB0142#upanayanakarma-CGV-SDPB-0142
+Started at 2018-11-13 23:16:51.719956
+200
+Ended at 2018-11-13 23:20:38.335198
+----------
+SDPB0143#panchakavidhana-CGV-SDPB-0143
+Started at 2018-11-13 23:20:38.382059
+200
+Ended at 2018-11-13 23:22:18.360357
+----------
+SDPB0144#puttalavidhi-CGV-SDPB-0144
+Started at 2018-11-13 23:22:18.375950
+200
+Ended at 2018-11-13 23:23:50.994323
+----------
+SDPB0145#shivalingapratishthavidhi-CGV-SDPB-0145
+Started at 2018-11-13 23:23:51.009918
+200
+Ended at 2018-11-13 23:25:45.427706
+----------
+SDPB0146#shantividhi-CGV-SDPB-0146
+Started at 2018-11-13 23:25:45.474588
+200
+Ended at 2018-11-13 23:30:42.463931
+----------
+SDPB0147#grihyakarma-CGV-SDPB-0147
+Started at 2018-11-13 23:30:42.495158
+200
+Ended at 2018-11-13 23:32:52.899346
+----------
+SDPB0148#grihyakarma-CGV-SDPB-0148
+Started at 2018-11-13 23:32:52.914974
+200
+Ended at 2018-11-13 23:37:28.320533
+----------
+SDPB0149#ashleshavidhana-CGV-SDPB-0149
+Started at 2018-11-13 23:37:28.351764
+200
+Ended at 2018-11-13 23:38:54.095967
+----------
+SDPB0150#ashleshavidhana-CGV-SDPB-0150
+Started at 2018-11-13 23:38:54.142842
+200
+Ended at 2018-11-13 23:40:17.120687
+----------
+SDPB0151#praudhamanorama_laghushabdaratna-CGV-SDPB-0151
+Started at 2018-11-13 23:40:17.230062
+200
+Ended at 2018-11-14 00:04:13.579411
+----------
+SDPB0152#paribhashendushekhara-CGV-SDPB-0152
+Started at 2018-11-14 00:04:13.641884
+200
+Ended at 2018-11-14 00:14:33.011095
+----------
+SDPB0153#praudhamanorama_laghushabdaratna-CGV-SDPB-0153
+Started at 2018-11-14 00:14:33.057933
+200
+Ended at 2018-11-14 00:22:03.392487
+----------
+SDPB0154#vibhaktyartha-CGV-SDPB-0154
+Started at 2018-11-14 00:22:03.470559
+200
+Ended at 2018-11-14 00:30:53.974027
+----------
+SDPB0155#paribhashendushekharakarika-CGV-SDPB-0155
+Started at 2018-11-14 00:30:54.005278
+200
+Ended at 2018-11-14 01:09:37.314534
+----------
+SDPB0156#rundamala_sadasthimala_-CGV-SDPB-0156
+Started at 2018-11-14 01:09:37.376980
+200
+Ended at 2018-11-14 01:41:10.198056
+----------
+SDPB0157#doshoddhara-CGV-SDPB-0157
+Started at 2018-11-14 01:41:10.291765
+200
+Ended at 2018-11-14 01:54:14.780939
+----------
+SDPB0158#tripathaga_paribhashendushekharatika_-CGV-SDPB-0158
+Started at 2018-11-14 01:54:14.859034
+200
+Ended at 2018-11-14 02:01:42.247383
+----------
+SDPB0159#paribhasharthamanjari_paribhashendushekharatika_-CGV-SDPB-0159
+Started at 2018-11-14 02:01:42.294260
+200
+Ended at 2018-11-14 02:20:23.206729
+----------
+SDPB0160#laghushabdaratna-CGV-SDPB-0160
+Started at 2018-11-14 02:20:23.269202
+200
+Ended at 2018-11-14 02:28:50.173924
+----------
+SDPB0161#panchikaranavivarana-CGV-SDPB-0161
+Started at 2018-11-14 02:28:50.252049
+200
+Ended at 2018-11-14 02:31:08.126788
+----------
+SDPB0162#gaudapadakarika_bhashyasahita-CGV-SDPB-0162
+Started at 2018-11-14 02:31:08.158042
+200
+Ended at 2018-11-14 02:43:03.013156
+----------
+SDPB0163#evakaravada_-CGV-SDPB-0163
+Started at 2018-11-14 02:43:03.107342
+200
+Ended at 2018-11-14 02:45:07.087796
+----------
+SDPB0164#yatidharmasangraha-CGV-SDPB-0164
+Started at 2018-11-14 02:45:07.134632
+200
+Ended at 2018-11-14 02:45:49.893604
+----------
+SDPB0165#bahvrichabrahmanopanishadbhashya_aitareyopanishadbhashya-CGV-SDPB-0165
+Started at 2018-11-14 02:45:49.924803
+200
+Ended at 2018-11-14 02:49:01.244391
+----------
+SDPB0166#mandukyopanishadbhashya-CGV-SDPB-0166
+Started at 2018-11-14 02:49:01.353760
+200
+Ended at 2018-11-14 02:51:17.712791
+----------
+SDPB0167#uttaragita-CGV-SDPB-0167
+Started at 2018-11-14 02:51:17.743989
+200
+Ended at 2018-11-14 02:54:57.088939
+----------
+SDPB0168#tarkasangrahadipikaprakasha-CGV-SDPB-0168
+Started at 2018-11-14 02:54:57.120183
+200
+Ended at 2018-11-14 03:06:10.310887
+----------
+SDPB0169#tarkasangrahadipika-CGV-SDPB-0169
+Started at 2018-11-14 03:06:10.389575
+200
+Ended at 2018-11-14 03:09:20.900599
+----------
+SDPB0170#tarkasangraha-CGV-SDPB-0170
+Started at 2018-11-14 03:09:20.931796
+200
+Ended at 2018-11-14 03:11:07.301491
+----------
+SDPB0171#tarkasangrahadipika-CGV-SDPB-0171
+Started at 2018-11-14 03:11:07.363966
+200
+Ended at 2018-11-14 03:15:43.284058
+----------
+SDPB0172#tarkaparibhasha-CGV-SDPB-0172
+Started at 2018-11-14 03:15:43.330880
+200
+Ended at 2018-11-14 03:21:11.742930
+----------
+SDPB0173#tarkaprakasha-CGV-SDPB-0173
+Started at 2018-11-14 03:21:11.961681
+200
+Ended at 2018-11-14 03:39:45.721693
+----------
+SDPB0174#trishatibhashya-CGV-SDPB-0174
+Started at 2018-11-14 03:39:45.831153
+200
+Ended at 2018-11-14 03:47:07.124213
+----------
+SDPB0175#dharmasindhusara-CGV-SDPB-0175
+Started at 2018-11-14 03:47:07.592966
+200
+Ended at 2018-11-14 04:42:49.028026
+----------
+SDPB0176#sharadatilakatika_padarthadarsha_-CGV-SDPB-0176
+Started at 2018-11-14 04:42:49.106093
+200
+Ended at 2018-11-14 06:08:56.051562
+----------
+SDPB0177#sharadatilaka-CGV-SDPB-0177
+Started at 2018-11-14 06:08:56.489010
+200
+Ended at 2018-11-14 06:13:49.375875
+----------
+SDPB0178#sharadatilakatika_padarthadarsha_patala_4_5_12_14_-CGV-SDPB-0178
+Started at 2018-11-14 06:13:49.422696
+200
+Ended at 2018-11-14 06:25:51.482628
+----------
+SDPB0179#sharadatilaka-CGV-SDPB-0179
+Started at 2018-11-14 06:25:51.560720
+200
+Ended at 2018-11-14 07:07:18.912465
+----------
+SDPB0180#panchasutranirnaya_parthivapuja-CGV-SDPB-0180
+Started at 2018-11-14 07:07:19.443747
+200
+Ended at 2018-11-14 07:08:26.063269
+----------
+SDPB0181#chalarchasthapanavidhi-CGV-SDPB-0181
+Started at 2018-11-14 07:08:26.094493
+200
+Ended at 2018-11-14 07:10:48.934860
+----------
+SDPB0182#shatachandi-sahasrachandi_vastumandapa-CGV-SDPB-0182
+Started at 2018-11-14 07:10:48.981686
+200
+Ended at 2018-11-14 07:15:44.623273
+----------
+SDPB0183#nagavidhana-CGV-SDPB-0183
+Started at 2018-11-14 07:15:44.685774
+200
+Ended at 2018-11-14 07:18:05.900670
+----------
+SDPB0184#dasharathalalitapujana-CGV-SDPB-0184
+Started at 2018-11-14 07:18:06.385049
+200
+Ended at 2018-11-14 07:21:08.701185
+----------
+SDPB0185#sthandilavedivichara_rudrakalpadruma_-CGV-SDPB-0185
+Started at 2018-11-14 07:21:08.716810
+200
+Ended at 2018-11-14 07:22:16.174645
+----------
+SDPB0186#bauddhi_yatravidhi-CGV-SDPB-0186
+Started at 2018-11-14 07:22:16.221467
+200
+Ended at 2018-11-14 07:32:42.534691
+----------
+SDPB0187#rudrapuja_rudravidhana_-CGV-SDPB-0187
+Started at 2018-11-14 07:32:42.550314
+200
+Ended at 2018-11-14 07:34:50.255158
+----------
+SDPB0188#yantrapratishtha-CGV-SDPB-0188
+Started at 2018-11-14 07:34:50.286352
+200
+Ended at 2018-11-14 07:36:04.792626
+----------
+SDPB0189#rishidevatanamanukramani-CGV-SDPB-0189
+Started at 2018-11-14 07:36:04.808250
+200
+Ended at 2018-11-14 07:37:13.124264
+----------
+SDPB0190#navagrahamakhaprayoga_laghushaunaki-CGV-SDPB-0190
+Started at 2018-11-14 07:37:13.186717
+200
+Ended at 2018-11-14 07:43:09.516164
+----------
+SDPB0191#vastudevatasthapana-CGV-SDPB-0191
+Started at 2018-11-14 07:43:09.547357
+200
+Ended at 2018-11-14 07:44:40.561456
+----------
+SDPB0192#kundapuja-CGV-SDPB-0192
+Started at 2018-11-14 07:44:40.592702
+200
+Ended at 2018-11-14 07:45:58.977611
+----------
+SDPB0193#sharngadharapaddhati-CGV-SDPB-0193
+Started at 2018-11-14 07:45:59.024436
+200
+Ended at 2018-11-14 08:14:10.799178
+----------
+SDPB0194#paribhashabhaskara-CGV-SDPB-0194
+Started at 2018-11-14 08:14:10.892875
+200
+Ended at 2018-11-14 08:18:50.118556
+----------
+SDPB0195#bhagavata_bhagavatabhavarthadipikasahita_skandha_1_-CGV-SDPB-0195
+Started at 2018-11-14 08:18:50.493504
+200
+Ended at 2018-11-14 08:41:26.361055
+----------
+SDPB0196#nyayagrantha_shiromanimulagrantha_-CGV-SDPB-0196
+Started at 2018-11-14 08:41:26.423556
+200
+Ended at 2018-11-14 08:45:00.466310
+----------
+SDPB0197#sharabhamantranyasavidhi-CGV-SDPB-0197
+Started at 2018-11-14 08:45:00.481937
+200
+Ended at 2018-11-14 08:46:55.100253
+----------
+SDPB0198#durvashtamivrata-CGV-SDPB-0198
+Started at 2018-11-14 08:46:55.381505
+200
+Ended at 2018-11-14 08:47:56.315006
+----------
+SDPB0199#gosanvardhanamanotsava_nirnaya_-CGV-SDPB-0199
+Started at 2018-11-14 08:47:56.361856
+200
+Ended at 2018-11-14 08:50:36.035708
+----------
+SDPB0200#praudhamanorama-CGV-SDPB-0200
+Started at 2018-11-14 08:50:36.098151
+200
+Ended at 2018-11-14 08:51:24.998946
+----------
+SDPB0201#paramahansasannyasavidhi-CGV-SDPB-0201
+Started at 2018-11-14 08:51:25.061394
+200
+Ended at 2018-11-14 08:52:47.453699
+----------
+SDPB0202#vyakaranagrantha-CGV-SDPB-0202
+Started at 2018-11-14 08:52:47.516195
+200
+Ended at 2018-11-14 08:54:04.063173
+----------
+SDPB0203#vishnumahimnastotra-CGV-SDPB-0203
+Started at 2018-11-14 08:54:04.109998
+200
+Ended at 2018-11-14 08:55:29.535722
+----------
+SDPB0204#shridhariyashrutivyakhya-CGV-SDPB-0204
+Started at 2018-11-14 08:55:29.598168
+200
+Ended at 2018-11-14 09:00:51.791448
+----------
+SDPB0205#dhatupatha-CGV-SDPB-0205
+Started at 2018-11-14 09:00:51.822640
+200
+Ended at 2018-11-14 09:05:04.107414
+----------
+SDPB0206#dharmashastragrantha-CGV-SDPB-0206
+Started at 2018-11-14 09:05:04.185537
+200
+Ended at 2018-11-14 09:07:19.307797
+----------
+SDPB0207#mantramahodadhi_prathamataranga_-CGV-SDPB-0207
+Started at 2018-11-14 09:07:19.432745
+200
+Ended at 2018-11-14 09:10:12.718999
+----------
+SDPB0208#amararthavivechana-CGV-SDPB-0208
+Started at 2018-11-14 09:10:12.765840
+200
+Ended at 2018-11-14 09:14:17.257835
+----------
+SDPB0209#rudrakalashasnanapaddhati-CGV-SDPB-0209
+Started at 2018-11-14 09:14:17.304653
+200
+Ended at 2018-11-14 09:16:12.250630
+----------
+SDPB0210#vyasapuja-CGV-SDPB-0210
+Started at 2018-11-14 09:16:12.297499
+200
+Ended at 2018-11-14 09:17:40.911085
+----------
+SDPB0211#pashakavali-CGV-SDPB-0211
+Started at 2018-11-14 09:17:40.942326
+200
+Ended at 2018-11-14 09:20:02.036255
+----------
+SDPB0212#ekadashaprakarairindrashreshthani-CGV-SDPB-0212
+Started at 2018-11-14 09:20:02.083146
+200
+Ended at 2018-11-14 09:21:55.046768
+----------
+SDPB0213#prashnottararatnamalika-CGV-SDPB-0213
+Started at 2018-11-14 09:21:55.109217
+200
+Ended at 2018-11-14 09:23:00.091230
+----------
+SDPB0214#duhiturdhanagrahanadhikaranirnaya_mitaksharopari_subodhinyam_-CGV-SDPB-0214
+Started at 2018-11-14 09:23:00.169297
+200
+Ended at 2018-11-14 09:25:01.912593
+----------
+SDPB0215#alankaragrantha-CGV-SDPB-0215
+Started at 2018-11-14 09:25:01.959412
+200
+Ended at 2018-11-14 09:29:16.866699
+----------
+SDPB0216#vyatipatavrata-CGV-SDPB-0216
+Started at 2018-11-14 09:29:16.991664
+200
+Ended at 2018-11-14 09:31:01.575999
+----------
+SDPB0217#batukabhairavapanjara-CGV-SDPB-0217
+Started at 2018-11-14 09:31:01.607192
+200
+Ended at 2018-11-14 09:32:08.434790
+----------
+SDPB0218#balasahasranamastotra-CGV-SDPB-0218
+Started at 2018-11-14 09:32:08.575361
+200
+Ended at 2018-11-14 09:34:17.243768
+----------
+SDPB0219#chandipujavidhi-CGV-SDPB-0219
+Started at 2018-11-14 09:34:17.274961
+200
+Ended at 2018-11-14 09:36:51.098668
+----------
+SDPB0220#batukabhairavastotra-CGV-SDPB-0220
+Started at 2018-11-14 09:36:51.161347
+200
+Ended at 2018-11-14 09:39:01.574649
+----------
+SDPB0221#aparadhastotra-CGV-SDPB-0221
+Started at 2018-11-14 09:39:01.605842
+200
+Ended at 2018-11-14 09:40:39.922331
+----------
+SDPB0222#ramakavacha-CGV-SDPB-0222
+Started at 2018-11-14 09:40:39.984773
+200
+Ended at 2018-11-14 09:41:50.546094
+----------
+SDPB0223#ramakavacha-CGV-SDPB-0223
+Started at 2018-11-14 09:41:50.592932
+200
+Ended at 2018-11-14 09:42:45.103984
+----------
+SDPB0224#rasamanjari-CGV-SDPB-0224
+Started at 2018-11-14 09:42:45.135178
+200
+Ended at 2018-11-14 09:44:21.999010
+----------
+SDPB0225#gorshabodha-CGV-SDPB-0225
+Started at 2018-11-14 09:44:22.030272
+200
+Ended at 2018-11-14 09:48:20.740198
+----------
+SDPB0227#jyotishagrantha-CGV-SDPB-0227
+Started at 2018-11-14 09:48:20.849520
+200
+Ended at 2018-11-14 09:49:17.227260
+----------
+SDPB0228#tantragrantha-CGV-SDPB-0228
+Started at 2018-11-14 09:49:17.274082
+200
+Ended at 2018-11-14 09:50:38.557974
+----------
+SDPB0229#dashahanityapindakarika-CGV-SDPB-0229
+Started at 2018-11-14 09:50:38.573598
+200
+Ended at 2018-11-14 09:51:35.648070
+----------
+SDPB0230#bhavanibhujangaprayatastotra-CGV-SDPB-0230
+Started at 2018-11-14 09:51:35.694953
+200
+Ended at 2018-11-14 09:52:34.185413
+----------
+SDPB0231#a._sadashivastotra_b._tripurastotra-CGV-SDPB-0231
+Started at 2018-11-14 09:52:34.201024
+200
+Ended at 2018-11-14 09:54:00.773901
+----------
+SDPB0232#vaidikagrantha-CGV-SDPB-0232
+Started at 2018-11-14 09:54:00.805152
+200
+Ended at 2018-11-14 09:55:32.991162
+----------
+SDPB0233#pithapujana-CGV-SDPB-0233
+Started at 2018-11-14 09:55:33.022385
+200
+Ended at 2018-11-14 09:56:28.938871
+----------
+SDPB0234#gopalakrishnamahamantra-CGV-SDPB-0234
+Started at 2018-11-14 09:56:28.985748
+200
+Ended at 2018-11-14 09:57:16.975531
+----------
+SDPB0235#a._saptashlokigita_b._garudadhyana-CGV-SDPB-0235
+Started at 2018-11-14 09:57:17.006783
+200
+Ended at 2018-11-14 09:57:51.466324
+----------
+SDPB0236#vishnuyagaprayoga-CGV-SDPB-0236
+Started at 2018-11-14 09:57:51.497574
+200
+Ended at 2018-11-14 10:00:29.665116
+----------
+SDPB0237#vishnuyagaprayoga-CGV-SDPB-0237
+Started at 2018-11-14 10:00:29.805716
+200
+Ended at 2018-11-14 10:03:35.133255
+----------
+SDPB0238#chandogyopanishadbhashya-CGV-SDPB-0238
+Started at 2018-11-14 10:03:35.164489
+200
+Ended at 2018-11-14 10:17:11.401759
+----------
+SDPB0239#chandogyopanishadbhashya_prapathaka_68_-CGV-SDPB-0239
+Started at 2018-11-14 10:17:11.542365
+200
+Ended at 2018-11-14 10:28:41.971714
+----------
+SDPB0240#madhaviyavedarthaprakasha_kanakabhashya_yajurvedasanhitabhashya_kanda_4_prapathaka_5.-CGV-SDPB-0240
+Started at 2018-11-14 10:28:42.471726
+200
+Ended at 2018-11-14 10:36:46.807129
+----------
+SDPB0241#panchaksharamantra-CGV-SDPB-0241
+Started at 2018-11-14 10:36:46.932178
+200
+Ended at 2018-11-14 10:38:48.864007
+----------
+SDPB0242#rudravidhana-CGV-SDPB-0242
+Started at 2018-11-14 10:38:48.895262
+200
+Ended at 2018-11-14 10:40:35.618525
+----------
+SDPB0243#maharudravidhi-CGV-SDPB-0243
+Started at 2018-11-14 10:40:35.665396
+200
+Ended at 2018-11-14 10:49:15.998386
+----------
+SDPB0244#shatachandividhana-CGV-SDPB-0244
+Started at 2018-11-14 10:49:16.170212
+200
+Ended at 2018-11-14 10:54:04.866050
+----------
+SDPB0245#ganeshasahasranama-CGV-SDPB-0245
+Started at 2018-11-14 10:54:04.912917
+200
+Ended at 2018-11-14 10:56:34.202710
+----------
+SDPB0246#namnan_shatatraya-CGV-SDPB-0246
+Started at 2018-11-14 10:56:34.249585
+200
+Ended at 2018-11-14 10:58:44.904287
+----------
+SDPB0247#lalitadevirahasyasahasranamastotra-CGV-SDPB-0247
+Started at 2018-11-14 10:58:44.951180
+200
+Ended at 2018-11-14 11:02:54.780317
+----------
+SDPB0248#devistuti_shilapriya_-CGV-SDPB-0248
+Started at 2018-11-14 11:02:54.811512
+200
+Ended at 2018-11-14 11:03:46.287785
+----------
+SDPB0249#saubhagyaratnakara-CGV-SDPB-0249
+Started at 2018-11-14 11:03:46.318978
+200
+Ended at 2018-11-14 12:16:49.779453
+----------
+SDPB0250#siddhibhairavamantravidhi_anyavidhayah-CGV-SDPB-0250
+Started at 2018-11-14 12:16:49.920077
+200
+Ended at 2018-11-14 12:18:16.819303
+----------
+SDPB0251#shrichakra-CGV-SDPB-0251
+Started at 2018-11-14 12:18:16.881787
+200
+Ended at 2018-11-14 12:19:24.857509
+----------
+SDPB0252#vidyatika-CGV-SDPB-0252
+Started at 2018-11-14 12:19:24.998257
+200
+Ended at 2018-11-14 12:21:02.726603
+----------
+SDPB0253#vidyapaddhati-CGV-SDPB-0253
+Started at 2018-11-14 12:21:02.789080
+200
+Ended at 2018-11-14 12:22:22.063128
+----------
+SDPB0254#shrichakrarchanastotra-CGV-SDPB-0254
+Started at 2018-11-14 12:22:22.094376
+200
+Ended at 2018-11-14 12:24:04.403648
+----------
+SDPB0255#shripuravarnanasaptadhyayi-CGV-SDPB-0255
+Started at 2018-11-14 12:24:04.434894
+200
+Ended at 2018-11-14 12:29:16.127242
+----------
+SDPB0256#shrichakrarchanastotra_shripurarchana-CGV-SDPB-0256
+Started at 2018-11-14 12:29:16.236589
+200
+Ended at 2018-11-14 12:31:50.237646
+----------
+SDPB0257#namaparayana-CGV-SDPB-0257
+Started at 2018-11-14 12:31:50.268870
+200
+Ended at 2018-11-14 12:34:33.660952
+----------
+SDPB0258#kundodyota-CGV-SDPB-0258
+Started at 2018-11-14 12:34:33.692182
+200
+Ended at 2018-11-14 12:39:01.860879
+----------
+SDPB0259#bhagavantabhaskara_pratishthamayukha_-CGV-SDPB-0259
+Started at 2018-11-14 12:39:02.173507
+200
+Ended at 2018-11-14 12:46:21.563627
+----------
+SDPB0260#padmakundaprakara-CGV-SDPB-0260
+Started at 2018-11-14 12:46:21.626134
+200
+Ended at 2018-11-14 12:48:10.356613
+----------
+SDPB0261#shivakavacha-CGV-SDPB-0261
+Started at 2018-11-14 12:48:10.387867
+200
+Ended at 2018-11-14 12:50:22.917660
+----------
+SDPB0262#chitrasenadimantra-CGV-SDPB-0262
+Started at 2018-11-14 12:50:22.964508
+200
+Ended at 2018-11-14 12:51:07.817164
+----------
+SDPB0263#vishvavasumantra-CGV-SDPB-0263
+Started at 2018-11-14 12:51:07.879701
+200
+Ended at 2018-11-14 12:51:43.714520
+----------
+SDPB0264#mahalakshmipujana-CGV-SDPB-0264
+Started at 2018-11-14 12:51:43.730144
+200
+Ended at 2018-11-14 12:52:23.142560
+----------
+SDPB0265#padvakyaratnakara-CGV-SDPB-0265
+Started at 2018-11-14 12:52:23.173784
+200
+Ended at 2018-11-14 13:01:07.917849
+----------
+SDPB0266#dayabhaga-CGV-SDPB-0266
+Started at 2018-11-14 13:01:07.995920
+200
+Ended at 2018-11-14 13:14:43.823262
+----------
+SDPB0267#mantrabhagavatavyakhya-CGV-SDPB-0267
+Started at 2018-11-14 13:14:43.932582
+200
+Ended at 2018-11-14 13:22:06.147614
+----------
+SDPB0268#shabdarthasaramanjari-CGV-SDPB-0268
+Started at 2018-11-14 13:22:06.210074
+200
+Ended at 2018-11-14 13:25:11.080980
+----------
+SDPB0269#shodasha_nitya_tantra-CGV-SDPB-0269
+Started at 2018-11-14 13:25:11.143471
+200
+Ended at 2018-11-14 13:38:48.223221
+----------
+SDPB0270#chitprama-CGV-SDPB-0270
+Started at 2018-11-14 13:38:48.864052
+200
+Ended at 2018-11-14 13:51:54.141266
+----------
+SDPB0271#shaivapamarjanastotra-CGV-SDPB-0271
+Started at 2018-11-14 13:51:54.234979
+200
+Ended at 2018-11-14 13:53:27.957049
+----------
+SDPB0272#saptarshipujanadikarma-CGV-SDPB-0272
+Started at 2018-11-14 13:53:27.988280
+200
+Ended at 2018-11-14 13:57:55.532244
+----------
+SDPB0273#kavyaprakasha-CGV-SDPB-0273
+Started at 2018-11-14 13:57:55.594696
+200
+Ended at 2018-11-14 14:18:40.630439
+----------
+SDPB0274#mahaviracharita-CGV-SDPB-0274
+Started at 2018-11-14 14:18:40.817944
+200
+Ended at 2018-11-14 14:29:18.380863
+----------
+SDPB0275#ashleshashanti-CGV-SDPB-0275
+Started at 2018-11-14 14:29:18.490208
+200
+Ended at 2018-11-14 14:30:46.161111
+----------
+SDPB0276#shatachandividhana-CGV-SDPB-0276
+Started at 2018-11-14 14:30:46.207937
+200
+Ended at 2018-11-14 14:37:32.480295
+----------
+SDPB0277#taittiriyopanishad_anandavalli_-CGV-SDPB-0277
+Started at 2018-11-14 14:37:32.808480
+200
+Ended at 2018-11-14 14:38:39.322374
+----------
+SDPB0278#amarakoshatika-CGV-SDPB-0278
+Started at 2018-11-14 14:38:39.462944
+200
+Ended at 2018-11-14 14:41:17.015822
+----------
+SDPB0279#vrittaratnakaratika-CGV-SDPB-0279
+Started at 2018-11-14 14:41:17.062670
+200
+Ended at 2018-11-14 14:45:18.007044
+----------
+SDPB0280#mulashanti-CGV-SDPB-0280
+Started at 2018-11-14 14:45:18.022621
+200
+Ended at 2018-11-14 14:49:41.814297
+----------
+SDPB0281#kumaripujanavidhi-CGV-SDPB-0281
+Started at 2018-11-14 14:49:41.861173
+200
+Ended at 2018-11-14 14:50:40.543272
+----------
+SDPB0282#vatasavitrivrata-CGV-SDPB-0282
+Started at 2018-11-14 14:50:40.590340
+200
+Ended at 2018-11-14 14:53:37.779056
+----------
+SDPB0283#tapatyah_namani-CGV-SDPB-0283
+Started at 2018-11-14 14:53:37.841517
+200
+Ended at 2018-11-14 14:54:34.601208
+----------
+SDPB0284#somavaravratodyapanavidhi-CGV-SDPB-0284
+Started at 2018-11-14 14:54:34.648098
+200
+Ended at 2018-11-14 14:55:25.562879
+----------
+SDPB0285#aradhanaprayoga-CGV-SDPB-0285
+Started at 2018-11-14 14:55:25.594078
+200
+Ended at 2018-11-14 14:56:26.167469
+----------
+SDPB0286#gurusnanamandapavidhi-CGV-SDPB-0286
+Started at 2018-11-14 14:56:26.198661
+200
+Ended at 2018-11-14 14:58:56.458642
+----------
+SDPB0287#somavaravrataprayoga-CGV-SDPB-0287
+Started at 2018-11-14 14:58:56.505463
+200
+Ended at 2018-11-14 15:00:26.944857
+----------
+SDPB0288#vyakaranagrantha-CGV-SDPB-0288
+Started at 2018-11-14 15:00:26.991703
+200
+Ended at 2018-11-14 15:01:12.843553
+----------
+SDPB0289#shatachandisankalpa-CGV-SDPB-0289
+Started at 2018-11-14 15:01:12.874751
+200
+Ended at 2018-11-14 15:02:11.994271
+----------
+SDPB0290#shadaksharavarana-CGV-SDPB-0290
+Started at 2018-11-14 15:02:12.025465
+200
+Ended at 2018-11-14 15:03:10.991421
+----------
+SDPB0291#mahadhvajaropaprakara-CGV-SDPB-0291
+Started at 2018-11-14 15:03:11.038247
+200
+Ended at 2018-11-14 15:04:17.692805
+----------
+SDPB0292#shivaparvatipujavidhi-CGV-SDPB-0292
+Started at 2018-11-14 15:04:17.724322
+200
+Ended at 2018-11-14 15:06:12.619411
+----------
+SDPB0293#dhvajasthapanavidhi-CGV-SDPB-0293
+Started at 2018-11-14 15:06:12.650631
+200
+Ended at 2018-11-14 15:07:28.678549
+----------
+SDPB0294#bhattadipika-CGV-SDPB-0294
+Started at 2018-11-14 15:07:28.709745
+200
+Ended at 2018-11-14 15:15:37.653221
+----------
+SDPB0295#bhattadipika-CGV-SDPB-0295
+Started at 2018-11-14 15:15:37.715670
+200
+Ended at 2018-11-14 15:26:11.934800
+----------
+SDPB0296#bhattadipika-CGV-SDPB-0296
+Started at 2018-11-14 15:26:11.997312
+200
+Ended at 2018-11-14 15:41:02.288874
+----------
+SDPB0297#bhattadipika-CGV-SDPB-0297
+Started at 2018-11-14 15:41:02.382570
+200
+Ended at 2018-11-14 16:01:28.917319
+----------
+SDPB0298#bhattadipika-CGV-SDPB-0298
+Started at 2018-11-14 16:01:28.995393
+200
+Ended at 2018-11-14 16:06:04.248147
+----------
+SDPB0299#bhattadipika-CGV-SDPB-0299
+Started at 2018-11-14 16:06:04.294994
+200
+Ended at 2018-11-14 16:10:42.202775
+----------
+SDPB0300#bhattadipika-CGV-SDPB-0300
+Started at 2018-11-14 16:10:42.437259
+200
+Ended at 2018-11-14 16:25:52.257497
+----------
+SDPB0301#bhattadipika-CGV-SDPB-0301
+Started at 2018-11-14 16:25:52.398065
+200
+Ended at 2018-11-14 16:35:41.240405
+----------
+SDPB0302#bhattadipika-CGV-SDPB-0302
+Started at 2018-11-14 16:35:41.287309
+200
+Ended at 2018-11-14 16:45:30.950234
+----------
+SDPB0303#kanakadharastotra-CGV-SDPB-0303
+Started at 2018-11-14 16:45:31.028326
+200
+Ended at 2018-11-14 16:46:31.525641
+----------
+SDPB0304#mundakopanishad-CGV-SDPB-0304
+Started at 2018-11-14 16:46:31.666257
+200
+Ended at 2018-11-14 16:48:22.044830
+----------
+SDPB0305#kaivalyopanishad-CGV-SDPB-0305
+Started at 2018-11-14 16:48:22.091706
+200
+Ended at 2018-11-14 16:49:21.962535
+----------
+SDPB0306#kartaviryarjunavidhi-CGV-SDPB-0306
+Started at 2018-11-14 16:49:22.009362
+200
+Ended at 2018-11-14 16:52:32.194437
+----------
+SDPB0307#brahmaproktastava-CGV-SDPB-0307
+Started at 2018-11-14 16:52:32.241313
+200
+Ended at 2018-11-14 16:53:34.140040
+----------
+SDPB0308#dikshakala-CGV-SDPB-0308
+Started at 2018-11-14 16:53:34.186868
+200
+Ended at 2018-11-14 16:55:30.854704
+----------
+SDPB0309#shrinarayanopanishad-CGV-SDPB-0309
+Started at 2018-11-14 16:55:30.932919
+200
+Ended at 2018-11-14 16:56:22.179669
+----------
+SDPB0310#sankhyasutravyakhya-CGV-SDPB-0310
+Started at 2018-11-14 16:56:22.210865
+200
+Ended at 2018-11-14 16:58:44.017805
+----------
+SDPB0311#yatisanskaravidhi-CGV-SDPB-0311
+Started at 2018-11-14 16:58:44.033479
+200
+Ended at 2018-11-14 17:06:47.219609
+----------
+SDPB0312#uposhanavidhi-CGV-SDPB-0312
+Started at 2018-11-14 17:06:47.485179
+200
+Ended at 2018-11-14 17:09:16.344671
+----------
+SDPB0313#yagyavaibhavakhanda-CGV-SDPB-0313
+Started at 2018-11-14 17:09:16.391514
+200
+Ended at 2018-11-14 17:10:27.796671
+----------
+SDPB0314#yagyavaibhavakhanda-CGV-SDPB-0314
+Started at 2018-11-14 17:10:27.827920
+200
+Ended at 2018-11-14 17:12:01.080202
+----------
+SDPB0315#kshaurasnanavidhi-CGV-SDPB-0315
+Started at 2018-11-14 17:12:01.111394
+200
+Ended at 2018-11-14 17:13:21.581053
+----------
+SDPB0316#aturasannyasavidhi-CGV-SDPB-0316
+Started at 2018-11-14 17:13:21.612256
+200
+Ended at 2018-11-14 17:14:43.988496
+----------
+SDPB0317#bhattadipika-CGV-SDPB-0317
+Started at 2018-11-14 17:14:44.035315
+200
+Ended at 2018-11-14 17:20:52.510413
+----------
+SDPB0318#nirukta_uttarardha-CGV-SDPB-0318
+Started at 2018-11-14 17:20:52.541633
+200
+Ended at 2018-11-14 17:30:09.371201
+----------
+SDPB0319#siddhantachandrika-CGV-SDPB-0319
+Started at 2018-11-14 17:30:09.558724
+200
+Ended at 2018-11-14 17:31:30.310400
+----------
+SDPB0320#bhattadipika-CGV-SDPB-0320
+Started at 2018-11-14 17:31:30.341625
+200
+Ended at 2018-11-14 17:40:03.995781
+----------
+SDPB0321#abhanashata-CGV-SDPB-0321
+Started at 2018-11-14 17:40:04.167661
+200
+Ended at 2018-11-14 17:42:18.142606
+----------
+SDPB0322#vivekasindhu-CGV-SDPB-0322
+Started at 2018-11-14 17:42:18.173805
+200
+Ended at 2018-11-14 17:50:34.828834
+----------
+SDPB0323#aturasannyasavidhi-CGV-SDPB-0323
+Started at 2018-11-14 17:50:34.953777
+200
+Ended at 2018-11-14 17:52:08.033357
+----------
+SDPB0324#vyasapujapaddhati-CGV-SDPB-0324
+Started at 2018-11-14 17:52:08.064619
+200
+Ended at 2018-11-14 17:54:17.244565
+----------
+SDPB0325#panchikarana-CGV-SDPB-0325
+Started at 2018-11-14 17:54:17.275768
+200
+Ended at 2018-11-14 18:01:32.995824
+----------
+SDPB0326#bhagavadgita-CGV-SDPB-0326
+Started at 2018-11-14 18:01:33.089517
+200
+Ended at 2018-11-14 18:12:13.442661
+----------
+SDPB0327#bhattadipika-CGV-SDPB-0327
+Started at 2018-11-14 18:12:13.567621
+200
+Ended at 2018-11-14 18:40:20.285690
+----------
+SDPB0328#ahnikakalpita-CGV-SDPB-0328
+Started at 2018-11-14 18:40:20.582582
+200
+Ended at 2018-11-14 18:43:56.547923
+----------
+SDPB0329#vaitaranimahatmyavratodyapana-CGV-SDPB-0329
+Started at 2018-11-14 18:43:56.610476
+200
+Ended at 2018-11-14 18:45:51.586084
+----------
+SDPB0330#aparadhavatasavitrivrata-CGV-SDPB-0330
+Started at 2018-11-14 18:45:51.632941
+200
+Ended at 2018-11-14 18:46:50.331456
+----------
+SDPB0331#arghyadanavidhi-CGV-SDPB-0331
+Started at 2018-11-14 18:46:50.362691
+200
+Ended at 2018-11-14 18:48:31.883198
+----------
+SDPB0332#rasakrida-CGV-SDPB-0332
+Started at 2018-11-14 18:48:32.398848
+200
+Ended at 2018-11-14 18:50:01.168940
+----------
+SDPB0333#avarna_archana-CGV-SDPB-0333
+Started at 2018-11-14 18:50:01.231410
+200
+Ended at 2018-11-14 18:54:28.235147
+----------
+SDPB0334#ekadashivrata-CGV-SDPB-0334
+Started at 2018-11-14 18:54:28.313238
+200
+Ended at 2018-11-14 18:55:58.955479
+----------
+SDPB0335#shodasharachakrakarika-CGV-SDPB-0335
+Started at 2018-11-14 18:55:59.002304
+200
+Ended at 2018-11-14 18:56:59.261485
+----------
+SDPB0336#vedipitharachana-CGV-SDPB-0336
+Started at 2018-11-14 18:56:59.292709
+200
+Ended at 2018-11-14 18:57:42.490862
+----------
+SDPB0337#adityahridaya-CGV-SDPB-0337
+Started at 2018-11-14 18:57:42.537679
+200
+Ended at 2018-11-14 19:01:23.229039
+----------
+SDPB0338#shaligramapariksha-CGV-SDPB-0338
+Started at 2018-11-14 19:01:23.322776
+200
+Ended at 2018-11-14 19:02:25.150921
+----------
+SDPB0339#adityahridaya-CGV-SDPB-0339
+Started at 2018-11-14 19:02:25.197743
+200
+Ended at 2018-11-14 19:04:39.095888
+----------
+SDPB0340#savitrivrata-CGV-SDPB-0340
+Started at 2018-11-14 19:04:39.158390
+200
+Ended at 2018-11-14 19:05:40.252477
+----------
+SDPB0341#manyusuktavidhana-CGV-SDPB-0341
+Started at 2018-11-14 19:05:40.283671
+200
+Ended at 2018-11-14 19:07:15.744225
+----------
+SDPB0342#somavaravrata-CGV-SDPB-0342
+Started at 2018-11-14 19:07:15.837998
+200
+Ended at 2018-11-14 19:08:32.005498
+----------
+SDPB0343#panchayudha-CGV-SDPB-0343
+Started at 2018-11-14 19:08:32.036712
+200
+Ended at 2018-11-14 19:09:01.649815
+----------
+SDPB0344#tapitriratravrata-CGV-SDPB-0344
+Started at 2018-11-14 19:09:01.681007
+200
+Ended at 2018-11-14 19:10:06.882002
+----------
+SDPB0345#nagapanchamivrata-CGV-SDPB-0345
+Started at 2018-11-14 19:10:06.913195
+200
+Ended at 2018-11-14 19:11:47.755011
+----------
+SDPB0346#sauramandala-CGV-SDPB-0346
+Started at 2018-11-14 19:11:47.833079
+200
+Ended at 2018-11-14 19:12:17.340521
+----------
+SDPB0347#hastadharavrata-CGV-SDPB-0347
+Started at 2018-11-14 19:12:17.434232
+200
+Ended at 2018-11-14 19:12:55.128050
+----------
+SDPB0348#svastivachana-CGV-SDPB-0348
+Started at 2018-11-14 19:12:55.268668
+200
+Ended at 2018-11-14 19:14:15.331234
+----------
+SDPB0349#shivaratrivrata_lingapurana_-CGV-SDPB-0349
+Started at 2018-11-14 19:14:15.518728
+200
+Ended at 2018-11-14 19:15:27.907040
+----------
+SDPB0350#yatimarane_gartaropanavidhi-CGV-SDPB-0350
+Started at 2018-11-14 19:15:27.938263
+200
+Ended at 2018-11-14 19:16:46.609292
+----------
+SDPB0351#bhattadipika-CGV-SDPB-0351
+Started at 2018-11-14 19:16:46.671762
+200
+Ended at 2018-11-14 19:30:06.823409
+----------
+SDPB0352#dipapuja-CGV-SDPB-0352
+Started at 2018-11-14 19:30:06.885901
+200
+Ended at 2018-11-14 19:31:36.834894
+----------
+SDPB0353#vyatipatakatha-CGV-SDPB-0353
+Started at 2018-11-14 19:31:36.866120
+200
+Ended at 2018-11-14 19:33:08.008367
+----------
+SDPB0354#anantachaturdashivratodyapanavidhi-CGV-SDPB-0354
+Started at 2018-11-14 19:33:08.055185
+200
+Ended at 2018-11-14 19:34:21.566747
+----------
+SDPB0355#vastukarma-CGV-SDPB-0355
+Started at 2018-11-14 19:34:22.090773
+200
+Ended at 2018-11-14 19:37:22.414344
+----------
+SDPB0356#snanavidhi-CGV-SDPB-0356
+Started at 2018-11-14 19:37:22.554968
+200
+Ended at 2018-11-14 19:38:43.560790
+----------
+SDPB0357#mayaparadhastotra-CGV-SDPB-0357
+Started at 2018-11-14 19:38:43.591984
+200
+Ended at 2018-11-14 19:39:35.726260
+----------
+SDPB0358#govindashtaka-CGV-SDPB-0358
+Started at 2018-11-14 19:39:35.757460
+200
+Ended at 2018-11-14 19:40:59.792916
+----------
+SDPB0359#tapitriratravrata-CGV-SDPB-0359
+Started at 2018-11-14 19:40:59.870985
+200
+Ended at 2018-11-14 19:42:04.288194
+----------
+SDPB0360#gangasahasranama-CGV-SDPB-0360
+Started at 2018-11-14 19:42:04.350657
+200
+Ended at 2018-11-14 19:46:42.685837
+----------
+SDPB0361#muhurtakalpadruma-CGV-SDPB-0361
+Started at 2018-11-14 19:46:42.888905
+200
+Ended at 2018-11-14 19:52:49.570068
+----------
+SDPB0362#manekatharini_puja-CGV-SDPB-0362
+Started at 2018-11-14 19:52:49.616943
+200
+Ended at 2018-11-14 19:54:57.158698
+----------
+SDPB0363#nadipariksha-CGV-SDPB-0363
+Started at 2018-11-14 19:54:57.189965
+200
+Ended at 2018-11-14 19:57:31.635085
+----------
+SDPB0364#saroddhara-CGV-SDPB-0364
+Started at 2018-11-14 19:57:31.791312
+200
+Ended at 2018-11-14 20:00:28.743679
+----------
+SDPB0366#batukabalidana-CGV-SDPB-0366
+Started at 2018-11-14 20:00:28.790527
+200
+Ended at 2018-11-14 20:01:06.308663
+----------
+SDPB0367#shripanchaksharamantravidhi-CGV-SDPB-0367
+Started at 2018-11-14 20:01:06.402471
+200
+Ended at 2018-11-14 20:02:30.334682
+----------
+SDPB0368#shivapanjara-CGV-SDPB-0368
+Started at 2018-11-14 20:02:30.381557
+200
+Ended at 2018-11-14 20:04:08.112825
+----------
+SDPB0369#hariharatmakastava-CGV-SDPB-0369
+Started at 2018-11-14 20:04:08.159700
+200
+Ended at 2018-11-14 20:05:34.115988
+----------
+SDPB0370#vishnunamasahasra-CGV-SDPB-0370
+Started at 2018-11-14 20:05:34.131610
+200
+Ended at 2018-11-14 20:09:00.381151
+----------
+SDPB0370#vishnunamasahasra-CGV-SDPB-0370
+Started at 2018-11-14 20:09:00.396752
+200
+Ended at 2018-11-14 20:11:42.189079
+----------
+SDPB0371#shrimahaganapatistotra-CGV-SDPB-0371
+Started at 2018-11-14 20:11:42.251571
+200
+Ended at 2018-11-14 20:12:50.553843
+----------
+SDPB0372#manyusukta-CGV-SDPB-0372
+Started at 2018-11-14 20:12:50.647557
+200
+Ended at 2018-11-14 20:13:31.485051
+----------
+SDPB0373#brihaspatipuja-CGV-SDPB-0373
+Started at 2018-11-14 20:13:31.500676
+200
+Ended at 2018-11-14 20:14:47.181484
+----------
+SDPB0374#anantavratapuja-CGV-SDPB-0374
+Started at 2018-11-14 20:14:47.197109
+200
+Ended at 2018-11-14 20:15:37.314903
+----------
+SDPB0375#ganapatistavaraja-CGV-SDPB-0375
+Started at 2018-11-14 20:15:37.393041
+200
+Ended at 2018-11-14 20:16:23.072187
+----------
+SDPB0376#mandalapuja-CGV-SDPB-0376
+Started at 2018-11-14 20:16:23.103437
+200
+Ended at 2018-11-14 20:17:32.336389
+----------
+SDPB0377#anantavratakatha-CGV-SDPB-0377
+Started at 2018-11-14 20:17:32.367649
+200
+Ended at 2018-11-14 20:19:23.104589
+----------
+SDPB0378#lalitapujanavidhi-CGV-SDPB-0378
+Started at 2018-11-14 20:19:23.151408
+200
+Ended at 2018-11-14 20:21:51.150383
+----------
+SDPB0379#jaladhenudanavidhi-CGV-SDPB-0379
+Started at 2018-11-14 20:21:51.165968
+200
+Ended at 2018-11-14 20:22:35.000372
+----------
+SDPB0380#mahishidanavidhi-CGV-SDPB-0380
+Started at 2018-11-14 20:22:35.062822
+200
+Ended at 2018-11-14 20:23:25.757509
+----------
+SDPB0381#mahavishnuprityarthaprayoga-CGV-SDPB-0381
+Started at 2018-11-14 20:23:25.804356
+200
+Ended at 2018-11-14 20:24:45.880836
+----------
+SDPB0382#chandrayanavrata-CGV-SDPB-0382
+Started at 2018-11-14 20:24:45.927723
+200
+Ended at 2018-11-14 20:26:42.247803
+----------
+SDPB0383#shantikavidhi-CGV-SDPB-0383
+Started at 2018-11-14 20:26:42.341509
+200
+Ended at 2018-11-14 20:30:54.335628
+----------
+SDPB0384#janmashtamivrata-CGV-SDPB-0384
+Started at 2018-11-14 20:30:54.398093
+200
+Ended at 2018-11-14 20:36:26.366828
+----------
+SDPB0385#vishnusahasradivyanama-CGV-SDPB-0385
+Started at 2018-11-14 20:36:26.413704
+200
+Ended at 2018-11-14 20:39:44.981035
+----------
+SDPB0386#nilodvahapaddhati-CGV-SDPB-0386
+Started at 2018-11-14 20:39:44.996658
+200
+Ended at 2018-11-14 20:42:53.375562
+----------
+SDPB0387#bhaumapatha-CGV-SDPB-0387
+Started at 2018-11-14 20:42:53.406834
+200
+Ended at 2018-11-14 20:44:28.057628
+----------
+SDPB0388#shaligramamahima-CGV-SDPB-0388
+Started at 2018-11-14 20:44:28.073250
+200
+Ended at 2018-11-14 20:49:19.867723
+----------
+SDPB0389#abhayaikadashivratodyapanavidhi-CGV-SDPB-0389
+Started at 2018-11-14 20:49:19.945850
+200
+Ended at 2018-11-14 20:51:21.755384
+----------
+SDPB0390#mahavarunapuja-CGV-SDPB-0390
+Started at 2018-11-14 20:51:21.771011
+200
+Ended at 2018-11-14 20:52:11.026267
+----------
+SDPB0391#paushisaphalaikadashikatha-CGV-SDPB-0391
+Started at 2018-11-14 20:52:11.041891
+200
+Ended at 2018-11-14 20:53:41.019855
+----------
+SDPB0392#mahalayashraddha-CGV-SDPB-0392
+Started at 2018-11-14 20:53:41.129232
+200
+Ended at 2018-11-14 20:56:31.849239
+----------
+SDPB0393#bhaumapuja-CGV-SDPB-0393
+Started at 2018-11-14 20:56:31.927364
+200
+Ended at 2018-11-14 20:57:53.638035
+----------
+SDPB0394#tvaritarudravidhi-CGV-SDPB-0394
+Started at 2018-11-14 20:57:53.669284
+200
+Ended at 2018-11-14 20:59:04.691766
+----------
+SDPB0395#a._gopujavidhi_b._sangrahanirogadanavidhi-CGV-SDPB-0395
+Started at 2018-11-14 20:59:04.722995
+200
+Ended at 2018-11-14 20:59:58.744090
+----------
+SDPB0396#a._ekavastrasnanavidhi_b._vastradanamantra-CGV-SDPB-0396
+Started at 2018-11-14 20:59:58.775464
+200
+Ended at 2018-11-14 21:00:59.515673
+----------
+SDPB0397#navagrahanyasavidhi-CGV-SDPB-0397
+Started at 2018-11-14 21:00:59.578147
+200
+Ended at 2018-11-14 21:03:14.217578
+----------
+SDPB0398#vaitaranivratamahatmya-CGV-SDPB-0398
+Started at 2018-11-14 21:03:14.233198
+200
+Ended at 2018-11-14 21:04:34.131202
+----------
+SDPB0399#dhatripuja-CGV-SDPB-0399
+Started at 2018-11-14 21:04:34.162454
+200
+Ended at 2018-11-14 21:05:17.963515
+----------
+SDPB0400#ganeshashtaka-CGV-SDPB-0400
+Started at 2018-11-14 21:05:18.010386
+200
+Ended at 2018-11-14 21:06:08.750357
+----------
+SDPB0401#ekadashivrata-CGV-SDPB-0401
+Started at 2018-11-14 21:06:08.781612
+200
+Ended at 2018-11-14 21:08:02.387439
+----------
+SDPB0402#daurbhagyanashanavrata-CGV-SDPB-0402
+Started at 2018-11-14 21:08:02.481165
+200
+Ended at 2018-11-14 21:09:08.722189
+----------
+SDPB0403#lakshapujavidhi-CGV-SDPB-0403
+Started at 2018-11-14 21:09:08.753407
+200
+Ended at 2018-11-14 21:11:03.343069
+----------
+SDPB0404#ramarakshastotra-CGV-SDPB-0404
+Started at 2018-11-14 21:11:03.358691
+200
+Ended at 2018-11-14 21:12:22.976411
+----------
+SDPB0405#punyahavachana-CGV-SDPB-0405
+Started at 2018-11-14 21:12:23.007661
+200
+Ended at 2018-11-14 21:13:48.141524
+----------
+SDPB0406#rudranyasa-CGV-SDPB-0406
+Started at 2018-11-14 21:13:48.172771
+200
+Ended at 2018-11-14 21:15:55.669665
+----------
+SDPB0407#lakshmisukta-CGV-SDPB-0407
+Started at 2018-11-14 21:15:55.732151
+200
+Ended at 2018-11-14 21:16:53.925153
+----------
+SDPB0408#suryavrata-CGV-SDPB-0408
+Started at 2018-11-14 21:16:53.972032
+200
+Ended at 2018-11-14 21:18:26.668549
+----------
+SDPB0409#vishnusukta-CGV-SDPB-0409
+Started at 2018-11-14 21:18:26.699791
+200
+Ended at 2018-11-14 21:19:47.145727
+----------
+SDPB0410#abdapujanavidhi-CGV-SDPB-0410
+Started at 2018-11-14 21:19:47.192605
+200
+Ended at 2018-11-14 21:20:52.167641
+----------
+SDPB0411#manyusuktaprayoga-CGV-SDPB-0411
+Started at 2018-11-14 21:20:52.198892
+200
+Ended at 2018-11-14 21:22:19.583079
+----------
+SDPB0412#vaitaranidanavidhi-CGV-SDPB-0412
+Started at 2018-11-14 21:22:19.614328
+200
+Ended at 2018-11-14 21:24:21.912995
+----------
+SDPB0413#jaladhenupuja-CGV-SDPB-0413
+Started at 2018-11-14 21:24:21.928622
+200
+Ended at 2018-11-14 21:26:10.474795
+----------
+SDPB0414#trichakalpa-CGV-SDPB-0414
+Started at 2018-11-14 21:26:10.521630
+200
+Ended at 2018-11-14 21:27:40.357316
+----------
+SDPB0415#parashivadivyasahasranamastotra-CGV-SDPB-0415
+Started at 2018-11-14 21:27:40.388520
+200
+Ended at 2018-11-14 21:30:22.122553
+----------
+SDPB0416#tripindinirnaya-CGV-SDPB-0416
+Started at 2018-11-14 21:30:22.200625
+200
+Ended at 2018-11-14 21:31:04.879733
+----------
+SDPB0417#ekabdaprayashchittavidhi-CGV-SDPB-0417
+Started at 2018-11-14 21:31:04.926552
+200
+Ended at 2018-11-14 21:32:13.049925
+----------
+SDPB0418#kriyapaddhati-CGV-SDPB-0418
+Started at 2018-11-14 21:32:13.081201
+200
+Ended at 2018-11-14 21:34:10.554143
+----------
+SDPB0419#jvaratarpana-CGV-SDPB-0419
+Started at 2018-11-14 21:34:10.600969
+200
+Ended at 2018-11-14 21:34:36.526959
+----------
+SDPB0420#gopala_arti-CGV-SDPB-0420
+Started at 2018-11-14 21:34:36.558200
+200
+Ended at 2018-11-14 21:35:25.127883
+----------
+SDPB0421#purushottamasahasranama-CGV-SDPB-0421
+Started at 2018-11-14 21:35:25.252879
+200
+Ended at 2018-11-14 21:40:54.158584
+----------
+SDPB0422#ekavastrasnanavidhi-CGV-SDPB-0422
+Started at 2018-11-14 21:40:54.658558
+200
+Ended at 2018-11-14 21:42:08.748479
+----------
+SDPB0423#ratrisukta-CGV-SDPB-0423
+Started at 2018-11-14 21:42:08.795305
+200
+Ended at 2018-11-14 21:43:01.664102
+----------
+SDPB0424#sadashivapuja-CGV-SDPB-0424
+Started at 2018-11-14 21:43:01.710924
+200
+Ended at 2018-11-14 21:46:20.185775
+----------
+SDPB0425#gangalahari-CGV-SDPB-0425
+Started at 2018-11-14 21:46:20.263849
+200
+Ended at 2018-11-14 21:48:48.248494
+----------
+SDPB0426#suryanyasa-CGV-SDPB-0426
+Started at 2018-11-14 21:48:48.295313
+200
+Ended at 2018-11-14 21:50:08.423346
+----------
+SDPB0427#vishnusahasranama-CGV-SDPB-0427
+Started at 2018-11-14 21:50:08.454570
+200
+Ended at 2018-11-14 21:54:37.226597
+----------
+SDPB0428#brahmasukta-CGV-SDPB-0428
+Started at 2018-11-14 21:54:37.273559
+200
+Ended at 2018-11-14 21:55:22.296384
+----------
+SDPB0429#ravivasare_suryapujavidhi-CGV-SDPB-0429
+Started at 2018-11-14 21:55:22.343209
+200
+Ended at 2018-11-14 21:56:32.604710
+----------
+SDPB0430#a._suryastotra_b._angapuja-CGV-SDPB-0430
+Started at 2018-11-14 21:56:32.651602
+200
+Ended at 2018-11-14 21:58:20.092562
+----------
+SDPB0431#prayashchittasadharanaprayoga-CGV-SDPB-0431
+Started at 2018-11-14 21:58:20.155038
+200
+Ended at 2018-11-14 22:00:19.926180
+----------
+SDPB0432#dashapapaharastotra-CGV-SDPB-0432
+Started at 2018-11-14 22:00:19.973056
+200
+Ended at 2018-11-14 22:01:39.188809
+----------
+SDPB0433#vaitaranipuja-CGV-SDPB-0433
+Started at 2018-11-14 22:01:39.220007
+200
+Ended at 2018-11-14 22:02:42.245870
+----------
+SDPB0434#durvashtamipuja-CGV-SDPB-0434
+Started at 2018-11-14 22:02:42.308314
+200
+Ended at 2018-11-14 22:04:09.527151
+----------
+SDPB0435#suryavarnapuja-CGV-SDPB-0435
+Started at 2018-11-14 22:04:09.573968
+200
+Ended at 2018-11-14 22:05:03.145713
+----------
+SDPB0436#shraddhaprayoga-CGV-SDPB-0436
+Started at 2018-11-14 22:05:03.176963
+200
+Ended at 2018-11-14 22:13:09.128588
+----------
+SDPB0437#madhuvatah_mantrah-CGV-SDPB-0437
+Started at 2018-11-14 22:13:09.222311
+200
+Ended at 2018-11-14 22:14:20.860225
+----------
+SDPB0438#shuddhamatrikanyasa-CGV-SDPB-0438
+Started at 2018-11-14 22:14:20.891418
+200
+Ended at 2018-11-14 22:18:06.540202
+----------
+SDPB0439#rudrajalpasankalpa-CGV-SDPB-0439
+Started at 2018-11-14 22:18:06.587051
+200
+Ended at 2018-11-14 22:23:51.526593
+----------
+SDPB0440#sandhyamantrah-CGV-SDPB-0440
+Started at 2018-11-14 22:23:51.573419
+200
+Ended at 2018-11-14 22:24:44.632245
+----------
+SDPB0441#rudrajapa-CGV-SDPB-0441
+Started at 2018-11-14 22:24:44.663494
+200
+Ended at 2018-11-14 22:32:34.771606
+----------
+SDPB0442#shivasankalpahridaya_atmaraksha-CGV-SDPB-0442
+Started at 2018-11-14 22:32:34.818425
+200
+Ended at 2018-11-14 22:33:47.870769
+----------
+SDPB0443#apastambiya_pavamananuvaka-CGV-SDPB-0443
+Started at 2018-11-14 22:33:47.933212
+200
+Ended at 2018-11-14 22:34:42.082444
+----------
+SDPB0444#mahalayashraddha-CGV-SDPB-0444
+Started at 2018-11-14 22:34:42.113694
+200
+Ended at 2018-11-14 22:40:22.592569
+----------
+SDPB0445#shraddhavishaye_dharmavidhana-CGV-SDPB-0445
+Started at 2018-11-14 22:40:22.889813
+200
+Ended at 2018-11-14 22:41:37.965243
+----------
+SDPB0446#kartaviryarjunakavacha-CGV-SDPB-0446
+Started at 2018-11-14 22:41:38.012145
+200
+Ended at 2018-11-14 22:44:31.729618
+----------
+SDPB0447#panini_vyakarana-CGV-SDPB-0447
+Started at 2018-11-14 22:44:31.776503
+200
+Ended at 2018-11-14 22:51:13.078558
+----------
+SDPB0448#kaivalyopanishad_dipika-CGV-SDPB-0448
+Started at 2018-11-14 22:51:13.437933
+200
+Ended at 2018-11-14 22:55:35.687958
+----------
+SDPB0449#kaivalyopanishad-CGV-SDPB-0449
+Started at 2018-11-14 22:55:35.703583
+200
+Ended at 2018-11-14 22:57:00.959230
+----------
+SDPB0450#vaitathyabhashya-CGV-SDPB-0450
+Started at 2018-11-14 22:57:01.242414
+200
+Ended at 2018-11-14 22:59:59.507153
+----------
+SDPB0451#vaitathyabhashya-CGV-SDPB-0451
+Started at 2018-11-14 22:59:59.538351
+200
+Ended at 2018-11-14 23:14:19.000664
+----------
+SDPB0452#vaitathyabhashya-CGV-SDPB-0452
+Started at 2018-11-14 23:14:19.078793
+200
+Ended at 2018-11-14 23:17:39.517841
+----------
+SDPB0453#kundapradipa-CGV-SDPB-0453
+Started at 2018-11-14 23:17:39.580317
+200
+Ended at 2018-11-14 23:22:56.117834
+----------
+SDPB0454#homapaddhati-CGV-SDPB-0454
+Started at 2018-11-14 23:22:56.149037
+200
+Ended at 2018-11-14 23:24:54.934802
+----------
+SDPB0455#shrikartaviryarjunastavaraja-CGV-SDPB-0455
+Started at 2018-11-14 23:24:54.981650
+200
+Ended at 2018-11-14 23:27:25.102792
+----------
+SDPB0456#kartaviryarjunakatha-CGV-SDPB-0456
+Started at 2018-11-14 23:27:25.321488
+200
+Ended at 2018-11-14 23:28:45.086307
+----------
+SDPB0457#kashikavritti-CGV-SDPB-0457
+Started at 2018-11-14 23:28:45.117502
+200
+Ended at 2018-11-14 23:31:50.821162
+----------
+SDPB0458#kashikavritti_7.1-CGV-SDPB-0458
+Started at 2018-11-14 23:31:50.867992
+200
+Ended at 2018-11-14 23:34:37.199266
+----------
+SDPB0459#kashikavritti-CGV-SDPB-0459
+Started at 2018-11-14 23:34:37.246089
+200
+Ended at 2018-11-14 23:36:05.718606
+----------
+SDPB0460#a._tattvabodha_b._vigyananauka-CGV-SDPB-0460
+Started at 2018-11-14 23:36:05.734230
+200
+Ended at 2018-11-14 23:37:11.794970
+----------
+SDPB0461#karmapradipa-CGV-SDPB-0461
+Started at 2018-11-14 23:37:11.857472
+200
+Ended at 2018-11-14 23:42:41.317967
+----------
+SDPB0462#kashikavritti-CGV-SDPB-0462
+Started at 2018-11-14 23:42:41.364901
+200
+Ended at 2018-11-14 23:45:35.324854
+----------
+SDPB0463#kamasutra-CGV-SDPB-0463
+Started at 2018-11-14 23:45:35.371685
+200
+Ended at 2018-11-14 23:56:57.920485
+----------
+SDPB0464#chandogyamantrabhashya-CGV-SDPB-0464
+Started at 2018-11-14 23:56:58.498569
+200
+Ended at 2018-11-15 00:05:03.021967
+----------
+SDPB0465#karmavipaka-CGV-SDPB-0465
+Started at 2018-11-15 00:05:03.084400
+200
+Ended at 2018-11-15 00:55:31.354886
+----------
+SDPB0466#acharadipa_acharamatrikavidhi-CGV-SDPB-0466
+Started at 2018-11-15 00:55:32.652019
+200
+Ended at 2018-11-15 01:05:22.909138
+----------
+SDPB0467#tattvabodhini-CGV-SDPB-0467
+Started at 2018-11-15 01:05:22.987207
+200
+Ended at 2018-11-15 01:10:50.747912
+----------
+SDPB0468#tattvabodhini-CGV-SDPB-0468
+Started at 2018-11-15 01:10:50.841661
+200
+Ended at 2018-11-15 01:33:49.764996
+----------
+SDPB0469#subodhini_tika-CGV-SDPB-0469
+Started at 2018-11-15 01:33:49.921267
+200
+Ended at 2018-11-15 01:50:22.132489
+----------
+SDPB0470#tattvabodhini-CGV-SDPB-0470
+Started at 2018-11-15 01:50:22.226219
+200
+Ended at 2018-11-15 01:55:25.681970
+----------
+SDPB0471#tattvabodhini-CGV-SDPB-0471
+Started at 2018-11-15 01:55:25.744417
+200
+Ended at 2018-11-15 01:59:09.040833
+----------
+SDPB0472#tattvabodhini-CGV-SDPB-0472
+Started at 2018-11-15 01:59:09.072084
+200
+Ended at 2018-11-15 02:00:51.641446
+----------
+SDPB0473#sannyasavidhi-CGV-SDPB-0473
+Started at 2018-11-15 02:00:51.688262
+200
+Ended at 2018-11-15 02:05:19.304410
+----------
+SDPB0474#a._akhyatavada_b._karakarthapradipika-CGV-SDPB-0474
+Started at 2018-11-15 02:05:19.335615
+200
+Ended at 2018-11-15 02:09:31.690086
+----------
+SDPB0475#sarvaprayashchittaprayoga-CGV-SDPB-0475
+Started at 2018-11-15 02:09:31.815039
+200
+Ended at 2018-11-15 02:13:49.875265
+----------
+SDPB0476#shatachandividhana-CGV-SDPB-0476
+Started at 2018-11-15 02:13:49.922137
+200
+Ended at 2018-11-15 02:17:52.170834
+----------
+SDPB0477#homaprayoga-CGV-SDPB-0477
+Started at 2018-11-15 02:17:52.389883
+200
+Ended at 2018-11-15 02:19:18.109929
+----------
+SDPB0478#kundapradipa-CGV-SDPB-0478
+Started at 2018-11-15 02:19:18.141178
+200
+Ended at 2018-11-15 02:21:47.278033
+----------
+SDPB0479#kartaviryarjunanityapuja-CGV-SDPB-0479
+Started at 2018-11-15 02:21:47.372010
+200
+Ended at 2018-11-15 02:26:52.663570
+----------
+SDPB0480#batukapujavidhi-CGV-SDPB-0480
+Started at 2018-11-15 02:26:52.960419
+200
+Ended at 2018-11-15 02:28:31.336822
+----------
+SDPB0481#karmapradipabhashya-CGV-SDPB-0481
+Started at 2018-11-15 02:28:31.383735
+200
+Ended at 2018-11-15 03:08:03.236798
+----------
+SDPB0482#nighantugrantha-CGV-SDPB-0482
+Started at 2018-11-15 03:08:04.283684
+200
+Ended at 2018-11-15 03:11:36.380628
+----------
+SDPB0483#shankhayanasutrapaddhati-CGV-SDPB-0483
+Started at 2018-11-15 03:11:36.443071
+200
+Ended at 2018-11-15 03:16:45.505783
+----------
+SDPB0484#shankhayanasutrapaddhati-CGV-SDPB-0484
+Started at 2018-11-15 03:16:45.724535
+200
+Ended at 2018-11-15 03:22:36.260140
+----------
+SDPB0485#grihyakarmagrantha_samavediya_-CGV-SDPB-0485
+Started at 2018-11-15 03:22:36.291387
+200
+Ended at 2018-11-15 03:27:34.574343
+----------
+SDPB0486#shankhayanasutrapaddhati_kraturatnamala_-CGV-SDPB-0486
+Started at 2018-11-15 03:27:34.636843
+200
+Ended at 2018-11-15 03:35:50.603303
+----------
+SDPB0487#shankhayanasutrapaddhati-CGV-SDPB-0487
+Started at 2018-11-15 03:35:50.665746
+200
+Ended at 2018-11-15 03:42:00.855505
+----------
+SDPB0488#dharmashastragrantha-CGV-SDPB-0488
+Started at 2018-11-15 03:42:00.886738
+200
+Ended at 2018-11-15 03:43:51.953711
+----------
+SDPB0489#chaturmasyayajamanamantrah-CGV-SDPB-0489
+Started at 2018-11-15 03:43:52.000529
+200
+Ended at 2018-11-15 03:46:04.524129
+----------
+SDPB0490#darshapaurnamasyayajamanagrantha-CGV-SDPB-0490
+Started at 2018-11-15 03:46:04.555392
+200
+Ended at 2018-11-15 03:49:58.565301
+----------
+SDPB0491#ratirahasya-CGV-SDPB-0491
+Started at 2018-11-15 03:49:58.612150
+200
+Ended at 2018-11-15 03:55:31.889465
+----------
+SDPB0492#darshapaurnamasyagrantha-CGV-SDPB-0492
+Started at 2018-11-15 03:55:31.936283
+200
+Ended at 2018-11-15 03:59:39.531022
+----------
+SDPB0493#homavidhi-CGV-SDPB-0493
+Started at 2018-11-15 03:59:39.593582
+200
+Ended at 2018-11-15 04:04:15.265163
+----------
+SDPB0494#vighneshakalpoktaprayoga-CGV-SDPB-0494
+Started at 2018-11-15 04:04:15.296403
+200
+Ended at 2018-11-15 04:05:35.794737
+----------
+SDPB0495#vedantasara-CGV-SDPB-0495
+Started at 2018-11-15 04:05:35.841556
+200
+Ended at 2018-11-15 04:10:33.711349
+----------
+SDPB0496#a._apatnikadhanagnihotradinirnaya_b._nityahomavidhi-CGV-SDPB-0496
+Started at 2018-11-15 04:10:33.805096
+200
+Ended at 2018-11-15 04:11:53.994985
+----------
+SDPB0497#smritinirnaya-CGV-SDPB-0497
+Started at 2018-11-15 04:11:54.073053
+200
+Ended at 2018-11-15 04:25:48.531930
+----------
+SDPB0498#krishnabhaktichandrika-CGV-SDPB-0498
+Started at 2018-11-15 04:25:49.282104
+200
+Ended at 2018-11-15 04:29:26.131325
+----------
+SDPB0499#ashauchaprakarana-CGV-SDPB-0499
+Started at 2018-11-15 04:29:26.209401
+200
+Ended at 2018-11-15 04:31:16.181795
+----------
+SDPB0500#tandyabrahmana-CGV-SDPB-0500
+Started at 2018-11-15 04:31:16.306797
+200
+Ended at 2018-11-15 05:11:18.052103
+----------
+SDPB0501#panini_vyakarana-CGV-SDPB-0501
+Started at 2018-11-15 05:11:18.396017
+200
+Ended at 2018-11-15 05:12:54.037107
+----------
+SDPB0502#rigvedasanhita-CGV-SDPB-0502
+Started at 2018-11-15 05:12:54.068309
+200
+Ended at 2018-11-15 05:37:49.502324
+----------
+SDPB0503#rigvedasanhita-CGV-SDPB-0503
+Started at 2018-11-15 05:37:49.877470
+200
+Ended at 2018-11-15 05:55:57.752103
+----------
+SDPB0504#rigvedasanhita-CGV-SDPB-0504
+Started at 2018-11-15 05:55:57.845799
+200
+Ended at 2018-11-15 06:12:00.216510
+----------
+SDPB0505#rigvedasanhita-CGV-SDPB-0505
+Started at 2018-11-15 06:12:00.325844
+200
+Ended at 2018-11-15 06:30:43.916155
+----------
+SDPB0506#rigvedasanhita-CGV-SDPB-0506
+Started at 2018-11-15 06:30:44.072408
+200
+Ended at 2018-11-15 06:48:27.813268
+----------
+SDPB0507#rigvedasanhita_ashtaka_3_-CGV-SDPB-0507
+Started at 2018-11-15 06:48:28.156964
+200
+Ended at 2018-11-15 07:07:02.558638
+----------
+SDPB0508#rigvedasanhita-CGV-SDPB-0508
+Started at 2018-11-15 07:07:02.792999
+200
+Ended at 2018-11-15 07:24:35.707534
+----------
+SDPB0509#rigvedasanhita-CGV-SDPB-0509
+Started at 2018-11-15 07:24:35.785815
+200
+Ended at 2018-11-15 07:27:49.301423
+----------
+SDPB0510#vikramarkanripavarnana-CGV-SDPB-0510
+Started at 2018-11-15 07:27:49.410776
+200
+Ended at 2018-11-15 07:29:25.083242
+----------
+SDPB0511#jativiveka-CGV-SDPB-0511
+Started at 2018-11-15 07:29:25.145713
+200
+Ended at 2018-11-15 07:32:35.022181
+----------
+SDPB0512#mantrachandrika-CGV-SDPB-0512
+Started at 2018-11-15 07:32:35.084623
+200
+Ended at 2018-11-15 07:45:05.468781
+----------
+SDPB0513#mantramahodadhi-CGV-SDPB-0513
+Started at 2018-11-15 07:45:05.562493
+200
+Ended at 2018-11-15 08:00:30.278069
+----------
+SDPB0514#mantramahodadhi-CGV-SDPB-0514
+Started at 2018-11-15 08:00:30.371763
+200
+Ended at 2018-11-15 08:22:02.882161
+----------
+SDPB0515#balatripurapujastuti-CGV-SDPB-0515
+Started at 2018-11-15 08:22:03.116539
+200
+Ended at 2018-11-15 08:25:17.199844
+----------
+SDPB0516#vriddhachanakya-CGV-SDPB-0516
+Started at 2018-11-15 08:25:17.262323
+200
+Ended at 2018-11-15 08:34:32.465691
+----------
+SDPB0517#shrilakshminarayanastotra-CGV-SDPB-0517
+Started at 2018-11-15 08:34:32.481317
+200
+Ended at 2018-11-15 08:38:21.803345
+----------
+SDPB0518#shatpanchashika_satika-CGV-SDPB-0518
+Started at 2018-11-15 08:38:21.881466
+200
+Ended at 2018-11-15 08:43:01.659977
+----------
+SDPB0519#nirnayamrita-CGV-SDPB-0519
+Started at 2018-11-15 08:43:01.706841
+200
+Ended at 2018-11-15 09:32:53.111672
+----------
+SDPB0520#dashamahavidyakrama-CGV-SDPB-0520
+Started at 2018-11-15 09:32:53.252239
+200
+Ended at 2018-11-15 09:34:52.383931
+----------
+SDPB0521#diparnavashata-CGV-SDPB-0521
+Started at 2018-11-15 09:34:52.415176
+200
+Ended at 2018-11-15 09:36:23.681389
+----------
+SDPB0522#a._gotriratravrata_b._gopujanavidhi-CGV-SDPB-0522
+Started at 2018-11-15 09:36:23.712594
+200
+Ended at 2018-11-15 09:38:45.846495
+----------
+SDPB0523#rudranushthanapaddhati-CGV-SDPB-0523
+Started at 2018-11-15 09:38:45.908942
+200
+Ended at 2018-11-15 09:45:17.303219
+----------
+SDPB0524#rudranushthanapaddhati-CGV-SDPB-0524
+Started at 2018-11-15 09:45:17.350100
+200
+Ended at 2018-11-15 09:50:47.233160
+----------
+SDPB0525#muladhyayavivarana-CGV-SDPB-0525
+Started at 2018-11-15 09:50:47.373727
+200
+Ended at 2018-11-15 09:52:35.893829
+----------
+SDPB0526#matrikasthapanavidhi-CGV-SDPB-0526
+Started at 2018-11-15 09:52:35.956319
+200
+Ended at 2018-11-15 09:53:16.822254
+----------
+SDPB0527#navarnanyasavidhi-CGV-SDPB-0527
+Started at 2018-11-15 09:53:16.853446
+200
+Ended at 2018-11-15 09:55:32.109330
+----------
+SDPB0528#a._parthiveshvarachintamanipujavidhi_b._parthivalingapujavidhi-CGV-SDPB-0528
+Started at 2018-11-15 09:55:32.203073
+200
+Ended at 2018-11-15 09:57:39.974614
+----------
+SDPB0529#dikpalapujamantra-CGV-SDPB-0529
+Started at 2018-11-15 09:57:40.208942
+200
+Ended at 2018-11-15 09:58:54.364460
+----------
+SDPB0530#sannyasaprayoga-CGV-SDPB-0530
+Started at 2018-11-15 09:58:54.411285
+200
+Ended at 2018-11-15 10:03:14.251213
+----------
+SDPB0531#grihyakarmaprayoga-CGV-SDPB-0531
+Started at 2018-11-15 10:03:14.282410
+200
+Ended at 2018-11-15 10:09:39.090932
+----------
+SDPB0532#sannyasaprayoga-CGV-SDPB-0532
+Started at 2018-11-15 10:09:39.231505
+200
+Ended at 2018-11-15 10:15:06.037720
+----------
+SDPB0533#kashikavritti-CGV-SDPB-0533
+Started at 2018-11-15 10:15:06.084588
+200
+Ended at 2018-11-15 10:18:42.311567
+----------
+SDPB0534#kashikavritti-CGV-SDPB-0534
+Started at 2018-11-15 10:18:42.342792
+200
+Ended at 2018-11-15 10:21:29.768402
+----------
+SDPB0535#kashikavritti-CGV-SDPB-0535
+Started at 2018-11-15 10:21:29.799653
+200
+Ended at 2018-11-15 10:25:09.960079
+----------
+SDPB0536#kashikavritti-CGV-SDPB-0536
+Started at 2018-11-15 10:25:10.006898
+200
+Ended at 2018-11-15 10:30:22.461583
+----------
+SDPB0537#kashikavritti-CGV-SDPB-0537
+Started at 2018-11-15 10:30:22.508477
+200
+Ended at 2018-11-15 10:36:00.316251
+----------
+SDPB0538#kashikavritti-CGV-SDPB-0538
+Started at 2018-11-15 10:36:00.363075
+200
+Ended at 2018-11-15 10:40:03.039467
+----------
+SDPB0539#kashikavritti-CGV-SDPB-0539
+Started at 2018-11-15 10:40:03.070715
+200
+Ended at 2018-11-15 10:44:00.558575
+----------
+SDPB0540#kashikavritti-CGV-SDPB-0540
+Started at 2018-11-15 10:44:00.605451
+200
+Ended at 2018-11-15 10:52:36.235366
+----------
+SDPB0541#kashikavritti-CGV-SDPB-0541
+Started at 2018-11-15 10:52:36.297865
+200
+Ended at 2018-11-15 10:58:40.943594
+----------
+SDPB0542#kashikavritti-CGV-SDPB-0542
+Started at 2018-11-15 10:58:41.115474
+200
+Ended at 2018-11-15 11:02:40.187931
+----------
+SDPB0543#kashikavritti-CGV-SDPB-0543
+Started at 2018-11-15 11:02:40.219179
+200
+Ended at 2018-11-15 11:06:07.850265
+----------
+SDPB0544#kashikavritti-CGV-SDPB-0544
+Started at 2018-11-15 11:06:07.897147
+200
+Ended at 2018-11-15 11:07:17.747912
+----------
+SDPB0545#kashikavritti-CGV-SDPB-0545
+Started at 2018-11-15 11:07:17.794762
+200
+Ended at 2018-11-15 11:11:00.178152
+----------
+SDPB0546#kashikavritti-CGV-SDPB-0546
+Started at 2018-11-15 11:11:00.225004
+200
+Ended at 2018-11-15 11:14:48.980179
+----------
+SDPB0547#kashikavritti-CGV-SDPB-0547
+Started at 2018-11-15 11:14:49.042682
+200
+Ended at 2018-11-15 11:17:47.418806
+----------
+SDPB0548#kashikavritti-CGV-SDPB-0548
+Started at 2018-11-15 11:17:47.606309
+200
+Ended at 2018-11-15 11:21:41.675219
+----------
+SDPB0549#kashikavivaranapanjika-CGV-SDPB-0549
+Started at 2018-11-15 11:21:41.706468
+200
+Ended at 2018-11-15 11:29:07.957253
+----------
+SDPB0550#kashikavritti-CGV-SDPB-0550
+Started at 2018-11-15 11:29:08.270014
+200
+Ended at 2018-11-15 11:31:31.091626
+----------
+SDPB0551#gadadhari-CGV-SDPB-0551
+Started at 2018-11-15 11:31:31.154127
+200
+Ended at 2018-11-15 11:36:28.489984
+----------
+SDPB0552#rishipanchamivrata-CGV-SDPB-0552
+Started at 2018-11-15 11:36:28.552450
+200
+Ended at 2018-11-15 11:38:32.043616
+----------
+SDPB0553#a._saptashatyangakavachavivarana_b._argalavivarana_c._kilakavivarana-CGV-SDPB-0553
+Started at 2018-11-15 11:38:32.090510
+200
+Ended at 2018-11-15 11:46:57.710533
+----------
+SDPB0554#darshapaurnamasyaprayoga-CGV-SDPB-0554
+Started at 2018-11-15 11:46:57.804226
+200
+Ended at 2018-11-15 11:48:13.350379
+----------
+SDPB0555#dashakumaracharita-CGV-SDPB-0555
+Started at 2018-11-15 11:48:13.412854
+200
+Ended at 2018-11-15 12:05:52.299422
+----------
+SDPB0556#bhagavadbhaktiprashansa-CGV-SDPB-0556
+Started at 2018-11-15 12:05:52.502704
+200
+Ended at 2018-11-15 13:29:53.351201
+----------
+SDPB0557#shivarahasya-CGV-SDPB-0557
+Started at 2018-11-15 13:29:53.445155
+200
+Ended at 2018-11-15 13:49:25.845598
+----------
+SDPB0558#a._ahnikavidhi_b._anantapuja-CGV-SDPB-0558
+Started at 2018-11-15 13:49:26.486172
+200
+Ended at 2018-11-15 13:52:56.669468
+----------
+SDPB0559#a._vishvaprakasha_b._ekaksharanamamala-CGV-SDPB-0559
+Started at 2018-11-15 13:52:56.700672
+200
+Ended at 2018-11-15 14:13:08.823945
+----------
+SDPB0560#aplavavidhi-CGV-SDPB-0560
+Started at 2018-11-15 14:13:09.886634
+200
+Ended at 2018-11-15 14:15:09.846380
+----------
+SDPB0561#namalinganushasana-CGV-SDPB-0561
+Started at 2018-11-15 14:15:09.893206
+200
+Ended at 2018-11-15 14:18:37.985780
+----------
+SDPB0562#amarakosha_satika-CGV-SDPB-0562
+Started at 2018-11-15 14:18:38.564160
+200
+Ended at 2018-11-15 14:51:21.753653
+----------
+SDPB0563#yogananda-CGV-SDPB-0563
+Started at 2018-11-15 14:51:21.831721
+200
+Ended at 2018-11-15 14:58:50.406218
+----------
+SDPB0564#tattvabodhini-CGV-SDPB-0564
+Started at 2018-11-15 14:58:50.765881
+200
+Ended at 2018-11-15 14:59:37.789710
+----------
+SDPB0565#atmananda-CGV-SDPB-0565
+Started at 2018-11-15 14:59:37.836586
+200
+Ended at 2018-11-15 15:03:42.324552
+----------
+SDPB0566#nyayasiddhantamanjari-CGV-SDPB-0566
+Started at 2018-11-15 15:03:42.371431
+200
+Ended at 2018-11-15 15:08:36.887083
+----------
+SDPB0567#nyayagrantha-CGV-SDPB-0567
+Started at 2018-11-15 15:08:37.059015
+200
+Ended at 2018-11-15 15:12:20.849827
+----------
+SDPB0568#anumanadidhiti-CGV-SDPB-0568
+Started at 2018-11-15 15:12:20.943542
+200
+Ended at 2018-11-15 15:16:15.067711
+----------
+SDPB0569#nyayasiddhantamanjari-CGV-SDPB-0569
+Started at 2018-11-15 15:16:15.098936
+200
+Ended at 2018-11-15 15:20:19.283773
+----------
+SDPB0570#nyayagrantha-CGV-SDPB-0570
+Started at 2018-11-15 15:20:19.361895
+200
+Ended at 2018-11-15 15:23:06.569583
+----------
+SDPB0571#dharmitavachcheda-CGV-SDPB-0571
+Started at 2018-11-15 15:23:06.616410
+200
+Ended at 2018-11-15 15:29:28.950341
+----------
+SDPB0573#gadadhari-CGV-SDPB-0573
+Started at 2018-11-15 15:29:29.309721
+200
+Ended at 2018-11-15 15:33:01.002441
+----------
+SDPB0574#a._advaitananda_b._vidyananda-CGV-SDPB-0574
+Started at 2018-11-15 15:33:01.064916
+200
+Ended at 2018-11-15 15:39:11.480408
+----------
+SDPB0575#tattvaviveka-CGV-SDPB-0575
+Started at 2018-11-15 15:39:11.964917
+200
+Ended at 2018-11-15 15:43:31.933994
+----------
+SDPB0576#mahavakyaviveka-CGV-SDPB-0576
+Started at 2018-11-15 15:43:31.980819
+200
+Ended at 2018-11-15 15:44:21.160904
+----------
+SDPB0577#a._panchakoshaviveka_b._panchamahabhutaviveka-CGV-SDPB-0577
+Started at 2018-11-15 15:44:21.223379
+200
+Ended at 2018-11-15 15:50:42.775796
+----------
+SDPB0578#dvaitaviveka-CGV-SDPB-0578
+Started at 2018-11-15 15:50:43.056993
+200
+Ended at 2018-11-15 15:53:36.401437
+----------
+SDPB0579#vedantadhikaranamala-CGV-SDPB-0579
+Started at 2018-11-15 15:53:36.479505
+200
+Ended at 2018-11-15 16:22:34.004873
+----------
+SDPB0580#dhyanadipa-CGV-SDPB-0580
+Started at 2018-11-15 16:22:35.067384
+200
+Ended at 2018-11-15 16:28:05.874430
+----------
+SDPB0581#kutasthadipavyakhya-CGV-SDPB-0581
+Started at 2018-11-15 16:28:05.983777
+200
+Ended at 2018-11-15 16:31:02.107621
+----------
+SDPB0582#triptidipavyakhya-CGV-SDPB-0582
+Started at 2018-11-15 16:31:02.201346
+200
+Ended at 2018-11-15 16:42:00.471234
+----------
+SDPB0583#natakadipavyakhya-CGV-SDPB-0583
+Started at 2018-11-15 16:42:00.533680
+200
+Ended at 2018-11-15 16:43:34.475496
+----------
+SDPB0584#tatparyabodhini-CGV-SDPB-0584
+Started at 2018-11-15 16:43:34.569248
+200
+Ended at 2018-11-15 16:52:23.699794
+----------
+SDPB0585#padartharatnamala-CGV-SDPB-0585
+Started at 2018-11-15 16:52:24.106218
+200
+Ended at 2018-11-15 16:57:30.153434
+----------
+SDPB0586#shabdanushasana-CGV-SDPB-0586
+Started at 2018-11-15 16:57:30.247141
+200
+Ended at 2018-11-15 16:58:47.668550
+----------
+SDPB0587#vyaptivada-CGV-SDPB-0587
+Started at 2018-11-15 16:58:47.684149
+200
+Ended at 2018-11-15 17:00:52.604043
+----------
+SDPB0588#dinakari_muktavaliprakasha_-CGV-SDPB-0588
+Started at 2018-11-15 17:00:52.635263
+200
+Ended at 2018-11-15 17:08:59.212501
+----------
+SDPB0589#gadadhari_anumitilakshana_-CGV-SDPB-0589
+Started at 2018-11-15 17:08:59.415632
+200
+Ended at 2018-11-15 17:15:57.321187
+----------
+SDPB0590#shastradipika-CGV-SDPB-0590
+Started at 2018-11-15 17:15:57.383633
+200
+Ended at 2018-11-15 17:28:28.635355
+----------
+SDPB0591#navinamatavichara-CGV-SDPB-0591
+Started at 2018-11-15 17:28:29.494699
+200
+Ended at 2018-11-15 17:33:36.348153
+----------
+SDPB0592#gadadhari-CGV-SDPB-0592
+Started at 2018-11-15 17:33:36.379351
+200
+Ended at 2018-11-15 17:37:04.674813
+----------
+SDPB0593#rigvedapratishakhya-CGV-SDPB-0593
+Started at 2018-11-15 17:37:04.706060
+200
+Ended at 2018-11-15 17:43:28.045205
+----------
+SDPB0594#sadashivasanhita-CGV-SDPB-0594
+Started at 2018-11-15 17:43:28.060832
+200
+Ended at 2018-11-15 17:47:49.200339
+----------
+SDPB0595#a._nyayasiddhantamanjari_b._karakadyarthanirnaya-CGV-SDPB-0595
+Started at 2018-11-15 17:47:49.278444
+200
+Ended at 2018-11-15 17:50:56.518990
+----------
+SDPB0596#gadadhari-CGV-SDPB-0596
+Started at 2018-11-15 17:50:56.550234
+200
+Ended at 2018-11-15 17:54:13.930623
+----------
+SDPB0597#vyakaranagrantha-CGV-SDPB-0597
+Started at 2018-11-15 17:54:13.946248
+200
+Ended at 2018-11-15 17:55:37.595264
+----------
+SDPB0598#vedantasare_brahmakallola-CGV-SDPB-0598
+Started at 2018-11-15 17:55:37.626492
+200
+Ended at 2018-11-15 17:57:01.199102
+----------
+SDPB0599#nirnayasindhu-CGV-SDPB-0599
+Started at 2018-11-15 17:57:01.245980
+200
+Ended at 2018-11-15 18:06:52.317938
+----------
+SDPB0600#muktavali-CGV-SDPB-0600
+Started at 2018-11-15 18:06:52.442930
+200
+Ended at 2018-11-15 18:08:27.423241
+----------
+SDPB0601#siddhantasara-CGV-SDPB-0601
+Started at 2018-11-15 18:08:27.501364
+200
+Ended at 2018-11-15 18:12:30.741354
+----------
+SDPB0602#avachcheda-CGV-SDPB-0602
+Started at 2018-11-15 18:12:30.756974
+200
+Ended at 2018-11-15 18:14:53.881239
+----------
+SDPB0603#bhuvaneshvarikavacha-CGV-SDPB-0603
+Started at 2018-11-15 18:14:53.928099
+200
+Ended at 2018-11-15 18:15:53.621640
+----------
+SDPB0604#nyayaprakasha-CGV-SDPB-0604
+Started at 2018-11-15 18:15:53.668519
+200
+Ended at 2018-11-15 18:23:25.214868
+----------
+SDPB0605#navyanyayagrantha-CGV-SDPB-0605
+Started at 2018-11-15 18:23:25.308618
+200
+Ended at 2018-11-15 18:29:22.325319
+----------
+SDPB0606#tattvabodhini-CGV-SDPB-0606
+Started at 2018-11-15 18:29:22.434669
+200
+Ended at 2018-11-15 18:41:24.711899
+----------
+SDPB0607#mahabhashya-CGV-SDPB-0607
+Started at 2018-11-15 18:41:24.852466
+200
+Ended at 2018-11-15 18:43:22.445054
+----------
+SDPB0608#mahabhashya-CGV-SDPB-0608
+Started at 2018-11-15 18:43:22.491931
+200
+Ended at 2018-11-15 18:44:59.471125
+----------
+SDPB0609#mahabhashya-CGV-SDPB-0609
+Started at 2018-11-15 18:44:59.486738
+200
+Ended at 2018-11-15 18:48:01.634913
+----------
+SDPB0610#tattvabodhini_unadisutra-CGV-SDPB-0610
+Started at 2018-11-15 18:48:01.806732
+200
+Ended at 2018-11-15 18:49:13.987449
+----------
+SDPB0611#vyakaranagrantha-CGV-SDPB-0611
+Started at 2018-11-15 18:49:14.018700
+200
+Ended at 2018-11-15 18:51:10.070539
+----------
+SDPB0612#dhatupatha-CGV-SDPB-0612
+Started at 2018-11-15 18:51:10.132983
+200
+Ended at 2018-11-15 18:55:12.599382
+----------
+SDPB0613#shabdakaustubha-CGV-SDPB-0613
+Started at 2018-11-15 18:55:12.865291
+200
+Ended at 2018-11-15 18:56:26.284431
+----------
+SDPB0614#vyakaranagrantha-CGV-SDPB-0614
+Started at 2018-11-15 18:56:26.300081
+200
+Ended at 2018-11-15 18:58:00.039191
+----------
+SDPB0615#vyakaranagrantha-CGV-SDPB-0615
+Started at 2018-11-15 18:58:00.273589
+200
+Ended at 2018-11-15 19:03:54.086550
+----------
+SDPB0616#mimansapradipa-CGV-SDPB-0616
+Started at 2018-11-15 19:03:54.148997
+200
+Ended at 2018-11-15 19:07:00.473954
+----------
+SDPB0617#vyakaranagrantha-CGV-SDPB-0617
+Started at 2018-11-15 19:07:00.536398
+200
+Ended at 2018-11-15 19:12:51.991755
+----------
+SDPB0618#vyakaranagrantha-CGV-SDPB-0618
+Started at 2018-11-15 19:12:52.038579
+200
+Ended at 2018-11-15 19:17:26.873809
+----------
+SDPB0619#laghushabdendushekhara-CGV-SDPB-0619
+Started at 2018-11-15 19:17:27.686264
+200
+Ended at 2018-11-15 19:21:23.751999
+----------
+SDPB0620#vyakaranagrantha-CGV-SDPB-0620
+Started at 2018-11-15 19:21:23.814491
+200
+Ended at 2018-11-15 19:29:39.786332
+----------
+SDPB0621#laghushabdendushekhara-CGV-SDPB-0621
+Started at 2018-11-15 19:29:39.848796
+200
+Ended at 2018-11-15 19:33:29.759001
+----------
+SDPB0622#madanaparijata-CGV-SDPB-0622
+Started at 2018-11-15 19:33:29.805822
+200
+Ended at 2018-11-15 19:50:11.176391
+----------
+SDPB0623#nighantubhashya-CGV-SDPB-0623
+Started at 2018-11-15 19:50:11.270142
+200
+Ended at 2018-11-15 20:07:06.067898
+----------
+SDPB0624#shiksha_jyotish_chandas_nighantu-CGV-SDPB-0624
+Started at 2018-11-15 20:07:06.208480
+200
+Ended at 2018-11-15 20:10:42.431346
+----------
+SDPB0625#niruktavritti-CGV-SDPB-0625
+Started at 2018-11-15 20:10:42.587602
+200
+Ended at 2018-11-15 20:17:25.995650
+----------
+SDPB0626#kaushitakibrahmanabhashya-CGV-SDPB-0626
+Started at 2018-11-15 20:17:26.245624
+200
+Ended at 2018-11-15 20:42:58.580363
+----------
+SDPB0627#laghushabdendushekhara-CGV-SDPB-0627
+Started at 2018-11-15 20:42:58.705313
+200
+Ended at 2018-11-15 20:59:08.212330
+----------
+SDPB0628#kalanirnayasindhu-CGV-SDPB-0628
+Started at 2018-11-15 20:59:08.321707
+200
+Ended at 2018-11-15 21:15:53.909436
+----------
+SDPB0629#laghushabdendushekhara-CGV-SDPB-0629
+Started at 2018-11-15 21:15:54.034378
+200
+Ended at 2018-11-15 22:05:55.642846
+----------
+SDPB0630#kaushitakibrahmanabhashya-CGV-SDPB-0630
+Started at 2018-11-15 22:05:55.752167
+200
+Ended at 2018-11-15 22:18:02.241807
+----------
+SDPB0631#praudhamanorama-CGV-SDPB-0631
+Started at 2018-11-15 22:18:02.554310
+200
+Ended at 2018-11-15 22:30:24.629967
+----------
+SDPB0632#praudhamanorama-CGV-SDPB-0632
+Started at 2018-11-15 22:30:24.973719
+200
+Ended at 2018-11-15 22:34:50.680640
+----------
+SDPB0633#praudhamanorama-CGV-SDPB-0633
+Started at 2018-11-15 22:34:50.711894
+200
+Ended at 2018-11-15 23:18:31.774695
+----------
+SDPB0634#laghushabdendushekhara-CGV-SDPB-0634
+Started at 2018-11-15 23:18:32.477825
+200
+Ended at 2018-11-15 23:30:49.874168
+----------
+SDPB0635#shabdakaustubha-CGV-SDPB-0635
+Started at 2018-11-15 23:30:49.905424
+200
+Ended at 2018-11-15 23:33:56.359987
+----------
+SDPB0636#shabdakaustubha-CGV-SDPB-0636
+Started at 2018-11-15 23:33:56.391208
+200
+Ended at 2018-11-15 23:37:35.271376
+----------
+SDPB0637#shabdakaustubha-CGV-SDPB-0637
+Started at 2018-11-15 23:37:35.286973
+200
+Ended at 2018-11-15 23:44:59.205660
+----------
+SDPB0639#siddhantamuktavali-CGV-SDPB-0639
+Started at 2018-11-15 23:44:59.252477
+200
+Ended at 2018-11-15 23:48:00.395362
+----------
+SDPB0640#subhashitani-CGV-SDPB-0640
+Started at 2018-11-15 23:48:00.426586
+200
+Ended at 2018-11-15 23:48:38.119968
+----------
+SDPB0641#vishayananda-CGV-SDPB-0641
+Started at 2018-11-15 23:48:38.166834
+200
+Ended at 2018-11-15 23:49:46.709313
+----------
+SDPB0642#kaivalyopanishaddipika-CGV-SDPB-0642
+Started at 2018-11-15 23:49:46.740569
+200
+Ended at 2018-11-15 23:51:14.786682
+----------
+SDPB0643#gadadhari-CGV-SDPB-0643
+Started at 2018-11-15 23:51:14.817884
+200
+Ended at 2018-11-15 23:52:36.973421
+----------
+SDPB0644#muktavalitika-CGV-SDPB-0644
+Started at 2018-11-15 23:52:37.004625
+200
+Ended at 2018-11-16 00:02:24.862631
+----------
+SDPB0645#gadadhari-CGV-SDPB-0645
+Started at 2018-11-16 00:02:24.987635
+200
+Ended at 2018-11-16 00:20:05.511252
+----------
+SDPB0646#akhyatavadatika-CGV-SDPB-0646
+Started at 2018-11-16 00:20:05.573704
+200
+Ended at 2018-11-16 00:25:01.819074
+----------
+SDPB0647#gadadhari-CGV-SDPB-0647
+Started at 2018-11-16 00:25:01.865894
+200
+Ended at 2018-11-16 00:49:48.246651
+----------
+SDPB0648#balatripurapatala-CGV-SDPB-0648
+Started at 2018-11-16 00:49:48.527850
+200
+Ended at 2018-11-16 00:51:10.713940
+----------
+SDPB0649#chintamani-CGV-SDPB-0649
+Started at 2018-11-16 00:51:10.760816
+200
+Ended at 2018-11-16 00:57:07.432537
+----------
+SDPB0650#nyayamuktavali-CGV-SDPB-0650
+Started at 2018-11-16 00:57:07.463733
+200
+Ended at 2018-11-16 01:08:18.298634
+----------
+SDPB0652#nyayagrantha-CGV-SDPB-0652
+Started at 2018-11-16 01:08:18.720513
+200
+Ended at 2018-11-16 01:15:36.433466
+----------
+SDPB0653#bhavanandi-CGV-SDPB-0653
+Started at 2018-11-16 01:15:36.464659
+200
+Ended at 2018-11-16 01:54:49.961861
+----------
+SDPB0654#anumanachintamani-CGV-SDPB-0654
+Started at 2018-11-16 01:54:50.102500
+200
+Ended at 2018-11-16 01:57:58.983342
+----------
+SDPB0655#gadadhari-CGV-SDPB-0655
+Started at 2018-11-16 01:57:59.077145
+200
+Ended at 2018-11-16 02:26:51.300740
+----------
+SDPB0656#nyayasiddhantamanjaridipika-CGV-SDPB-0656
+Started at 2018-11-16 02:26:51.363239
+200
+Ended at 2018-11-16 02:39:08.276746
+----------
+SDPB0657#shiromani_mula_-CGV-SDPB-0657
+Started at 2018-11-16 02:39:08.323612
+200
+Ended at 2018-11-16 02:44:55.666704
+----------
+SDPB0658#chaturvargachintamani-CGV-SDPB-0658
+Started at 2018-11-16 02:44:55.713523
+200
+Ended at 2018-11-16 03:38:36.867177
+----------
+SDPB0659#vrataraja-CGV-SDPB-0659
+Started at 2018-11-16 03:38:37.429707
+200
+Ended at 2018-11-16 05:07:27.512705
+----------
+SDPB0660#laghushabdendushekhara-CGV-SDPB-0660
+Started at 2018-11-16 05:07:27.700219
+200
+Ended at 2018-11-16 06:01:28.435174
+----------
+SDPB0661#laghushabdendushekhara-CGV-SDPB-0661
+Started at 2018-11-16 06:01:28.544536
+200
+Ended at 2018-11-16 06:35:22.051777
+----------
+SDPB0662#laghushabdendushekhara-CGV-SDPB-0662
+Started at 2018-11-16 06:35:22.207974
+200
+Ended at 2018-11-16 06:51:39.103485
+----------
+SDPB0663#laghushabdendushekhara-CGV-SDPB-0663
+Started at 2018-11-16 06:51:39.181559
+200
+Ended at 2018-11-16 07:16:34.310958
+----------
+SDPB0664#shivarahasya-CGV-SDPB-0664
+Started at 2018-11-16 07:16:34.373400
+200
+Ended at 2018-11-16 08:55:56.875587
+----------
+SDPB0665#gitarthabodhini-CGV-SDPB-0665
+Started at 2018-11-16 08:55:57.078679
+200
+Ended at 2018-11-16 08:59:43.286501
+----------
+SDPB0666#gitarthabodhini-CGV-SDPB-0666
+Started at 2018-11-16 08:59:43.333355
+200
+Ended at 2018-11-16 09:03:50.962694
+----------
+SDPB0667#gitarthabodhini-CGV-SDPB-0667
+Started at 2018-11-16 09:03:50.978298
+200
+Ended at 2018-11-16 09:06:40.635222
+----------
+SDPB0668#mahabharata_bharatarthapradipikasahita_virataparva_-CGV-SDPB-0668
+Started at 2018-11-16 09:06:40.682076
+200
+Ended at 2018-11-16 09:24:45.313776
+----------
+SDPB0669#mahabharata_bharatarthapradipikasahita_udyogaparva_-CGV-SDPB-0669
+Started at 2018-11-16 09:24:45.391884
+200
+Ended at 2018-11-16 10:33:22.017497
+----------
+SDPB0670#mahabharata_bharatarthapradipikasahita_adiparva_-CGV-SDPB-0670
+Started at 2018-11-16 10:33:22.142491
+200
+Ended at 2018-11-16 12:15:32.870249
+----------
+SDPB0672#mahabharata_bharatarthapradipikasahita_sabhaparva_-CGV-SDPB-0672
+Started at 2018-11-16 12:15:33.010817
+200
+Ended at 2018-11-16 12:40:14.592035
+----------
+SDPB0673#gitarthabodhini-CGV-SDPB-0673
+Started at 2018-11-16 12:40:14.716977
+200
+Ended at 2018-11-16 12:43:13.954024
+----------
+SDPB0674#gitarthabodhini-CGV-SDPB-0674
+Started at 2018-11-16 12:43:13.985221
+200
+Ended at 2018-11-16 12:45:06.883996
+----------
+SDPB0675#gitarthabodhini-CGV-SDPB-0675
+Started at 2018-11-16 12:45:06.930815
+200
+Ended at 2018-11-16 12:51:57.574248
+----------
+SDPB0676#gitarthabodhini-CGV-SDPB-0676
+Started at 2018-11-16 12:51:57.730487
+200
+Ended at 2018-11-16 12:57:55.331795
+----------
+SDPB0677#gitarthabodhini-CGV-SDPB-0677
+Started at 2018-11-16 12:57:55.503614
+200
+Ended at 2018-11-16 13:01:34.430098
+----------
+SDPB0678#gitarthabodhini-CGV-SDPB-0678
+Started at 2018-11-16 13:01:34.461321
+200
+Ended at 2018-11-16 13:06:31.862222
+----------
+SDPB0679#gitarthabodhini-CGV-SDPB-0679
+Started at 2018-11-16 13:06:31.909069
+200
+Ended at 2018-11-16 13:10:10.667455
+----------
+SDPB0680#gitarthabodhini-CGV-SDPB-0680
+Started at 2018-11-16 13:10:10.714275
+200
+Ended at 2018-11-16 13:13:35.872713
+----------
+SDPB0681#gitarthabodhini-CGV-SDPB-0681
+Started at 2018-11-16 13:13:35.903984
+200
+Ended at 2018-11-16 13:19:58.458870
+----------
+SDPB0682#gitarthabodhini-CGV-SDPB-0682
+Started at 2018-11-16 13:19:58.521312
+200
+Ended at 2018-11-16 13:29:57.733713
+----------
+SDPB0683#brahmottarakhanda-CGV-SDPB-0683
+Started at 2018-11-16 13:29:57.827460
+200
+Ended at 2018-11-16 13:48:26.552615
+----------
+SDPB0684#bhaktihansa-CGV-SDPB-0684
+Started at 2018-11-16 13:48:26.708819
+200
+Ended at 2018-11-16 13:50:23.377095
+----------
+SDPB0685#virasinhavaloka-CGV-SDPB-0685
+Started at 2018-11-16 13:50:23.408351
+200
+Ended at 2018-11-16 14:20:31.265232
+----------
+SDPB0686#bhaktihetivivritti-CGV-SDPB-0686
+Started at 2018-11-16 14:20:31.437165
+200
+Ended at 2018-11-16 14:23:14.183428
+----------
+SDPB0687#kakshaputa-CGV-SDPB-0687
+Started at 2018-11-16 14:23:14.245914
+200
+Ended at 2018-11-16 14:37:52.444325
+----------
+SDPB0688#rasakadambakallolini_gitagovindatika_-CGV-SDPB-0688
+Started at 2018-11-16 14:37:52.522444
+200
+Ended at 2018-11-16 15:21:23.634366
+----------
+SDPB0689#suktitarangini-CGV-SDPB-0689
+Started at 2018-11-16 15:21:23.759370
+200
+Ended at 2018-11-16 15:50:32.940801
+----------
+SDPB0690#meghaduta_satika-CGV-SDPB-0690
+Started at 2018-11-16 15:50:32.972108
+200
+Ended at 2018-11-16 15:57:44.547332
+----------
+SDPB0691#meghaduta-CGV-SDPB-0691
+Started at 2018-11-16 15:57:44.609855
+200
+Ended at 2018-11-16 16:01:39.925309
+----------
+SDPB0692#tulapurushadanavidhi-CGV-SDPB-0692
+Started at 2018-11-16 16:01:39.972131
+200
+Ended at 2018-11-16 16:05:23.246638
+----------
+SDPB0693#kalpachintamanimantra-CGV-SDPB-0693
+Started at 2018-11-16 16:05:23.277863
+200
+Ended at 2018-11-16 16:16:49.046732
+----------
+SDPB0694#shivatandava-CGV-SDPB-0694
+Started at 2018-11-16 16:16:49.124804
+200
+Ended at 2018-11-16 16:23:00.480348
+----------
+SDPB0695#rasaratnakara-CGV-SDPB-0695
+Started at 2018-11-16 16:23:00.527210
+200
+Ended at 2018-11-16 16:34:02.854313
+----------
+SDPB0696#bhaktihetunirnaya-CGV-SDPB-0696
+Started at 2018-11-16 16:34:02.932386
+200
+Ended at 2018-11-16 16:35:23.957838
+----------
+SDPB0697#kalanirnayadipikavivarana-CGV-SDPB-0697
+Started at 2018-11-16 16:35:23.989107
+200
+Ended at 2018-11-16 16:52:52.495375
+----------
+SDPB0698#kupapratishtha-CGV-SDPB-0698
+Started at 2018-11-16 16:52:52.573491
+200
+Ended at 2018-11-16 16:54:02.888269
+----------
+SDPB0699#rasatarangini-CGV-SDPB-0699
+Started at 2018-11-16 16:54:02.919467
+200
+Ended at 2018-11-16 16:57:46.318810
+----------
+SDPB0700#laghushabdendushekhara-CGV-SDPB-0700
+Started at 2018-11-16 16:57:46.365747
+200
+Ended at 2018-11-16 16:59:28.741611
+----------
+SDPB0701#nandishraddha-CGV-SDPB-0701
+Started at 2018-11-16 16:59:28.788487
+200
+Ended at 2018-11-16 17:00:24.280797
+----------
+SDPB0702#batukabhairavadipadanapaddhati-CGV-SDPB-0702
+Started at 2018-11-16 17:00:24.327679
+200
+Ended at 2018-11-16 17:02:09.032634
+----------
+SDPB0703#meghaduta_satika-CGV-SDPB-0703
+Started at 2018-11-16 17:02:09.079455
+200
+Ended at 2018-11-16 17:06:01.301623
+----------
+SDPB0704#narayanabali-CGV-SDPB-0704
+Started at 2018-11-16 17:06:01.348518
+200
+Ended at 2018-11-16 17:07:07.787335
+----------
+SDPB0705#jatakalankara-CGV-SDPB-0705
+Started at 2018-11-16 17:07:07.802962
+200
+Ended at 2018-11-16 17:09:47.513284
+----------
+SDPB0706#pujagrantha-CGV-SDPB-0706
+Started at 2018-11-16 17:09:47.560176
+200
+Ended at 2018-11-16 17:11:45.586361
+----------
+SDPB0707#narayanabali-CGV-SDPB-0707
+Started at 2018-11-16 17:11:45.633242
+200
+Ended at 2018-11-16 17:12:35.742751
+----------
+SDPB0708#panchakavidhana-CGV-SDPB-0708
+Started at 2018-11-16 17:12:35.789627
+200
+Ended at 2018-11-16 17:13:15.235643
+----------
+SDPB0709#dikpalapuja-CGV-SDPB-0709
+Started at 2018-11-16 17:13:15.282461
+200
+Ended at 2018-11-16 17:14:05.586062
+----------
+SDPB0710#danaprayoga-CGV-SDPB-0710
+Started at 2018-11-16 17:14:05.601631
+200
+Ended at 2018-11-16 17:15:03.561075
+----------
+SDPB0711#a._chalarchapratishtha_b._pranapratishtha-CGV-SDPB-0711
+Started at 2018-11-16 17:15:03.592363
+200
+Ended at 2018-11-16 17:16:27.101384
+----------
+SDPB0712#rasatarangini_satika-CGV-SDPB-0712
+Started at 2018-11-16 17:16:27.148253
+200
+Ended at 2018-11-16 17:27:48.733385
+----------
+SDPB0713#kuvalayananda-CGV-SDPB-0713
+Started at 2018-11-16 17:27:48.780262
+200
+Ended at 2018-11-16 17:34:45.680874
+----------
+SDPB0714#sanskarakaustubha-CGV-SDPB-0714
+Started at 2018-11-16 17:34:45.712108
+200
+Ended at 2018-11-16 17:38:25.569724
+----------
+SDPB0715#sarabodhini_kavyaprakashatika_-CGV-SDPB-0715
+Started at 2018-11-16 17:38:25.585334
+200
+Ended at 2018-11-16 17:41:21.802486
+----------
+SDPB0716#kavyaprakashatika-CGV-SDPB-0716
+Started at 2018-11-16 17:41:21.833711
+200
+Ended at 2018-11-16 17:47:59.481542
+----------
+SDPB0717#kavyavilasa-CGV-SDPB-0717
+Started at 2018-11-16 17:47:59.512763
+200
+Ended at 2018-11-16 17:57:13.893317
+----------
+SDPB0718#vinayakashantiprayoga-CGV-SDPB-0718
+Started at 2018-11-16 17:57:13.924568
+200
+Ended at 2018-11-16 17:58:17.250345
+----------
+SDPB0719#shankaravijayadindima-CGV-SDPB-0719
+Started at 2018-11-16 17:58:17.312826
+200
+Ended at 2018-11-16 18:03:14.619136
+----------

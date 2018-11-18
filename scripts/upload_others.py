@@ -95,7 +95,7 @@ def uploadToArchive1(metadata):
 		startMessage = accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
 		print(startMessage)
 		flog.write(startMessage+'\n')
-		r = upload(identifier, {identifier+'.pdf': '../compressedPdfFiles/S.D.P.B._NO.'+acc+'.pdf'}, metadata=metadata)
+		r = upload(identifier, {identifier+'.pdf': '../../ChunilalGandhiMSS/compressedPdfFiles/S.D.P.B._NO.'+acc+'.pdf'}, metadata=metadata)
 		endMessage=str(r[0].status_code)+'\n'+'Ended at '+str(datetime.datetime.now())+'\n----------\n'
 		print(endMessage)
 		flog.write(endMessage)

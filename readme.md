@@ -4,7 +4,7 @@ There are three collections in Chunilal Gandhi Vidyabhavan, Surat, Gujarat, Indi
 
 1. [Pandit Shivadatta Shukla collection](https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/blob/master/ShivadattaShuklaPrakashanandanatha.tsv)
 2. [Shastri Dinamanishankara collection](https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/blob/master/ShastriDinamanishankara.tsv)
-3. [Prof. V. R. Tripathi collection](https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/blob/master/ProfVRTripathi.tsv)
+3. [Prof. V. R. Trivedi collection](https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/blob/master/ProfVRTrivedi.tsv)
 
 # How to change to excel file
 

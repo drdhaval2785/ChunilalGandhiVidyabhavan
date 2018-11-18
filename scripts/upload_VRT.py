@@ -95,7 +95,7 @@ def createMetadataJson2():
 	ferror = codecs.open('../logs/error2.txt', 'a', 'utf-8')
 	print('Files not found')
 	for line in fin:
-		metadata = find_metadata1(line)
+		metadata = find_metadata2(line)
 		identifier = metadata['identifier']
 		accession = metadata['Accession_No']
 		fullaccession = accession.replace('VRT','V_-')

@@ -1,0 +1,135 @@
+VRT0001#chintamanitika-CGV-VRT-0001
+Started at 2018-11-18 19:50:39.313868
+200
+Ended at 2018-11-18 19:51:51.281315
+----------
+VRT0002#commentary_on_the_work_of_shivaditya-CGV-VRT-0002
+Started at 2018-11-18 19:51:51.468812
+200
+Ended at 2018-11-18 19:57:37.438218
+----------
+VRT0003#didhiti-CGV-VRT-0003
+Started at 2018-11-18 19:57:37.547542
+200
+Ended at 2018-11-18 20:02:11.552835
+----------
+VRT0004#durgasaptashatikastotra-CGV-VRT-0004
+Started at 2018-11-18 20:02:11.615333
+200
+Ended at 2018-11-18 20:02:48.840006
+----------
+VRT0005#dravyapadartha_tarkasangraha_-CGV-VRT-0005
+Started at 2018-11-18 20:02:48.918091
+200
+Ended at 2018-11-18 20:03:21.657567
+----------
+VRT0006#grihashanti-CGV-VRT-0006
+Started at 2018-11-18 20:03:21.735693
+200
+Ended at 2018-11-18 20:04:03.039066
+----------
+VRT0007#homayagya-CGV-VRT-0007
+Started at 2018-11-18 20:04:03.117155
+200
+Ended at 2018-11-18 20:06:21.685297
+----------
+VRT0008#lakshanavaliprakasha-CGV-VRT-0008
+Started at 2018-11-18 20:06:21.747815
+200
+Ended at 2018-11-18 20:07:04.893079
+----------
+VRT0009#manjarimakaranda-CGV-VRT-0009
+Started at 2018-11-18 20:07:04.924331
+200
+Ended at 2018-11-18 20:11:12.132758
+----------
+VRT0010#nyayasiddhantamanjari-CGV-VRT-0010
+Started at 2018-11-18 20:11:12.210885
+200
+Ended at 2018-11-18 20:13:11.270521
+----------
+VRT0011#nyayasiddhantamanjari_shabdakhandatika_-CGV-VRT-0011
+Started at 2018-11-18 20:13:11.333023
+200
+Ended at 2018-11-18 20:13:55.556369
+----------
+VRT0012#nayikavarnana-CGV-VRT-0012
+Started at 2018-11-18 20:13:55.618859
+200
+Ended at 2018-11-18 20:14:51.639934
+----------
+VRT0013#rasamanjari-CGV-VRT-0013
+Started at 2018-11-18 20:14:51.733662
+200
+Ended at 2018-11-18 20:16:15.274457
+----------
+VRT0014#rasamanjaritika-CGV-VRT-0014
+Started at 2018-11-18 20:16:15.352553
+200
+Ended at 2018-11-18 20:17:47.753181
+----------
+VRT0015#rasatarangini-CGV-VRT-0015
+Started at 2018-11-18 20:17:47.831306
+200
+Ended at 2018-11-18 20:19:58.891390
+----------
+VRT0016#sauyogavibhaga_tarkasangrahadipika_-CGV-VRT-0016
+Started at 2018-11-18 20:19:58.938268
+200
+Ended at 2018-11-18 20:20:32.472696
+----------
+VRT0017#sevashloka-CGV-VRT-0017
+Started at 2018-11-18 20:20:32.535164
+200
+Ended at 2018-11-18 20:21:03.444343
+----------
+VRT0018#siddhantamuktavalitika-CGV-VRT-0018
+Started at 2018-11-18 20:21:03.491222
+200
+Ended at 2018-11-18 20:21:49.058218
+----------
+VRT0019#tarkabhasha-CGV-VRT-0019
+Started at 2018-11-18 20:21:49.136346
+200
+Ended at 2018-11-18 20:22:25.843267
+----------
+VRT0020#trikalasandhya-CGV-VRT-0020
+Started at 2018-11-18 20:22:25.905883
+200
+Ended at 2018-11-18 20:23:02.894537
+----------
+VRT0021#tarkakaumudi-CGV-VRT-0021
+Started at 2018-11-18 20:23:03.050794
+200
+Ended at 2018-11-18 20:24:08.213106
+----------
+VRT0022#tarkasangraha-CGV-VRT-0022
+Started at 2018-11-18 20:24:08.275607
+200
+Ended at 2018-11-18 20:24:42.747510
+----------
+VRT0023#tarkabhashaprakasha-CGV-VRT-0023
+Started at 2018-11-18 20:24:42.810011
+200
+Ended at 2018-11-18 20:25:57.036069
+----------
+VRT0024#tarkasangrahadipika-CGV-VRT-0024
+Started at 2018-11-18 20:25:57.129827
+200
+Ended at 2018-11-18 20:26:37.461572
+----------
+VRT0025#trikalasandhya-CGV-VRT-0025
+Started at 2018-11-18 20:26:37.508458
+200
+Ended at 2018-11-18 20:27:14.871160
+----------
+VRT0026#upamananirupana-CGV-VRT-0026
+Started at 2018-11-18 20:27:14.965001
+200
+Ended at 2018-11-18 20:29:28.281839
+----------
+VRT0027#vadabodhatika-CGV-VRT-0027
+Started at 2018-11-18 20:29:28.344343
+200
+Ended at 2018-11-18 20:31:06.573142
+----------

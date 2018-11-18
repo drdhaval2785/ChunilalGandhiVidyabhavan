@@ -1,0 +1,3 @@
+Accession No.	Title	Author	Remarks	Subject
+P0001	छन्दःशास्त्र		Incomplete. Folio 1 is missing. A work on prosody in Prakrit.	Prosody
+P0002	वैराग्यशतक (?)		Incomplete. An अर्धमागधी work with गुजराती narratives. First few folios missing.	Kavya

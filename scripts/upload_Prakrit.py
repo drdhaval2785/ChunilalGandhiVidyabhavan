@@ -66,7 +66,7 @@ def find_metadata2(line):
 	metadata['mediatype'] = 'texts'
 	metadata['collection'] = 'opensource'
 	metadata['creator'] = 'Chunilal Gandhi Vidyabhavan Surat'
-	metadata['description'] = 'Prof. V. R. Trivedi (VRT) collection of manuscripts of Chunilal Gandhi Vidyabhavan, Surat.'
+	metadata['description'] = 'Prakrit collection of manuscripts of Chunilal Gandhi Vidyabhavan, Surat.'
 	metadata['language'] = 'san'
 	metadata['email'] = 'cgvidyabhavan@gmail.com'
 	return metadata

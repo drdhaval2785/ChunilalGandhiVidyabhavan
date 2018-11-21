@@ -207,3 +207,131 @@
 7. Books in other languages
 	./Prakrit_-01
 	./Prakrit_-02
+
+
+8. PSS works not included in catalogue, nor in scanned copies.
+
+	See https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/issues/10#issue-378847833.
+	These are neither included in catalogue, nor in scanned copies.
+	As they do not figure in the catalogue, it seems probable that these MSS were not available when the work of catalogueing was undertaken.
+
+	3
+	24
+	35
+	82
+	87
+	309
+	331
+	350
+	376
+	447-A
+	482
+	490
+	525
+	527
+	550
+	583
+	610
+	612
+	784
+	795
+	800
+	833
+	835
+	843
+	845
+	851
+	1339
+	1483
+	1548
+
+
+9. Manuscripts in PSS collection which appear in catalogue, but are not scanned.
+
+	See https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/issues/10#issuecomment-439030478.
+	1082:Not Scanned
+	24+1339:Not Scanned
+	0447-A:Not Scanned
+	0703-A:Not Scanned
+	1177-A:Not Scanned
+	1343-A:Not Scanned
+	0079:Not Scanned
+	0880-A:Not Scanned
+	0210-A:Not Scanned
+	0157:Not Scanned
+	0310:Not Scanned
+	0158-A:Not Scanned
+	0392-C:Not Scanned
+	1367:Not Scanned
+	0392-A:Not Scanned
+	0159:Not Scanned
+
+10. SDPB collection - not scanned books.
+
+	See https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/issues/10#issuecomment-437972004. 
+	SDPB0080 - book scanned. information slip not scanned.
+	SDPB0572
+	SDPB0651
+	SDPB0671
+	SDPB0840
+	SDPB0867
+	SDPB0881
+	SDPB0906
+	SDPB0929
+
+
+11. SDPB files not found during creation of metadata.
+
+	See https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/issues/23.
+	Two types.
+    Addition of A, B at the end.
+    Without addition of A, B etc. They are genuine issue.
+	These items will require careful handling at a later stage after all easily uploadable items are uploaded.
+	
+	S.D.P.B._No.0013A
+	S.D.P.B._No.0013B
+	S.D.P.B._No.0013C
+	S.D.P.B._No.0039
+	S.D.P.B._No.0081A
+	S.D.P.B._No.0081B
+	S.D.P.B._No.0226A
+	S.D.P.B._No.0226B
+	S.D.P.B._No.0226C
+	S.D.P.B._No.0226D
+	S.D.P.B._No.0241A
+	S.D.P.B._No.0357A
+	S.D.P.B._No.0358A
+	S.D.P.B._No.0359A
+	S.D.P.B._No.0360A
+	S.D.P.B._No.0361A
+	S.D.P.B._No.0362A
+	S.D.P.B._No.0363A
+	S.D.P.B._No.0364A
+	S.D.P.B._No.0365A
+	S.D.P.B._No.0365
+	S.D.P.B._No.0366A
+	S.D.P.B._No.0367A
+	S.D.P.B._No.0368A
+	S.D.P.B._No.0369A
+	S.D.P.B._No.0550A
+	S.D.P.B._No.0572
+	S.D.P.B._No.0638
+	S.D.P.B._No.0651
+	S.D.P.B._No.0671
+	S.D.P.B._No.0788
+	S.D.P.B._No.0840
+	S.D.P.B._No.0867
+	S.D.P.B._No.0881
+	S.D.P.B._No.0906
+	S.D.P.B._No.0929
+	S.D.P.B._No.0960
+
+
+12. Not uploaded because of very long names (>100 letters).
+
+	See https://github.com/drdhaval2785/ChunilalGandhiVidyabhavan/issues/22.
+	PSS-1066-1283
+	SDPB-0134
+	
+
+

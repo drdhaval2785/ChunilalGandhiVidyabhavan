@@ -1,4 +1,4 @@
-Accession Number	Subject	Title	Author	Scribe	Date of the work	Date of the Ms.	Place of the work	Place of the Ms.	Size	Extent	Language	Script	Remarks	Observations
+﻿Accession Number	Subject	Title	Author	Scribe	Date of the work	Date of the Ms.	Place of the work	Place of the Ms.	Size	Extent	Language	Script	Remarks	Observations
 SDPB0001	Dharmashastra	भगवन्तभास्कर (समयमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.8"x5"	89	Sanskrit	Devanagari	Folio no. 53 and 66 are missing.	
 SDPB0002	Dharmashastra	भगवन्तभास्कर (नीतिमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				10.2"x4.8"	56	Sanskrit	Devanagari	Complete.	
 SDPB0003	Dharmashastra	भगवन्तभास्कर (दानमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.6"x5"	141	Sanskrit	Devanagari	Folio 3 is missing. Folio no. 126 are two, and 127 is missing. Obviously second 126 is really 127.	
@@ -80,7 +80,7 @@ SDPB0076	Tantra	गुरुकवचस्तोत्रमन्त्र				
 SDPB0077	Tantra	हनुमत्पद्धति, हनुमत्स्तोत्र		माहावजी		V.S. 1592			9"x4"	12	Sanskrit	Devanagari	Complete.	
 SDPB0078	Lexicography	मातृकानिघण्टु	महीदास			V.S. 1804		सुरत	7.8"x4.7"	6	Sanskrit	Devanagari	Complete.	Author name changed from महिदास to महीदास.
 SDPB0079	Tantra	महात्रिपुरसुन्दरीमन्त्र							9"x4.1"	1	Sanskrit	Devanagari	Complete.	
-SDPB0080	Tantra	पञ्चमीस्तवराजस्तोत्र								26	Sanskrit	Devanagari		Slip not scanned. The work seems complete, but without any colophon.
+SDPB0080	Tantra	पञ्चमीस्तवराजस्तोत्र							5.2"x3"	26	Sanskrit	Devanagari	Complete.	Slip not scanned. The work seems complete, but without any colophon.
 SDPB0081A	Stotra	दुर्वासामहिम्न	दुर्वासस्						5.4"x3"	78	Sanskrit	Devanagari	Complete. Bound in a book form.	There is only one work SDPB0081. But as one work is of Stotra and other is of Dharmashastra category, it is separated out in two entries in the catalogue.
 SDPB0081B	Dharmashastra	शूद्राणां स्नानतर्पणविधि,  शूद्राणां श्राद्धविधि	कमलाकर भट्ट						5.4"x3"	42	Sanskrit	Devanagari	Complete. Bound in a book form.	There is only one work SDPB0081. But as one work is of Stotra and other is of Dharmashastra, it is separated out in two entries in the catalogue.
 SDPB0082	Tantra	पञ्चमीस्तवराज	वामेश्वर	सदाशिव		V.S. 1745			7.7"x4.5"	13	Sanskrit	Devanagari	Complete.	
@@ -592,7 +592,7 @@ SDPB0568	Nyaya	अनुमानदीधिति	भट्टाचार्�
 SDPB0569	Nyaya	न्यायसिद्धान्तमञ्जरी	चूडामणि						9.6"x3.9"	26	Sanskrit	Devanagari		
 SDPB0570	Nyaya	न्यायग्रन्थ							10"x4.4"	15	Sanskrit	Devanagari	Folios 1-2 are missing. Begins abruptly.	
 SDPB0571	Nyaya	धर्मितावच्छेद							10"x4.6"	31	Sanskrit	Devanagari		
-SDPB0572											Sanskrit	Devanagari		Not scanned. Check physical manuscript.
+SDPB0572	Nyaya	गादाधरी	गदाधर						10.5"x4.8"	13	Sanskrit	Devanagari	Folios 101 to 113 only. Begins and ends abruptly.	Not scanned. Check physical manuscript.
 SDPB0573	Nyaya	गादाधरी							10.5"x4.8"	21	Sanskrit	Devanagari	Begins and ends abruptly.	
 SDPB0574	Vedanta	a. अद्वैतानन्द, b. विद्यानन्द		रामकृष्ण					11.8"x4.9"	31	Sanskrit	Devanagari	They are chapters of a larger work ब्रह्मानन्द.	
 SDPB0575	Vedanta	तत्त्वविवेक	विद्यारण्य						11.5"x4.8"	25	Sanskrit	Devanagari		
@@ -671,7 +671,7 @@ SDPB0647	Nyaya	गादाधरी							4.6"x10.2"	118	Sanskrit	Devanagari	fo
 SDPB0648	Tantra Ritual	बालात्रिपुरापटल							8.2"x4.2"	9	Sanskrit	Devanagari		
 SDPB0649	Nyaya	चिन्तामणि	गङ्गेश						11"x3.9"	31	Sanskrit	Devanagari	Folios 22-53 only. Begins and ends abruptly.	
 SDPB0650	Nyaya	न्यायमुक्तावली		वामन पाठक					11.1"x3.5"	67	Sanskrit	Devanagari		
-SDPB0651														Not scanned. Check with physical copy.
+SDPB0651	Nyaya	गादाधरी	गदाधर						9.9"x4"	24	Sanskrit	Devanagari		Not scanned. Check with physical copy.
 SDPB0652	Nyaya	न्यायग्रन्थ							9.8"x4.3"	47	Sanskrit	Devanagari	Begins abruptly.	In slip, title is shown as हेरम्ब, but it is not at all proper. It seems at the max the name of owner of manuscript.
 SDPB0653	Nyaya	भवानन्दी							11.5"x4.3"	240	Sanskrit	Devanagari		
 SDPB0654	Nyaya	अनुमानचिन्तामणि							10"x4"	14	Sanskrit	Devanagari	Ends abruptly.	
@@ -691,7 +691,7 @@ SDPB0667	Purana	गीतार्थबोधिनी	वामन						9.3"x6
 SDPB0668	Kavya	महाभारत भारतार्थप्रदीपिकासहित (विराटपर्व)	वेद व्यास, अर्जुन मिश्र						13.8"x5.5"	89	Sanskrit	Devanagari		
 SDPB0669	Kavya	महाभारत भारतार्थप्रदीपिकासहित (उद्योगपर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.5"x5.5"	309	Sanskrit	Devanagari		
 SDPB0670	Kavya	महाभारत भारतार्थप्रदीपिकासहित (आदिपर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.7"x5.5"	414	Sanskrit	Devanagari		
-SDPB0671														Not scanned. Check physical manuscript.
+SDPB0671	Kavya	महाभारत भारतार्थप्रदीपिकासहित (वनपर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.5"x5.5"	502	Sanskrit	Devanagari		Not scanned. Check physical manuscript.
 SDPB0672	Kavya	महाभारत भारतार्थप्रदीपिकासहित (सभापर्व)	वेद व्यास, अर्जुन मिश्र			V.S. 1717			13.7"x5.5"	115	Sanskrit	Devanagari		
 SDPB0673	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	17	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
 SDPB0674	Purana	गीतार्थबोधिनी	वामन						9.3"x6.3"	12	Sanskrit, Marathi	Devanagari	A समश्लोकी translation in मराठी.	
@@ -860,7 +860,7 @@ SDPB0836	Vedic Ritual	पिण्डदानविधि							10.5"x4.6"	31	S
 SDPB0837	Dharmashastra	जातिविवेक	विश्वनाथ	कृष्ण		V.S. 1911			9.8"x4.5"	35	Sanskrit	Devanagari		
 SDPB0838	Vedic Ritual	गृह्यकारिका				V.S. 1569			9.6"x4.4"	135	Sanskrit	Devanagari	Folio 1 is missing. Begins abruptly.	
 SDPB0839	Dharmashastra	विधानमाला				V.S. 1768			10.2"x4.5"	272	Sanskrit	Devanagari		
-SDPB0840											Sanskrit	Devanagari		Not scanned.
+SDPB0840	Vedic literature	शाङ्खायन गृह्यसूत्र		रुद्रदेव		V.S. 1739			9.3"x4.2"	49	Sanskrit	Devanagari		Not scanned.
 SDPB0841	Stotra	ज्ञानार्णव				V.S. 1616			7.2"x4.5"	88	Sanskrit	Devanagari		
 SDPB0842	Tantra Ritual	महोपनिषद्									Sanskrit	Devanagari		
 SDPB0843	Stotra	बालात्रिपुरापञ्चरत्नस्तोत्र							5.3"x3"	4	Sanskrit	Devanagari		
@@ -887,7 +887,7 @@ SDPB0863	Vedic Literature	शाङ्खायन गृह्यसूत्�
 SDPB0864	Kavya	भामिनीविलास	जगन्नाथ पण्डित						6.7"x4"	9	Sanskrit	Devanagari	Ends abruptly.	
 SDPB0865	Tantra Ritual	त्रैलोक्यमोहनकवच							6"x4"	4	Sanskrit	Devanagari		
 SDPB0866	Tantra Ritual	पञ्चाक्षरसङ्क्षेपपद्धति	बालकृष्ण दीक्षित						7.6"x4.1"	19	Sanskrit	Devanagari		
-SDPB0867											Sanskrit	Devanagari		Not scanned.
+SDPB0867	Kavya	सुभाषितस्ङ्ग्रह							7.7"x4.5"	8	Sanskrit	Devanagari		Not scanned.
 SDPB0868	Tantra Ritual	मुक्तिसाधककवच							6.3"x3.4"	38	Sanskrit	Devanagari		
 SDPB0869	Stotra	दीपिनीमन्त्र							3.4"x6.4"	10	Sanskrit	Devanagari		Manuscripts 869 and 870 data is interchanged in scanned copies.
 SDPB0870	Stotra	हाटकेश्वरस्तोत्र							6.9"x4.4"	2	Sanskrit	Devanagari		Manuscripts 869 and 870 data is interchanged in scanned copies.
@@ -901,7 +901,7 @@ SDPB0877	Vedanta	स्फोटतत्त्व	कृष्ण शेष				
 SDPB0878	Purana	श्रीमद्भागवत भावार्थदीपिकासहित	श्रीधरस्वामी			V.S. 1720			11"x5"	234	Sanskrit	Devanagari	Folio 1 is missing. Begins abruptly.	
 SDPB0879	Purana	भागवतदीपिका (१० स्कन्ध)	श्रीधरस्वामी			V.S. 1731			11"x4.8"	531	Sanskrit	Devanagari		
 SDPB0880	Tantra Ritual	नित्यक्रम							6.6"x3.3"	5	Sanskrit	Devanagari		
-SDPB0881											Sanskrit	Devanagari		Not scanned.
+SDPB0881	Rhetorics	चन्द्रालोक							6.3"x4.4	18	Marathi	Devanagari		Not scanned.
 SDPB0882	Vedic Literature	कुण्डपूजा							9.7"x4.5"	6	Sanskrit	Devanagari		
 SDPB0883	Tantra Ritual	बटुकभैरवपञ्जर		कमलाशङ्कर पण्ड्या		V.S. 1889			6.6"x4.2"	5	Sanskrit	Devanagari		
 SDPB0884	Nataka	मुद्राराक्षस	विशाखदत्त						11"x4.8"	41	Sanskrit	Devanagari	Folio 1 is missing. Begins abruptly.	
@@ -926,7 +926,7 @@ SDPB0902	Stotra	गणेशसहस्रनाम				V.S. 1576			6.6"x3.5"	8	
 SDPB0903	Stotra	गणपतिपूजा							7.6"x4.1"	3	Sanskrit	Devanagari		
 SDPB0904	Stotra	ततातकास्तोत्र							7.6"x4.2"	6	Sanskrit	Devanagari	Folio 1 is missing. Begins abruptly.	
 SDPB0905	Stotra	महासरस्वतीस्तोत्र							6.4"x4.2"	7	Sanskrit	Devanagari		
-SDPB0906											Sanskrit	Devanagari		Not scanned.
+SDPB0906	Tantra	पूजाग्रन्थ				V.S. 1780			7.6"x4.2"	5	Sanskrit	Devanagari	Folio 1 is missing. Begins abruptly.	Not scanned.
 SDPB0907	Stotra	भारतसावित्रीस्तोत्र		रविदत्त					6.4"x4"	5	Sanskrit	Devanagari		
 SDPB0908	Stotra	रामरक्षा							6.9"x3.9"	5	Sanskrit	Devanagari		
 SDPB0909	Stotra	शापविमोचन							6"x3"	2	Sanskrit	Devanagari		

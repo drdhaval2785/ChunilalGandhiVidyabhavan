@@ -1,34 +1,11 @@
-1. Names which have been written till 32 are absolutely abnormal. Need to remove them.
-
-2. Long books are not converted well with error 'Argument list too long'.
-	BOOK_NO.0015
+1. Long books are not converted well with error 'Argument list too long'.
 	BOOK_NO.0351
 	PANDAV_PRATAP_GRANTH
 	VALMIKI_RAMAYAN
 
-3. Individual errors
-	
-	BOOK_NO.0302
-	magick.exe: Premature end of JPEG file `./BOOK_NO.0302/page00043.jpg' @ warning/jpeg.c/JPEGWarningHandler/365.
-	magick.exe: Corrupt JPEG data: premature end of data segment `./BOOK_NO.0302/page00043.jpg' @ warning/jpeg.c/JPEGWarningHandler/365.
+2. Abnormal file names. (Pending to upload too.)
 
-	BOOK_NO.0703-B
-	magick.exe: Not a JPEG file: starts with 0x00 0x00 `./BOOK_NO.0703-A/page00007.jpg' @ error/jpeg.c/JPEGErrorHandler/332.
-
-	BOOK_NO.0863
-	magick.exe: unable to open image './BOOK_NO.0862/BOOK NO.0863/*.jpg': Invalid argument @ error/blob.c/OpenBlob/3489.
-
-	S.D.P.B._NO.0259
-	magick.exe: unable to open image './*.jpg': Invalid argument @ error/blob.c/Open                                                                                                                Blob/3489.
-
-	./S.D.P.B._NO.0729
-	magick.exe: unable to open image './*.jpg': Invalid argument @ error/blob.c/OpenBlob/3489.
-
-4. Abnormal file names.
-
-	BOOK_NO.0862/BOOK NO.0863
-
-	S.D.P.B._NO.0001/BOOK NO.tadpatri
+	BOOK NO.tadpatri
 
 	S.D.P.B._NO.0638_BAKI
 	
@@ -36,11 +13,7 @@
 	
 	BOOK_NO.853-B
 	
-	BOOK_NO.972
-
-	./V_-03 (Should be V_-0003, as is the case of rest of files.)
-	
-5. Missing files in digitization.
+3. Missing files in digitization. This has been manually examined from the list of files in scannedBooks folder.
 
 	BOOK_NO.0003
 	BOOK_NO.0007
@@ -135,35 +108,9 @@
 	S.D.P.B._NO.0906
 	S.D.P.B._NO.0929
 	S.D.P.B._NO.0960
-	S.D.P.B._NO.0962
-	S.D.P.B._NO.0963
-	S.D.P.B._NO.0964
-	S.D.P.B._NO.0965
-	S.D.P.B._NO.0966
-	S.D.P.B._NO.0967
-	S.D.P.B._NO.0968
-	S.D.P.B._NO.0969
-	S.D.P.B._NO.0970
-	S.D.P.B._NO.0971
-	S.D.P.B._NO.0972
-	S.D.P.B._NO.0973
-	S.D.P.B._NO.0974
-	S.D.P.B._NO.0975
-	S.D.P.B._NO.0976
-	S.D.P.B._NO.0977
-	S.D.P.B._NO.0978
-	S.D.P.B._NO.0979
-	S.D.P.B._NO.0980
-	S.D.P.B._NO.0981
-	S.D.P.B._NO.0982
-	S.D.P.B._NO.0983
-	S.D.P.B._NO.0984
-	S.D.P.B._NO.0985
-	S.D.P.B._NO.0986
-	S.D.P.B._NO.0987
 	V_-0003 (V_-3 is present)
 	
-6. Irregular Appendages like -A, _A, A etc.
+4. Irregular Appendages like -A, _A, A etc.
 
 	BOOK_NO.0059-A
 	BOOK_NO.0061-A
@@ -236,7 +183,7 @@
 	S.D.P.B._NO.0550-A
 	
 	
-7. Joint books
+5. Joint books
 
 	BOOK_NO.0290+0290-A
 	BOOK_NO.0320_A,_B
@@ -251,12 +198,12 @@
 	BOOK_NO.1557+58
 	
 	
-8. Unexplained items
+6. Unexplained items
 
 	BOOK_NO.0862/BOOK NO.0863 (The books 0862 and 0863 are separately available. Not sure why this conjoint appeared.)
 	BOOK_NO.1437+1448 (1448 is also present separately)
 
 
-9. Books in other languages
+7. Books in other languages
 	./Prakrit_-01
 	./Prakrit_-02

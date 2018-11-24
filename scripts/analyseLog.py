@@ -1,4 +1,5 @@
 import codecs
+import os
 
 class EntryRack(object):
 	def __init__(self, line):
@@ -22,6 +23,18 @@ def prepareCheckList(catalogueTsv, uploadLog):
 	entries = [EntryRack(line) for line in lines]
 	flog = codecs.open(uploadLog, 'r', 'utf-8')
 	
+
+def scanToPdfLoss(scannedFolder, pdfFolder):
+	scanList = os.listdir(scannedFolder)
+	#print(scanList)
+	pdfList = os.listdir(pdfFolder)
+	pdfList = [item.rstrip('.pdf') for item in pdfList]
+	pdfSet = set(pdfList)
+	for scanFile in scanList:
+		if scanFile not in pdfSet:
+			print(scanFile)
 	
 if __name__=="__main__":
-	findAbnormal('../logs/uploadlog.txt')
+	#findAbnormal('../logs/uploadlog.txt')
+	scanToPdfLoss('../../ChunilalGandhiMSS/scannedBooks','../../ChunilalGandhiMSS/compressedPdfFiles')
+	

@@ -122,7 +122,7 @@ def createMetadataJson():
 		identifier = metadata['identifier']
 		accession = metadata['Accession_No']
 		sr = metadata['Sr_No']
-		if not os.path.isfile('../../ChunilalGandhiMSS/BOOK_NO.'+accession+'.pdf'):
+		if not os.path.isfile('../../ChunilalGandhiMSS/compressedPdfFiles/BOOK_NO.'+accession+'.pdf'):
 			ferror.write('File Not Found:'+accession+'\n')
 			print(accession)
 		else:

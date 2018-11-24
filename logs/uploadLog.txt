@@ -7808,3 +7808,43 @@ Started at 2018-11-16 10:27:09.264816
 200
 Ended at 2018-11-16 10:29:09.203254
 ----------
+0167#0638#sangyatantra_shodashayogadhyaya_vyakhya-CGV-PSS-0167-0638
+Started at 2018-11-21 18:14:58.135098
+200
+Ended at 2018-11-21 18:18:30.058296
+----------
+1013#0242-B#lakshminrisinhastotra-CGV-PSS-1013-0242-B
+Started at 2018-11-21 18:22:25.000138
+200
+Ended at 2018-11-21 18:23:29.065192
+----------
+1129#0853-B#vishnusahasranama-CGV-PSS-1129-0853-B
+Started at 2018-11-21 18:23:29.190138
+200
+Ended at 2018-11-21 18:28:46.642242
+----------
+0080#1177-A#sphotavada_shabdakaustubha_-CGV-PSS-0080-1177-A
+Started at 2018-11-23 19:03:51.927816
+200
+Ended at 2018-11-23 19:04:33.107733
+----------
+0073#0703-A#siddhantakaumudi_purvardha_-CGV-PSS-0073-0703-A
+Started at 2018-11-23 19:04:33.201428
+200
+Ended at 2018-11-23 19:08:30.869226
+----------
+0666#0351#bhagavatapurana_9-12_bhavarthadipikasahita-CGV-PSS-0666-0351
+Started at 2018-11-23 19:08:30.947294
+200
+Ended at 2018-11-23 19:42:23.694202
+----------
+0667#0725#bhagavatapurana_padaratnavalisahita-CGV-PSS-0667-0725
+Started at 2018-11-23 19:42:23.756699
+200
+Ended at 2018-11-23 20:25:51.279533
+----------
+0116#0880-A#anjananidana-CGV-PSS-0116-0880-A
+Started at 2018-11-23 21:03:32.005692
+200
+Ended at 2018-11-23 21:04:08.117659
+----------

@@ -230,10 +230,10 @@ SDPB0222	Tantra	रामकवच	विश्वामित्र			V.S. 1897
 SDPB0223	Tantra	रामकवच	विश्वामित्र						6.3"x4"	5	Sanskrit	Devanagari	Complete.	
 SDPB0224	Rhetorics	रसमञ्जरी	भानु						6.5"x4"	8	Sanskrit	Devanagari	Manuscript ends abruptly.	
 SDPB0225	Yoga	गोर्षबोध				V.S. 1823			7.9"x4"	21	Old Gujarati?	Devanagari	Complete.	
-SDPB0226A	Purana	भागवत (दशमस्कन्ध, २९ अध्याय)							7"x4"	36	Sanskrit	Devanagari	Some folios from middle part are missing. Bookish in form.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
-SDPB0226B	Purana	कृष्णसनेहलीला							7"x4"	36	Old Gujarati	Devanagari	Some folios from middle part are missing. Bookish in form.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
-SDPB0226C	Philosophy	सप्तश्लोकीगीता							7"x4"	36	Sanskrit	Devanagari	Some folios from middle part are missing. Bookish in form.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
-SDPB0226D	Tantra	गोपालस्तवराज							7"x4"	36	Sanskrit	Devanagari	Some folios from middle part are missing. Bookish in form.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
+SDPB0226A	Purana	भागवत (दशमस्कन्ध, २९ अध्याय)							7"x4"	10	Sanskrit	Devanagari	Incomplete. Ends abruptly. Bookish in form.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
+SDPB0226B	Purana	कृष्णसनेहलीला							7"x4"	58	Old Gujarati	Devanagari	Incomplete. Folios 1-46 are missing. Begins abruptly. Bookish in form.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
+SDPB0226C	Philosophy	सप्तश्लोकीगीता							7"x4"	2	Sanskrit	Devanagari	Complete.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
+SDPB0226D	Tantra	गोपालस्तवराज							7"x4"	6	Sanskrit	Devanagari	Complete.	As there are items pertaining to different language and different genres, they are separated out into A to D subsets.
 SDPB0227	Jyotisha	ज्योतिषग्रन्थ							7.1"x4.5"	3	Sanskrit	Devanagari	Begins and ends abruptly. 3 folios (17-19).  Folios on उपाकरण, उत्सर्जन, सङ्क्रान्तिकालनिर्णय.	
 SDPB0228	Tantra Ritual	तन्त्रग्रन्थ							7.3"x4.4"	7	Sanskrit	Devanagari	Seems complete.	
 SDPB0229	Dharmashastra	दशाहनित्यपिण्डकारिका							6"x3.4"	7	Sanskrit	Devanagari	Incomplete. Folios  5, 6 are missing.	
@@ -249,7 +249,7 @@ SDPB0238	Vedanta	छान्दोग्योपनिषद्भाष्य
 SDPB0239	Vedanta	छान्दोग्योपनिषद्भाष्य (प्रपाठक 6८)	शङ्कर			V.S. 1737			10.5"x6.5"	69	Sanskrit	Devanagari	Begins abruptly.	
 SDPB0240	Veda	माधवीयवेदार्थप्रकाश, कनकभाष्य (यजुर्वेदसंहिताभाष्य) काण्ड ४, प्रपाठक ५.	सायणाचार्य	करुणाशङ्कर		V.S. 1813			11.8"x6.7"	47	Sanskrit	Devanagari	Complete.	
 SDPB0241A	Purana Ritual	शिवलिङ्गप्रतिष्ठा							11.8"x6.7"	6	Sanskrit	Devanagari	Complete.	There are two subjects i.e. Purana Ritual and Tantra Ritual. So kept two separate entries.
-SDPB0241	Tantra Ritual	पञ्चाक्षरमन्त्र							11.8"x6.7"	6	Sanskrit	Devanagari	Complete.	There are two subjects i.e. Purana Ritual and Tantra Ritual. So kept two separate entries.
+SDPB0241B	Tantra Ritual	पञ्चाक्षरमन्त्र							11.8"x6.7"	6	Sanskrit	Devanagari	Complete.	There are two subjects i.e. Purana Ritual and Tantra Ritual. So kept two separate entries.
 SDPB0242	Tantra Ritual	रुद्रविधान							11.7"x6.2"	5	Sanskrit	Devanagari	Complete.	
 SDPB0243	Tantra Ritual	महारुद्रविधि							11.8"x6,7"	27	Sanskrit	Devanagari	Complete.	
 SDPB0244	Tantra Ritual	शतचण्डीविधान				V.S. 1796			11.8"x6.7"	16	Sanskrit	Devanagari	Complete.	
@@ -381,8 +381,7 @@ SDPB0363	Ayurveda	नाडीपरीक्षा							10.4"x5"	11	Sanskrit	D
 SDPB0363A	Purana Ritual	अनन्तव्रतपूजा		शिवकृष्ण दीक्षित					9.3"x5.3"	4	Sanskrit	Devanagari		
 SDPB0364	Jyotisha	सारोद्धार							9.5"x5.8"	15	Sanskrit	Devanagari		
 SDPB0364A	Purana Ritual	ऋषिपञ्चमीपूजा				V.S. 1726			9.5"x4.5"	2	Sanskrit	Devanagari		
-SDPB0365A	Stotra	लक्ष्मीनृसिंहस्तोत्र							5.2"z2.4"	2	Sanskrit	Devanagari		
-SDPB0365	Purana Ritual	ऋषिपञ्चमीपूजा				V.S. 1726			9.7"x4.3"	2	Sanskrit	Devanagari		
+SDPB0365	Stotra	लक्ष्मीनृसिंहस्तोत्र							5.2"x2.4"	2	Sanskrit	Devanagari		
 SDPB0366	Tantra Ritual	बटुकबलिदान							4.8"x3.6"	2	Sanskrit	Devanagari		
 SDPB0366A	Stotra	शिवहृदयस्तोत्र							9"x5"	3	Sanskrit	Devanagari		
 SDPB0367	Stotra	श्रीपञ्चाक्षरमन्त्रविधि							9"x5"	5	Sanskrit	Devanagari		

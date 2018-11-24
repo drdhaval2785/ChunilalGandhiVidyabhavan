@@ -92,6 +92,7 @@ def uploadToArchive1(metadata):
 	else:
 		accession = metadata['Accession_No']
 		acc = re.sub('^SDPB', '', accession)
+		acc = re.sub('([ABCDEFGHI])$', '-\g<1>', acc)
 		startMessage = accession+'#'+identifier+'\n'+'Started at '+str(datetime.datetime.now())
 		print(startMessage)
 		flog.write(startMessage+'\n')
@@ -103,12 +104,14 @@ def uploadToArchive1(metadata):
 	
 def createMetadataJson1():
 	fin = codecs.open('../derivedFiles/SDPBv001.tsv', 'r', 'utf-8')
+	#fin = codecs.open('../derivedFiles/new4.tsv', 'r', 'utf-8')
 	ferror = codecs.open('../logs/error1.txt', 'a', 'utf-8')
 	print('Files not found')
 	for line in fin:
 		metadata = find_metadata1(line)
 		identifier = metadata['identifier']
 		accession = metadata['Accession_No']
+		accession = re.sub('([ABCDEFGHI])$','-\g<1>',accession)
 		fullaccession = accession.replace('SDPB','S.D.P.B._No.')
 		if not os.path.isfile('../../ChunilalGandhiMSS/compressedPdfFiles/'+fullaccession+'.pdf'):
 			ferror.write('File Not Found:'+accession+'\n')
@@ -129,6 +132,7 @@ if __name__=="__main__":
 	accessionsToBeUploaded = '../derivedFiles/uploadstack1.txt'
 	for line in codecs.open(accessionsToBeUploaded, 'r', 'utf-8'):
 		accession = line.rstrip()
+		accession = re.sub('([ABCDEFGHI])$','-\g<1>',accession)
 		if os.path.isfile('../metadataJson/'+accession+'.json'):
 			metadata = json.load(codecs.open('../metadataJson/'+accession+'.json', 'r', 'utf-8'))
 			uploadToArchive1(metadata)

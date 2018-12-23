@@ -476,7 +476,7 @@ SDPB0450	Vedanta	वैतथ्यभाष्य							6.6"x4.4"	18	Sanskrit	D
 SDPB0451	Vedanta	वैतथ्यभाष्य							6.4"x4.2"	99	Sanskrit	Devanagari	Incomplete. Folios 111-209 only. Rest missing.	
 SDPB0452	Vedanta	वैतथ्यभाष्य							6.4"x4.2"	41	Sanskrit	Devanagari	Incomplete. Folios are 209-231 only. See manuscript 451.	
 SDPB0453	Architecture	कुण्डप्रदीप				V.S. 1762			7.5"x4.5"	27	Sanskrit	Devanagari	Incomplete. First folio is missing.	
-SDPB0454	Vedic Ritual	होमपद्धति							8.4"x4.8:	5	Sanskrit	Devanagari		
+SDPB0454	Vedic Ritual	होमपद्धति							8.4"x4.8"	5	Sanskrit	Devanagari		
 SDPB0455	Stotra	श्रीकार्तवीर्यार्जुनस्तवराज							6.9"x4.6"	13	Sanskrit	Devanagari		
 SDPB0456	Purana	कार्तवीर्यार्जुनकथा							7.7"x4.4"	4	Sanskrit	Devanagari		
 SDPB0457	Grammar	काशिकावृत्ति	वामन						9.2"x4.2"	13	Sanskrit	Devanagari	Incomplete. Folios 640-652 only. Rest missing.	
@@ -492,7 +492,7 @@ SDPB0466	Dharmashastra	आचारदीप आचारमातृकाव�
 SDPB0467	Grammar	तत्त्वबोधिनी		दिनमणिशङ्कर					10.8"x4.6"	20	Sanskrit	Devanagari	Incomplete.	
 SDPB0468	Grammar	तत्त्वबोधिनी	ज्ञानेन्द्रसरस्वती						9.4"x5.4"	122	Sanskrit	Devanagari	Incomplete. Folios 364-475 only. Begins abruptly.	In slips, author is wrongly shown as भट्टोजी दीक्षित.
 SDPB0469	Grammar	सुबोधिनी टीका		जयकृष्ण					a. 9.8"x5.6", b. 10.3"x4.6"	88	Sanskrit	Devanagari		
-SDPB0470	Grammar	तत्त्वबोधिनी	ज्ञानेन्द्रसरस्वती								Sanskrit	Devanagari		
+SDPB0470	Grammar	तत्त्वबोधिनी	ज्ञानेन्द्रसरस्वती						9.3"x5.5"	23	Sanskrit	Devanagari		
 SDPB0471	Grammar	तत्त्वबोधिनी							10.2"x4.7"	17	Sanskrit	Devanagari		
 SDPB0472	Grammar	तत्त्वबोधिनी							9.4"x5.2"	8	Sanskrit	Devanagari		
 SDPB0473	Dharmashastra	सन्न्यासविधि		रायभट्ट					7.6"x4.6"	23	Sanskrit	Devanagari		
@@ -504,7 +504,7 @@ SDPB0478	Architecture	कुण्डप्रदीप		इच्छारा�
 SDPB0479	Tantra Ritual	कार्तवीर्यार्जुननित्यपूजा	हरिकवि	दवे इच्छाराम		V.S. 1799			8"x4.8"	24	Sanskrit	Devanagari		
 SDPB0480	Tantra Ritual	बटुकपूजाविधि							8.2"x4.8"	7	Sanskrit	Devanagari		
 SDPB0481	Vedic Literature	कर्मप्रदीपभाष्य	आशादित्य मिश्र			V.S. 1555			11.1"x4.8"	200	Sanskrit	Devanagari		
-SDPB0482	Philology	निघण्टुग्रन्थ							11"x4.6"	20	Sanskrit	Devanagari	Incomplete. Folios 106 are missing.	Check the translation of philology as निघण्टु
+SDPB0482	Philology	व्युत्पत्तिग्रन्थ							11"x4.6"	20	Sanskrit	Devanagari	Incomplete. Folios 1 to 5 are missing.	
 SDPB0483	Vedic Ritual	शाङ्खायनसूत्रपद्धति							10.8"x4.8"	32	Sanskrit	Devanagari	Incomplete. There are some folios missing, as the last folio has 42.	
 SDPB0484	Vedic Ritual	शाङ्खायनसूत्रपद्धति							11"x4.8"	39	Sanskrit	Devanagari		
 SDPB0485	Vedic Ritual	गृह्यकर्मग्रन्थ (सामवेदीय)							10.2"x4.6"	26	Sanskrit	Devanagari	Incomplete.	
@@ -521,8 +521,8 @@ SDPB0495	Vedanta	वेदान्तसार	सदानन्द	उमा�
 SDPB0496	Vedanta	a. अपत्निकाधानाग्निहोत्रादिनिर्णय, b. नित्यहोमविधि		शङ्कर भट्ट					9.5"x5"	5	Sanskrit	Devanagari		
 SDPB0497	Dharmashastra	स्मृतिनिर्णय							10.4"x4.6"	116	Sanskrit	Devanagari	Incomplete. Folios 51-166 only.	
 SDPB0498	Nataka	कृष्णभक्तिचन्द्रिका	अनन्तदेव			V.S. 1724			11"x5"	24	Sanskrit	Devanagari		
-SDPB0499	Dharmashastra	आशौचप्रकरण	भट्टोजि भट्ट						7.4"x4.7"	10	Sanskrit	Devanagari		
-SDPB0500	Vedic Literature	ताण्ड्यब्राह्मण		शिवशङ्कर		V.S. 1782			9.6"x4.2"	280	Sanskrit	Devanagari		
+SDPB0499	Dharmashastra	आशौचप्रकरण	भट्टोजी भट्ट						7.4"x4.7"	10	Sanskrit	Devanagari		
+SDPB0500	Vedic Literature	ताण्ड्यब्राह्मण		शिवशङ्कर		V.S. 1742			9.6"x4.2"	280	Sanskrit	Devanagari		
 SDPB0501	Grammar	पाणिनि व्याकरण	पाणिनि	शिवशङ्कर		V.S. 1778			6.8"x3.8"	9	Sanskrit	Devanagari	Begins abruptly.	
 SDPB0502	Vedic Literature	ऋग्वेदसंहिता		सदाशिव					8.6"x5"	161	Sanskrit	Devanagari		
 SDPB0503	Vedic Literature	ऋग्वेदसंहिता							9.3"x5.3"	117	Sanskrit	Devanagari		

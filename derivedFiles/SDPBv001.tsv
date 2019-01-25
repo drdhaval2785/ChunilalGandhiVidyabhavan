@@ -1,4 +1,4 @@
-Accession Number	Subject	Title	Author	Scribe	Date of the work	Date of the Ms.	Place of the work	Place of the Ms.	Size	Extent	Language	Script	Remarks	Observations
+﻿Accession Number	Subject	Title	Author	Scribe	Date of the work	Date of the Ms.	Place of the work	Place of the Ms.	Size	Extent	Language	Script	Remarks	Observations
 SDPB0001	Dharmashastra	भगवन्तभास्कर (समयमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.8"x5"	89	Sanskrit	Devanagari	Folio no. 53 and 66 are missing.	
 SDPB0002	Dharmashastra	भगवन्तभास्कर (नीतिमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				10.2"x4.8"	56	Sanskrit	Devanagari	Complete.	
 SDPB0003	Dharmashastra	भगवन्तभास्कर (दानमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.6"x5"	141	Sanskrit	Devanagari	Folio 3 is missing. Folio no. 126 are two, and 127 is missing. Obviously second 126 is really 127.	
@@ -69,7 +69,7 @@ SDPB0062	Dharmashastra	सपिण्डीकरणविधि							7.7"x3"	
 SDPB0063	Stotra	विष्णुपञ्जरस्तोत्र							7.7"x3.4"	2	Sanskrit	Devanagari	Complete.	
 SDPB0064	Stotra	गणपतिस्तोत्र, जप							6.5"x4"	2	Sanskrit	Devanagari	Complete.	
 SDPB0065	Tantra Ritual	राजराजेश्वरीत्रिपुरसुन्दरीस्तोत्र							6"x5"	8	Sanskrit	Devanagari	It seems that it ends abruptly.	
-SDPB0066	Tantra Ritual	बालात्रिपुरपद्धति								9	Sanskrit	Devanagari	Seems complete.	Slip is absent. There is no colophon. So, author, scribe etc. can not be identified. Only size needs to be verified from original manuscript.
+SDPB0066	Tantra Ritual	बालात्रिपुरपद्धति							6.1"x5.1"	9	Sanskrit	Devanagari	Seems to be complete one.	
 SDPB0067	Tantra Ritual	दक्षिणामूर्तिमन्त्रविधि (तन्त्रसार)							7.8"x4.2"	2	Sanskrit	Devanagari	Complete.	
 SDPB0068	Tantra Ritual	विद्यामालिमन्त्र							8.7"x3.8"	2	Sanskrit	Devanagari	Complete.	
 SDPB0069	Stotra	त्रिपुरसुन्दरीमहिम्नस्तोत्र	दुर्वासस्			V.S. 1745			9.2"x4.2"	5	Sanskrit	Devanagari	Complete. A stotra of a tantric deity.	
@@ -100,7 +100,7 @@ SDPB0092	Vedic Literature	ऋक्संहितास्वस्त्यय
 SDPB0093	Dharmashastra	याज्ञवल्क्यस्मृति मिताक्षरासहिता (आचाराध्याय)	याज्ञवल्क्य, विज्ञानेश्वर						11"x5"	70	Sanskrit	Devanagari	Complete.	
 SDPB0094	Dharmashastra	याज्ञवल्क्यस्मृति मिताक्षरासहिता (व्यवहाराध्याय)	याज्ञवल्क्य, विज्ञानेश्वर			V.S. 1867			11"x5"	166	Sanskrit	Devanagari	Complete.	
 SDPB0095	Dharmashastra	याज्ञवल्क्यस्मृति मिताक्षरासहिता (प्रायश्चित्ताध्याय)	याज्ञवल्क्य, विज्ञानेश्वर						11"x5"	186	Sanskrit	Devanagari	Complete.	
-SDPB0096	Dharmashastra	a. ऊर्ध्वपुण्ड्रनिर्णयवाद, b. तुलसीमालाधारणवाद, c. शङ्खचक्रधारणवाद	पुरुषोत्तम						10"x4.6"	25	Sanskrit	Devanagari	Complete After folio 16, the ?? Foll are ?? 27,28 and 29 ?? End of 17, 18 and 19 of  ?? ?? No. 20 ?? So on regular numbers follow.	Very bad handwriting. Need to check physical book for better reading of remarks. It seems that this is wrongly marked as Vedanta. The work seems to be a Dharmashastra work.
+SDPB0096	Dharmashastra	a. ऊर्ध्वपुण्ड्रनिर्णयवाद, b. तुलसीमालाधारणवाद, c. शङ्खचक्रधारणवाद	पुरुषोत्तम						10"x4.6"	25	Sanskrit	Devanagari	Complete After folio 16, the three folios are numbered as 27,28 and 29 instead of 17, 18 and 19, after which folio no. 20 onwards regular numbering follows.	Very bad handwriting. Need to check physical book for better reading of remarks. It seems that this is wrongly marked as Vedanta. The work seems to be a Dharmashastra work.
 SDPB0097	Dharmashastra	निबन्धसर्वस्व (२ अध्याय, व्यवहार)							9.7"x5"	22	Sanskrit	Devanagari	Complete.	
 SDPB0098	Dharmashastra	धर्मशास्त्रग्रन्थ							9.5"x4.6"	22	Sanskrit	Devanagari	Seems complete. Mentions शातातप, व्यास, बृहस्पति, अङ्गिरस्, यम.	
 SDPB0099	Dharmashastra	मनुस्मृति	मनु			V.S. 1697			10"x4.3"	166	Sanskrit	Devanagari	Folios 11-23, 159, 162 are missing.	
@@ -124,7 +124,7 @@ SDPB0116	Nataka	महानाटक	हनुमत्						10"x4.5"	69	Sanskr
 SDPB0117	Rhetorics	कुवलयानन्द	अप्पय्य दीक्षित	जयकान्त		V.S. 1825		वाराणसी	9.7"x4.3"	68	Sanskrit	Devanagari	Complete.	In slip, scribe is wrongly identified as author.
 SDPB0118	Rhetorics	अर्थालङ्कारलक्षलक्षणसङ्ग्रह	अप्पय्य दीक्षित	जेशङ्कर					8"x4.3"	13	Sanskrit	Devanagari	Complete.	
 SDPB0119	Rhetorics	काव्यप्रकाशादर्श	महेश्वर						11.4"x4.5"	160	Sanskrit	Devanagari	Incomplete. Begins abruptly. Folio 1 is missing.	
-SDPB0120	Kavya	मेघदूत सटीक	कालिदास						10.5"x4.1"	91	Sanskrit	Devanagari	Incomplete. Folios 23 and 26 missing. Ends abruptly.  ??	Last line of Remarks not readable. Check with physical copy.
+SDPB0120	Kavya	मेघदूत सटीक	कालिदास						10.5"x4.1"	91	Sanskrit	Devanagari	Incomplete. Folios 23 and 26 missing. Ends abruptly.  पृष्ठ मातृका absent.	Last line of Remarks not readable. Check with physical copy.
 SDPB0121	Vedic Ritual	श्रौतविधिग्रन्थ							9.3"x5.6"	27	Sanskrit	Devanagari	Complete. A श्रौत ritual.	
 SDPB0122	Vedic Literature	विश्वदेव		देवकृष्ण शिवराम दवे		V.S. 1764			9.2"x5.3"	2	Sanskrit	Devanagari	Complete.	
 SDPB0123	Dharmashastra	वास्तुकर्म							9.3"x5.3"	7	Sanskrit	Devanagari	Complete.	
@@ -196,7 +196,7 @@ SDPB0188	Tantra Ritual	यन्त्रप्रतिष्ठा				V.S. 185
 SDPB0189	Vedic	ऋषिदेवतानामनुक्रमणी							6.5"x4.2"	4	Sanskrit	Devanagari	Complete.	
 SDPB0190	Tantra	नवग्रहमखप्रयोग, लघुशौनकी							7.2"x4.1"	33	Sanskrit	Devanagari	Complete.	
 SDPB0191	Dharmashastra Ritual	वास्तुदेवतास्थापन				V.S. 1878			6.5"x4.2"	8	Sanskrit	Devanagari	Complete.	
-SDPB0192	Vedic Ritual	कुण्डपूजा		रमाशङ्कर		V.S. 1872(1873?)			6.5"x4.2"	10	Sanskrit	Devanagari	Complete.	
+SDPB0192	Vedic Ritual	कुण्डपूजा		रमाशङ्कर		V.S. 1873			6.5"x4.2"	10	Sanskrit	Devanagari	Complete.	
 SDPB0193	Kavya	शार्ङ्गधरपद्धति	शार्ङ्गधर						11.5"x5"	79	Sanskrit	Devanagari	Incomplete. Ends abruptly.	
 SDPB0194	Grammar	परिभाषाभास्कर	भास्कर						8.1"x5.1"	16	Sanskrit	Devanagari	Complete.	
 SDPB0195	Purana	भागवत भागवतभावार्थदीपिकासहित (स्कन्ध १)	व्यास						11"x5""	124	Sanskrit	Devanagari	Complete.	
@@ -212,7 +212,7 @@ SDPB0204	Vedic Literature	श्रीधरीयश्रुतिव्या
 SDPB0205	Grammar	धातुपाठ		रामकृष्ण		V.S. 1741		काशी	10.8"x4.6"	14	Sanskrit	Devanagari	Complete.	
 SDPB0206	Dharmashastra	धर्मशास्त्रग्रन्थ		रणछोड		V.S. 1857, shaka 1722		प्रयाग	7.5"x4.3"	9	Sanskrit	Devanagari	Some rituals to be followed by yatis.	
 SDPB0207	Vedic (tantric?) Ritual	मन्त्रमहोदधि (प्रथमतरङ्ग)	महीधर						9"x4.8"	14	Sanskrit	Devanagari	Complete.	
-SDPB0208	?	अमरार्थविवेचन	एकनाथ						9.9"x3.9"		Sanskrit	Devanagari	Seems to be ending abruptly.	Recheck the Remarks column. Very illegible.
+SDPB0208	Kavya	कुमारार्थविवेचन	एकनाथ						9.9"x3.9"	14	Sanskrit	Devanagari	Seems to be ending abruptly.	
 SDPB0209	Tantra Ritual	रुद्रकलशस्नानपद्धति	नारायण			पित्रकेब्दे?			7.2"x4.5"	5	Sanskrit	Devanagari	Complete.	
 SDPB0210	Dharmashastra Ritual	व्यासपूजा	शङ्कर						7.7"x4.5"	5	Sanskrit	Devanagari	Complete.	
 SDPB0211	Jyotisha	पाशकावली	गर्ग			V.S. 1667			8.1"x3"	14	Sanskrit	Devanagari	Folio 3 is missing.	
@@ -256,7 +256,7 @@ SDPB0244	Tantra Ritual	शतचण्डीविधान				V.S. 1796		सू
 SDPB0245	Purana	गणेशसहस्रनाम				V.S. 1796		सूरत	11.8"x6.8"	6	Sanskrit	Devanagari	Complete. From गणेशपुराण.	
 SDPB0246	Purana	नाम्नां शतत्रय							9.8"x5.4"	6	Sanskrit	Devanagari	Complete. From ब्रह्माण्डपुराण.	
 SDPB0247	Purana	ललितादेवीरहस्यसहस्रनामस्तोत्र							9.5"x5.9"	23	Sanskrit	Devanagari	Complete. From ब्रह्माण्डपुराण.	
-SDPB0248	Stotra	देवीस्तुति (शीलप्रिया?)							9.2"x4.1"	2	Sanskrit	Devanagari	Complete.	Check the name of Devi. It seems odd.
+SDPB0248	Stotra	देवीस्तुति (शिवप्रिया?)							9.2"x4.1"	2	Sanskrit	Devanagari	Complete.	Check the name of Devi. It seems odd.
 SDPB0249	Tantra	सौभाग्यरत्नाकर	श्रीविद्यानन्दनाथ	जीवराम पण्ड्या		V.S. 1920	प्रयाग		10.2"x4.6"	18+311=329	Sanskrit	Devanagari	Complete.	
 SDPB0250	Tantra Ritual	सिद्धिभैरवमन्त्रविधि, अन्यविधयः							11.1"x4.1"	6	Sanskrit	Devanagari	Complete. Rituals about सिद्धिभैरवमन्त्र and others.	
 SDPB0251	Tantra	श्रीचक्र							9.8"x5.8"	2	Sanskrit	Devanagari	Complete. श्रीचक्र, its figure and ritual.	

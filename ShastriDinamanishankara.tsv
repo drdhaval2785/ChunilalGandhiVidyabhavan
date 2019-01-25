@@ -7,7 +7,7 @@ SDPB0005	Dharmashastra	भगवन्तभास्कर (आचारमय�
 SDPB0006	Dharmashastra	भगवन्तभास्कर (प्रायश्चित्तमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				12.5"x5.5"	106+4 of contents	Sanskrit	Devanagari	Folio no. 48 is missing.	
 SDPB0007	Dharmashastra	भगवन्तभास्कर (उत्सर्गमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.5"x5"	14	Sanskrit	Devanagari	Complete.	
 SDPB0008	Dharmashastra	भगवन्तभास्कर (श्राद्धमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.3"x5.3"	113	Sanskrit	Devanagari	Complete.	
-SDPB0009	Dharmashastra	संस्कारमयूख	सिद्धेश्वर		V.S. 1726				11.5:x5.1"	113	Sanskrit	Devanagari	Complete.	
+SDPB0009	Dharmashastra	संस्कारमयूख	सिद्धेश्वर		V.S. 1726				11.5"x5.1"	113	Sanskrit	Devanagari	Complete.	
 SDPB0010	Dharmashastra	भगवन्तभास्कर (शुद्धिमयूख)	नीलकण्ठ भट्ट		A.D. 1640 circa				11"x5.3"	27	Sanskrit	Devanagari	Complete.	
 SDPB0011	Dharmashastra	भगवन्तभास्कर (अनुक्रमणिका)	नीलकण्ठ भट्ट		A.D. 1640 circa				11.5"x5"	53	Sanskrit	Devanagari	Incomplete. Folio 47 and some folios have torn edges; slightly damaging the text.	
 SDPB0012	Dharmashastra	कृत्यरत्नावली	रामचन्द्र तत्सत् भट्ट		A.D 1648				11.2"x5.2"	67	Sanskrit	Devanagari	Complete.	
@@ -79,7 +79,7 @@ SDPB0072	Tantra	नामपारायण				V.S. 1745			9.2"x4.2"	3	Sanskrit	
 SDPB0073	Tantra	मन्त्रपारायण		योगिन् भट्ट		V.S. 1743			9.2"x4.2"	2	Sanskrit	Devanagari	Complete.	
 SDPB0074	Tantra Ritual	त्रिपुरसुन्दर्याः प्रातःकृत्यविधि							8.5"x3.9"	9	Sanskrit	Devanagari	Incomplete. Ends abruptly.	
 SDPB0075	Tantra	गोपालसहस्रनामस्तोत्र		रामचन्द्र		V.S. 1827			8.2"x4.2"	10	Sanskrit	Devanagari	Incomplete. Folio 1 is missing. Begins abruptly.	
-SDPB0076	Tantra	गुरुकवचस्तोत्रमन्त्र							7.5:x4.1"	7	Sanskrit	Devanagari	Complete.	
+SDPB0076	Tantra	गुरुकवचस्तोत्रमन्त्र							7.5"x4.1"	7	Sanskrit	Devanagari	Complete.	
 SDPB0077	Tantra	a. हनुमत्पद्धति, b. हनुमत्स्तोत्र		माहावजी		V.S. 1592			9"x4"	12	Sanskrit	Devanagari	Complete.	
 SDPB0078	Lexicography	मातृकानिघण्टु	महीदास			V.S. 1804		सुरत	7.8"x4.7"	6	Sanskrit	Devanagari	Complete.	Author name changed from महिदास to महीदास.
 SDPB0079	Tantra	महात्रिपुरसुन्दरीमन्त्र							9"x4.1"	1	Sanskrit	Devanagari	Complete.	
@@ -251,7 +251,7 @@ SDPB0240	Veda	माधवीयवेदार्थप्रकाश (कन�
 SDPB0241A	Purana Ritual	शिवलिङ्गप्रतिष्ठा							11.8"x6.7"	6	Sanskrit	Devanagari	Complete.	There are two subjects i.e. Purana Ritual and Tantra Ritual. So kept two separate entries.
 SDPB0241B	Tantra Ritual	पञ्चाक्षरमन्त्र							11.8"x6.7"	6	Sanskrit	Devanagari	Complete.	There are two subjects i.e. Purana Ritual and Tantra Ritual. So kept two separate entries.
 SDPB0242	Tantra Ritual	रुद्रविधान							11.7"x6.2"	5	Sanskrit	Devanagari	Complete.	
-SDPB0243	Tantra Ritual	महारुद्रविधि							11.8"x6,7"	27	Sanskrit	Devanagari	Complete.	
+SDPB0243	Tantra Ritual	महारुद्रविधि							11.8"x6.7"	27	Sanskrit	Devanagari	Complete.	
 SDPB0244	Tantra Ritual	शतचण्डीविधान				V.S. 1796		सूरत	11.8"x6.7"	16	Sanskrit	Devanagari	Complete.	
 SDPB0245	Purana	गणेशसहस्रनाम				V.S. 1796		सूरत	11.8"x6.8"	6	Sanskrit	Devanagari	Complete. From गणेशपुराण.	
 SDPB0246	Purana	नाम्नां शतत्रय							9.8"x5.4"	6	Sanskrit	Devanagari	Complete. From ब्रह्माण्डपुराण.	

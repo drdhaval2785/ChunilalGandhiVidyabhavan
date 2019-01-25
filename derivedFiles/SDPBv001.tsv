@@ -464,7 +464,7 @@ SDPB0438	Stotra	शुद्धमातृकान्यास							5.8"x3.3"
 SDPB0439	Stotra	रुद्रजल्पसङ्कल्प		नारायण					5"x2.9"	30	Sanskrit	Devanagari		
 SDPB0440	Stotra	सन्ध्यामन्त्राः							6.3"x2.1"	2	Sanskrit	Devanagari		
 SDPB0441	Purana	रुद्रजप		पण्ड्या मीढाकरणजी		V.S. 1776			6"x4"	45	Sanskrit	Devanagari		
-SDPB0442	Purana	शिवसङ्कल्पहृदय, आत्मरक्षा							6.3"x3.6"	2	Sanskrit	Devanagari		Check whether they are separate works or one only.
+SDPB0442	Purana	शिवसङ्कल्पहृदय, आत्मरक्षा							6.3"x3.6"	2	Sanskrit	Devanagari		
 SDPB0443	Vedic Literature	आपस्तम्बीय पवमानानुवाक							6.6"x4.1"	2	Sanskrit	Devanagari		
 SDPB0444	Dharmashastra	महालयश्राद्ध							6"x4.2"	31	Sanskrit	Devanagari		
 SDPB0445	Dharmashastra	श्राद्धविषये धर्मविधान							6"x4.2"	3	Sanskrit	Devanagari		
@@ -573,8 +573,8 @@ SDPB0547	Grammar	काशिकावृत्ति	वामन						9.3"x4.2
 SDPB0548	Grammar	काशिकावृत्ति	वामन			V.S. 1744			9.3"x4.2"	19	Sanskrit	Devanagari	Folios 5-23 only.	
 SDPB0549	Grammar	काशिकाविवरणपञ्जिका	जिनेन्द्रबुद्धिपाद	जीवन भट्ट		V.S. 1746			9.5"x4.2"	41	Sanskrit	Devanagari		
 SDPB0550	Grammar	काशिकावृत्ति	वामन						9.3"x4.2"	10	Sanskrit	Devanagari		
-SDPB0550A	Kavya	राजप्रशंसास्तबक	वंशीधर मिश्र	बुद्धिशर्मन् मिश्र		V.S.1727				10	Sanskrit	Devanagari		This work seems to be of from a different collection. Slips is of different type.
-SDPB0551														The work is not scanned.
+SDPB0550A	Kavya	राजप्रशंसास्तबक	वंशीधर मिश्र	बुद्धिशर्मन् मिश्र		V.S.1727			8.4"x4.8"	10	Sanskrit	Devanagari		This work seems to be of from a different collection. Slips is of different type.
+SDPB0551	Grammar	काशिकाविवरणपञ्जिका	जिनेन्द्रबुद्धिपाद	जीवन भट्ट		V.S. 1748			9.5"x4.2"	22	Sanskrit	Devanagari	Folios 4 to 22 only. Begins abruptly.	The work is not scanned.
 SDPB0552	Purana Ritual	ऋषिपञ्चमीव्रत							9.3"x4.1"	10	Sanskrit	Devanagari	Incomplete.	
 SDPB0553	Tantra Ritual	a. सप्तशत्यङ्गकवचविवरण, b. अर्गलाविवरण, c. कीलकविवरण	नीलकण्ठ भट्ट						7.7."x4.8"	39	Sanskrit	Devanagari		
 SDPB0554	Vedic Ritual	दर्शपौर्णमास्यप्रयोग		भट्ट होशिङ्ग					9.6"x4"	4	Sanskrit	Devanagari		
@@ -809,7 +809,7 @@ SDPB0782	Stotra	विष्णुसहस्रनामभाष्य	शङ
 SDPB0783	Architecture	वास्तुप्रयोग							6.6"x4"	6	Sanskrit	Devanagari		
 SDPB0784	Stotra	रामरक्षास्तोत्र				V.S. 1828			5.1"x3.1"	13	Sanskrit	Devanagari		
 SDPB0785	Tantra Ritual	शतचण्डीविधान							8.8"x4.4"	12	Sanskrit	Devanagari	Ends abruptly.	
-SDPB0786	Tantra Ritual	पद्मकुण्डप्रकार (कुण्डतत्त्वप्रदीपोक्त)									Sanskrit	Devanagari	Manuscript 786 starts abruptly. 	In manuscript 786, there is data of 12 folios of 785. Thereafter it starts the correct data of 786. Need to check from manuscript.
+SDPB0786	Tantra Ritual	पद्मकुण्डप्रकार (कुण्डतत्त्वप्रदीपोक्त)							9.8"x4.6"	29	Sanskrit	Devanagari		In manuscript 786, there is data of 12 folios of 785. Thereafter it starts the correct data of 786 from folio 13.
 SDPB0787	Tantra Ritual	नवार्णवमन्त्रपद्धति				V.S. 1873			10"x4.4"	43	Sanskrit	Devanagari	Folio 35 is missing.	
 SDPB0788	Dharmashastra	मदनपारिजात (८ स्तबक)	विश्वेश्वर						10.6"x6"	23	Sanskrit	Devanagari	Folios 288-311 only. Begins and ends abruptly.	Scanned images wrongly kept in 988 folder.
 SDPB0789	Purana Ritual	उद्यापनविधि							6.5"x3.7"	10	Sanskrit	Devanagari	Folios 35 and 42 are missing.	
@@ -852,7 +852,7 @@ SDPB0825	Rhetorics	अलङ्कारग्रन्थ							6.6"x4.1"	26	Sa
 SDPB0826	Tantra Ritual	वाक्वादिनीमन्त्रादिजपविधि							20"x6"	1	Sanskrit	Devanagari		
 SDPB0827	Tantra Ritual	त्रिपुरसुन्दरीपूजापद्धति	नित्यानन्दनाथ			V.S. 1814			6.2"x3.4"	65	Sanskrit	Devanagari		
 SDPB0828	Purana Ritual	महालिङ्गोद्यापनविधि							5.9"x4"	8	Sanskrit	Devanagari		
-SDPB0829	Stotra	पूजनस्तव	शङ्कराचार्य			V.S. 1718			7"x4"	17	Sanskrit	Devanagari		Scanned images wrongly kept in 929 folder.
+SDPB0829	Stotra	पूजनस्तव	शङ्कराचार्य			V.S. 1718			7"x4"	17	Sanskrit	Devanagari		There is misnumbeing. Information slip mentions 929 and the exterior slip says 829. It seems that there is no manuscript number 929. Therefore that part is kept blank.
 SDPB0830	Purana	श्रीमद्भागवत (११ स्कन्ध)							11.6"x5.3"	101	Sanskrit	Devanagari	Ends abruptly.	
 SDPB0831	Purana	श्रीमद्भागवत (१२ स्कन्ध)				V.S. 1719			11.1"x4.8"	91	Sanskrit	Devanagari		
 SDPB0832	Purana	श्रीमद्भागवत (८ स्कन्ध)							11"x5"	111	Sanskrit	Devanagari		
@@ -910,7 +910,7 @@ SDPB0883	Tantra Ritual	बटुकभैरवपञ्जर		कमलाश�
 SDPB0884	Nataka	मुद्राराक्षस	विशाखदत्त						11"x4.8"	41	Sanskrit	Devanagari	Folio 1 is missing. Begins abruptly.	
 SDPB0885	Purana Ritual	पार्थिवलिङ्गोद्यापन							5.8"x4.2"	3	Sanskrit	Devanagari		
 SDPB0886	Grammar	वैयाकरणभूषणसार	कोण्ड भट्ट			V.S. 1821			9.9"x4.5"	37	Sanskrit	Devanagari		
-SDPB0887														Not scanned.
+SDPB0887	Stotra	शिवानन्दलहरी							6"x3.7"	32	Sanskrit	Devanagari		Not scanned.
 SDPB0888	Nataka	मालतीमाधव सटीक	जगद्धर						8"x4.2"	3	Sanskrit	Devanagari	Ends abruptly.	
 SDPB0889	Purana	a. रामगीता (५ सर्ग), b. रामगीता (५ अध्याय)		दामोदर		V.S. 1650			9.6"x3.4"	18	Sanskrit	Devanagari		
 SDPB0890	Tantra Ritual	त्रियम्बकपूजाविधि							7.5"x4.2"	2	Sanskrit	Devanagari		
@@ -952,7 +952,7 @@ SDPB0925	Stotra	मानसस्नानस्तोत्र							5.4"x3.1"
 SDPB0926	Vedic Ritual	परापूजा							5.4"x3.4"	6	Sanskrit	Devanagari	Folios 1-2 are missing. Begins abruptly.	
 SDPB0927	Stotra	शीतलास्तोत्र		जीवराम		V.S. 1823			6.5"x4.2"	4	Sanskrit	Devanagari		
 SDPB0928	Stotra	ललितास्तवराज (९ अध्याय)		विद्याराम रावल					7.7"x3.8"	2	Sanskrit	Devanagari		
-SDPB0929											Sanskrit	Devanagari		Not scanned.
+SDPB0929														After 17 folios of manuscript 829, there are folios 19 to 175 of श्रीमद्भागवत सप्तम स्कन्ध in scanned data. Unable to find physical copy threof. Also see observatoins in manuscript no. 829. 
 SDPB0930	Stotra	सिद्धसारस्वत	शकलागमाचार्य	रामशङ्कर मायाशङ्कर		V.S. 1864		अहमदाबाद	5.3"x3.7"	15	Sanskrit	Devanagari		
 SDPB0931	Stotra	पञ्चरत्नस्तोत्र	शङ्कराचार्य						5.8"x3.4"	1	Sanskrit	Devanagari		
 SDPB0932	Stotra	गङ्गासहस्रनाम		शिवदेव दवे		V.S. 1829			6.6"x3.9"	35	Sanskrit	Devanagari		

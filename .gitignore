@@ -4,3 +4,5 @@ scannedBooks/*
 scripts/__pycache__/*
 letters/*
 catalogueXlsx/*.pdf
+catalogueXlsx/~*
+
